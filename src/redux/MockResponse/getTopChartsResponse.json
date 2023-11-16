@@ -357,78 +357,6 @@
   {
     "layout": "5",
     "type": "MUSIC",
-    "key": "577983490",
-    "title": "abcdefu",
-    "subtitle": "GAYLE",
-    "share": {
-      "subject": "abcdefu - GAYLE",
-      "text": "I used Shazam to discover abcdefu by GAYLE.",
-      "href": "https://www.shazam.com/track/577983490/abcdefu",
-      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/400x400cc.jpg",
-      "twitter": "I used @Shazam to discover abcdefu by GAYLE.",
-      "html": "https://www.shazam.com/snippets/email-share/577983490?lang=en-US&country=US",
-      "snapchat": "https://www.shazam.com/partner/sc/track/577983490"
-    },
-    "images": {
-      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/400x400cc.jpg",
-      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/400x400cc.jpg",
-      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/400x400cc.jpg",
-      "joecolor": "b:000000p:fefefes:e6e0dct:cbcbcbq:b8b3b0"
-    },
-    "hub": {
-      "type": "APPLEMUSIC",
-      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
-      "actions": [
-        {
-          "name": "apple",
-          "type": "applemusicplay",
-          "id": "1576949673"
-        },
-        {
-          "name": "apple",
-          "type": "uri",
-          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/c3/82/99c382f8-36b3-a6d4-4d54-0f69b4a03110/mzaf_11541366159516399923.plus.aac.ep.m4a"
-        }
-      ],
-      "options": [
-        {
-          "caption": "OPEN",
-          "actions": [
-            {
-              "name": "hub:applemusic:deeplink",
-              "type": "applemusicopen",
-              "uri": "https://music.apple.com/us/album/abcdefu/1576949671?i=1576949673&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
-            },
-            {
-              "name": "hub:applemusic:deeplink",
-              "type": "uri",
-              "uri": "https://music.apple.com/us/album/abcdefu/1576949671?i=1576949673&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
-            }
-          ],
-          "beacondata": {
-            "type": "open",
-            "providername": "applemusic"
-          },
-          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
-          "type": "open",
-          "listcaption": "Open in Apple Music",
-          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
-          "colouroverflowimage": false,
-          "providername": "applemusic"
-        }
-      ],
-      "explicit": true,
-      "displayname": "APPLE MUSIC"
-    },
-    "url": "https://www.shazam.com/track/577983490/abcdefu",
-    "highlightsurls": {
-      "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/US/web/highlights/1581390160?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
-    },
-    "properties": {}
-  },
-  {
-    "layout": "5",
-    "type": "MUSIC",
     "key": "599842025",
     "title": "Ameno Amapiano Remix (You Wanna Bamba) [Mixed]",
     "subtitle": "Nektunez & Goya Menor",
@@ -1702,6 +1630,78 @@
     "highlightsurls": {
       "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en-US/US/web/532997/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web",
       "relatedhighlightsurl": "https://cdn.shazam.com/video/v3/en-US/US/web/30796/artist-similarities-id-30796/relatedhighlights?max_artists=5&affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "577983490",
+    "title": "abcdefu",
+    "subtitle": "GAYLE",
+    "share": {
+      "subject": "abcdefu - GAYLE",
+      "text": "I used Shazam to discover abcdefu by GAYLE.",
+      "href": "https://www.shazam.com/track/577983490/abcdefu",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover abcdefu by GAYLE.",
+      "html": "https://www.shazam.com/snippets/email-share/577983490?lang=en-US&country=US",
+      "snapchat": "https://www.shazam.com/partner/sc/track/577983490"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/400x400cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/400x400cc.jpg",
+      "joecolor": "b:000000p:fefefes:e6e0dct:cbcbcbq:b8b3b0"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1576949673"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/99/c3/82/99c382f8-36b3-a6d4-4d54-0f69b4a03110/mzaf_11541366159516399923.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/us/album/abcdefu/1576949671?i=1576949673&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/us/album/abcdefu/1576949671?i=1576949673&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "url": "https://www.shazam.com/track/577983490/abcdefu",
+    "highlightsurls": {
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/en-US/US/web/highlights/1581390160?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
     },
     "properties": {}
   }
