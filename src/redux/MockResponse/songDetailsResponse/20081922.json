@@ -1,0 +1,269 @@
+{
+  "layout": "5",
+  "type": "MUSIC",
+  "key": "20081922",
+  "title": "In da Club",
+  "subtitle": "50 Cent",
+  "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/e0/40/f8/e040f81e-0778-2221-ba15-33fca4ff3827/mzl.okdyshbj.jpg/800x800cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/400x400cc.jpg",
+    "joecolor": "b:a92928p:f6f7f1s:f6ebd4t:e7cec9q:e7c4b2"
+  },
+  "share": {
+    "subject": "In da Club - 50 Cent",
+    "text": "In da Club by 50 Cent",
+    "href": "https://www.shazam.com/track/20081922/in-da-club",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover In da Club by 50 Cent.",
+    "html": "https://www.shazam.com/snippets/email-share/20081922?lang=en-US&country=US",
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/e0/40/f8/e040f81e-0778-2221-ba15-33fca4ff3827/mzl.okdyshbj.jpg/800x800cc.jpg",
+    "snapchat": "https://www.shazam.com/partner/sc/track/20081922"
+  },
+  "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+    "actions": [
+      {
+        "name": "apple",
+        "type": "applemusicplay",
+        "id": "1440907550"
+      },
+      {
+        "name": "apple",
+        "type": "uri",
+        "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/15/89/7e/15897ea5-b0a0-4c1f-3f64-559533df42b1/mzaf_5454882482583606655.plus.aac.ep.m4a"
+      }
+    ],
+    "options": [
+      {
+        "caption": "OPEN",
+        "actions": [
+          {
+            "name": "hub:applemusic:deeplink",
+            "type": "applemusicopen",
+            "uri": "https://music.apple.com/us/album/in-da-club/1440907378?i=1440907550&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+          },
+          {
+            "name": "hub:applemusic:deeplink",
+            "type": "uri",
+            "uri": "https://music.apple.com/us/album/in-da-club/1440907378?i=1440907550&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+          }
+        ],
+        "beacondata": {
+          "type": "open",
+          "providername": "applemusic"
+        },
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+        "type": "open",
+        "listcaption": "Open in Apple Music",
+        "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+        "colouroverflowimage": false,
+        "providername": "applemusic"
+      },
+      {
+        "caption": "BUY",
+        "actions": [
+          {
+            "type": "uri",
+            "uri": "https://itunes.apple.com/us/album/in-da-club/1440907378?i=1440907550&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+          }
+        ],
+        "beacondata": {
+          "type": "buy",
+          "providername": "itunes"
+        },
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+        "type": "buy",
+        "listcaption": "Buy on iTunes",
+        "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+        "colouroverflowimage": false,
+        "providername": "itunes"
+      }
+    ],
+    "providers": [
+      {
+        "caption": "Open in Spotify",
+        "images": {
+          "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+          "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+        },
+        "actions": [
+          {
+            "name": "hub:spotify:searchdeeplink",
+            "type": "uri",
+            "uri": "spotify:search:In%20da%20Club%2050%20Cent"
+          }
+        ],
+        "type": "SPOTIFY"
+      },
+      {
+        "caption": "Open in Deezer",
+        "images": {
+          "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+          "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+        },
+        "actions": [
+          {
+            "name": "hub:deezer:searchdeeplink",
+            "type": "uri",
+            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27In+da+Club%27%20artist%3A%2750+Cent%27%7D"
+          }
+        ],
+        "type": "DEEZER"
+      }
+    ],
+    "explicit": false,
+    "displayname": "APPLE MUSIC"
+  },
+  "url": "https://www.shazam.com/track/20081922/in-da-club",
+  "artists": [
+    {
+      "id": "42",
+      "adamid": "112058"
+    }
+  ],
+  "isrc": "USIR10300034",
+  "genres": {
+    "primary": "Hip-Hop/Rap"
+  },
+  "urlparams": {
+    "{tracktitle}": "In+da+Club",
+    "{trackartist}": "50+Cent"
+  },
+  "myshazam": {
+    "apple": {
+      "actions": [
+        {
+          "name": "myshazam:apple",
+          "type": "uri",
+          "uri": "https://music.apple.com/us/album/in-da-club/1440907378?i=1440907550&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+        }
+      ]
+    }
+  },
+  "albumadamid": "1440907378",
+  "sections": [
+    {
+      "type": "SONG",
+      "metapages": [
+        {
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/e0/40/f8/e040f81e-0778-2221-ba15-33fca4ff3827/mzl.okdyshbj.jpg/800x800cc.jpg",
+          "caption": "50 Cent"
+        },
+        {
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/400x400cc.jpg",
+          "caption": "In da Club"
+        }
+      ],
+      "tabname": "Song",
+      "metadata": [
+        {
+          "title": "Album",
+          "text": "Get Rich or Die Tryin' (Bonus Track Version)"
+        },
+        {
+          "title": "Label",
+          "text": "Shady Records"
+        },
+        {
+          "title": "Released",
+          "text": "2003"
+        }
+      ]
+    },
+    {
+      "type": "LYRICS",
+      "text": [
+        "Go, go, go, go, go, go",
+        "Go, shorty, it's your birthday",
+        "We gon' party like it's your birthday",
+        "We gon' sip Bacardi like it's your birthday",
+        "And you know we don't give a fuck it's not your birthday",
+        "",
+        "You can find me in the club, bottle full of bub'",
+        "Look, mami, I got the X if you into takin' drugs",
+        "I'm into havin' sex, I ain't into makin' love",
+        "So come give me a hug, if you into getting rubbed",
+        "",
+        "You can find me in the club, bottle full of bub'",
+        "Look, mami, I got the X if you into takin' drugs",
+        "I'm into havin' sex, I ain't into makin' love",
+        "So come give me a hug, if you into getting rubbed",
+        "",
+        "When I pull up out front, you see the Benz on dubs (uh-huh)",
+        "When I roll 20 deep, it's 20 nines in the club (yeah)",
+        "Niggas heard I fuck with Dre, now they wanna show me love",
+        "When you sell like Eminem, then the hoes, they wanna fuck (woo)",
+        "Look homie, ain't nothin' changed, hoes down, G's up",
+        "I see Xzibit in the cut, hey, nigga, roll that weed up (roll that)",
+        "If you watch how I move, you'll mistake me for a player or pimp",
+        "Been hit with a few shells, but I don't walk with a limp (I'm a'ight)",
+        "",
+        "In the hood in L.A., they sayin', \"50, you hot\" (uh-huh)",
+        "They like me, I want 'em to love me like they love Pac",
+        "But holla in New York, the niggas'll tell you I'm loco (yeah)",
+        "And the plan is to put the rap game in a chokehold (uh-huh)",
+        "I'm fully focused, man, my money on my mind",
+        "Got a mil' out the deal, and I'm still on the grind (woo)",
+        "Now shawty said she feelin' my style, she feelin' my flow (uh-huh)",
+        "Her girlfriend with her, they bi and they ready to go (okay)",
+        "",
+        "You can find me in the club, bottle full of bub'",
+        "Look, mami, I got the X if you into takin' drugs",
+        "I'm into havin' sex, I ain't into makin' love",
+        "So come give me a hug, if you into getting rubbed",
+        "",
+        "You can find me in the club, bottle full of bub'",
+        "Look, mami, I got the X if you into takin' drugs",
+        "I'm into havin' sex I, ain't into makin' love",
+        "So come give me a hug, if you into getting rubbed (rubbed)",
+        "",
+        "My flow, my show brought me the dough",
+        "That bought me all my fancy things",
+        "My crib, my cars, my clothes, my jewels",
+        "Look, nigga, I done came up and I ain't changed (what? What? Yeah)",
+        "",
+        "And you should love it, way more then you hate it",
+        "Nigga, you mad? I thought that you'd be happy I made it (woo)",
+        "I'm that cat by the bar toasting to the good life",
+        "You that faggot-ass nigga trying to pull me back, right?",
+        "",
+        "When my jaws get to bumpin' in the club, it's on",
+        "I wink my eye at you, bitch, if she smiles, she gone",
+        "If the roof on fire, let the motherfucker burn",
+        "If the talk ain't 'bout money, homie, I ain't concerned",
+        "",
+        "I'ma tell you what Banks told me, \"Cuz, go 'head switch the style up",
+        "If the niggas hate then let 'em hate and watch the money pile up\"",
+        "Or we can go upside your head wit' a bottle of bub'",
+        "They know where we fuckin' be",
+        "",
+        "You can find me in the club, bottle full of bub'",
+        "Look, mami, I got the X if you into takin' drugs",
+        "I'm into havin' sex, I ain't into makin' love",
+        "So come give me a hug, if you into getting rubbed",
+        "",
+        "You can find me in the club, bottle full of bub'",
+        "Look, mami, I got the X if you into takin' drugs",
+        "I'm into havin' sex, I ain't into makin' love",
+        "So come give me a hug, if you into getting rubbed (hahaha)",
+        "",
+        "Don't try to act like you don't know where we be neither, nigga",
+        "We in the club all the time, nigga, so pop, pop off, nigga",
+        "G-Unit"
+      ],
+      "footer": "Writer(s): Michael Elizondo, Andre Young, Curtis Jackson\nLyrics powered by www.musixmatch.com",
+      "tabname": "Lyrics",
+      "beacondata": {
+        "lyricsid": "32933942",
+        "providername": "musixmatch",
+        "commontrackid": "1082059"
+      }
+    },
+    {
+      "type": "RELATED",
+      "tabname": "Related"
+    }
+  ]
+}

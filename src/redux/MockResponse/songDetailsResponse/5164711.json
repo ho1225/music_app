@@ -1,0 +1,326 @@
+{
+  "layout": "5",
+  "type": "MUSIC",
+  "key": "5164711",
+  "title": "Family Affair",
+  "subtitle": "Mary J. Blige",
+  "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/d1/12/08/d112086d-11a4-ebc2-f21a-419346306a59/mzl.qkqsfmpx.jpg/800x800cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/9f/34/569f3460-d673-5bc0-b514-a0041fb3d3ee/06UMGIM00908.rgb.jpg/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/9f/34/569f3460-d673-5bc0-b514-a0041fb3d3ee/06UMGIM00908.rgb.jpg/400x400cc.jpg",
+    "joecolor": "b:131919p:c1d0d3s:db9b4at:9eabaeq:b38140"
+  },
+  "share": {
+    "subject": "Family Affair - Mary J. Blige",
+    "text": "Family Affair by Mary J. Blige",
+    "href": "https://www.shazam.com/track/5164711/family-affair",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/9f/34/569f3460-d673-5bc0-b514-a0041fb3d3ee/06UMGIM00908.rgb.jpg/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover Family Affair by Mary J. Blige.",
+    "html": "https://www.shazam.com/snippets/email-share/5164711?lang=en-US&country=US",
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/d1/12/08/d112086d-11a4-ebc2-f21a-419346306a59/mzl.qkqsfmpx.jpg/800x800cc.jpg",
+    "snapchat": "https://www.shazam.com/partner/sc/track/5164711"
+  },
+  "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+    "actions": [
+      {
+        "name": "apple",
+        "type": "applemusicplay",
+        "id": "1440817530"
+      },
+      {
+        "name": "apple",
+        "type": "uri",
+        "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0c/70/ec/0c70ec2c-bc1c-5569-ebd5-c0f116cc8dca/mzaf_16481533864248117887.plus.aac.ep.m4a"
+      }
+    ],
+    "options": [
+      {
+        "caption": "OPEN",
+        "actions": [
+          {
+            "name": "hub:applemusic:deeplink",
+            "type": "applemusicopen",
+            "uri": "https://music.apple.com/us/album/family-affair/1440817211?i=1440817530&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+          },
+          {
+            "name": "hub:applemusic:deeplink",
+            "type": "uri",
+            "uri": "https://music.apple.com/us/album/family-affair/1440817211?i=1440817530&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+          }
+        ],
+        "beacondata": {
+          "type": "open",
+          "providername": "applemusic"
+        },
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+        "type": "open",
+        "listcaption": "Open in Apple Music",
+        "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+        "colouroverflowimage": false,
+        "providername": "applemusic"
+      },
+      {
+        "caption": "BUY",
+        "actions": [
+          {
+            "type": "uri",
+            "uri": "https://itunes.apple.com/us/album/family-affair/1440817211?i=1440817530&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+          }
+        ],
+        "beacondata": {
+          "type": "buy",
+          "providername": "itunes"
+        },
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+        "type": "buy",
+        "listcaption": "Buy on iTunes",
+        "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+        "colouroverflowimage": false,
+        "providername": "itunes"
+      }
+    ],
+    "providers": [
+      {
+        "caption": "Open in Spotify",
+        "images": {
+          "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+          "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+        },
+        "actions": [
+          {
+            "name": "hub:spotify:searchdeeplink",
+            "type": "uri",
+            "uri": "spotify:search:Family%20Affair%20Mary%20J.%20Blige"
+          }
+        ],
+        "type": "SPOTIFY"
+      },
+      {
+        "caption": "Open in Deezer",
+        "images": {
+          "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+          "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+        },
+        "actions": [
+          {
+            "name": "hub:deezer:searchdeeplink",
+            "type": "uri",
+            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Family+Affair%27%20artist%3A%27Mary+J.+Blige%27%7D"
+          }
+        ],
+        "type": "DEEZER"
+      }
+    ],
+    "explicit": false,
+    "displayname": "APPLE MUSIC"
+  },
+  "url": "https://www.shazam.com/track/5164711/family-affair",
+  "artists": [
+    {
+      "id": "42",
+      "adamid": "1392280"
+    }
+  ],
+  "isrc": "USMC10111369",
+  "genres": {
+    "primary": "R&B/Soul"
+  },
+  "urlparams": {
+    "{tracktitle}": "Family+Affair",
+    "{trackartist}": "Mary+J.+Blige"
+  },
+  "myshazam": {
+    "apple": {
+      "actions": [
+        {
+          "name": "myshazam:apple",
+          "type": "uri",
+          "uri": "https://music.apple.com/us/album/family-affair/1440817211?i=1440817530&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+        }
+      ]
+    }
+  },
+  "albumadamid": "1440817211",
+  "sections": [
+    {
+      "type": "SONG",
+      "metapages": [
+        {
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/d1/12/08/d112086d-11a4-ebc2-f21a-419346306a59/mzl.qkqsfmpx.jpg/800x800cc.jpg",
+          "caption": "Mary J. Blige"
+        },
+        {
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/9f/34/569f3460-d673-5bc0-b514-a0041fb3d3ee/06UMGIM00908.rgb.jpg/400x400cc.jpg",
+          "caption": "Family Affair"
+        }
+      ],
+      "tabname": "Song",
+      "metadata": [
+        {
+          "title": "Album",
+          "text": "No More Drama (Version 1)"
+        },
+        {
+          "title": "Label",
+          "text": "Geffen"
+        },
+        {
+          "title": "Released",
+          "text": "2001"
+        }
+      ]
+    },
+    {
+      "type": "LYRICS",
+      "text": [
+        "Let's get it crunk upon",
+        "Have fun upon up in this dancery",
+        "We got ya'll open, now ya floatin'",
+        "So you gots to dance for me",
+        "",
+        "Don't need no hateration, holleration",
+        "In this dancery",
+        "Let's get it perculatin' while you're waiting",
+        "So just dance for me",
+        "",
+        "Come on everybody get on up",
+        "Cause you know we gots to get it crunk",
+        "Mary J. is in the spot tonight",
+        "And I'ma make you feel alright",
+        "(Make you feel alright)",
+        "Come on baby just party with me",
+        "Let loose and set your body free",
+        "Leave your situations at the door",
+        "",
+        "So when you step inside, jump on the floor",
+        "",
+        "Let's get it crunk upon",
+        "Have fun upon up In this dancery",
+        "We got ya'll open, now ya floatin'",
+        "So you gots to dance for me",
+        "Don't need no hateration, holleration",
+        "In this dancery",
+        "",
+        "Let's get it perculatin' while you're waiting",
+        "So just dance for me",
+        "",
+        "It's only gonna be about a matter of time",
+        "Before you get loose and start to lose your mind",
+        "Cop you a drink, go 'head and rock your ice",
+        "Cause we celebrating \"No More Drama\" in our life",
+        "With a Dre track pumpin', everybody's jumpin'",
+        "",
+        "Go ahead and twist your back and get your body bumpin'",
+        "I told you leave your situations at the door",
+        "So grab somebody and get your ass on the dance floor",
+        "",
+        "Let's get it crunk upon",
+        "Have fun upon up In this dancery",
+        "We got ya'll open, now ya floatin'",
+        "So you gots to dance for me",
+        "",
+        "Don't need no hateration, holleration",
+        "In this dancery",
+        "Let's get it perculatin' while you're waiting",
+        "So just dance for me",
+        "",
+        "We don't need no haters",
+        "Just tryin' to love one another",
+        "We just want y'all have a good time",
+        "\"No more drama\" in your life",
+        "",
+        "Work real hard to make a dime",
+        "If you got beef, your problem, not mine",
+        "Leave all that BS outside",
+        "We're gonna celebrate all night",
+        "Let's have fun tonight, no fights",
+        "",
+        "Turn the Dre track way up high",
+        "Making you dance all night and I",
+        "Got some real heat for ya this time",
+        "Doesn't matter if you're white or black",
+        "Let's get crunk cuz Mary's back",
+        "",
+        "Let's get it crunk upon",
+        "Have fun upon up in this dancery",
+        "We got ya'll open, now ya floatin'",
+        "So you gots to dance for me",
+        "Don't need no hateration, holleration",
+        "In this dancery",
+        "Let's get it perculatin' while you're waiting",
+        "So just dance for me",
+        "",
+        "Let's get it crunk upon",
+        "Have fun upon up in this dancery",
+        "We got ya'll open, now ya floatin'",
+        "So you gots to dance for me",
+        "Don't need no hateration, holleration",
+        "In this dancery",
+        "Let's get it perculatin' while you're waiting",
+        "So just dance for me",
+        "",
+        "Let's get it crunk upon",
+        "Have fun upon up in this dancery",
+        "We got ya'll open, now ya floatin'",
+        "So you gots to dance for me",
+        "Don't need no hateration, holleration",
+        "In this dancery",
+        "Let's get it perculatin' while you're waiting",
+        "So just dance for me",
+        "",
+        "Let's get it crunk upon",
+        "Have fun upon up in this dancery",
+        "We got ya'll open, now ya floatin'",
+        "So you gots to dance for me",
+        "Don't need no hateration, holleration",
+        "In this dancery",
+        "Let's get it perculatin' while you're waiting",
+        "So just dance for me"
+      ],
+      "footer": "Writer(s): Sylvester Stewart\nLyrics powered by www.musixmatch.com",
+      "tabname": "Lyrics",
+      "beacondata": {
+        "lyricsid": "30309505",
+        "providername": "musixmatch",
+        "commontrackid": "931574"
+      }
+    },
+    {
+      "type": "VIDEO",
+      "tabname": "Video",
+      "youtubeurl": {
+        "caption": "Mary J. Blige - Family Affair (Official Music Video)",
+        "image": {
+          "dimensions": {
+            "width": 1280,
+            "height": 720
+          },
+          "url": "https://i.ytimg.com/vi/znlFu_lemsU/maxresdefault.jpg"
+        },
+        "actions": [
+          {
+            "name": "video:youtube",
+            "type": "webview",
+            "share": {
+              "subject": "Family Affair - Mary J. Blige",
+              "text": "Family Affair by Mary J. Blige",
+              "href": "https://www.shazam.com/track/5164711/family-affair",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/9f/34/569f3460-d673-5bc0-b514-a0041fb3d3ee/06UMGIM00908.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Family Affair by Mary J. Blige.",
+              "html": "https://www.shazam.com/snippets/email-share/5164711?lang=-&country=US",
+              "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/d1/12/08/d112086d-11a4-ebc2-f21a-419346306a59/mzl.qkqsfmpx.jpg/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/5164711"
+            },
+            "uri": "https://youtu.be/znlFu_lemsU?autoplay=1"
+          }
+        ]
+      }
+    },
+    {
+      "type": "RELATED",
+      "tabname": "Related"
+    }
+  ]
+}

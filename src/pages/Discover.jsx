@@ -8,6 +8,7 @@ const Discover = () => {
   const dispatcher = useDispatch();
   const { isPlaying, activeSong } = useSelector((state) => state.player);
   const { data, isFetching, error } = useGetTopChartsQuery();
+
   const genreTitle = "Pop";
 
   if (isFetching) return <Loader title="Loading songs..." />;

@@ -1,0 +1,279 @@
+{
+  "layout": "5",
+  "type": "MUSIC",
+  "key": "599842025",
+  "title": "Ameno Amapiano Remix (You Wanna Bamba)",
+  "subtitle": "Goya Menor & Nektunez",
+  "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/3b/3f/73/3b3f73ee-572f-1ebd-1139-9403d9eccec9/f691834f-31ce-4401-be64-d6796656a011_file_cropped.png/800x800cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/d6/d9/80d6d97e-6c37-15de-d80f-c61cdfa618c6/886449838677.jpg/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/d6/d9/80d6d97e-6c37-15de-d80f-c61cdfa618c6/886449838677.jpg/400x400cc.jpg",
+    "joecolor": "b:030303p:f9f9f9s:cdcbc8t:c7c7c7q:a4a3a1"
+  },
+  "share": {
+    "subject": "Ameno Amapiano Remix (You Wanna Bamba) - Goya Menor & Nektunez",
+    "text": "Ameno Amapiano Remix (You Wanna Bamba) by Goya Menor & Nektunez",
+    "href": "https://www.shazam.com/track/599842025/ameno-amapiano-remix-you-wanna-bamba",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/d6/d9/80d6d97e-6c37-15de-d80f-c61cdfa618c6/886449838677.jpg/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover Ameno Amapiano Remix (You Wanna Bamba) by Goya Menor & Nektunez.",
+    "html": "https://www.shazam.com/snippets/email-share/599842025?lang=en-US&country=US",
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/3b/3f/73/3b3f73ee-572f-1ebd-1139-9403d9eccec9/f691834f-31ce-4401-be64-d6796656a011_file_cropped.png/800x800cc.jpg",
+    "snapchat": "https://www.shazam.com/partner/sc/track/599842025"
+  },
+  "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+    "actions": [
+      {
+        "name": "apple",
+        "type": "applemusicplay",
+        "id": "1603826298"
+      },
+      {
+        "name": "apple",
+        "type": "uri",
+        "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/65/77/34/657734a4-a02b-1318-4af6-0132b81292fe/mzaf_17018473143177010931.plus.aac.ep.m4a"
+      }
+    ],
+    "options": [
+      {
+        "caption": "OPEN",
+        "actions": [
+          {
+            "name": "hub:applemusic:deeplink",
+            "type": "applemusicopen",
+            "uri": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba/1603826293?i=1603826298&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+          },
+          {
+            "name": "hub:applemusic:deeplink",
+            "type": "uri",
+            "uri": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba/1603826293?i=1603826298&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+          }
+        ],
+        "beacondata": {
+          "type": "open",
+          "providername": "applemusic"
+        },
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+        "type": "open",
+        "listcaption": "Open in Apple Music",
+        "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+        "colouroverflowimage": false,
+        "providername": "applemusic"
+      },
+      {
+        "caption": "BUY",
+        "actions": [
+          {
+            "type": "uri",
+            "uri": "https://itunes.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba/1603826293?i=1603826298&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+          }
+        ],
+        "beacondata": {
+          "type": "buy",
+          "providername": "itunes"
+        },
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+        "type": "buy",
+        "listcaption": "Buy on iTunes",
+        "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+        "colouroverflowimage": false,
+        "providername": "itunes"
+      }
+    ],
+    "providers": [
+      {
+        "caption": "Open in Spotify",
+        "images": {
+          "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+          "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+        },
+        "actions": [
+          {
+            "name": "hub:spotify:searchdeeplink",
+            "type": "uri",
+            "uri": "spotify:search:Ameno%20Amapiano%20Remix%20%28You%20Wanna%20Bamba%29%20Goya%20Menor"
+          }
+        ],
+        "type": "SPOTIFY"
+      },
+      {
+        "caption": "Open in Deezer",
+        "images": {
+          "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+          "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+        },
+        "actions": [
+          {
+            "name": "hub:deezer:searchdeeplink",
+            "type": "uri",
+            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Ameno+Amapiano+Remix+%28You+Wanna+Bamba%29%27%20artist%3A%27Goya+Menor++Nektunez%27%7D"
+          }
+        ],
+        "type": "DEEZER"
+      }
+    ],
+    "explicit": true,
+    "displayname": "APPLE MUSIC"
+  },
+  "url": "https://www.shazam.com/track/599842025/ameno-amapiano-remix-you-wanna-bamba",
+  "artists": [
+    {
+      "id": "42",
+      "adamid": "1571948300"
+    }
+  ],
+  "isrc": "DEE862200008",
+  "urlparams": {
+    "{tracktitle}": "Ameno+Amapiano+Remix+%28You+Wanna+Bamba%29",
+    "{trackartist}": "Goya+Menor+%26+Nektunez"
+  },
+  "myshazam": {
+    "apple": {
+      "actions": [
+        {
+          "name": "myshazam:apple",
+          "type": "uri",
+          "uri": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba/1603826293?i=1603826298&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+        }
+      ]
+    }
+  },
+  "albumadamid": "1603826293",
+  "sections": [
+    {
+      "type": "SONG",
+      "metapages": [
+        {
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/3b/3f/73/3b3f73ee-572f-1ebd-1139-9403d9eccec9/f691834f-31ce-4401-be64-d6796656a011_file_cropped.png/800x800cc.jpg",
+          "caption": "Goya Menor"
+        },
+        {
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/d6/d9/80d6d97e-6c37-15de-d80f-c61cdfa618c6/886449838677.jpg/400x400cc.jpg",
+          "caption": "Ameno Amapiano Remix (You Wanna Bamba)"
+        }
+      ],
+      "tabname": "Song",
+      "metadata": [
+        {
+          "title": "Album",
+          "text": "Ameno Amapiano Remix (You Wanna Bamba) - Single"
+        },
+        {
+          "title": "Label",
+          "text": "Columbia/B1 Recordings"
+        },
+        {
+          "title": "Released",
+          "text": "2022"
+        }
+      ]
+    },
+    {
+      "type": "LYRICS",
+      "text": [
+        "It-it so easy (it's Nektunez yeah)",
+        "Hey ha!",
+        "Oya meno, ameno",
+        "Oyadepe kirin",
+        "Hekedimi yana kukirin",
+        "Let me tell them how the thing goes",
+        "How the thing goes (how the ting goes)",
+        "",
+        "(Dori me) shebi meka tamoa",
+        "(Interimo, adapare) say my pikin don go join cult (dori me)",
+        "Ha! You want to bam ba? (Ameno, ameno)",
+        "You wanna chill with the big boys (latire)",
+        "Now you dey run kiti kiti",
+        "You dey run kata kata (latiremo)",
+        "No fit drink water drop cup (dori me)",
+        "Ah, hey! Shebi you see how the thing goes",
+        "",
+        "Oma nare imperavi ameno (oya telli me who blend you?)",
+        "Dimere, dimere, mantiro (and who, and who?)",
+        "Mantire mo, ameno (alright)",
+        "(Take it easy, take it easy na expensive dey high quid)",
+        "Oma nare imperavi emu nare, ameno (okay)",
+        "Oma nare imperavi emu nare, ameno",
+        "",
+        "Ameno do re",
+        "Ameno dori me",
+        "Ameno dori me",
+        "Ameno do",
+        "Dori me rero",
+        "Ameno dori me (ameno, good evening)",
+        "Ameno dori me (okay, okay)",
+        "",
+        "Ha! This one no be zobo, no be can juice",
+        "Go school, you go school, you go dey press tools",
+        "And na the parameters set you wan dey form dew",
+        "See, even your papa no fit save you",
+        "For all the calamity wey him pikin don do",
+        "",
+        "Men, all the niggas don dey find you",
+        "Because that nigga wey you peff",
+        "Oh boy, e don puff, Ah! Eh!",
+        "Come on, let's go",
+        "",
+        "(Dori me) shebi meka tamoa",
+        "(Interimo, adapare) say my pikin don go join cult (dori me)",
+        "Ha! You want to bam ba? (Ameno, ameno)",
+        "You wanna chill with the big boys (latire)",
+        "Now you dey run kiti kiti",
+        "You dey run kata kata (latiremo)",
+        "No fit drink water drop cup (dori me)",
+        "Ah hey! Shebi you see how the thing goes",
+        "",
+        "Oma nare imperavi ameno (see how the thing goes)",
+        "Dimere, dimere, mantiro (I say telli me who blend you?)",
+        "(And who and who) mantire mo, ameno (okay)",
+        "Oma nare imperavi emu nare, ameno",
+        "Oma nare imperavi emu nare, ameno",
+        "",
+        "Ameno do re",
+        "Ameno dori me",
+        "Ameno dori me",
+        "Ameno do",
+        "Dori me rero (okay)",
+        "Ameno dori me (okay, come on, let's go)",
+        "Ameno dori me (ah, okay)",
+        "",
+        "Because you made it to the top throne",
+        "Let me see what my godfather can do",
+        "'Cause He is the father to the fatherless",
+        "A mother to the motherless",
+        "And nothing no one can do",
+        "We promised not to fight again",
+        "Not to do anything that will hurt again",
+        "'Cause if he do na him he say e go hot again",
+        "And another time you go run again, I swear, ah!",
+        "",
+        "(Dori me) shebi meka tamoa",
+        "(Interimo, adapare) say my pikin don go join cult (dori me)",
+        "Ha! You want to bam ba? (Ameno, ameno)",
+        "You wanna chill with the big boys (latire)",
+        "Na you dey run kiti kiti",
+        "You dey run kata kata (latiremo)",
+        "No fit drink water drop cup (dori me)",
+        "Ah, hey! Shebi you see how the thing goes",
+        "",
+        "Ameno, oma nare imperavi ameno",
+        "Dimere, dimere, mantiro",
+        "Mantire mo, ameno",
+        "",
+        "It-it so easy (it's Nektunez yeah)"
+      ],
+      "footer": "Writer(s): The Xt\nLyrics powered by www.musixmatch.com",
+      "tabname": "Lyrics",
+      "beacondata": {
+        "lyricsid": "27986789",
+        "providername": "musixmatch",
+        "commontrackid": "130438199"
+      }
+    },
+    {
+      "type": "RELATED",
+      "tabname": "Related"
+    }
+  ]
+}

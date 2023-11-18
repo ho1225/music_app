@@ -1,0 +1,298 @@
+{
+  "layout": "5",
+  "type": "MUSIC",
+  "key": "238942255",
+  "title": "Alright",
+  "subtitle": "Kendrick Lamar",
+  "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/ab/50/ef/ab50ef3b-c936-44f0-7b01-bb113a133547/mza_5527770582281912184.png/800x800cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/400x400cc.jpg",
+    "joecolor": "b:b7b5b6p:070605s:1e1e1dt:2a2929q:3d3c3b"
+  },
+  "share": {
+    "subject": "Alright - Kendrick Lamar",
+    "text": "Alright by Kendrick Lamar",
+    "href": "https://www.shazam.com/track/238942255/alright",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover Alright by Kendrick Lamar.",
+    "html": "https://www.shazam.com/snippets/email-share/238942255?lang=en-US&country=US",
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/ab/50/ef/ab50ef3b-c936-44f0-7b01-bb113a133547/mza_5527770582281912184.png/800x800cc.jpg",
+    "snapchat": "https://www.shazam.com/partner/sc/track/238942255"
+  },
+  "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+    "actions": [
+      {
+        "name": "apple",
+        "type": "applemusicplay",
+        "id": "1440829463"
+      },
+      {
+        "name": "apple",
+        "type": "uri",
+        "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/a2/24/73a224a8-9aa7-5a7c-e369-c06aee28da80/mzaf_17455711799408457102.plus.aac.ep.m4a"
+      }
+    ],
+    "options": [
+      {
+        "caption": "OPEN",
+        "actions": [
+          {
+            "name": "hub:applemusic:deeplink",
+            "type": "applemusicopen",
+            "uri": "https://music.apple.com/us/album/alright/1440828886?i=1440829463&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+          },
+          {
+            "name": "hub:applemusic:deeplink",
+            "type": "uri",
+            "uri": "https://music.apple.com/us/album/alright/1440828886?i=1440829463&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+          }
+        ],
+        "beacondata": {
+          "type": "open",
+          "providername": "applemusic"
+        },
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+        "type": "open",
+        "listcaption": "Open in Apple Music",
+        "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+        "colouroverflowimage": false,
+        "providername": "applemusic"
+      },
+      {
+        "caption": "BUY",
+        "actions": [
+          {
+            "type": "uri",
+            "uri": "https://itunes.apple.com/us/album/alright/1440828886?i=1440829463&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+          }
+        ],
+        "beacondata": {
+          "type": "buy",
+          "providername": "itunes"
+        },
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+        "type": "buy",
+        "listcaption": "Buy on iTunes",
+        "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+        "colouroverflowimage": false,
+        "providername": "itunes"
+      }
+    ],
+    "providers": [
+      {
+        "caption": "Open in Spotify",
+        "images": {
+          "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+          "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+        },
+        "actions": [
+          {
+            "name": "hub:spotify:searchdeeplink",
+            "type": "uri",
+            "uri": "spotify:search:Alright%20Kendrick%20Lamar"
+          }
+        ],
+        "type": "SPOTIFY"
+      },
+      {
+        "caption": "Open in Deezer",
+        "images": {
+          "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+          "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+        },
+        "actions": [
+          {
+            "name": "hub:deezer:searchdeeplink",
+            "type": "uri",
+            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Alright%27%20artist%3A%27Kendrick+Lamar%27%7D"
+          }
+        ],
+        "type": "DEEZER"
+      }
+    ],
+    "explicit": true,
+    "displayname": "APPLE MUSIC"
+  },
+  "url": "https://www.shazam.com/track/238942255/alright",
+  "artists": [
+    {
+      "id": "42",
+      "adamid": "368183298"
+    }
+  ],
+  "isrc": "USUM71502498",
+  "genres": {
+    "primary": "Hip-Hop/Rap"
+  },
+  "urlparams": {
+    "{tracktitle}": "Alright",
+    "{trackartist}": "Kendrick+Lamar"
+  },
+  "myshazam": {
+    "apple": {
+      "actions": [
+        {
+          "name": "myshazam:apple",
+          "type": "uri",
+          "uri": "https://music.apple.com/us/album/alright/1440828886?i=1440829463&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+        }
+      ]
+    }
+  },
+  "albumadamid": "1440828886",
+  "sections": [
+    {
+      "type": "SONG",
+      "metapages": [
+        {
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/ab/50/ef/ab50ef3b-c936-44f0-7b01-bb113a133547/mza_5527770582281912184.png/800x800cc.jpg",
+          "caption": "Kendrick Lamar"
+        },
+        {
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/400x400cc.jpg",
+          "caption": "Alright"
+        }
+      ],
+      "tabname": "Song",
+      "metadata": [
+        {
+          "title": "Album",
+          "text": "To Pimp a Butterfly"
+        },
+        {
+          "title": "Label",
+          "text": "Aftermath"
+        },
+        {
+          "title": "Released",
+          "text": "2015"
+        }
+      ]
+    },
+    {
+      "type": "LYRICS",
+      "text": [
+        "Alls my life I has to fight, nigga",
+        "Alls my life I...",
+        "Hard times like, \"Yah!\"",
+        "Bad trips like, \"Yah!\"",
+        "Nazareth, I'm fucked up",
+        "Homie, you fucked up",
+        "But if God got us, then we gon' be alright",
+        "",
+        "Nigga, we gon' be alright",
+        "Nigga, we gon' be alright",
+        "We gon' be alright",
+        "Do you hear me? Do you feel me? We gon' be alright",
+        "Nigga, we gon' be alright",
+        "Huh? We gon' be alright",
+        "Nigga, we gon' be alright",
+        "Do you hear me? Do you feel me? We gon' be alright",
+        "",
+        "Uh, and when I wake up",
+        "I recognize you're looking at me for the pay cut",
+        "But homicide be looking at you from the face down",
+        "What MAC-11 even boom with the bass down?",
+        "Schemin', and let me tell you 'bout my life",
+        "Painkillers only put me in the twilight",
+        "Where pretty pussy and Benjamin is the highlight",
+        "Now tell my momma I love her, but this what I like, Lord knows",
+        "",
+        "20 of 'em in my Chevy, tell 'em all to come and get me",
+        "Reaping everything I sow, so my karma comin' heavy",
+        "No preliminary hearings on my record",
+        "I'm a motherfucking gangster in silence for the record",
+        "Tell the world I know it's too late",
+        "Boys and girls, I think I gone cray",
+        "Drown inside my vices all day",
+        "Won't you please believe when I say",
+        "",
+        "Wouldn't you know",
+        "We been hurt, been down before",
+        "Nigga, when our pride was low",
+        "Lookin' at the world like, \"Where do we go?\"",
+        "Nigga, and we hate po-po",
+        "Wanna kill us dead in the street fo sho'",
+        "Nigga, I'm at the preacher's door",
+        "My knees gettin' weak, and my gun might blow",
+        "But we gon' be alright",
+        "",
+        "Nigga, we gon' be alright",
+        "Nigga, we gon' be alright",
+        "We gon' be alright",
+        "Do you hear me? Do you feel me? We gon' be alright",
+        "Nigga, we gon' be alright",
+        "Huh? We gon' be alright",
+        "Nigga, we gon' be alright",
+        "Do you hear me? Do you feel me? We gon' be alright",
+        "",
+        "What you want you, a house? You, a car?",
+        "40 acres and a mule? A piano, a guitar?",
+        "Anything, see my name is Lucy, I'm your dog",
+        "Motherfucker, you can live at the mall",
+        "I can see the evil, I can tell it, I know it's illegal",
+        "I don't think about it, I deposit every other zero",
+        "Thinking of my partner, put the candy, paint it on the Regal",
+        "Digging in my pocket, ain't a profit big enough to feed you",
+        "",
+        "Every day my logic get another dollar just to keep you",
+        "In the presence of your chico, ah!",
+        "I don't talk about it, be about it, every day I sequel",
+        "If I got it then you know you got it, Heaven, I can reach you",
+        "Pat Dawg, Pat Dawg, Pat Dawg, my dog, that's all",
+        "Bick back and Chad, I trap the bag for y'all",
+        "I rap, I black on track so rest assured",
+        "My rights, my wrongs, I write 'til I'm right with God",
+        "",
+        "Wouldn't you know",
+        "We been hurt, been down before",
+        "Nigga, when our pride was low",
+        "Lookin' at the world like, \"Where do we go?\"",
+        "Nigga, and we hate po-po",
+        "Wanna kill us dead in the street fo sho'",
+        "Nigga, I'm at the preacher's door",
+        "My knees gettin' weak, and my gun might blow",
+        "But we gon' be alright",
+        "",
+        "Nigga, we gon' be alright",
+        "Nigga, we gon' be alright",
+        "We gon' be alright",
+        "Do you hear me? Do you feel me? We gon' be alright",
+        "Nigga, we gon' be alright",
+        "Huh? We gon' be alright",
+        "Nigga, we gon' be alright",
+        "Do you hear me? Do you feel me? We gon' be alright",
+        "",
+        "I keep my head up high",
+        "I cross my heart and hope to die",
+        "Lovin' me is complicated",
+        "Too afraid, a lot of changes",
+        "I'm alright, and you're a favorite",
+        "Dark nights in my prayers",
+        "",
+        "I remembered you was conflicted",
+        "Misusing your influence, sometimes I did the same",
+        "Abusing my power, full of resentment",
+        "Resentment that turned into a deep depression",
+        "Found myself screamin' in the hotel room",
+        "I didn't wanna self-destruct",
+        "The evils of Lucy was all around me",
+        "So I went runnin' for answers"
+      ],
+      "footer": "Writer(s): Pharrell Williams, Kendrick Lamar, Kawan Prather, Mark Anthony Spears\nLyrics powered by www.musixmatch.com",
+      "tabname": "Lyrics",
+      "beacondata": {
+        "lyricsid": "22542749",
+        "providername": "musixmatch",
+        "commontrackid": "45198638"
+      }
+    },
+    {
+      "type": "RELATED",
+      "tabname": "Related"
+    }
+  ]
+}
