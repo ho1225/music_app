@@ -1,0 +1,2260 @@
+{
+  "artists": {
+    "111051": {
+      "id": "111051",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Hip-Hop/Rap"],
+        "name": "Eminem",
+        "artwork": {
+          "width": 2400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/87/8e/a0/878ea0a1-ed8d-6fd7-3567-76ab8e6529af/mzl.ayuccyos.jpg/{w}x{h}bb.jpg",
+          "height": 2400,
+          "textColor3": "b9b9b9",
+          "textColor2": "c3c3c3",
+          "textColor4": "a2a2a2",
+          "textColor1": "dfdfdf",
+          "bgColor": "202020",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/eminem/111051"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1434770366",
+              "type": "albums"
+            },
+            {
+              "id": "1495267282",
+              "type": "albums"
+            },
+            {
+              "id": "1440903530",
+              "type": "albums"
+            },
+            {
+              "id": "1545457139",
+              "type": "albums"
+            },
+            {
+              "id": "1440866782",
+              "type": "albums"
+            },
+            {
+              "id": "1446625834",
+              "type": "albums"
+            },
+            {
+              "id": "1445726870",
+              "type": "albums"
+            },
+            {
+              "id": "1452852431",
+              "type": "albums"
+            },
+            {
+              "id": "1445296975",
+              "type": "albums"
+            },
+            {
+              "id": "1440862963",
+              "type": "albums"
+            },
+            {
+              "id": "1453196979",
+              "type": "albums"
+            },
+            {
+              "id": "1517894593",
+              "type": "albums"
+            },
+            {
+              "id": "1440774246",
+              "type": "albums"
+            },
+            {
+              "id": "1637705844",
+              "type": "albums"
+            },
+            {
+              "id": "1625004609",
+              "type": "albums"
+            },
+            {
+              "id": "1495269622",
+              "type": "albums"
+            },
+            {
+              "id": "1440901083",
+              "type": "albums"
+            },
+            {
+              "id": "1440871441",
+              "type": "albums"
+            },
+            {
+              "id": "1440808275",
+              "type": "albums"
+            },
+            {
+              "id": "1440836832",
+              "type": "albums"
+            },
+            {
+              "id": "1545467359",
+              "type": "albums"
+            },
+            {
+              "id": "1434766532",
+              "type": "albums"
+            },
+            {
+              "id": "1440734121",
+              "type": "albums"
+            },
+            {
+              "id": "1440724174",
+              "type": "albums"
+            },
+            {
+              "id": "1444866555",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1440903814",
+              "type": "songs"
+            },
+            {
+              "id": "1440866926",
+              "type": "songs"
+            },
+            {
+              "id": "1495267448",
+              "type": "songs"
+            },
+            {
+              "id": "1434770508",
+              "type": "songs"
+            },
+            {
+              "id": "1440783376",
+              "type": "songs"
+            },
+            {
+              "id": "1440866795",
+              "type": "songs"
+            },
+            {
+              "id": "1444221569",
+              "type": "songs"
+            },
+            {
+              "id": "1440903693",
+              "type": "songs"
+            },
+            {
+              "id": "1443077424",
+              "type": "songs"
+            },
+            {
+              "id": "1440863086",
+              "type": "songs"
+            },
+            {
+              "id": "1452852850",
+              "type": "songs"
+            },
+            {
+              "id": "1440749503",
+              "type": "songs"
+            },
+            {
+              "id": "1517894609",
+              "type": "songs"
+            },
+            {
+              "id": "1436564051",
+              "type": "songs"
+            },
+            {
+              "id": "1517894601",
+              "type": "songs"
+            },
+            {
+              "id": "1445727316",
+              "type": "songs"
+            },
+            {
+              "id": "1471213968",
+              "type": "songs"
+            },
+            {
+              "id": "1440903794",
+              "type": "songs"
+            },
+            {
+              "id": "1440901513",
+              "type": "songs"
+            },
+            {
+              "id": "1440863108",
+              "type": "songs"
+            }
+          ]
+        },
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1698564399",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "albums": {
+    "1434766532": {
+      "id": "1434766532",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Aftermath/Shady/Interscope Records Release; ℗ 2018 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2018-08-31",
+        "upc": "00602577046421",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/c2/54/03c2540d-b9f3-9807-b429-da23cbb854a2/00602577046421.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "422d28",
+          "textColor2": "290301",
+          "textColor4": "4e2e29",
+          "textColor1": "190100",
+          "bgColor": "e4dec8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/kamikaze/1434766532",
+        "playParams": {
+          "id": "1434766532",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 13,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Kamikaze",
+        "artistName": "Eminem",
+        "contentRating": "clean",
+        "editorialNotes": {
+          "standard": "“Everybody’s been telling me what they think about me for the last few months,” Eminem says on his tenth album’s title track. “Maybe it’s time I tell them what I think about them.” Just eight months after the vulnerable <i>Revival</i>, Eminem has heard the doubts about his relevance and issues a brutal rebuttal; those doubters might feel nervous upon listening to “The Ringer,” which is Em going through receipts over an ominous beat. (Prediction: “I can see why people like Lil Yachty, but not me, though” will break Rap Twitter.) <i>Kamikaze</i> feels like 2002 again—Eminem blowing off steam and blowing up the high road, rapping angry, yet in total control. On “Not Alike,” he teams up with his old right-hand man Royce da 5'9\" to clown Auto-Tuned rappers over a trap beat reminiscent of BlocBoy JB’s Drake-featuring hit “Look Alive.” “Greatest” is a prime Shady flex, brushing off disses like crumbs (Die Antwoord gets roasted). As usual, relationships aren’t spared his rage; “Nice Guy” is a salty he said/she said featuring rising R&B star Jessie Reyez. During his freestyle cypher at the 2017 BET Hip Hop Awards, Eminem drew a line in the sand to weed out Trump supporters from his fan base. <i>Kamikaze</i> extends the challenge to his non-believers: Which side are you on?",
+          "short": "Shady punches back, and he’s naming names."
+        },
+        "isComplete": true
+      }
+    },
+    "1434770366": {
+      "id": "1434770366",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Aftermath/Shady/Interscope Records Release; ℗ 2018 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "Hardcore Rap"],
+        "releaseDate": "2018-08-31",
+        "upc": "00602577046223",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "422d28",
+          "textColor2": "290301",
+          "textColor4": "4e2e29",
+          "textColor1": "190100",
+          "bgColor": "e4dec8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/kamikaze/1434770366",
+        "playParams": {
+          "id": "1434770366",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 13,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Kamikaze",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "“Everybody’s been telling me what they think about me for the last few months,” Eminem says on \"Fall.\" “Maybe it’s time I tell them what I think about them.” Just eight months after the vulnerable <i>Revival</i>, Eminem has heard the doubts about his relevance and issues a brutal rebuttal; those doubters might feel nervous upon listening to “The Ringer,” which is Em going through receipts over an ominous beat. (Prediction: “I can see why people like Lil Yachty, but not me, though” will break Rap Twitter.) <i>Kamikaze</i> feels like 2002 again—Eminem blowing off steam and blowing up the high road, rapping angry, yet in total control. On “Not Alike,” he teams up with his old right-hand man Royce da 5'9\" to clown Auto-Tuned rappers over a trap beat reminiscent of BlocBoy JB’s Drake-featuring hit “Look Alive.” “Greatest” is a prime Shady flex, brushing off disses like crumbs (Die Antwoord gets roasted). As usual, relationships aren’t spared his rage; “Nice Guy” is a salty he said/she said featuring rising R&B star Jessie Reyez. During his freestyle cypher at the 2017 BET Hip Hop Awards, Eminem drew a line in the sand to weed out Trump supporters from his fan base. <i>Kamikaze</i> extends the challenge to his non-believers: Which side are you on?",
+          "short": "Shady punches back, and he’s naming names."
+        },
+        "isComplete": true
+      }
+    },
+    "1440724174": {
+      "id": "1440724174",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2004 Shady Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap"],
+        "releaseDate": "2004-01-01",
+        "upc": "00602498621622",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/2d/13/212d13c4-5b53-0ab3-99fb-0e3d56746b9e/00602498621622.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "ced1d1",
+          "textColor2": "dce9f9",
+          "textColor4": "b3c0cd",
+          "textColor1": "fefeff",
+          "bgColor": "101e1e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/d12-world/1440724174",
+        "playParams": {
+          "id": "1440724174",
+          "kind": "album"
+        },
+        "recordLabel": "Polydor Associated Labels",
+        "isCompilation": false,
+        "trackCount": 21,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "D12 World",
+        "contentRating": "explicit",
+        "artistName": "D12",
+        "isComplete": true
+      }
+    },
+    "1440734121": {
+      "id": "1440734121",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Rock", "Rap"],
+        "releaseDate": "2010-06-21",
+        "isMasteredForItunes": false,
+        "upc": "00602527394565",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/a6/aa/24a6aae4-10e8-25c3-0f2b-e24e784362af/00602527394565.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "22282f",
+          "textColor2": "1f201f",
+          "textColor4": "353a3d",
+          "textColor1": "07090e",
+          "bgColor": "8ea3b6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/recovery/1440734121",
+        "playParams": {
+          "id": "1440734121",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 17,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Recovery",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "<i>Recovery</i> is the first time Eminem sounded like he was in his right mind since <i>The Eminem Show</i>. It isn’t that the intervening albums weren’t good, or occasionally great. But you could hear how the pressure had caught up to him. Not only was Eminem the biggest rapper in the world, he was one of the best-selling artists in the history of recorded music—of course his perspective got a little warped. “Them last two albums didn’t count,” he raps on 2010’s <i>Recovery</i>’s “Talkin’ 2 Myself.” “<i>Encore</i>, I was on drugs; <i>Relapse</i>, I was flushin’ em out.”\n\nThe fantasy of being able to start over is just that—a fantasy. But if <i>Relapse</i> was the sound of Eminem rediscovering his mean streak, <i>Recovery</i> is the sound of him rediscovering his inspirational one, whether for himself (“Going Through Changes”), or for the tens of millions of fans betting on him (“Not Afraid”). The Rihanna-featuring “Love the Way You Lie” was one of his best ballads (not to mention proof of how much he’d reshaped what a ballad could sound like). And “Space Bound” was the most earnest love song he’d written for anyone besides his children.\n\nBut for all of Eminem’s candor about addiction and redemption, the album’s realest moment is on “Talkin’ 2 Myself,” when he admits he wanted to write diss tracks about both Kanye West and Lil Wayne, but realized he’d get his ass handed to him (his words). Rap had changed. So had he. “I fucking love leaves now, man,” he told an interviewer in 2011, explaining the way sobriety had awakened a wonder in him he’d forgotten was ever there. “I feel like I’ve been neglecting leaves for a long time.”",
+          "short": "Eminem kick-starts the 2010s by rapping his way back to the top."
+        },
+        "isComplete": true
+      }
+    },
+    "1440774246": {
+      "id": "1440774246",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2009 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "Hardcore Rap"],
+        "releaseDate": "2009-01-01",
+        "upc": "00602527307756",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ec/6f/8d/ec6f8d2c-d9a4-7a06-2eba-999c6aefa46e/00602527307756.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "333333",
+          "textColor2": "521611",
+          "textColor4": "744541",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/relapse-refill/1440774246",
+        "playParams": {
+          "id": "1440774246",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 29,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Relapse: Refill",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "The first verse on 2009’s <i>Relapse</i> starts with the line, “You’re walkin’ down a horror corridor/It’s almost four in the mornin’ and you’re in a/Nightmare, it’s horrible.” Typical Eminem scenario. But students of rap history might also hear it as a sly allusion to horrorcore, a short-lived subgenre characterized by rappers saying the most extreme, violent, and generally unpalatable stuff possible. An artist with this many murder fantasies under his belt has a high bar to clear here, and Eminem does so energetically, whether it’s the image of him playing ping-pong with his own eyeball on “Insane,” or the unprintable details of his plans for the “two brain-dead lesbian vegetables” on “Bagpipes From Bagdad.” He’s sick—sick, he tells ya!\n\nHowever ugly Eminem’s thoughts, they had nothing on real life. He later said his pill addiction had gotten so severe that, in the months following a 2007 overdose, he had to relearn how to rap the way, say, a stroke victim might have to relearn how to talk. (His manager, Paul Rosenberg, went a step further, asking doctors if he’d suffered permanent brain damage.) A grim image. But on the other hand, a strangely hopeful one: “I remember when I first got sober and all the shit was out of my system,” he told Rosenberg on a podcast several years later. “I remember just being, like, really happy. And everything was fucking new to me again.” With <i>Relapse</i>, the sweeping societal indictments and grave self-examinations were paused to make room for strangling Lindsay Lohan with an extension cord (“Same Song & Dance”) and venting yet more hatred for the mother that, according to Em, got him interested in drugs in the first place (“My Mom”). The relapse wasn’t the pills—it was Slim Shady.",
+          "short": "An extraordinary rapper gets clean and faces his demons."
+        },
+        "isComplete": true
+      }
+    },
+    "1440808275": {
+      "id": "1440808275",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2011 Shady Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "Rap",
+          "Underground Rap"
+        ],
+        "releaseDate": "2011-01-01",
+        "upc": "00602527741284",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/c5/95/ffc5951f-93c7-9079-5156-5b227d7dae0f/00602527741284.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "afb5b1",
+          "textColor2": "b0c7bf",
+          "textColor4": "8ea09b",
+          "textColor1": "d9e0dc",
+          "bgColor": "070709",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/hell-the-sequel-deluxe-edition/1440808275",
+        "playParams": {
+          "id": "1440808275",
+          "kind": "album"
+        },
+        "recordLabel": "Shady Records",
+        "isCompilation": false,
+        "trackCount": 11,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Hell: The Sequel (Deluxe Edition)",
+        "artistName": "Bad Meets Evil",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1440836832": {
+      "id": "1440836832",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2015 Shady Records/Interscope Records",
+        "genreNames": ["Soundtrack", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2015-07-24",
+        "upc": "00602547424334",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/99/9d/86999d22-fa75-92f6-715b-f739123fa3b2/15UMGIM32304.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cfcfce",
+          "textColor2": "dcdcd9",
+          "textColor4": "b5b5b2",
+          "textColor1": "fcfcfc",
+          "bgColor": "1b1a16",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/southpaw-music-from-and-inspired-by-the-motion-picture/1440836832",
+        "playParams": {
+          "id": "1440836832",
+          "kind": "album"
+        },
+        "recordLabel": "3H",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Southpaw (Music from and Inspired By the Motion Picture)",
+        "contentRating": "explicit",
+        "artistName": "Various Artists",
+        "editorialNotes": {
+          "standard": "Eminem leads the way on this hard-hitting soundtrack, with two new songs worthy of his staggering catalog—the dizzying, Gwen Stefani-assisted torrent “Kings Never Die” and the haunting title cut. Elsewhere, some of rap’s most reliable and exciting names reign supreme. While 50 Cent delivers a cold-blooded hook on “Drama Never Ends,” Action Bronson and Joey Bada$$ team up with Rico Love for the moody, rain-spackled R&B hybrid “What About the Rest of Us.” ",
+          "short": "Eminem leads the way on this hard-hitting soundtrack."
+        },
+        "isComplete": true
+      }
+    },
+    "1440862963": {
+      "id": "1440862963",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Rap"],
+        "releaseDate": "2013-01-01",
+        "upc": "00602537542703",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/d2/78/c7d2787f-5975-9263-fe47-eeebee3c892f/00602537542703.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cecec1",
+          "textColor2": "ece7db",
+          "textColor4": "bfbbb2",
+          "textColor1": "ffffee",
+          "bgColor": "0c0d0f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-marshall-mathers-lp2-deluxe/1440862963",
+        "playParams": {
+          "id": "1440862963",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 21,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "When Eminem put out the sequel to <i>The Marshall Mathers LP</i> in late 2013, he joined a small handful of rappers—including JAY-Z, Q-Tip, and the late MF DOOM—who’d managed to still sound relevant after hitting 40. Age hadn’t matured him—at least not so much that he backed off the violence, misogyny, and homophobia that made him a lightning rod 15 years earlier. But on <i>The Marshall Mathers LP 2</i>, there was a sense of awareness about his place in the culture that could be interpreted as maturity. He wasn’t a dark, twisted rapper; he was the dark, twisted rap <i>guy</i>: That was his role. So while the album’s shout-outs to Phife Dawg (“Legacy”)—as well as the old-school feel of tracks like “Berzerk” and “Survival”—could be described as nostalgia, they’re also Eminem’s way of saying that, no matter how good he is, he knows he’s just a piece in a much bigger cultural picture.\n\nBy the time <i>The Marshall Mathers LP 2</i> arrived, the tabloids and headlines that once followed Eminem were mostly gone. It was just him, his notebook, his memories, and a love for the music that made him. “They said I rap like a robot, so call me Rap-bot,” he proclaims at the top of “Rap God,” before offering five and a half of the most technically demanding minutes of his career. That’s the feat, but that’s also the joke—watch him go. Same, in a way, for something like “Legacy,” which listeners might realize squeezes five minutes of rhymes out of the same few syllables.\n\nIn an interview with Eminem, conducted a few years after <i>The Marshall Mathers LP 2</i>‘s release, a <i>New York</i> magazine writer asked the rapper what he liked to do for fun. “Aside from writing? Mostly I love writing,” he said. “Yeah, writing is something I really enjoy.” It’s hard to tell whether or not he’s kidding, but on <i>LP 2</i>, the picture still comes through clear: Here’s a guy so consumed by rap that the rest of the world basically doesn’t exist.",
+          "short": "A dark, triumphant trip down memory lane."
+        },
+        "isComplete": true
+      }
+    },
+    "1440866782": {
+      "id": "1440866782",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2000 Aftermath Entertainment/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Hip-Hop"],
+        "releaseDate": "2000-05-23",
+        "isMasteredForItunes": false,
+        "upc": "00606949062927",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "dfdede",
+          "textColor2": "e8d4cc",
+          "textColor4": "cdbdb6",
+          "textColor1": "ffffff",
+          "bgColor": "625e5e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-marshall-mathers-lp/1440866782",
+        "playParams": {
+          "id": "1440866782",
+          "kind": "album"
+        },
+        "recordLabel": "Interscope",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Marshall Mathers LP",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Getting famous must’ve felt good, but you have to imagine Eminem took special pleasure when <i>The Marshall Mathers LP</i> got called out in the US Senate not long after its release in 2000: “He talks about murdering and raping his mother. He talks about choking women slowly so he can hear their screams for a long time. He talks about using O.J.’s machete on women. And this is a man who is honored by the recording industry.”\n\nThe speaker here is Lynne Cheney, the wife of a man who, not long afterward, would become one of the country’s biggest boosters for the invasion of Iraq, and an unapologetic supporter of an “enhanced interrogation program” that would be condemned domestically and internationally as torture. Dick Cheney knew a thing or two about real-world brutality. But why go for the bigger catch when you can fry what’s right in front of you? “Now it’s too late/I’m triple platinum and tragedies happened in two states,” Eminem rapped on “Kill You,” referring to then-recent school shootings in both Colorado (Columbine) and Arkansas (Westside) before taking the responsibility people like Cheney obviously wanted him to take: “I invented violence!”\n\nBy his own admission, <i>The Marshall Mathers LP</i> was a peak. (“I will say this,” he told an interviewer in 2017, “I am forever chasing <i>The Marshall Mathers LP</i>.”) The provocations were more provocative (the ultraviolence of “Kim”), and the catchier moments among the catchiest in early-2000s pop (“The Real Slim Shady”). And if you didn’t think Eminem was capable of something as complex and empathetic as “Stan,” it’s there, and as acute in its portrayal of everyday desperation as Bruce Springsteen. That said, the album also found Eminem working against himself by using homophobic slurs to insult his detractors, and by bringing back the homophobic caricature Ken Kaniff. Such jokes diluted the bigger point Eminem wanted to make on <i>The Marshall Mathers LP</i>, which he articulates via “Who Knew”: “Don’t blame me when little Eric jumps off the terrace/you shoulda been watching him—apparently you ain’t parents.” The subtext, of course, is that little Eric is white, and that in the absence of a more easily defined scapegoat, <i>The Marshall Mathers LP</i> would do.\n\nJay-Z and Puff Daddy had helped turn hip-hop into pop, but Eminem was going beyond music entirely—the Lynne Cheney testimony, for example, took place at a hearing about the effect of violent imagery on kids in the wake of the school shootings mentioned above. “‘Wasn’t me, Slim Shady said to do it again,’” he rapped on “Who Knew,” channeling a teenage gunman. “Damn, how much damage can you do with a pen?” A year earlier, Eminem had claimed that God had sent him to piss the world off. <i>The Marshall Mathers LP</i> brought him one big step closer.",
+          "short": "A pillar of modern hip-hop."
+        },
+        "isComplete": true
+      }
+    },
+    "1440871441": {
+      "id": "1440871441",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 1999 Aftermath Entertainment/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "releaseDate": "1999-02-23",
+        "isMasteredForItunes": false,
+        "upc": "00602537439386",
+        "artwork": {
+          "width": 1455,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/3b/60/823b6012-8dd5-b74c-55d0-6a104ec91430/06UMGIM04056.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1429,
+          "textColor3": "afaebb",
+          "textColor2": "b9abd3",
+          "textColor4": "948bab",
+          "textColor1": "dbd6e8",
+          "bgColor": "000b0b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-slim-shady-lp/1440871441",
+        "playParams": {
+          "id": "1440871441",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 20,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Slim Shady LP",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Of all the complaints and concerns that greeted the 1999 release of Eminem’s <i>The Slim Shady LP</i>, the most interesting response might’ve been an editorial written by <i>Billboard</i> magazine’s then-editor-in-chief, Timothy White. The expected gripes with Eminem’s music are all there: It’s violent; it’s unrepentant; it makes money by “exploiting the world’s misery.” But White also spends a lot of time laying out statistics about domestic violence, and interviews the executive director of one of the country’s oldest domestic-violence-related agencies. “What is the message?” she asks. “What is he <i>mad</i> at?”\n\nFunny you should ask, as Eminem lists the causes of his rage throughout <i>The Slim Shady LP</i>. There’s the minimum-wage job as a grill cook (“If I Had”) and the bully who terrorized him as a kid (“Brain Damage”). There’s the mother who didn’t provide for him and the teachers who didn’t care, either (“My Name Is”). There’s the humiliation of being so poor that you can’t afford diapers for your daughter (“Rock Bottom”). And there’s Eminmen <i>himself</i>, of course (“Guilty Conscience”).\n\nBut Eminem’s rage is also driven by the hypocrisy of the culture as a whole. After all, the media has long profited off violence and the denigration of women—and yet, here were powerful scolds telling Eminem that <i>he</i> was the problem, ignoring their own complicity (“Role Model”). Asked about the editorial in an early interview, Eminem smirked and said, “I think it hit a soft spot for Timothy White.”\n\nBeing funny was one thing (though Eminem could be <i>really</i> funny). The problem with Eminem was that he was smart and wrote catchy songs—and that he had nothing to lose. He’d even bite the hand that fed him, if he thought the moral justification was there for it (he even took jabs at mentor Dr. Dre on “Guilty Conscience”). “How the fuck can I be white?” he asks at one point on <i>The Slim Shady LP</i>, “I don’t even exist.” What’s that old saying? Hurt people hurt people. <i>Slim Shady</i> was the sound of someone climbing off Dr. Phil’s Couch for Troubled Teens and grabbing America by the throat.",
+          "short": "An angry kid from Detroit changes the course of pop."
+        },
+        "isComplete": true
+      }
+    },
+    "1440901083": {
+      "id": "1440901083",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Aftermath/Shady/Interscope Records Release; ℗ 2017 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2017-12-15",
+        "upc": "00602567238225",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/a3/64/eda3642b-7a15-8482-2203-8e2535770922/00602567238225.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c39693",
+          "textColor2": "da9b92",
+          "textColor4": "b77f7a",
+          "textColor1": "eab8b2",
+          "bgColor": "290e17",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/revival/1440901083",
+        "playParams": {
+          "id": "1440901083",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 19,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Revival",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "Eminem’s music has always been characterized by the rising volume of inner voices: The angel on one shoulder and the devil on the other (“Guilty Conscience”), the childhood trauma that never found an outlet (“Cleanin’ Out My Closet”), and the almost vengeful inspiration that got him over anyway (“Lose Yourself”). Sometimes the voices could be comforting (“Hailey’s Song”), but most of the time they only made his obsessions narrower and even more claustrophobic. He could build a world out of words—but he could bury himself in them, too.\n\n“Am I lucky to be around this long?” he asks on “Walk on Water,” the opening track on 2017’s <i>Revival</i>. And while the album finds him taking on inequity and systemic racism (“Untouchable”) as well as the jingoism of the Trump presidency (“Like Home”), the underlying current on <i>Revival</i> is one of almost irresolvable self-doubt—about his choices, his qualities, his legacy, his worth. Like Hans Gruber in the not-quite-historically accurate <i>Die Hard</i>—who claims that Alexander wept upon seeing he had no more worlds to conquer—we have Em, alone in the throne room on the track “Believe,” voicing his doubts out loud: “How do you keep up the pace/And the hunger pangs once you’ve won the race?”\n\nAt the time of <i>Revival</i>’s release, Eminem said he’d enjoyed JAY-Z’s recent <i>4:44</i> for the same reasons he’d <i>always</i> enjoyed JAY-Z: the funny punch lines and the good beats. But you could also see <i>Revival</i> as a louder, angrier, Eminem-ier companion to the same midlife reflections: <i>Will I always be who I was? Was the cost of my success worth it? Can I change? Do I want to?</i> As well-worn as his addictions and his us-against-the-world bond with his daughter Hailie were as subjects for his songs, he’s never sounded as genuinely vulnerable as he does on “Castle” and “Arose.” The former is structured as three letters written over the course of Hailie’s childhood, leading up to the Christmas Eve overdose that almost cost him his life; “Arose” finds him imagining that he can rewind time and throw the pills away instead—knowing, of course, that it’s all just another daydream. Rap didn’t have precedents for an album as self-questioning, and as self-lacerating, as this one. Get to the end of <i>Revival</i>, and you come out wishing him peace.",
+          "short": "A world-conqueror looks in the mirror, and wonders what’s next."
+        },
+        "isComplete": true
+      }
+    },
+    "1440903530": {
+      "id": "1440903530",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2002 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hip-Hop", "Hardcore Rap"],
+        "releaseDate": "2002-05-26",
+        "isMasteredForItunes": false,
+        "upc": "00606949329020",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1410,
+          "textColor3": "c5c7c3",
+          "textColor2": "e5b945",
+          "textColor4": "bb973a",
+          "textColor1": "f3f5f0",
+          "bgColor": "100e11",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-eminem-show/1440903530",
+        "playParams": {
+          "id": "1440903530",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 20,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Eminem Show",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "If <i>The Slim Shady LP</i> was the start of Eminem’s journey, and <i>The Marshall Mathers LP</i> a document of the rapper’s struggle to get to the top, 2002’s <i>The Eminem Show</i> is what it sounds like when the only real fight left is the one with yourself. He’s still angry, especially when you get him started on America, which had just thrown itself into yet another war against an enemy (“terror”) it couldn’t quite define (a topic Em tackles on “White America” and “Square Dance”). But on <i>The Eminem Show</i>, he also shows he’s done some softening up, taking on the subject of parenting (“Hailie’s Song”), and addressing his moral responsibility to his audience (“Sing for the Moment”). He even apologizes to the mom he spent two albums pretending to kill, at least kind-of (“Cleanin’ Out My Closet”). “I never would’ve dreamed in a million years I’d see/So many motherfuckin’ people who feel like me,” he raps. Is that a good thing? Maybe, maybe not. But at least he knows he’s not alone, no matter how alone he sometimes feels.\n\nThe fact that he got the album’s name from Peter Weir’s soul-searching 1998 Jim Carrey drama <i>The Truman Show</i> gives you a sense of where Eminem was at. Life wasn’t a simulation, but reality was definitely getting bent out of shape—even his daughter’s eyes couldn’t ground him anymore (“My Dad’s Gone Crazy”). If the music felt heavier and more dramatic—well, you get it. Or maybe you don’t, until you sell 10 million albums and find yourself making movies loosely based on your own life (<i>8 Mile</i>).\n\nNo rapper had ever sounded so vicious, honest, and breathtakingly arrogant at the same time: “My songs can make you cry/Take you by surprise at the same time/Can make you dry your eyes with the same rhyme/See, what you’re seein’ is a genius at work,” Eminem raps at one point on <i>The Eminem Show</i>. That withering psychoanalytic criticism you just thought of? He said it five minutes ago—but it’s cool, you got a lot going on. Before <i>The Truman Show</i>, people wrote Jim Carrey off as a comedian, too.",
+          "short": "America’s angriest son takes on himself."
+        },
+        "isComplete": true
+      }
+    },
+    "1444866555": {
+      "id": "1444866555",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2012-01-01",
+        "upc": "00602537227846",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/3c/8f/793c8f7e-9de6-ae98-bf8f-58a3403b7dfa/00602537227846.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c9c9cb",
+          "textColor2": "40f9fc",
+          "textColor4": "33c7c9",
+          "textColor1": "fcfcfe",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/my-life-feat-eminem-adam-levine-single/1444866555",
+        "playParams": {
+          "id": "1444866555",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "My Life (feat. Eminem & Adam Levine) - Single",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1445296975": {
+      "id": "1445296975",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Rap"],
+        "releaseDate": "2011-02-01",
+        "isMasteredForItunes": false,
+        "upc": "00602527608990",
+        "artwork": {
+          "width": 900,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5a/72/e8/5a72e8f5-3d97-ff2b-57f9-bd22d87e37c5/10UMGIM33332.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 900,
+          "textColor3": "b2cea0",
+          "textColor2": "afdb90",
+          "textColor4": "8fb674",
+          "textColor1": "dbfac6",
+          "bgColor": "112106",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/i-need-a-doctor-feat-eminem-skylar-grey-single/1445296975",
+        "playParams": {
+          "id": "1445296975",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "I Need a Doctor (feat. Eminem & Skylar Grey) - Single",
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1445726870": {
+      "id": "1445726870",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2005 Aftermath Entertainment/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap"],
+        "releaseDate": "2005-12-06",
+        "isMasteredForItunes": false,
+        "upc": "00602498890844",
+        "artwork": {
+          "width": 3746,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/06/99/a70699f9-2f5a-9198-fe70-6236b534738f/06UMGIM16683.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3746,
+          "textColor3": "c4c2c9",
+          "textColor2": "a3e279",
+          "textColor4": "82b767",
+          "textColor1": "f6eff3",
+          "bgColor": "010e1f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/curtain-call-the-hits-deluxe-edition/1445726870",
+        "playParams": {
+          "id": "1445726870",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 24,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Eminem first commanded the spotlight in 1999 with “My Name Is,” a track whose tongue-twisting irreverence still makes for the best introduction to the artist. If “My Name Is” established Eminem as the impish, unstable jester, the breakout single “Stan” brought a level of fame that threatened to overtake his persona, and his art. Few rappers had as much to say, and as many modes of talking, as Eminem and because his most compelling and challenging songs are album cuts, <i>Curtain Call</i> can’t completely reveal the breadth of the man’s career. Nonetheless, this collection captures the essential qualities with which he carved his niche in the rap world and upturned the entire music industry."
+        },
+        "isComplete": true
+      }
+    },
+    "1446625834": {
+      "id": "1446625834",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rock", "Rap", "Hardcore Rap"],
+        "releaseDate": "2010-06-21",
+        "isMasteredForItunes": false,
+        "upc": "00602527437736",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1f/8b/b0/1f8bb023-f4cd-d4e1-7251-957c6bf2e942/10UMGIM14533.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "22282f",
+          "textColor2": "1b1c1d",
+          "textColor4": "32373b",
+          "textColor1": "07090e",
+          "bgColor": "8ea3b6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/recovery-deluxe-edition/1446625834",
+        "playParams": {
+          "id": "1446625834",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 20,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Recovery (Deluxe Edition)",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "<i>Recovery</i> is the first time Eminem sounded like he was in his right mind since <i>The Eminem Show</i>. It isn’t that the intervening albums weren’t good, or occasionally great. But you could hear how the pressure had caught up to him. Not only was Eminem the biggest rapper in the world, he was one of the best-selling artists in the history of recorded music—of course his perspective got a little warped. “Them last two albums didn’t count,” he raps on 2010’s <i>Recovery</i>’s “Talkin’ 2 Myself.” “<i>Encore</i>, I was on drugs; <i>Relapse</i>, I was flushin’ em out.”\n\nThe fantasy of being able to start over is just that—a fantasy. But if <i>Relapse</i> was the sound of Eminem rediscovering his mean streak, <i>Recovery</i> is the sound of him rediscovering his inspirational one, whether for himself (“Going Through Changes”), or for the tens of millions of fans betting on him (“Not Afraid”). The Rihanna-featuring “Love the Way You Lie” was one of his best ballads (not to mention proof of how much he’d reshaped what a ballad could sound like). And “Space Bound” was the most earnest love song he’d written for anyone besides his children.\n\nBut for all of Eminem’s candor about addiction and redemption, the album’s realest moment is on “Talkin’ 2 Myself,” when he admits he wanted to write diss tracks about both Kanye West and Lil Wayne, but realized he’d get his ass handed to him (his words). Rap had changed. So had he. “I fucking love leaves now, man,” he told an interviewer in 2011, explaining the way sobriety had awakened a wonder in him he’d forgotten was ever there. “I feel like I’ve been neglecting leaves for a long time.”",
+          "short": "Eminem kick-starts the 2010s by rapping his way back to the top."
+        },
+        "isComplete": true
+      }
+    },
+    "1452852431": {
+      "id": "1452852431",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2004 Aftermath Entertainment/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Hip-Hop"],
+        "releaseDate": "2004-11-12",
+        "upc": "00602498646717",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1412,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/bf/10/8bbf10dc-5dcb-9b81-6ec2-83341286ff72/00602498646717.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1413,
+          "textColor3": "ceced1",
+          "textColor2": "e1e2dc",
+          "textColor4": "b6b7b5",
+          "textColor1": "ffffff",
+          "bgColor": "0b0f1a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/encore-deluxe-version/1452852431",
+        "playParams": {
+          "id": "1452852431",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 23,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Encore (Deluxe Version)",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "There’s an interview that came out around the release of <i>Encore</i>, in which you can see Eminem sitting in the middle of the empty football field he’d performed in just a few days earlier. It was amazing, the interviewer says, seeing 50,000 people—from young kids to middle-aged men—singing along with <i>you</i>: “Your power has reached an apex.” Em shifts in his folding chair and smiles, then admits: “That makes me nervous.”\n\nOf course it does. 50,000 people? And you, having gone from a $5.50-an-hour grill-cook job to being on the short list for <i>Time</i> magazine’s Person of the Year—all in just five years? The pressures of fame had been a subject of pop music since David Bowie’s <i>The Rise and Fall of Ziggy Stardust and the Spiders From Mars</i>, but Bowie didn’t have to deal with people indirectly blaming him for school shootings. No wonder 2004’s <i>Encore</i> felt so agonizingly mixed-up: <i>The Eminem Show</i> was, in a way, the last word he had on all this stuff, but that didn’t mean people stopped wanting more.\n\n“We as Americans” was chilling and “Yellow Brick Road” one of the realer apologies Eminem offered on record—not to mention one of the rare examples of his narrative side coming to the forefront. As for oddball cuts like “Big Weenie” and “Rain Man”? Well: “Every day I had a pocketful of pills, and I would go into the studio and goof off,” Eminem said later. The tension between who he’d been, and who the world increasingly expected and assumed him to be, had never been clearer. Five years earlier, Eminem had joked that if life ever got too good, he’d give up and start writing love songs. “’Cause all I ever wanted to do was just make you proud/Now I’m sittin’ in this empty house just reminiscin’/Lookin’ at your baby pictures, it just trips me out,” he rapped on “Mockingbird,” which is about as close as he ever got.",
+          "short": "A generational voice at his most conflicted."
+        },
+        "isComplete": true
+      }
+    },
+    "1453196979": {
+      "id": "1453196979",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Aftermath Entertainment/Interscope Records Release; This Compilation ℗ 2019 UMG Recordings, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "1999-02-23",
+        "upc": "00602577471407",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/d3/01/44d3016a-6747-25bf-8cd4-4c4fa5ced26f/19UMGIM04260.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d6d7e0",
+          "textColor2": "ced5ef",
+          "textColor4": "b3bad8",
+          "textColor1": "f9f9f9",
+          "bgColor": "48517c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-slim-shady-lp-expanded-edition/1453196979",
+        "playParams": {
+          "id": "1453196979",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 30,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Slim Shady LP (Expanded Edition)",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Of all the complaints and concerns that greeted the 1999 release of Eminem’s <i>The Slim Shady LP</i>, the most interesting response might’ve been an editorial written by <i>Billboard</i> magazine’s then-editor-in-chief, Timothy White. The expected gripes with Eminem’s music are all there: It’s violent; it’s unrepentant; it makes money by “exploiting the world’s misery.” But White also spends a lot of time laying out statistics about domestic violence, and interviews the executive director of one of the country’s oldest domestic-violence-related agencies. “What is the message?” she asks. “What is he <i>mad</i> at?”\n\nFunny you should ask, as Eminem lists the causes of his rage throughout <i>The Slim Shady LP</i>. There’s the minimum-wage job as a grill cook (“If I Had”) and the bully who terrorized him as a kid (“Brain Damage”). There’s the mother who didn’t provide for him and the teachers who didn’t care, either (“My Name Is”). There’s the humiliation of being so poor that you can’t afford diapers for your daughter (“Rock Bottom”). And there’s Eminmen <i>himself</i>, of course (“Guilty Conscience”).\n\nBut Eminem’s rage is also driven by the hypocrisy of the culture as a whole. After all, the media has long profited off violence and the denigration of women—and yet, here were powerful scolds telling Eminem that <i>he</i> was the problem, ignoring their own complicity (“Role Model”). Asked about the editorial in an early interview, Eminem smirked and said, “I think it hit a soft spot for Timothy White.”\n\nBeing funny was one thing (though Eminem could be <i>really</i> funny). The problem with Eminem was that he was smart and wrote catchy songs—and that he had nothing to lose. He’d even bite the hand that fed him, if he thought the moral justification was there for it (he even took jabs at mentor Dr. Dre on “Guilty Conscience”). “How the fuck can I be white?” he asks at one point on <i>The Slim Shady LP</i>, “I don’t even exist.” What’s that old saying? Hurt people hurt people. <i>Slim Shady</i> was the sound of someone climbing off Dr. Phil’s Couch for Troubled Teens and grabbing America by the throat.",
+          "short": "An angry kid from Detroit changes the course of pop."
+        },
+        "isComplete": true
+      }
+    },
+    "1495267282": {
+      "id": "1495267282",
+      "type": "albums",
+      "attributes": {
+        "copyright": "A Shady/Aftermath/Interscope Records Release; ℗ 2020 Marshall B. Mathers III",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2020-01-17",
+        "upc": "00602508735141",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/bc/52/56bc527c-14a5-4ece-aeb2-380deba46d5b/20UMGIM02954.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3600,
+          "textColor3": "ddbcb0",
+          "textColor2": "ddd5c7",
+          "textColor4": "d2aea6",
+          "textColor1": "e9e6d3",
+          "bgColor": "aa1224",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/music-to-be-murdered-by/1495267282",
+        "playParams": {
+          "id": "1495267282",
+          "kind": "album"
+        },
+        "recordLabel": "Shady/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 20,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Music To Be Murdered By",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "If you were hoping that an Eminem album released in 2020 would be less offensive, violent, or controversial, this album isn’t for you. It’s called <i>Music to Be Murdered By</i>, after all—a title borrowed from a creepy 1958 music compilation presented by Alfred Hitchcock. In one interlude, Hitchcock’s voice can be heard explaining the premise: “This was meant for your listening pleasure—while you are being done in.” This surprise drop, in which we’re reacquainted with Eminem’s chainsaw-wielding alter ego Slim Shady, is as cold and uncompromising as it sounds. The snarling beats—produced by Dr. Dre, The Alchemist, and Eminem himself, among others—heave beneath wordplay as impressive and elaborate as it is aggressive, sinister, and, occasionally, unacceptable. <br />\nUnlike his last two releases, this album is neither pop-leaning (with exception of one Ed Sheeran feature) nor a straight-up diss record. For better or worse, most of <i>Music to Be Murdered By</i> is simply Eminem doing what he does best: gratuitously savage, antagonistic rhymes for the pure, juvenile sake of it. Longtime stans will rejoice to find three (!) collaborations with Royce da 5’9”, particularly the frenetic “Yah Yah,” also featuring Q-Tip and Denaun. The beats on “Stepdad” and “Lock It Up” are second to none, while “Little Engine” and “Farewell” wouldn’t feel out of place on albums released two decades ago.<br />\nBut the world has changed in two decades. The divide between Eminem, lyrical savant and god of rap, and Slim Shady, a trigger-happy psychopath, has always been difficult to bridge. It’s harder to hear shock-value sucker punches about domestic violence and disability—least of all because they risk discrediting the genuinely powerful moments that Eminem is so uniquely capable of. The song worthy of the most discussion (and controversy), “Darkness,” is one such moment: What begins as a tender, personal tale soon reveals itself to be the disturbing account of a man committing mass murder from a Las Vegas hotel room, before ending with a series of breaking-news voiceovers reporting on real-life mass murders throughout America. For all the wrath and bloodshed on <i>Music to Be Murdered By</i>, its most provocative song is its least fictional.",
+          "short": "Buckle up: a new, out-of-nowhere project from the Shady rap legend."
+        },
+        "isComplete": true
+      }
+    },
+    "1495269622": {
+      "id": "1495269622",
+      "type": "albums",
+      "attributes": {
+        "copyright": "A Shady/Aftermath/Interscope Records Release; ℗ 2020 Marshall B. Mathers III",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2020-01-17",
+        "isMasteredForItunes": true,
+        "upc": "00602508735240",
+        "artwork": {
+          "width": 3600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c6/3f/7a/c63f7a28-4e53-1ae2-cfae-5d211e0c256c/20UMGIM02955.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3600,
+          "textColor3": "e2b69a",
+          "textColor2": "dad4cf",
+          "textColor4": "d1adad",
+          "textColor1": "f0deb7",
+          "bgColor": "ad1326",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/music-to-be-murdered-by/1495269622",
+        "playParams": {
+          "id": "1495269622",
+          "kind": "album"
+        },
+        "recordLabel": "Shady/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 20,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Music To Be Murdered By",
+        "artistName": "Eminem",
+        "contentRating": "clean",
+        "editorialNotes": {
+          "standard": "If you were hoping that an Eminem album released in 2020 would be less offensive, violent or controversial, this album isn’t for you. It’s called <i>Music to Be Murdered By</i>, after all—a title borrowed from a creepy 1958 music compilation presented by Alfred Hitchcock. In one interlude, Hitchcock’s voice can be heard explaining the premise: “This was meant for your listening pleasure—while you are being done in.” This surprise drop, in which we’re reacquainted with Eminem’s chainsaw-wielding alter ego Slim Shady, is as cold and uncompromising as it sounds. The snarling beats—produced by Dr. Dre, The Alchemist and Eminem himself, among others—heave beneath wordplay as impressive and elaborate as it is aggressive, sinister and, occasionally, unacceptable. (Sexist slurs and rape jokes still aren’t funny, or even shocking.)<br />\nUnlike his last two releases, this album is neither pop-leaning (with exception of one Ed Sheeran feature) nor a straight-up diss record (Machine Gun Kelly is only referenced once). For better or worse, most of <i>Music to Be Murdered By</i> is simply Eminem doing what he does best: gratuitously savage, antagonistic rhymes for the pure, juvenile sake of it. Long-time stans will rejoice to find three (!) collaborations with Royce da 5’9”, particularly the frenetic “Yah Yah”, also featuring Q-Tip and Denaun. The beats on “Stepdad” and “Lock It Up” are second to none, while “Little Engine” and “Farewell” wouldn’t feel out of place on albums released two decades ago.<br />\nBut the world has changed in two decades. The divide between Eminem, lyrical savant and god of rap, and Slim Shady, a trigger-happy psychopath, has always been difficult to justify. It’s harder to accept shock-value sucker punches about domestic violence and disability—least of all because they risk discrediting the genuinely powerful moments that Eminem is so uniquely capable of. The song worthy of the most discussion (and controversy), “Darkness”, is one such moment: What begins as a tender, personal tale soon reveals itself to be the disturbing account of a man committing mass murder from a Las Vegas hotel room, before ending with a series of breaking-news voiceovers reporting on real-life mass murders throughout America. For all the wrath and bloodshed on <i>Music to Be Murdered By</i>, its most provocative song is its least fictional.",
+          "short": "Buckle up: a new, out-of-nowhere project from the Shady rap legend."
+        },
+        "isComplete": true
+      }
+    },
+    "1517894593": {
+      "id": "1517894593",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2010-06-18",
+        "upc": "00602507352660",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/da/5f/6ada5fd5-5e05-20bc-4bb0-6c0f1f0d91cd/10UMGIM14533.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "22282f",
+          "textColor2": "1b1c1d",
+          "textColor4": "32373b",
+          "textColor1": "07090e",
+          "bgColor": "8ea3b6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/recovery-deluxe-edition/1517894593",
+        "playParams": {
+          "id": "1517894593",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 19,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Recovery (Deluxe Edition)",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "<i>Recovery</i> is the first time Eminem sounded like he was in his right mind since <i>The Eminem Show</i>. It isn’t that the intervening albums weren’t good, or occasionally great. But you could hear how the pressure had caught up to him. Not only was Eminem the biggest rapper in the world, he was one of the best-selling artists in the history of recorded music—of course his perspective got a little warped. “Them last two albums didn’t count,” he raps on 2010’s <i>Recovery</i>’s “Talkin’ 2 Myself.” “<i>Encore</i>, I was on drugs; <i>Relapse</i>, I was flushin’ em out.”\n\nThe fantasy of being able to start over is just that—a fantasy. But if <i>Relapse</i> was the sound of Eminem rediscovering his mean streak, <i>Recovery</i> is the sound of him rediscovering his inspirational one, whether for himself (“Going Through Changes”), or for the tens of millions of fans betting on him (“Not Afraid”). The Rihanna-featuring “Love the Way You Lie” was one of his best ballads (not to mention proof of how much he’d reshaped what a ballad could sound like). And “Space Bound” was the most earnest love song he’d written for anyone besides his children.\n\nBut for all of Eminem’s candor about addiction and redemption, the album’s realest moment is on “Talkin’ 2 Myself,” when he admits he wanted to write diss tracks about both Kanye West and Lil Wayne, but realized he’d get his ass handed to him (his words). Rap had changed. So had he. “I fucking love leaves now, man,” he told an interviewer in 2011, explaining the way sobriety had awakened a wonder in him he’d forgotten was ever there. “I feel like I’ve been neglecting leaves for a long time.”",
+          "short": "Eminem kick-starts the 2010s by rapping his way back to the top."
+        },
+        "isComplete": true
+      }
+    },
+    "1545457139": {
+      "id": "1545457139",
+      "type": "albums",
+      "attributes": {
+        "copyright": "A Shady/Aftermath/Interscope Records Release; ℗ 2020 Marshall B. Mathers III",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2020-12-18",
+        "upc": "00602435658643",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7d/36/53/7d36532b-0e8c-90d3-3dbc-b2239d1ad0ad/20UM1IM15658.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbc6be",
+          "textColor2": "d6e5dd",
+          "textColor4": "bac7c3",
+          "textColor1": "ece5d8",
+          "bgColor": "4a4c59",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/music-to-be-murdered-by-side-b-deluxe-edition/1545457139",
+        "playParams": {
+          "id": "1545457139",
+          "kind": "album"
+        },
+        "recordLabel": "Shady/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 36,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "If you were hoping that an Eminem album released in 2020 would be less offensive, violent, or controversial, this album isn’t for you. And the same can be said of this deluxe edition, released almost a year later, featuring 16 new tracks. In January, before the world entered lockdown, we were reacquainted with Eminem’s chainsaw-wielding alter ego Slim Shady in an album as cold and uncompromising as the title suggests. And while some of us spent the year baking bread, watching TV, and chatting with friends online, Eminem pulled out his notepad. The extra tracks, released just before Christmas, carry all the aggressive, sinister, occasionally unacceptable themes we’ve come to expect from the legendary rapper. But they’re timestamped with references to the pandemic lexicon: social distancing, hand sanitizer, quarantine, etc. “They say these bars are like COVID,” he raps on “Gnat.” “You get ’em right off the bat.”<br />\nUnlike his last two releases, this album is neither pop-leaning (with exception of one Ed Sheeran feature) nor a straight-up diss record. For better or worse, most of <i>Music to Be Murdered By</i> is simply Eminem doing what he does best: gratuitously savage, antagonistic rhymes for the pure, juvenile sake of it. Longtime stans will rejoice to find three (!) collaborations with Royce da 5’9”, particularly the frenetic “Yah Yah,” also featuring Q-Tip and Denaun. The beats on “Stepdad” and “Lock It Up” are second to none, while “Little Engine” and “Farewell” wouldn’t feel out of place on albums released two decades ago.<br />\nBut the world has changed in two decades. The divide between Eminem, lyrical savant and god of rap, and Slim Shady, a trigger-happy psychopath, has always been difficult to bridge. It’s harder to hear shock-value sucker punches about domestic violence and disability—least of all because they risk discrediting the genuinely powerful moments that Eminem is so uniquely capable of. The song worthy of the most discussion (and controversy), “Darkness,” is one such moment: What begins as a tender, personal tale soon reveals itself to be the disturbing account of a man committing mass murder from a Las Vegas hotel room, before ending with a series of breaking-news voiceovers reporting on real-life mass murders throughout America. For all the wrath and bloodshed on <i>Music to Be Murdered By</i>, its most provocative song is its least fictional.",
+          "short": "An extra 16 tracks to soundtrack your demise."
+        },
+        "isComplete": true
+      }
+    },
+    "1545467359": {
+      "id": "1545467359",
+      "type": "albums",
+      "attributes": {
+        "copyright": "A Shady/Aftermath/Interscope Records Release; ℗ 2020 Marshall B. Mathers III",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2020-12-18",
+        "isMasteredForItunes": true,
+        "upc": "00602435658995",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/bc/d4/40bcd443-b755-eddd-af20-3fef52b794ed/20UM1IM15659.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbc6be",
+          "textColor2": "d6e5dd",
+          "textColor4": "bac7c3",
+          "textColor1": "ece5d8",
+          "bgColor": "4a4c59",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/music-to-be-murdered-by-side-b-deluxe-edition/1545467359",
+        "playParams": {
+          "id": "1545467359",
+          "kind": "album"
+        },
+        "recordLabel": "Shady/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 36,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+        "artistName": "Eminem",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1625004609": {
+      "id": "1625004609",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Aftermath Entertainment / Interscope Records release; ℗ 2022 UMG Recordings, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2002-05-26",
+        "isMasteredForItunes": false,
+        "upc": "00602445937202",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/02/cd/c902cdef-e179-5b70-8142-112a2abe7f27/22UMGIM49875.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcb",
+          "textColor2": "e49b3e",
+          "textColor4": "b67c32",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-eminem-show-expanded-edition/1625004609",
+        "playParams": {
+          "id": "1625004609",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 38,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Eminem Show (Expanded Edition)",
+        "contentRating": "explicit",
+        "artistName": "Eminem",
+        "editorialNotes": {
+          "standard": "If <i>The Slim Shady LP</i> was the start of Eminem’s journey, and <i>The Marshall Mathers LP</i> a document of the rapper’s struggle to get to the top, 2002’s <i>The Eminem Show</i> is what it sounds like when the only real fight left is the one with yourself. He’s still angry, especially when you get him started on America, which had just thrown itself into yet another war against an enemy (“terror”) it couldn’t quite define (a topic Em tackles on “White America” and “Square Dance”). But on <i>The Eminem Show</i>, he also shows he’s done some softening up, taking on the subject of parenting (“Hailie’s Song”), and addressing his moral responsibility to his audience (“Sing for the Moment”). He even apologizes to the mom he spent two albums pretending to kill, at least kind-of (“Cleanin’ Out My Closet”). “I never would’ve dreamed in a million years I’d see/So many motherfuckin’ people who feel like me,” he raps. Is that a good thing? Maybe, maybe not. But at least he knows he’s not alone, no matter how alone he sometimes feels.\n\nThe fact that he got the album’s name from Peter Weir’s soul-searching 1998 Jim Carrey drama <i>The Truman Show</i> gives you a sense of where Eminem was at. Life wasn’t a simulation, but reality was definitely getting bent out of shape—even his daughter’s eyes couldn’t ground him anymore (“My Dad’s Gone Crazy”). If the music felt heavier and more dramatic—well, you get it. Or maybe you don’t, until you sell 10 million albums and find yourself making movies loosely based on your own life (<i>8 Mile</i>).\n\nNo rapper had ever sounded so vicious, honest, and breathtakingly arrogant at the same time: “My songs can make you cry/Take you by surprise at the same time/Can make you dry your eyes with the same rhyme/See, what you’re seein’ is a genius at work,” Eminem raps at one point on <i>The Eminem Show</i>. That withering psychoanalytic criticism you just thought of? He said it five minutes ago—but it’s cool, you got a lot going on. Before <i>The Truman Show</i>, people wrote Jim Carrey off as a comedian, too.",
+          "short": "America’s angriest son takes on himself."
+        },
+        "isComplete": true
+      }
+    },
+    "1637705844": {
+      "id": "1637705844",
+      "type": "albums",
+      "attributes": {
+        "copyright": "A Shady/Aftermath/Interscope Records Release; ℗ 2022 Marshall B. Mathers III",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-08-05",
+        "isMasteredForItunes": true,
+        "upc": "00602448322050",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9e/93/2e/9e932e30-5e37-7925-9fdb-df322b186deb/22UMGIM76226.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c0b8a9",
+          "textColor2": "c9c9b7",
+          "textColor4": "a8a597",
+          "textColor1": "e6dfcd",
+          "bgColor": "291919",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/curtain-call-2/1637705844",
+        "playParams": {
+          "id": "1637705844",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 35,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Curtain Call 2",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "The deluxe version of Eminem’s 2005 “greatest hits” album <i>Curtain Call</i> contains 24 songs compiled from the previous six years of his catalog. How, then, are we to regard the wealth of hits that came after, songs like Em’s unflappable assertion of elite-tier MCing “Rap God,” the heart-wrenching testament to his vulnerability “Not Afraid,” or even blockbuster collaborations like “Walk on Water” (Beyoncé), “Won’t Back Down” (P!nk), or “The Monster” and “Love the Way You Lie” (Rihanna)? <i>Curtain Call 2</i>, anyone? The MC’s output post-<i>Encore</i> is all well-represented here, the project’s curators having made sure to include everything from late-career link-ups with the big dogs of his era (Snoop Dogg, Lil Wayne, 50 Cent) to his work with fans turned formidable MCs in their own right like Joyner Lucas, Juice WRLD, and Yelawolf. At 35 tracks, it’s a heaping helping of Em, and one that’s sure to remind fans why we can’t help but stick around long after he’s left the stage.",
+          "short": "More hits than you can shake a copy of “Rap God” at."
+        },
+        "isComplete": true
+      }
+    },
+    "1698564399": {
+      "id": "1698564399",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 FFP Records in association with Shady Records, Inc./Aftermath Entertainment",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2023-08-04",
+        "upc": "00842812195594",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/13/21/511321cc-d65e-ab08-c649-af852dab7e73/23SYMIM05984.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b8b8b8",
+          "textColor2": "cdcdcd",
+          "textColor4": "a7a7a7",
+          "textColor1": "e1e1e1",
+          "bgColor": "131313",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/realest-single/1698564399",
+        "playParams": {
+          "id": "1698564399",
+          "kind": "album"
+        },
+        "recordLabel": "FFP Records, Shady/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Realest - Single",
+        "contentRating": "explicit",
+        "artistName": "Ez Mil & Eminem",
+        "isComplete": true
+      }
+    }
+  },
+  "songs": {
+    "1434770508": {
+      "id": "1434770508",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Kamikaze",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "durationInMillis": 244680,
+        "releaseDate": "2018-08-31",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71813334",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "422d28",
+          "textColor2": "290301",
+          "textColor4": "4e2e29",
+          "textColor1": "190100",
+          "bgColor": "e4dec8",
+          "hasP3": false
+        },
+        "composerName": "Marshall Mathers, Boi-1da, J Sweet, Gary Lucas & Illadaproducer",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/lucky-you-feat-joyner-lucas/1434770366?i=1434770508",
+        "playParams": {
+          "id": "1434770508",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Lucky You (feat. Joyner Lucas)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/cf/63/7ecf63f8-5554-6177-747e-615fb104b259/mzaf_1293238175616734699.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Eminem"
+      }
+    },
+    "1436564051": {
+      "id": "1436564051",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Killshot - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-09-14",
+        "durationInMillis": 253580,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71814876",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/f1/d3/eaf1d388-de9c-c012-a3f3-2ab0a09bb45e/18UMGIM60873.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cecdcd",
+          "textColor2": "f7020c",
+          "textColor4": "c8030c",
+          "textColor1": "fefefe",
+          "bgColor": "0c0a0b",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers & Ray Illya Fraser",
+        "url": "https://music.apple.com/us/album/killshot/1436563803?i=1436564051",
+        "playParams": {
+          "id": "1436564051",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Killshot",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7a/31/54/7a3154b7-705f-c88e-043b-afd414ded19a/mzaf_7275549476439800370.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Eminem"
+      }
+    },
+    "1440749503": {
+      "id": "1440749503",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Rebirth (Deluxe Version)",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Rock",
+          "Hard Rock",
+          "Dirty South",
+          "Rap"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "2009-01-01",
+        "durationInMillis": 229227,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USCM50901210",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/91/f4/82/91f48278-6052-e0ab-404c-230dd5f3f441/09UMGIM43996.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d2d0cf",
+          "textColor2": "d8a43e",
+          "textColor4": "b58935",
+          "textColor1": "fdfeff",
+          "bgColor": "291c13",
+          "hasP3": false
+        },
+        "composerName": "Lil Wayne, J. Woodard, Marshall Mathers, Luis Resto & M. Strange",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/drop-the-world-feat-eminem/1440748359?i=1440749503",
+        "playParams": {
+          "id": "1440749503",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Drop the World (feat. Eminem)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/71/49/8f/71498fc8-c428-76b9-e965-c5c3821a1ed2/mzaf_14206329909986532462.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Wayne",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["350833715"]
+      }
+    },
+    "1440783376": {
+      "id": "1440783376",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "2001",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 10,
+        "durationInMillis": 222293,
+        "releaseDate": "1999-11-16",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19915077",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "composerName": "Andre R. Young, Melvin Bradford & Marshall Mathers",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/forgot-about-dre-feat-eminem/1440782221?i=1440783376",
+        "playParams": {
+          "id": "1440783376",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Forgot About Dre (feat. Eminem)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/44/b0/21/44b021ab-29e1-2c21-aaa8-b5037d3523be/mzaf_15751382214286408462.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Dr. Dre"
+      },
+      "meta": {
+        "formerIds": ["1135416414", "273658392"]
+      }
+    },
+    "1440863086": {
+      "id": "1440863086",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "The Marshall Mathers LP2 (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Rap"],
+        "trackNumber": 9,
+        "releaseDate": "2013-11-05",
+        "durationInMillis": 363521,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71314079",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/d2/78/c7d2787f-5975-9263-fe47-eeebee3c892f/00602537542703.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cecec1",
+          "textColor2": "ece7db",
+          "textColor4": "bfbbb2",
+          "textColor1": "ffffee",
+          "bgColor": "0c0d0f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, B. Zayas Jr, Matthew Del Giorno, Stephen Hacker, D. Davis, Ricky M.L. Walters, D. Birks, Juana Michelle Burns, J. Lee, F. Shaheed & K. Nazel",
+        "url": "https://music.apple.com/us/album/rap-god/1440862963?i=1440863086",
+        "playParams": {
+          "id": "1440863086",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Rap God",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/1c/3d/8d1c3d6b-00e4-48fe-5950-2f76cb28e04a/mzaf_1203890240538599509.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["731756775", "731948013"]
+      }
+    },
+    "1440863108": {
+      "id": "1440863108",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Marshall Mathers LP2 (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Rap"],
+        "trackNumber": 12,
+        "releaseDate": "2013-11-05",
+        "durationInMillis": 250189,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71314082",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/d2/78/c7d2787f-5975-9263-fe47-eeebee3c892f/00602537542703.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cecec1",
+          "textColor2": "ece7db",
+          "textColor4": "bfbbb2",
+          "textColor1": "ffffee",
+          "bgColor": "0c0d0f",
+          "hasP3": false
+        },
+        "composerName": "Marshall Mathers, Aaron Kleinstub, Maki Athanasiou, Jonathan Bellion, Rihanna, Bryan Fryzel & Bebe Rexha",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/the-monster-feat-rihanna/1440862963?i=1440863108",
+        "playParams": {
+          "id": "1440863108",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "The Monster (feat. Rihanna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c5/4b/3e/c54b3ee2-c7ab-c585-9a27-48add4ba64cb/mzaf_12592662292869727355.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["731756778", "731948030"]
+      }
+    },
+    "1440866795": {
+      "id": "1440866795",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "The Marshall Mathers LP",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Hip-Hop"],
+        "trackNumber": 3,
+        "releaseDate": "2000-05-23",
+        "durationInMillis": 404107,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10001280",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "dfdede",
+          "textColor2": "e8d4cc",
+          "textColor4": "cdbdb6",
+          "textColor1": "ffffff",
+          "bgColor": "625e5e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, Dido, P. Herman, John Reis, Andy Stamets, Peter Reichert, Paul O'Beirne & Adam David Willard",
+        "url": "https://music.apple.com/us/album/stan-feat-dido/1440866782?i=1440866795",
+        "playParams": {
+          "id": "1440866795",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Stan (feat. Dido)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5c/06/cd/5c06cd7b-27ad-8102-5d32-5fe48c30ea44/mzaf_8885690701015123139.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Eminem"
+      },
+      "meta": {
+        "formerIds": ["14539387", "362077"]
+      }
+    },
+    "1440866926": {
+      "id": "1440866926",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "The Marshall Mathers LP",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Hip-Hop"],
+        "trackNumber": 8,
+        "releaseDate": "2000-05-23",
+        "durationInMillis": 284200,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10000448",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "dfdede",
+          "textColor2": "e8d4cc",
+          "textColor4": "cdbdb6",
+          "textColor1": "ffffff",
+          "bgColor": "625e5e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, Andre R. Young, Mike Elizondo & Tom Coster",
+        "url": "https://music.apple.com/us/album/the-real-slim-shady/1440866782?i=1440866926",
+        "playParams": {
+          "id": "1440866926",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "The Real Slim Shady",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/d4/f4/0ad4f4c4-c99d-1b6a-884d-7c6f5f90aa47/mzaf_15220079485427922222.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Eminem"
+      },
+      "meta": {
+        "formerIds": ["14539405", "362088"]
+      }
+    },
+    "1440901513": {
+      "id": "1440901513",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Revival",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2017-12-15",
+        "durationInMillis": 221013,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71712944",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/a3/64/eda3642b-7a15-8482-2203-8e2535770922/00602567238225.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c39693",
+          "textColor2": "da9b92",
+          "textColor4": "b77f7a",
+          "textColor1": "eab8b2",
+          "bgColor": "290e17",
+          "hasP3": false
+        },
+        "composerName": "Ed Sheeran, Marshall Mathers, Emile Haynie & Thomas Bartlett",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/river-feat-ed-sheeran/1440901083?i=1440901513",
+        "playParams": {
+          "id": "1440901513",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "River (feat. Ed Sheeran)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/52/b2/fc/52b2fc52-93b5-fced-2124-bc6fc411158f/mzaf_14132398860656556171.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1321745103", "1321895377"]
+      }
+    },
+    "1440903693": {
+      "id": "1440903693",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "The Eminem Show",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hip-Hop", "Hardcore Rap"],
+        "trackNumber": 10,
+        "releaseDate": "2002-05-14",
+        "durationInMillis": 290320,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10211038",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1410,
+          "textColor3": "c5c7c3",
+          "textColor2": "e5b945",
+          "textColor4": "bb973a",
+          "textColor1": "f3f5f0",
+          "bgColor": "100e11",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, Kevin Bell, Malcolm McLaren, Trevor Horn, Anne Dudley & Jeff Bass",
+        "url": "https://music.apple.com/us/album/without-me/1440903530?i=1440903693",
+        "playParams": {
+          "id": "1440903693",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Without Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f0/95/a5/f095a5b0-9413-2463-eb08-64c4e43130a2/mzaf_5475549423394614688.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["15477279", "111070"]
+      }
+    },
+    "1440903794": {
+      "id": "1440903794",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "The Eminem Show",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hip-Hop", "Hardcore Rap"],
+        "trackNumber": 13,
+        "releaseDate": "2002-05-26",
+        "durationInMillis": 350320,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10211062",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1410,
+          "textColor3": "c5c7c3",
+          "textColor2": "e5b945",
+          "textColor4": "bb973a",
+          "textColor1": "f3f5f0",
+          "bgColor": "100e11",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, Jeffrey Bass & Steve King",
+        "url": "https://music.apple.com/us/album/superman-feat-dina-rae/1440903530?i=1440903794",
+        "playParams": {
+          "id": "1440903794",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Superman (feat. Dina Rae)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/58/72/7358729f-9ff8-5a38-8a91-e4e9c2ad01b8/mzaf_9242867295334610952.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["15477289", "111076"]
+      }
+    },
+    "1440903814": {
+      "id": "1440903814",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "The Eminem Show",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hip-Hop", "Hardcore Rap"],
+        "trackNumber": 18,
+        "releaseDate": "2002-05-26",
+        "durationInMillis": 297787,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10211066",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1410,
+          "textColor3": "c5c7c3",
+          "textColor2": "e5b945",
+          "textColor4": "bb973a",
+          "textColor1": "f3f5f0",
+          "bgColor": "100e11",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, Luis Resto, Nathaniel Hale & Brian May",
+        "url": "https://music.apple.com/us/album/till-i-collapse-feat-nate-dogg/1440903530?i=1440903814",
+        "playParams": {
+          "id": "1440903814",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "'Till I Collapse (feat. Nate Dogg)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fc/5d/b1/fc5db184-9dcd-d575-f3f9-2fb63190d863/mzaf_11895856654804715535.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Eminem"
+      },
+      "meta": {
+        "formerIds": ["15477305", "111086"]
+      }
+    },
+    "1443077424": {
+      "id": "1443077424",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "More Than a Game (Music Inspired By the Film)",
+        "genreNames": ["Soundtrack", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2009-01-01",
+        "durationInMillis": 357347,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM70985104",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ee/1c/a4/ee1ca4b6-9afd-d92b-a4ef-19ed5b3463ea/00602527157719.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "2d2f2e",
+          "textColor2": "1b1b1b",
+          "textColor4": "424242",
+          "textColor1": "000302",
+          "bgColor": "dedee0",
+          "hasP3": false
+        },
+        "composerName": "Kanye West, Lil Wayne, Marshall Mathers, Matthew Samuels & Drake",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/forever/1443077417?i=1443077424",
+        "playParams": {
+          "id": "1443077424",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Forever",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/e6/ba/63e6ba21-57fc-cba5-f5ed-dc5751809399/mzaf_17523397735966165256.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Drake, Kanye West, Lil Wayne & Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["332123392"]
+      }
+    },
+    "1444221569": {
+      "id": "1444221569",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "8 Mile (Music From And Inspired By The Motion Picture)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2002-10-28",
+        "durationInMillis": 320293,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10211559",
+        "artwork": {
+          "width": 1421,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/8e/5d/888e5d4e-a2a4-aa18-3f5f-e259f0bb8a49/00606949350826.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1412,
+          "textColor3": "c5b82d",
+          "textColor2": "c2bfc7",
+          "textColor4": "9d9aa1",
+          "textColor1": "f4e436",
+          "bgColor": "07080a",
+          "hasP3": false
+        },
+        "composerName": "Marshall Mathers, Luis Resto & Jeff Bass",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/lose-yourself/1444221563?i=1444221569",
+        "playParams": {
+          "id": "1444221569",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Lose Yourself",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/18/de/f418de15-c3d4-8496-d658-8d6a7e6c1c01/mzaf_18107422977559785140.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1018037", "62021453"]
+      }
+    },
+    "1445727316": {
+      "id": "1445727316",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Curtain Call: The Hits (Deluxe Edition)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 6,
+        "releaseDate": "2002-01-01",
+        "durationInMillis": 326467,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10211559",
+        "artwork": {
+          "width": 3746,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/06/99/a70699f9-2f5a-9198-fe70-6236b534738f/06UMGIM16683.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3746,
+          "textColor3": "c4c2c9",
+          "textColor2": "a3e279",
+          "textColor4": "82b767",
+          "textColor1": "f6eff3",
+          "bgColor": "010e1f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, Luis Resto & Jeff Bass",
+        "url": "https://music.apple.com/us/album/lose-yourself-from-8-mile/1445726870?i=1445727316",
+        "playParams": {
+          "id": "1445727316",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Lose Yourself (From \"8 Mile\")",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/42/b8/b042b8a5-4d1f-f245-2c8a-e15db9d9da5a/mzaf_2494845488576943071.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["99159561", "99732901"]
+      }
+    },
+    "1452852850": {
+      "id": "1452852850",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Encore (Deluxe Version)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Hip-Hop"],
+        "trackNumber": 16,
+        "durationInMillis": 250760,
+        "releaseDate": "2004-01-01",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10400813",
+        "artwork": {
+          "width": 1412,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/bf/10/8bbf10dc-5dcb-9b81-6ec2-83341286ff72/00602498646717.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1413,
+          "textColor3": "ceced1",
+          "textColor2": "e1e2dc",
+          "textColor4": "b6b7b5",
+          "textColor1": "ffffff",
+          "bgColor": "0b0f1a",
+          "hasP3": false
+        },
+        "composerName": "Marshall Mathers & Luis Resto",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/mockingbird/1452852431?i=1452852850",
+        "playParams": {
+          "id": "1452852850",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Mockingbird",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/e9/d7/50e9d798-3a42-f722-3844-95f3751891e9/mzaf_11160046157002176667.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Eminem"
+      },
+      "meta": {
+        "formerIds": ["28690755", "62046617"]
+      }
+    },
+    "1471213968": {
+      "id": "1471213968",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Confessions of a Dangerous Mind",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "durationInMillis": 245391,
+        "releaseDate": "2019-05-03",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71908267",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1e/10/85/1e108596-a0cd-529d-8a2b-316d2e1886d7/19UMGIM42661.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "364142",
+          "textColor2": "0d1f22",
+          "textColor4": "3b4848",
+          "textColor1": "06161a",
+          "bgColor": "f4ede3",
+          "hasP3": false
+        },
+        "composerName": "Sir Robert Bryson Hall II, Marshall Mathers, Jeremy Alexander Uribe, Dillan Beau Bailard, Donnell Stephens III, Tim Schoegje & Luis Resto",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/homicide-feat-eminem/1471213961?i=1471213968",
+        "playParams": {
+          "id": "1471213968",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Homicide (feat. Eminem)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c0/3b/3e/c03b3e86-0354-970a-5355-3d9800a63f1a/mzaf_9597191556142033728.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Logic",
+        "contentRating": "explicit"
+      }
+    },
+    "1495267448": {
+      "id": "1495267448",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Music To Be Murdered By",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 7,
+        "durationInMillis": 210800,
+        "releaseDate": "2020-01-17",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72000788",
+        "artwork": {
+          "width": 3600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/bc/52/56bc527c-14a5-4ece-aeb2-380deba46d5b/20UMGIM02954.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3600,
+          "textColor3": "ddbcb0",
+          "textColor2": "ddd5c7",
+          "textColor4": "d2aea6",
+          "textColor1": "e9e6d3",
+          "bgColor": "aa1224",
+          "hasP3": false
+        },
+        "composerName": "Marshall Mathers, Luis Resto, D. Doman, Jarad Higgins & A. Villasana",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/godzilla-feat-juice-wrld/1495267282?i=1495267448",
+        "playParams": {
+          "id": "1495267448",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Godzilla (feat. Juice WRLD)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/47/cf/7e47cf3f-ede7-c32c-0275-7e995a2a0730/mzaf_5862888080371127394.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Eminem"
+      }
+    },
+    "1517894601": {
+      "id": "1517894601",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Recovery (Deluxe Edition)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 7,
+        "releaseDate": "2010-04-29",
+        "durationInMillis": 248133,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71011769",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/da/5f/6ada5fd5-5e05-20bc-4bb0-6c0f1f0d91cd/10UMGIM14533.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "22282f",
+          "textColor2": "1b1c1d",
+          "textColor4": "32373b",
+          "textColor1": "07090e",
+          "bgColor": "8ea3b6",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, Luis Resto, Jordan Evans, M. Burnett & Boi-1da",
+        "url": "https://music.apple.com/us/album/not-afraid/1517894593?i=1517894601",
+        "playParams": {
+          "id": "1517894601",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Not Afraid",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d7/1a/be/d71abeb8-5d18-bbe7-309a-b850b6bf6ff3/mzaf_9783827508967539610.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Eminem"
+      }
+    },
+    "1517894609": {
+      "id": "1517894609",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Recovery (Deluxe Edition)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 15,
+        "releaseDate": "2010-06-18",
+        "durationInMillis": 263373,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71015397",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/da/5f/6ada5fd5-5e05-20bc-4bb0-6c0f1f0d91cd/10UMGIM14533.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "22282f",
+          "textColor2": "1b1c1d",
+          "textColor4": "32373b",
+          "textColor1": "07090e",
+          "bgColor": "8ea3b6",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marshall Mathers, Alex Da Kid & Holly Hafermann",
+        "url": "https://music.apple.com/us/album/love-the-way-you-lie-feat-rihanna/1517894593?i=1517894609",
+        "playParams": {
+          "id": "1517894609",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Love the Way You Lie (feat. Rihanna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0c/99/f3/0c99f3e5-6513-b782-547b-95905a95c219/mzaf_1565741200826632484.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      }
+    }
+  }
+}

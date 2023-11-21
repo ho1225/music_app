@@ -18,7 +18,7 @@ const DetailsHeader = ({ artistId, artistData, songData }) => {
 
         <div className="ml-5">
           <p className="text-white font-bold sm:text-3xl text-xl">
-            {artistId ? artists?.name : songData?.title}
+            {artistId ? artist?.name : songData?.title}
           </p>
           {!artistId && (
             <Link to={`/artists/${songData?.artists[0].adamid}`}>

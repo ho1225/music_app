@@ -1,0 +1,1991 @@
+{
+  "artists": {
+    "1262931166": {
+      "id": "1262931166",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Dance"],
+        "name": "Acraze",
+        "artwork": {
+          "width": 2668,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1c/cd/11/1ccd11ad-de17-c3c9-a66c-9b4e38de37d9/7228bb8c-9ba1-4a18-9754-52c153be7b3c_ami-identity-a33846391d26f3410d89dac18e47766c-2022-10-05T00-20-54.707Z_cropped.png/{w}x{h}bb.jpg",
+          "height": 2668,
+          "textColor3": "c2af22",
+          "textColor2": "fe3935",
+          "textColor4": "cc2f2b",
+          "textColor1": "f1d929",
+          "bgColor": "070707",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/acraze/1262931166"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1711310848",
+              "type": "albums"
+            },
+            {
+              "id": "1662156560",
+              "type": "albums"
+            },
+            {
+              "id": "1629371666",
+              "type": "albums"
+            },
+            {
+              "id": "1692899357",
+              "type": "albums"
+            },
+            {
+              "id": "1692877348",
+              "type": "albums"
+            },
+            {
+              "id": "1619429100",
+              "type": "albums"
+            },
+            {
+              "id": "1641438587",
+              "type": "albums"
+            },
+            {
+              "id": "1672473265",
+              "type": "albums"
+            },
+            {
+              "id": "1703899013",
+              "type": "albums"
+            },
+            {
+              "id": "1639450096",
+              "type": "albums"
+            },
+            {
+              "id": "1683707685",
+              "type": "albums"
+            },
+            {
+              "id": "1660549232",
+              "type": "albums"
+            },
+            {
+              "id": "1491626700",
+              "type": "albums"
+            },
+            {
+              "id": "1614934435",
+              "type": "albums"
+            },
+            {
+              "id": "1579983158",
+              "type": "albums"
+            },
+            {
+              "id": "1612734810",
+              "type": "albums"
+            },
+            {
+              "id": "1617316560",
+              "type": "albums"
+            },
+            {
+              "id": "1480746740",
+              "type": "albums"
+            },
+            {
+              "id": "1518963544",
+              "type": "albums"
+            },
+            {
+              "id": "1714747422",
+              "type": "albums"
+            },
+            {
+              "id": "1646562059",
+              "type": "albums"
+            },
+            {
+              "id": "1635874057",
+              "type": "albums"
+            },
+            {
+              "id": "1609524100",
+              "type": "albums"
+            },
+            {
+              "id": "1549126853",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1711310848",
+              "type": "albums"
+            }
+          ]
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1579983161",
+              "type": "songs"
+            },
+            {
+              "id": "1646562060",
+              "type": "songs"
+            },
+            {
+              "id": "1609524112",
+              "type": "songs"
+            },
+            {
+              "id": "1672473267",
+              "type": "songs"
+            },
+            {
+              "id": "1683708497",
+              "type": "songs"
+            },
+            {
+              "id": "1549126854",
+              "type": "songs"
+            },
+            {
+              "id": "1617317061",
+              "type": "songs"
+            },
+            {
+              "id": "1594463847",
+              "type": "songs"
+            },
+            {
+              "id": "1617317063",
+              "type": "songs"
+            },
+            {
+              "id": "1639450323",
+              "type": "songs"
+            },
+            {
+              "id": "1480746742",
+              "type": "songs"
+            },
+            {
+              "id": "1587443607",
+              "type": "songs"
+            },
+            {
+              "id": "1692899360",
+              "type": "songs"
+            },
+            {
+              "id": "1614934439",
+              "type": "songs"
+            },
+            {
+              "id": "1612734812",
+              "type": "songs"
+            },
+            {
+              "id": "1585230208",
+              "type": "songs"
+            },
+            {
+              "id": "1660102683",
+              "type": "songs"
+            },
+            {
+              "id": "1635874059",
+              "type": "songs"
+            },
+            {
+              "id": "1660685153",
+              "type": "songs"
+            },
+            {
+              "id": "1660102689",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "1480746742": {
+      "id": "1480746742",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Bang Bang - Single",
+        "genreNames": ["Dubstep", "Music", "Electronic"],
+        "trackNumber": 1,
+        "releaseDate": "2019-11-01",
+        "durationInMillis": 148800,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUS11900494",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dd/fe/59/ddfe59a2-ae5e-242a-ce68-f969fa49c394/0617465008849.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2b3300",
+          "textColor2": "651408",
+          "textColor4": "7c4307",
+          "textColor1": "000000",
+          "bgColor": "d7ff00",
+          "hasP3": false
+        },
+        "composerName": "Charles Duncker & Robert McKeon",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/bang-bang/1480746740?i=1480746742",
+        "playParams": {
+          "id": "1480746742",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Bang Bang",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/68/61/9f/68619f5c-2a73-6c9d-971c-b2e9e3696c88/mzaf_1410690084414655920.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "4B & Acraze",
+        "contentRating": "explicit"
+      }
+    },
+    "1549126854": {
+      "id": "1549126854",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Funky Town - Single",
+        "genreNames": ["House", "Music", "Dance"],
+        "trackNumber": 1,
+        "durationInMillis": 157465,
+        "releaseDate": "2020-12-11",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "GBKQU2102696",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/56/b4/d7/56b4d7f6-d662-d96d-b5d7-46a33abbcba6/cover.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cdd2d4",
+          "textColor2": "29bdf5",
+          "textColor4": "29a5d3",
+          "textColor1": "f6f6f6",
+          "bgColor": "2a454e",
+          "hasP3": false
+        },
+        "audioLocale": "zxx",
+        "url": "https://music.apple.com/us/album/funky-town/1549126853?i=1549126854",
+        "playParams": {
+          "id": "1549126854",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Funky Town",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5c/c5/c3/5cc5c33e-6057-b387-efb2-503daa35febe/mzaf_16930578922991420278.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1579983161": {
+      "id": "1579983161",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Do It To It (feat. Cherish) - Single",
+        "genreNames": ["Dance", "Music", "Classical"],
+        "trackNumber": 1,
+        "releaseDate": "2021-08-20",
+        "durationInMillis": 157890,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100100",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3b/da/58/3bda58c3-4cb9-b30d-b455-035010707df9/21UMGIM70915.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3e3737",
+          "textColor2": "321d13",
+          "textColor4": "58463f",
+          "textColor1": "110a08",
+          "bgColor": "f2ebf2",
+          "hasP3": false
+        },
+        "composerName": "Farrah King, John Williams, Neosha King Lawrence, Charles Duncker & Sean Paul Joseph",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish/1579983158?i=1579983161",
+        "playParams": {
+          "id": "1579983161",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Do It To It (feat. Cherish)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0f/6b/c4/0f6bc40e-10ac-dae1-7a17-b31eece54be1/mzaf_15191402832439283824.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1585230208": {
+      "id": "1585230208",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Everybody Loves A Mixtape, Vol. 6: Brand New (DJ Mix)",
+        "genreNames": ["House", "Music", "Dance"],
+        "trackNumber": 8,
+        "durationInMillis": 254996,
+        "releaseDate": "2021-09-17",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1906112",
+        "artwork": {
+          "width": 2000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/20/bf/e720bf5c-23d0-1fc1-7d0e-18731fe9bd09/Fatboy_Slim_-_Everybody_Loves_A_Mixtape_-_Volume_6.png/{w}x{h}bb.jpg",
+          "height": 2000,
+          "textColor3": "c4b7a6",
+          "textColor2": "ebd9cd",
+          "textColor4": "bcada4",
+          "textColor1": "f4e4cf",
+          "bgColor": "040000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-love-tonight-mixed/1585230200?i=1585230208",
+        "playParams": {
+          "id": "1585230208",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish) / Love Tonight (Mixed)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/79/f0/3f79f0a7-b120-6724-4899-10a555d1c957/mzaf_10514059703422538343.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze & Shouse"
+      }
+    },
+    "1587443607": {
+      "id": "1587443607",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Today’s Hits: September 2021 (DJ Mix)",
+        "genreNames": ["Pop", "Music", "Dance"],
+        "trackNumber": 3,
+        "durationInMillis": 128486,
+        "releaseDate": "2021-10-01",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1907951",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/63/11/c9/6311c9a1-edcc-2154-5974-889364d02e92/mza_16754963754405750241.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "31302f",
+          "textColor2": "2f2113",
+          "textColor4": "574b3e",
+          "textColor1": "000000",
+          "bgColor": "f7f3ed",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-mixed/1587443604?i=1587443607",
+        "playParams": {
+          "id": "1587443607",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/11/52/5911525b-3e52-6829-e6b7-3ca45bdbc251/mzaf_13097805632757297214.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1594463847": {
+      "id": "1594463847",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Tiësto at EDC Las Vegas 2021: Kinetic Field Stage (DJ Mix)",
+        "genreNames": ["Dance", "Music", "House"],
+        "trackNumber": 8,
+        "releaseDate": "2021-10-23",
+        "durationInMillis": 150012,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1913153",
+        "artwork": {
+          "width": 2000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ac/cb/f3/accbf323-a631-12eb-3977-0563254dd89e/mza_8588403352509644499.png/{w}x{h}bb.jpg",
+          "height": 2000,
+          "textColor3": "cdcaae",
+          "textColor2": "dcdcdf",
+          "textColor4": "b1b1b4",
+          "textColor1": "fffcd8",
+          "bgColor": "070707",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-ti%C3%ABsto-remix-mixed/1594463838?i=1594463847",
+        "playParams": {
+          "id": "1594463847",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish) [Tiësto Remix] [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/47/a7/24/47a724de-520d-4361-f4c0-6a162f906c72/mzaf_15713764716674779537.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1609524112": {
+      "id": "1609524112",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Do It To It (Tiësto Remix) [feat. Cherish & Tiësto] - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-02-25",
+        "durationInMillis": 125280,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100131",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/5f/24/655f249a-162f-7d6b-fc09-53bcdde7ff60/22UMGIM10831.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "393937",
+          "textColor2": "452b21",
+          "textColor4": "6a554d",
+          "textColor1": "080705",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Farrah King, Neosha King Lawrence, Rodney Richard, Sean Paul Joseph, John Williams & Charles Duncker",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-ti%C3%ABsto-ti%C3%ABsto-remix/1609524100?i=1609524112",
+        "playParams": {
+          "id": "1609524112",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish & Tiësto) [Tiësto Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0c/3f/a8/0c3fa887-34df-4152-2ce6-97c9292faa2c/mzaf_3881269690399305583.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1612734812": {
+      "id": "1612734812",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Do It To It (feat. Cherish & Andrew Rayel) [Andrew Rayel Remix] - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-03-18",
+        "durationInMillis": 146000,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100144",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/fa/ea/f5faead8-156d-9d55-3461-6e5a97a15e3c/22UMGIM20255.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "39383d",
+          "textColor2": "301b14",
+          "textColor4": "554441",
+          "textColor1": "0d0c0e",
+          "bgColor": "ebe9f6",
+          "hasP3": false
+        },
+        "composerName": "Farrah King, Neosha King Lawrence, Rodney Richard, Sean Paul Joseph, John Williams & Charles Duncker",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-andrew-rayel-andrew-rayel-remix/1612734810?i=1612734812",
+        "playParams": {
+          "id": "1612734812",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish & Andrew Rayel) [Andrew Rayel Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a4/5f/12/a45f1295-944d-30c3-b5ba-372d49826a87/mzaf_10265271119077258993.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1614934439": {
+      "id": "1614934439",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Do It To It (Sub Focus Remix) [feat. Cherish & Sub Focus] - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2021-08-20",
+        "durationInMillis": 157890,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100100",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/57/d4/d057d425-12dc-88b9-f049-268077659721/22UMGIM25859.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "39383d",
+          "textColor2": "301b14",
+          "textColor4": "554441",
+          "textColor1": "0d0c0e",
+          "bgColor": "ebe9f6",
+          "hasP3": false
+        },
+        "composerName": "Farrah King, John Williams, Neosha King Lawrence, Charles Duncker & Sean Paul Joseph",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish/1614934435?i=1614934439",
+        "playParams": {
+          "id": "1614934439",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Do It To It (feat. Cherish)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6d/c1/bf/6dc1bfe8-5014-1d16-bcb2-f9de756266e0/mzaf_3715663170753642528.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1617317061": {
+      "id": "1617317061",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Do It To It (feat. Subtronics & Cherish) [Subtronics Remix] - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-04-15",
+        "durationInMillis": 147310,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100163",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/43/13/23431347-d676-0a80-545e-093583b625e2/22SYMIM00203.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3d3a37",
+          "textColor2": "432d20",
+          "textColor4": "66554b",
+          "textColor1": "0f0c07",
+          "bgColor": "f4f3f8",
+          "hasP3": false
+        },
+        "composerName": "Farrah King, John Williams, Neosha King Lawrence, Charles Duncker & Sean Paul Joseph",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-subtronics-cherish-subtronics-remix/1617316560?i=1617317061",
+        "playParams": {
+          "id": "1617317061",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Subtronics & Cherish) [Subtronics Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5d/db/f0/5ddbf068-6e71-9159-ad3f-f0a932347181/mzaf_17689970632942390998.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1617317063": {
+      "id": "1617317063",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Do It To It (feat. Subtronics & Cherish) [Subtronics Remix] - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2021-08-20",
+        "durationInMillis": 157890,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100100",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/43/13/23431347-d676-0a80-545e-093583b625e2/22SYMIM00203.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3d3a37",
+          "textColor2": "432d20",
+          "textColor4": "66554b",
+          "textColor1": "0f0c07",
+          "bgColor": "f4f3f8",
+          "hasP3": false
+        },
+        "composerName": "Farrah King, John Williams, Neosha King Lawrence, Charles Duncker & Sean Paul Joseph",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish/1617316560?i=1617317063",
+        "playParams": {
+          "id": "1617317063",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Do It To It (feat. Cherish)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/32/f5/18/32f518c0-4e3d-2bd5-a6fa-eb4d85939b99/mzaf_12413089963502511374.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1635874059": {
+      "id": "1635874059",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Do It To It (Habstrakt Remix) [feat. Cherish & Habstrakt] - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 185714,
+        "releaseDate": "2022-08-05",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100210",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a7/6f/69/a76f697b-0309-b607-7fc8-a319322b3e18/22SYMIM00885.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "363536",
+          "textColor2": "312317",
+          "textColor4": "564941",
+          "textColor1": "090a0a",
+          "bgColor": "ebe1e9",
+          "hasP3": false
+        },
+        "composerName": "Farrah King, John Williams, Neosha King Lawrence, Charles Duncker & Sean Paul Joseph",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-habstrakt-habstrakt-remix/1635874057?i=1635874059",
+        "playParams": {
+          "id": "1635874059",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish & Habstrakt) [Habstrakt Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ae/34/0a/ae340a45-86ad-9fcb-44b3-dbf1ad89fcaf/mzaf_16313594912831534699.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1639450323": {
+      "id": "1639450323",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Do It To It (feat. Cherish) [More Remixes?!] - EP",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2022-08-26",
+        "durationInMillis": 176645,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100211",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9e/a5/c3/9ea5c340-2979-65ae-1022-df0296f62156/22SYMIM00870.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3b3535",
+          "textColor2": "422b1e",
+          "textColor4": "645149",
+          "textColor1": "0f0705",
+          "bgColor": "eeedf5",
+          "hasP3": false
+        },
+        "composerName": "Farrah King, John Williams, Neosha King Lawrence, Charles Duncker & Sean Paul Joseph",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-yookie-remix/1639450096?i=1639450323",
+        "playParams": {
+          "id": "1639450323",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish) [YOOKiE Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ee/51/18/ee511896-82c5-81dc-d22f-24d4773bc0c4/mzaf_4700528039826375252.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1646562060": {
+      "id": "1646562060",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Believe (feat. Goodboys) - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-10-07",
+        "durationInMillis": 188710,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72218110",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2b/37/74/2b37747e-81cf-370f-5ed4-9b40abf4ff46/22UMGIM89004.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "48231b",
+          "textColor4": "6c4f49",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Dirk Duderstadt, Marco Duderstadt, Ramon Zenker, Robert Berkeley Davis & Victor Imbres",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/believe-feat-goodboys/1646562059?i=1646562060",
+        "playParams": {
+          "id": "1646562060",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Believe (feat. Goodboys)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b3/de/fe/b3defee8-c348-8e94-6bf8-df104d9b330c/mzaf_6423964996824653367.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1660102683": {
+      "id": "1660102683",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "NYE 2023 (DJ Mix)",
+        "genreNames": ["Electronic", "Music", "Dance"],
+        "trackNumber": 2,
+        "durationInMillis": 179177,
+        "releaseDate": "2022-12-23",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1984657",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/b3/d6/5fb3d604-863c-1b07-2a1c-fb5e3f10f88d/6944e6b6-a87e-4d07-8838-41354d7ec763.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f2b23",
+          "textColor2": "34271a",
+          "textColor4": "594b38",
+          "textColor1": "000000",
+          "bgColor": "ebd9b3",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/believe-feat-goodboys-mixed/1660102681?i=1660102683",
+        "playParams": {
+          "id": "1660102683",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Believe (feat. Goodboys) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/65/e9/ad/65e9ade7-b42e-25ec-8385-f053d584a3b2/mzaf_9260860541001010152.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1660102689": {
+      "id": "1660102689",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "NYE 2023 (DJ Mix)",
+        "genreNames": ["Electronic", "Music", "Dance"],
+        "trackNumber": 8,
+        "releaseDate": "2022-12-23",
+        "durationInMillis": 90024,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1984663",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/b3/d6/5fb3d604-863c-1b07-2a1c-fb5e3f10f88d/6944e6b6-a87e-4d07-8838-41354d7ec763.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f2b23",
+          "textColor2": "34271a",
+          "textColor4": "594b38",
+          "textColor1": "000000",
+          "bgColor": "ebd9b3",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-ti%C3%ABsto-ti%C3%ABsto-remix-mixed/1660102681?i=1660102689",
+        "playParams": {
+          "id": "1660102689",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish & Tiësto) [Tiësto Remix] [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b5/f6/8c/b5f68cf3-0365-139c-dff5-9c464fe57a5a/mzaf_16057926619145520822.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1660685153": {
+      "id": "1660685153",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Fitness: Run, January 2023 (DJ Mix)",
+        "genreNames": ["Dance", "Music", "House"],
+        "trackNumber": 7,
+        "durationInMillis": 107848,
+        "releaseDate": "2023-01-02",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1985902",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/66/ba/7966ba69-8398-b87e-49c5-3ae7736217d7/8ac0689c-e5dd-4cce-ab65-c928e2fedcc8.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f3230",
+          "textColor2": "2b2d2c",
+          "textColor4": "515553",
+          "textColor1": "000100",
+          "bgColor": "ebf6f0",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-ti%C3%ABsto-ti%C3%ABsto-remix-hot-in-it-mixed/1660684995?i=1660685153",
+        "playParams": {
+          "id": "1660685153",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Do It To It (feat. Cherish & Tiësto) [Tiësto Remix] / Hot In It (Mixed)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3b/7d/20/3b7d20c2-2ba9-d411-8861-e80365845bc2/mzaf_2268887673426185700.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Tiësto, Charli XCX & Acraze"
+      }
+    },
+    "1672473267": {
+      "id": "1672473267",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Take Me Away - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 179529,
+        "releaseDate": "2023-03-03",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72301826",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/94/04/7894047d-ba3e-7753-4d97-b8fe869e8796/23UMGIM09760.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfcfcf",
+          "textColor2": "dddddd",
+          "textColor4": "bababa",
+          "textColor1": "f7f7f7",
+          "bgColor": "2e2e2e",
+          "hasP3": false
+        },
+        "composerName": "Natasha Bedingfield, Danielle Brisebois & John Shanks",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/take-me-away/1672473265?i=1672473267",
+        "playParams": {
+          "id": "1672473267",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Take Me Away",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/cd/22/a1/cd22a12e-39c9-ceac-17f0-5fadc9a0b003/mzaf_16850302304537264879.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    },
+    "1683708497": {
+      "id": "1683708497",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Otherside - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2023-05-05",
+        "durationInMillis": 202941,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72305553",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/68/f5/5968f507-6f70-bda0-b5d1-9a6feac1e778/23UMGIM37513.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "1a252b",
+          "textColor2": "0e2730",
+          "textColor4": "254452",
+          "textColor1": "000000",
+          "bgColor": "82b9d8",
+          "hasP3": false
+        },
+        "composerName": "Charles Duncker, Nick Henriques, Paul John Harris, James Frederick Hurr & Paige Brianna Cavell Williams",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/the-otherside/1683707685?i=1683708497",
+        "playParams": {
+          "id": "1683708497",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "The Otherside",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/67/b3/44/67b34470-19db-d543-4f60-207972ebec7c/mzaf_2335709923898843577.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze & Paige Cavell"
+      }
+    },
+    "1692899360": {
+      "id": "1692899360",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "In A Dream - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2023-07-07",
+        "durationInMillis": 154545,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZFPL2100405",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/01/d6/d701d6aa-c580-d332-6bde-15616805d07f/23SYMIM05230.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a9a2b2",
+          "textColor2": "d0a4b3",
+          "textColor4": "ac8894",
+          "textColor1": "ccc3d8",
+          "bgColor": "1c1c1c",
+          "hasP3": false
+        },
+        "composerName": "Randy Taylor-Weber, Alexandra E Forbes & Michael James Zager",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/in-a-dream/1692899357?i=1692899360",
+        "playParams": {
+          "id": "1692899360",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "In A Dream",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bd/a3/50/bda35023-1016-958e-c39d-0a4d1716d579/mzaf_15244797848893565048.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Acraze"
+      }
+    }
+  },
+  "albums": {
+    "1480746740": {
+      "id": "1480746740",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Ultra Records, LLC",
+        "genreNames": ["Dubstep", "Music", "Electronic"],
+        "releaseDate": "2019-11-01",
+        "upc": "0617465008849",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dd/fe/59/ddfe59a2-ae5e-242a-ce68-f969fa49c394/0617465008849.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2b3300",
+          "textColor2": "651408",
+          "textColor4": "7c4307",
+          "textColor1": "000000",
+          "bgColor": "d7ff00",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/bang-bang-single/1480746740",
+        "playParams": {
+          "id": "1480746740",
+          "kind": "album"
+        },
+        "recordLabel": "Ultra Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Bang Bang - Single",
+        "artistName": "4B & Acraze",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1491626700": {
+      "id": "1491626700",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 1012 Entertainment LLC",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2019-12-13",
+        "isMasteredForItunes": false,
+        "upc": "194997628092",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/19/27/e2/1927e2f0-8b84-8b5e-c16d-67508042f5d5/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2c2c2",
+          "textColor2": "c8c8c8",
+          "textColor4": "a4a4a4",
+          "textColor1": "ededed",
+          "bgColor": "161616",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/face-down-single/1491626700",
+        "playParams": {
+          "id": "1491626700",
+          "kind": "album"
+        },
+        "recordLabel": "1012 Entertainment LLC",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Face Down - Single",
+        "artistName": "NateTaylorr & Acraze",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1518963544": {
+      "id": "1518963544",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Bad Trip Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Vocal"],
+        "releaseDate": "2020-06-19",
+        "upc": "195396759219",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4f/73/e9/4f73e9a1-0ba4-cfa0-8f55-99163c0eae93/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d5d5d5",
+          "textColor2": "cdcdca",
+          "textColor4": "adadab",
+          "textColor1": "ffffff",
+          "bgColor": "2e2e2e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/black-lives-matter-single/1518963544",
+        "playParams": {
+          "id": "1518963544",
+          "kind": "album"
+        },
+        "recordLabel": "Bad Trip Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Black Lives Matter! - Single",
+        "artistName": "City Tucker & Acraze",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1549126853": {
+      "id": "1549126853",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Black Jack Records",
+        "genreNames": ["House", "Music", "Dance"],
+        "releaseDate": "2020-12-11",
+        "isMasteredForItunes": false,
+        "upc": "5054285604663",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/56/b4/d7/56b4d7f6-d662-d96d-b5d7-46a33abbcba6/cover.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cdd2d4",
+          "textColor2": "29bdf5",
+          "textColor4": "29a5d3",
+          "textColor1": "f6f6f6",
+          "bgColor": "2a454e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/funky-town-single/1549126853",
+        "playParams": {
+          "id": "1549126853",
+          "kind": "album"
+        },
+        "recordLabel": "Black Jack Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Funky Town - Single",
+        "artistName": "Acraze",
+        "isComplete": false
+      }
+    },
+    "1579983158": {
+      "id": "1579983158",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music", "Classical"],
+        "releaseDate": "2021-08-20",
+        "isMasteredForItunes": false,
+        "upc": "00842812154461",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3b/da/58/3bda58c3-4cb9-b30d-b455-035010707df9/21UMGIM70915.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3e3737",
+          "textColor2": "321d13",
+          "textColor4": "58463f",
+          "textColor1": "110a08",
+          "bgColor": "f2ebf2",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-single/1579983158",
+        "playParams": {
+          "id": "1579983158",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music, LLC",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Do It To It (feat. Cherish) - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1609524100": {
+      "id": "1609524100",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-02-25",
+        "isMasteredForItunes": false,
+        "upc": "00842812162916",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/5f/24/655f249a-162f-7d6b-fc09-53bcdde7ff60/22UMGIM10831.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "393937",
+          "textColor2": "452b21",
+          "textColor4": "6a554d",
+          "textColor1": "080705",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/do-it-to-it-ti%C3%ABsto-remix-feat-cherish-ti%C3%ABsto-single/1609524100",
+        "playParams": {
+          "id": "1609524100",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Do It To It (Tiësto Remix) [feat. Cherish & Tiësto] - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1612734810": {
+      "id": "1612734810",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-03-18",
+        "isMasteredForItunes": false,
+        "upc": "00842812165849",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/fa/ea/f5faead8-156d-9d55-3461-6e5a97a15e3c/22UMGIM20255.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "39383d",
+          "textColor2": "301b14",
+          "textColor4": "554441",
+          "textColor1": "0d0c0e",
+          "bgColor": "ebe9f6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-andrew-rayel-andrew-rayel/1612734810",
+        "playParams": {
+          "id": "1612734810",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Do It To It (feat. Cherish & Andrew Rayel) [Andrew Rayel Remix] - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1614934435": {
+      "id": "1614934435",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-04-01",
+        "isMasteredForItunes": false,
+        "upc": "00842812166891",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/57/d4/d057d425-12dc-88b9-f049-268077659721/22UMGIM25859.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "39383d",
+          "textColor2": "301b14",
+          "textColor4": "554441",
+          "textColor1": "0d0c0e",
+          "bgColor": "ebe9f6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/do-it-to-it-sub-focus-remix-feat-cherish-sub-focus-single/1614934435",
+        "playParams": {
+          "id": "1614934435",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Do It To It (Sub Focus Remix) [feat. Cherish & Sub Focus] - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1617316560": {
+      "id": "1617316560",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-04-15",
+        "isMasteredForItunes": false,
+        "upc": "00842812166617",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/43/13/23431347-d676-0a80-545e-093583b625e2/22SYMIM00203.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3d3a37",
+          "textColor2": "432d20",
+          "textColor4": "66554b",
+          "textColor1": "0f0c07",
+          "bgColor": "f4f3f8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-subtronics-cherish-subtronics-remix-single/1617316560",
+        "playParams": {
+          "id": "1617316560",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Do It To It (feat. Subtronics & Cherish) [Subtronics Remix] - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1619429100": {
+      "id": "1619429100",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-04-29",
+        "upc": "00842812168727",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/e8/8b/54e88b65-c3a9-45b1-3f7e-7fb4314bc16d/22SYMIM00247.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "39383d",
+          "textColor2": "301b14",
+          "textColor4": "554441",
+          "textColor1": "0d0c0e",
+          "bgColor": "ebe9f6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-remixes-ep/1619429100",
+        "playParams": {
+          "id": "1619429100",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music",
+        "trackCount": 6,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Do It To It (feat. Cherish) [Remixes] - EP",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1629371666": {
+      "id": "1629371666",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["Electronic", "Music", "Dance"],
+        "releaseDate": "2022-05-20",
+        "upc": "5056381897659",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/df/fa/d0/dffad0f0-75ce-28a7-3207-b04a3ad4f433/Acraze_EDCLV22.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "e3d7b3",
+          "textColor2": "ffa630",
+          "textColor4": "e3922d",
+          "textColor1": "fffcd8",
+          "bgColor": "754724",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/acraze-at-edc-las-vegas-2022-cosmic-meadow-stage-dj-mix/1629371666",
+        "playParams": {
+          "id": "1629371666",
+          "kind": "album"
+        },
+        "trackCount": 36,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Acraze at EDC Las Vegas 2022: Cosmic Meadow Stage (DJ Mix)",
+        "artistName": "Acraze",
+        "contentRating": "explicit",
+        "isComplete": false
+      }
+    },
+    "1635874057": {
+      "id": "1635874057",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-08-05",
+        "isMasteredForItunes": false,
+        "upc": "00842812175404",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a7/6f/69/a76f697b-0309-b607-7fc8-a319322b3e18/22SYMIM00885.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "363536",
+          "textColor2": "312317",
+          "textColor4": "564941",
+          "textColor1": "090a0a",
+          "bgColor": "ebe1e9",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/do-it-to-it-habstrakt-remix-feat-cherish-habstrakt-single/1635874057",
+        "playParams": {
+          "id": "1635874057",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Do It To It (Habstrakt Remix) [feat. Cherish & Habstrakt] - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1639450096": {
+      "id": "1639450096",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-08-26",
+        "upc": "00842812174704",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9e/a5/c3/9ea5c340-2979-65ae-1022-df0296f62156/22SYMIM00870.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3b3535",
+          "textColor2": "422b1e",
+          "textColor4": "645149",
+          "textColor1": "0f0705",
+          "bgColor": "eeedf5",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/do-it-to-it-feat-cherish-more-remixes-ep/1639450096",
+        "playParams": {
+          "id": "1639450096",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music",
+        "trackCount": 4,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Do It To It (feat. Cherish) [More Remixes?!] - EP",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1641438587": {
+      "id": "1641438587",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "releaseDate": "2022-07-30",
+        "isMasteredForItunes": false,
+        "upc": "5056381883713",
+        "artwork": {
+          "width": 2048,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/3c/76/1c3c76b2-d7f4-5884-145b-b459f54d850f/f080c8d2-e611-4c1d-905d-2495547c6c1e.jpg/{w}x{h}bb.jpg",
+          "height": 2048,
+          "textColor3": "c6965e",
+          "textColor2": "d1bba6",
+          "textColor4": "ad9a89",
+          "textColor1": "f1b570",
+          "bgColor": "1d1815",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/tomorrowland-2022-acraze-at-mainstage-weekend-3-dj-mix/1641438587",
+        "playParams": {
+          "id": "1641438587",
+          "kind": "album"
+        },
+        "trackCount": 28,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Tomorrowland 2022: Acraze at Mainstage, Weekend 3 (DJ Mix)",
+        "artistName": "Acraze",
+        "contentRating": "explicit",
+        "isComplete": false
+      }
+    },
+    "1646562059": {
+      "id": "1646562059",
+      "type": "albums",
+      "attributes": {
+        "copyright": "Thrive Music/Capitol Records; ℗ 2022 UMG Recordings, Inc.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-10-07",
+        "upc": "00602448438140",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2b/37/74/2b37747e-81cf-370f-5ed4-9b40abf4ff46/22UMGIM89004.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "48231b",
+          "textColor4": "6c4f49",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/believe-feat-goodboys-single/1646562059",
+        "playParams": {
+          "id": "1646562059",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music/Capitol Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Believe (feat. Goodboys) - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1660549232": {
+      "id": "1660549232",
+      "type": "albums",
+      "attributes": {
+        "copyright": "Thrive Music/Capitol Records; ℗ 2023 UMG Recordings, Inc.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-01-06",
+        "isMasteredForItunes": true,
+        "upc": "00602455045942",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9d/02/9c/9d029c7c-1583-b701-f28a-1e2094c616a3/22UM1IM39105.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "302524",
+          "textColor2": "41191a",
+          "textColor4": "623737",
+          "textColor1": "020302",
+          "bgColor": "e9afae",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/believe-galantis-remix-feat-goodboys-single/1660549232",
+        "playParams": {
+          "id": "1660549232",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music/Capitol Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Believe (Galantis Remix) [feat. Goodboys] - Single",
+        "artistName": "Acraze & Galantis",
+        "isComplete": true
+      }
+    },
+    "1662156560": {
+      "id": "1662156560",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["House", "Music", "Dance"],
+        "releaseDate": "2023-01-20",
+        "isMasteredForItunes": false,
+        "upc": "5056381876104",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/95/3e/2c/953e2c97-614e-c10d-2a1f-19fe2bc48c55/0580fa33-15e2-46d2-bf8d-bf8d2e63fa33.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "e3dec0",
+          "textColor2": "e4e9d1",
+          "textColor4": "cecfbb",
+          "textColor1": "fffcd8",
+          "bgColor": "756662",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/acraze-at-edc-orlando-2022-kinetic-field-stage-dj-mix/1662156560",
+        "playParams": {
+          "id": "1662156560",
+          "kind": "album"
+        },
+        "trackCount": 29,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Acraze at EDC Orlando 2022: Kinetic Field Stage (DJ Mix)",
+        "artistName": "Acraze",
+        "contentRating": "explicit",
+        "isComplete": false
+      }
+    },
+    "1672473265": {
+      "id": "1672473265",
+      "type": "albums",
+      "attributes": {
+        "copyright": "Thrive Music/Capitol Records; ℗ 2023 UMG Recordings, Inc.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-03-03",
+        "isMasteredForItunes": true,
+        "upc": "00602455263049",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/94/04/7894047d-ba3e-7753-4d97-b8fe869e8796/23UMGIM09760.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfcfcf",
+          "textColor2": "dddddd",
+          "textColor4": "bababa",
+          "textColor1": "f7f7f7",
+          "bgColor": "2e2e2e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/take-me-away-single/1672473265",
+        "playParams": {
+          "id": "1672473265",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music/Capitol Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Take Me Away - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1683707685": {
+      "id": "1683707685",
+      "type": "albums",
+      "attributes": {
+        "copyright": "Thrive Music/Capitol Records; ℗ 2023 UMG Recordings, Inc.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-05-05",
+        "upc": "00602455660886",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/68/f5/5968f507-6f70-bda0-b5d1-9a6feac1e778/23UMGIM37513.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "1a252b",
+          "textColor2": "0e2730",
+          "textColor4": "254452",
+          "textColor1": "000000",
+          "bgColor": "82b9d8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-otherside-single/1683707685",
+        "playParams": {
+          "id": "1683707685",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music/Capitol Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "The Otherside - Single",
+        "artistName": "Acraze & Paige Cavell",
+        "isComplete": true
+      }
+    },
+    "1692877348": {
+      "id": "1692877348",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["Electronic", "Music", "Dance"],
+        "releaseDate": "2023-05-20",
+        "upc": "5056381889869",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/14/fd/a114fd0f-8c01-e870-4be0-684498ded05f/28116cd6-074e-4a6d-b7a6-48b970fed0ac.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "251f1c",
+          "textColor2": "160f0d",
+          "textColor4": "312825",
+          "textColor1": "080401",
+          "bgColor": "9a8b87",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/acraze-at-edc-las-vegas-2023-circuit-grounds-stage-dj-mix/1692877348",
+        "playParams": {
+          "id": "1692877348",
+          "kind": "album"
+        },
+        "trackCount": 32,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Acraze at EDC Las Vegas 2023: Circuit Grounds Stage (DJ Mix)",
+        "artistName": "Acraze",
+        "contentRating": "explicit",
+        "isComplete": false
+      }
+    },
+    "1692899357": {
+      "id": "1692899357",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Thrive Music, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-07-07",
+        "upc": "00842812194702",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/01/d6/d701d6aa-c580-d332-6bde-15616805d07f/23SYMIM05230.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a9a2b2",
+          "textColor2": "d0a4b3",
+          "textColor4": "ac8894",
+          "textColor1": "ccc3d8",
+          "bgColor": "1c1c1c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/in-a-dream-single/1692899357",
+        "playParams": {
+          "id": "1692899357",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "In A Dream - Single",
+        "artistName": "Acraze",
+        "isComplete": true
+      }
+    },
+    "1703899013": {
+      "id": "1703899013",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "releaseDate": "2023-07-11",
+        "upc": "5059449463834",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/e8/86/aee886b4-6ecf-6766-fc2a-580a939ecddf/613a1976-24a5-41a0-9d34-3dbdd8e9136a.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333634",
+          "textColor2": "21271b",
+          "textColor4": "444a3d",
+          "textColor1": "0c0e0f",
+          "bgColor": "cfd7c8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/ushua%C3%AFa-ibiza-jul-11-2023-dj-mix/1703899013",
+        "playParams": {
+          "id": "1703899013",
+          "kind": "album"
+        },
+        "trackCount": 41,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Ushuaïa Ibiza: Jul 11, 2023 (DJ Mix)",
+        "artistName": "Acraze",
+        "contentRating": "explicit",
+        "isComplete": false
+      }
+    },
+    "1711310848": {
+      "id": "1711310848",
+      "type": "albums",
+      "attributes": {
+        "copyright": "Thrive Music/Capitol Records; ℗ 2023 UMG Recordings, Inc.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-10-20",
+        "isMasteredForItunes": true,
+        "upc": "00602458681963",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/5f/a6/fe5fa652-930c-4a58-847b-483692effc47/23UM1IM17983.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cec1ba",
+          "textColor2": "d6ad96",
+          "textColor4": "b08e7a",
+          "textColor1": "fbeee6",
+          "bgColor": "1b100e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/heard-it-like-this-single/1711310848",
+        "playParams": {
+          "id": "1711310848",
+          "kind": "album"
+        },
+        "recordLabel": "Thrive Music/Capitol Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Heard It Like This - Single",
+        "artistName": "Acraze & Joey Valence & Brae",
+        "isComplete": true
+      }
+    },
+    "1714747422": {
+      "id": "1714747422",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Ultra Records, LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2019-11-01",
+        "upc": "0617465008849",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/68/b5/a068b50d-fa2a-6a79-239a-a730e12dc2fc/0617465008849.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2b3300",
+          "textColor2": "390c00",
+          "textColor4": "593c00",
+          "textColor1": "000000",
+          "bgColor": "d9ff00",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/bang-bang-single/1714747422",
+        "playParams": {
+          "id": "1714747422",
+          "kind": "album"
+        },
+        "recordLabel": "Ultra Records, LLC",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Bang Bang - Single",
+        "artistName": "4B & Acraze",
+        "isComplete": true
+      }
+    }
+  }
+}

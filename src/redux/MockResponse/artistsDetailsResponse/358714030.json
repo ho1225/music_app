@@ -1,0 +1,2161 @@
+{
+  "artists": {
+    "358714030": {
+      "id": "358714030",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Alternative"],
+        "name": "Imagine Dragons",
+        "artwork": {
+          "width": 2399,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/{w}x{h}bb.jpg",
+          "height": 2399,
+          "textColor3": "b38766",
+          "textColor2": "d4a57e",
+          "textColor4": "aa8565",
+          "textColor1": "dfa77e",
+          "bgColor": "060405",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/imagine-dragons/358714030"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1411625594",
+              "type": "albums"
+            },
+            {
+              "id": "1437948883",
+              "type": "albums"
+            },
+            {
+              "id": "1440873107",
+              "type": "albums"
+            },
+            {
+              "id": "1617908569",
+              "type": "albums"
+            },
+            {
+              "id": "1574210519",
+              "type": "albums"
+            },
+            {
+              "id": "1440855747",
+              "type": "albums"
+            },
+            {
+              "id": "1445055473",
+              "type": "albums"
+            },
+            {
+              "id": "1437948593",
+              "type": "albums"
+            },
+            {
+              "id": "1440831203",
+              "type": "albums"
+            },
+            {
+              "id": "1445867303",
+              "type": "albums"
+            },
+            {
+              "id": "1641821680",
+              "type": "albums"
+            },
+            {
+              "id": "1607399614",
+              "type": "albums"
+            },
+            {
+              "id": "1445314543",
+              "type": "albums"
+            },
+            {
+              "id": "1445011665",
+              "type": "albums"
+            },
+            {
+              "id": "1445311373",
+              "type": "albums"
+            },
+            {
+              "id": "1698581714",
+              "type": "albums"
+            },
+            {
+              "id": "1589343103",
+              "type": "albums"
+            },
+            {
+              "id": "1440874670",
+              "type": "albums"
+            },
+            {
+              "id": "1440819698",
+              "type": "albums"
+            },
+            {
+              "id": "1445305269",
+              "type": "albums"
+            },
+            {
+              "id": "1445281053",
+              "type": "albums"
+            },
+            {
+              "id": "1445871978",
+              "type": "albums"
+            },
+            {
+              "id": "1589343066",
+              "type": "albums"
+            },
+            {
+              "id": "1589340541",
+              "type": "albums"
+            },
+            {
+              "id": "1445165659",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1411628233",
+              "type": "songs"
+            },
+            {
+              "id": "1411629089",
+              "type": "songs"
+            },
+            {
+              "id": "1411628148",
+              "type": "songs"
+            },
+            {
+              "id": "1125281480",
+              "type": "songs"
+            },
+            {
+              "id": "1440873126",
+              "type": "songs"
+            },
+            {
+              "id": "1440873339",
+              "type": "songs"
+            },
+            {
+              "id": "1437948973",
+              "type": "songs"
+            },
+            {
+              "id": "1437948987",
+              "type": "songs"
+            },
+            {
+              "id": "1591640885",
+              "type": "songs"
+            },
+            {
+              "id": "1440873335",
+              "type": "songs"
+            },
+            {
+              "id": "1612321591",
+              "type": "songs"
+            },
+            {
+              "id": "1440831624",
+              "type": "songs"
+            },
+            {
+              "id": "1440855802",
+              "type": "songs"
+            },
+            {
+              "id": "1440873406",
+              "type": "songs"
+            },
+            {
+              "id": "1440855760",
+              "type": "songs"
+            },
+            {
+              "id": "1396826754",
+              "type": "songs"
+            },
+            {
+              "id": "1557715151",
+              "type": "songs"
+            },
+            {
+              "id": "1440855797",
+              "type": "songs"
+            },
+            {
+              "id": "1411627254",
+              "type": "songs"
+            },
+            {
+              "id": "1440855804",
+              "type": "songs"
+            }
+          ]
+        },
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1704113652",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "1125281480": {
+      "id": "1125281480",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Suicide Squad: The Album",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "durationInMillis": 244173,
+        "releaseDate": "2016-06-24",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21601891",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/76/c0/2f76c0c7-5aaf-eb97-2002-f40c9ecde722/075679910486.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "8cc1a0",
+          "textColor2": "a3e8a6",
+          "textColor4": "8bba8c",
+          "textColor1": "a5f2bf",
+          "bgColor": "280024",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Alexander Grant, Benjamin McKee, Cameron Thomaz, Daniel Platzman, Daniel Reynolds, Daniel Sermon, Dwayne Carter, Josh Mosser, Robert Hall, Sam Harris & Tyrone Griffin Jr",
+        "playParams": {
+          "id": "1125281480",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/sucker-for-pain-with-logic-ty-dolla-%24ign-x-ambassadors/1125281254?i=1125281480",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fc/89/31/fc893124-8551-f64c-5b7f-e1e3192f6beb/mzaf_12694046657165414450.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Wayne, Wiz Khalifa & Imagine Dragons"
+      }
+    },
+    "1396826754": {
+      "id": "1396826754",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Born to Be Yours - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-06-15",
+        "durationInMillis": 193321,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "SEBGA1802355",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/17/2b/da172bc1-7e8e-40a9-4df7-444af93199a1/00602567797906.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cecfcf",
+          "textColor2": "7eb9cf",
+          "textColor4": "6798a9",
+          "textColor1": "ffffff",
+          "bgColor": "0d1313",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman & Kyrre Gørvell-Dahll",
+        "url": "https://music.apple.com/us/album/born-to-be-yours/1396826749?i=1396826754",
+        "playParams": {
+          "id": "1396826754",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo"],
+        "name": "Born to Be Yours",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a4/29/b2/a429b28f-a54d-735d-a8c8-1cd5d88bd864/mzaf_17345741013390733875.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Kygo & Imagine Dragons"
+      }
+    },
+    "1411627254": {
+      "id": "1411627254",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Evolve",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2017-06-23",
+        "durationInMillis": 230289,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71704654",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c5cdca",
+          "textColor2": "e7f1fa",
+          "textColor4": "bbc6cd",
+          "textColor1": "f4faf6",
+          "bgColor": "0a1a1a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman & Alex Da Kidd",
+        "playParams": {
+          "id": "1411627254",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/next-to-me/1411625594?i=1411627254",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Next To Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3a/eb/89/3aeb8937-7803-e2ee-13d5-1ca0f0aa755c/mzaf_5814010204276843763.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      }
+    },
+    "1411628148": {
+      "id": "1411628148",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Evolve",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 3,
+        "durationInMillis": 201241,
+        "releaseDate": "2017-05-09",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71703515",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c5cdca",
+          "textColor2": "e7f1fa",
+          "textColor4": "bbc6cd",
+          "textColor1": "f4faf6",
+          "bgColor": "0a1a1a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman & Joel Little",
+        "playParams": {
+          "id": "1411628148",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/whatever-it-takes/1411625594?i=1411628148",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Whatever It Takes",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e0/61/7b/e0617bcd-6c32-b984-f100-95b94259557f/mzaf_7118172328545116645.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      }
+    },
+    "1411628233": {
+      "id": "1411628233",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Evolve",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2017-02-01",
+        "durationInMillis": 204345,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71700626",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c5cdca",
+          "textColor2": "e7f1fa",
+          "textColor4": "bbc6cd",
+          "textColor1": "f4faf6",
+          "bgColor": "0a1a1a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Robin Fredriksson, Mattias Larsson & Justin Tranter",
+        "playParams": {
+          "id": "1411628233",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/believer/1411625594?i=1411628233",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Believer",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7a/82/0f/7a820f2e-8f2b-cc24-48c2-3727cfbff9be/mzaf_16148061659222287389.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      }
+    },
+    "1411629089": {
+      "id": "1411629089",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Evolve",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 10,
+        "durationInMillis": 187145,
+        "releaseDate": "2017-04-27",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71704167",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c5cdca",
+          "textColor2": "e7f1fa",
+          "textColor4": "bbc6cd",
+          "textColor1": "f4faf6",
+          "bgColor": "0a1a1a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Jayson Dezuzio & Alex Da Kidd",
+        "playParams": {
+          "id": "1411629089",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/thunder/1411625594?i=1411629089",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Thunder",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7b/1e/65/7b1e65f7-d5ea-900c-ec80-1dc7d6ebc798/mzaf_18278702660513450908.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      }
+    },
+    "1437948973": {
+      "id": "1437948973",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Origins (Deluxe)",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-07-16",
+        "durationInMillis": 189467,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71806694",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/80/a8/3f80a8ef-5409-42ac-c126-c7354698c7fc/18UMGIM65849.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d5dadb",
+          "textColor2": "bcd6d7",
+          "textColor4": "a0bcbc",
+          "textColor1": "fffbff",
+          "bgColor": "325750",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Robin Fredriksson, Mattias Larsson, Justin Tranter & Daniel Platzman",
+        "playParams": {
+          "id": "1437948973",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/natural/1437948883?i=1437948973",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Natural",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/08/ec/cb/08eccb21-4309-4a68-ace9-1b5c01530591/mzaf_6535699584079560546.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      }
+    },
+    "1437948987": {
+      "id": "1437948987",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Origins (Deluxe)",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 5,
+        "durationInMillis": 260770,
+        "releaseDate": "2018-11-09",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71816161",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/80/a8/3f80a8ef-5409-42ac-c126-c7354698c7fc/18UMGIM65849.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d5dadb",
+          "textColor2": "bcd6d7",
+          "textColor4": "a0bcbc",
+          "textColor1": "fffbff",
+          "bgColor": "325750",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Aja Volkman & Jorgen Odegard",
+        "playParams": {
+          "id": "1437948987",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/bad-liar/1437948883?i=1437948987",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Bad Liar",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/88/af/74/88af7447-b26a-9aea-9a1c-36680e8088f0/mzaf_4737691653720953725.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      }
+    },
+    "1440831624": {
+      "id": "1440831624",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Smoke + Mirrors (Deluxe)",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 18,
+        "durationInMillis": 170799,
+        "releaseDate": "2014-09-18",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71414163",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/a8/b0/b3a8b05f-7dfe-f557-6147-57e74dfdbebe/15UMGIM53209.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "e5c68c",
+          "textColor2": "f1cb86",
+          "textColor4": "dab46f",
+          "textColor1": "ffe2aa",
+          "bgColor": "7f5614",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Josh Mosser, Alex Da Kid, Dan Reynolds, Wayne Sermon, Ben McKee & Daniel Platzman",
+        "playParams": {
+          "id": "1440831624",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/warriors/1440831203?i=1440831624",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Warriors",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9e/17/48/9e1748e5-2dce-242d-e408-50491ae13a57/mzaf_4458566143615503906.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["1043732102", "1046978270"]
+      }
+    },
+    "1440855760": {
+      "id": "1440855760",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Night Visions (Deluxe Version)",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "trackNumber": 1,
+        "durationInMillis": 186813,
+        "releaseDate": "2012-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71201074",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/0e/ae/f30eaee3-d049-05ff-8b46-9cc61f2e2524/12UMGIM46900.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "a5a8af",
+          "textColor2": "dda39c",
+          "textColor4": "b68786",
+          "textColor1": "c7ccce",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Josh Mosser & Alex Da Kid",
+        "playParams": {
+          "id": "1440855760",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/radioactive/1440855747?i=1440855760",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Radioactive",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f1/8b/d9/f18bd9d0-76ac-f996-6212-c6b27ac02a9e/mzaf_15649817700546671496.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["598674961"]
+      }
+    },
+    "1440855797": {
+      "id": "1440855797",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Night Visions (Deluxe Version)",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "trackNumber": 3,
+        "releaseDate": "2011-03-12",
+        "durationInMillis": 240307,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71200987",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/0e/ae/f30eaee3-d049-05ff-8b46-9cc61f2e2524/12UMGIM46900.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "a5a8af",
+          "textColor2": "dda39c",
+          "textColor4": "b68786",
+          "textColor1": "c7ccce",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon & Ben McKee",
+        "url": "https://music.apple.com/us/album/its-time/1440855747?i=1440855797",
+        "playParams": {
+          "id": "1440855797",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "It's Time",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/05/e6/db/05e6db28-71fa-2531-b914-5cf73b3da92e/mzaf_4364963667412853730.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["598674963"]
+      }
+    },
+    "1440855802": {
+      "id": "1440855802",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Night Visions (Deluxe Version)",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "trackNumber": 4,
+        "releaseDate": "2012-01-01",
+        "durationInMillis": 177507,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71201071",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/0e/ae/f30eaee3-d049-05ff-8b46-9cc61f2e2524/12UMGIM46900.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "a5a8af",
+          "textColor2": "dda39c",
+          "textColor4": "b68786",
+          "textColor1": "c7ccce",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Josh Mosser, Alex Da Kid, Dan Reynolds, Wayne Sermon & Ben McKee",
+        "url": "https://music.apple.com/us/album/demons/1440855747?i=1440855802",
+        "playParams": {
+          "id": "1440855802",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Demons",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a0/38/93/a038936a-ac51-7bc0-a567-b898088613eb/mzaf_7878913852900596800.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["598674964"]
+      }
+    },
+    "1440855804": {
+      "id": "1440855804",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Night Visions (Deluxe Version)",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "trackNumber": 5,
+        "releaseDate": "2012-01-01",
+        "durationInMillis": 192280,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71201073",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/0e/ae/f30eaee3-d049-05ff-8b46-9cc61f2e2524/12UMGIM46900.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "a5a8af",
+          "textColor2": "dda39c",
+          "textColor4": "b68786",
+          "textColor1": "c7ccce",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "audioLocale": "af",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee & Alex Da Kid",
+        "url": "https://music.apple.com/us/album/on-top-of-the-world/1440855747?i=1440855804",
+        "playParams": {
+          "id": "1440855804",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "On Top of the World",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/da/91/ce/da91ce41-76c1-6adf-0ab2-3bbeb0eb34f0/mzaf_10070368756542584846.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["598674965"]
+      }
+    },
+    "1440873126": {
+      "id": "1440873126",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Night Visions",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "trackNumber": 1,
+        "releaseDate": "2012-09-04",
+        "durationInMillis": 186813,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71201074",
+        "artwork": {
+          "width": 1501,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1501,
+          "textColor3": "b9b1be",
+          "textColor2": "d59b99",
+          "textColor4": "b08185",
+          "textColor1": "e0d7e1",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Josh Mosser & Alex Da Kid",
+        "url": "https://music.apple.com/us/album/radioactive/1440873107?i=1440873126",
+        "playParams": {
+          "id": "1440873126",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Radioactive",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/be/66/b7/be66b7f1-7e62-4565-69db-27cb411b7b5c/mzaf_15274320387563800922.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["556852006", "555694740"]
+      }
+    },
+    "1440873335": {
+      "id": "1440873335",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Night Visions",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "trackNumber": 3,
+        "releaseDate": "2012-02-06",
+        "durationInMillis": 240307,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71200987",
+        "artwork": {
+          "width": 1501,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1501,
+          "textColor3": "b9b1be",
+          "textColor2": "d59b99",
+          "textColor4": "b08185",
+          "textColor1": "e0d7e1",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon & Ben McKee",
+        "url": "https://music.apple.com/us/album/its-time/1440873107?i=1440873335",
+        "playParams": {
+          "id": "1440873335",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "It's Time",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a2/97/b3/a297b37c-79d6-efc6-3e51-1fdb1e1e52e0/mzaf_1215028790244093696.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["555694744", "556852008"]
+      }
+    },
+    "1440873339": {
+      "id": "1440873339",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Night Visions",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "trackNumber": 4,
+        "releaseDate": "2012-09-04",
+        "durationInMillis": 177507,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71201071",
+        "artwork": {
+          "width": 1501,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1501,
+          "textColor3": "b9b1be",
+          "textColor2": "d59b99",
+          "textColor4": "b08185",
+          "textColor1": "e0d7e1",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Josh Mosser, Alex Da Kid, Dan Reynolds, Wayne Sermon & Ben McKee",
+        "url": "https://music.apple.com/us/album/demons/1440873107?i=1440873339",
+        "playParams": {
+          "id": "1440873339",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Demons",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a0/d5/39/a0d53912-c0b8-dd9b-9984-3024efea19d0/mzaf_13988353462109761443.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["555694745", "556852109"]
+      }
+    },
+    "1440873406": {
+      "id": "1440873406",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Night Visions",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "trackNumber": 5,
+        "releaseDate": "2012-09-04",
+        "durationInMillis": 192280,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71201073",
+        "artwork": {
+          "width": 1501,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1501,
+          "textColor3": "b9b1be",
+          "textColor2": "d59b99",
+          "textColor4": "b08185",
+          "textColor1": "e0d7e1",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee & Alex Da Kid",
+        "url": "https://music.apple.com/us/album/on-top-of-the-world/1440873107?i=1440873406",
+        "playParams": {
+          "id": "1440873406",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "On Top of the World",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/70/ee/76/70ee769e-f6b9-9379-fd5d-c779ad6307f5/mzaf_6239335904509457564.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      },
+      "meta": {
+        "formerIds": ["555694746", "556852110"]
+      }
+    },
+    "1557715151": {
+      "id": "1557715151",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Follow You / Cutthroat - Single",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2021-03-12",
+        "durationInMillis": 175644,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72102981",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/fe/b7/4ffeb7fd-e789-4faf-db3d-8145e19775fd/21UMGIM17772.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "302e2a",
+          "textColor2": "181715",
+          "textColor4": "423f3b",
+          "textColor1": "030100",
+          "bgColor": "e8e2d6",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Joel Little, Elley Duhé & Fran Hall",
+        "url": "https://music.apple.com/us/album/follow-you/1557714984?i=1557715151",
+        "playParams": {
+          "id": "1557715151",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Follow You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/22/cf/23/22cf2395-c1db-8b5b-8611-ef4d26a8684a/mzaf_7252341393677169868.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      }
+    },
+    "1591640885": {
+      "id": "1591640885",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Enemy (from the series Arcane League of Legends) - Single",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 173381,
+        "releaseDate": "2021-10-28",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72119916",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/76/77/08/767708a7-ec93-3b3d-3bac-40086e5a265c/21UM1IM29634.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cdd0ca",
+          "textColor2": "fe255c",
+          "textColor4": "cf224c",
+          "textColor1": "fcfef9",
+          "bgColor": "141a10",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Robin Fredriksson, Mattias Larsson, Justin Tranter & JID",
+        "playParams": {
+          "id": "1591640885",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/enemy-from-the-series-arcane-league-of-legends/1591640884?i=1591640885",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Enemy (from the series Arcane League of Legends)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9e/78/fe/9e78fef5-549d-5311-ea0c-00b34ad44432/mzaf_4079605946419172856.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons, JID, Arcane & League of Legends"
+      }
+    },
+    "1612321591": {
+      "id": "1612321591",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Bones - Single",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2021-03-11",
+        "durationInMillis": 165265,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72201759",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/87/c8/3387c827-adaa-681d-bd10-ce7d8e888b9c/22UMGIM21054.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d2c28",
+          "textColor2": "211d1a",
+          "textColor4": "48433d",
+          "textColor1": "000000",
+          "bgColor": "e3dccc",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman, Robin Fredriksson & Mattias Larsson",
+        "url": "https://music.apple.com/us/album/bones/1612321587?i=1612321591",
+        "playParams": {
+          "id": "1612321591",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Bones",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/85/bd/1e/85bd1eaa-8aa2-2f8c-d84d-bd66a525faf9/mzaf_17880216165394527644.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Imagine Dragons"
+      }
+    }
+  },
+  "albums": {
+    "1411625594": {
+      "id": "1411625594",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Pop", "Pop/Rock"],
+        "releaseDate": "2017-06-23",
+        "upc": "00602567491255",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c5cdca",
+          "textColor2": "e7f1fa",
+          "textColor4": "bbc6cd",
+          "textColor1": "f4faf6",
+          "bgColor": "0a1a1a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/evolve/1411625594",
+        "playParams": {
+          "id": "1411625594",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Evolve",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "Longtime Imagine Dragons fans will notice a newfound brightness on the Las Vegas band’s third album. That’s because frontman Dan Reynolds wrote most of it after coming out of a serious depression that had plagued him since childhood but worsened after the band’s first major tour to support its hugely successful 2012 debut album. Where 2015 follow-up <i>Smoke + Mirrors</i> had a heavier, darker bite, 2017's <i>Evolve</i> is noticeably lighter, buoyed by more heart, soul, and groove.\n\nSonically, this is the best-selling rock band of the 2010s going full-out pop. Sure, there are a few sizzles of power-ballad guitar tossed in for good measure, but <i>Evolve</i> is Imagine Dragons proving it can still galvanize the forces by dialing down on the thundering rock theatrics—just a bit. Even the militaristic stomp of a song literally called “Thunder” is tempered by giddy, helium-pumped vocals.\n\nIn a sense, Imagine Dragons’ evolution here is felt more in spirit than sound, and nothing says that more than the shuffling, gospel-tinged “Next To Me,” the band’s first big love song. The track was such a significant emotional shift—that the outfit decided to add it to the top of the album’s 2018 reissue. But it’s hardly the only glimmer of romance here. “I Don’t Know Why” takes a page from The Weeknd and Daft Punk’s smash collaborations with its starry-eyed electro-pop grooviness and Reynolds’ most sizzling confession yet: “Your love is always dangerous,” he sneers. On “I’ll Make It Up To You,” he pledges his loyalty to his partner over sparkling soulful pop; later, he reveals more of that tender side on the woozy electro-R&B reverie “Dancing In The Dark.”\n\nOf course, this wouldn’t be an Imagine Dragons record without a sturdy collection of sky-high inspirational anthems, like fist-pumping sing-alongs “Whatever It Takes” and “Walking The Wire.” But “Believer” is the big standout, a perfectly polished composite of the group’s most reliable moves: pummeling rhythms, buzzing sub-bass, a shout-to-the-heavens chorus, and a no-pain-no-gain message. Unsurprisingly, it would score Imagine Dragons another massive hit.\n\n\n\n",
+          "short": "The all-star rock band indulges its greatest pop ambitions."
+        },
+        "isComplete": true
+      }
+    },
+    "1437948593": {
+      "id": "1437948593",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2018-11-09",
+        "isMasteredForItunes": true,
+        "upc": "00602577199196",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ae/99/b0/ae99b033-76aa-580c-f6b0-2d374e89763d/18UMGIM65849.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d5dadb",
+          "textColor2": "bcd6d7",
+          "textColor4": "a0bcbc",
+          "textColor1": "fffbff",
+          "bgColor": "325750",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1437948593",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/origins/1437948593",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Origins",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "Four albums in six years is a breakneck pace for any major artist in 2018, to say nothing of a band as ascendant and ambitious as Imagine Dragons. And as with its predecessors, the songs that comprise <i>Origins</i>—coming just over a year after the blockbuster <i>Evolve</i>—aren't tossed-off lo-fi recordings. They’re big hits with big beats and big choruses and big production, made for the big venues that the Los Angeles/Las Vegas quartet regularly play. And if the pressures that come with mounting pop stardom aren’t enough to discourage a prolific streak, there’s always debilitating personal strife. But those hard times led to more songs, frontman Dan Reynolds tells Apple Music.<br />\n<b>How did this album come together so quickly?</b>\nSome of these songs were written when we had weeks off on tour; some were written a month ago. I know there’s some bands that say, “Every three years we’ll put out a record and feed the fans, do a big tour, and then go away,” but we have the ability to continually feed the culture and fan base of Imagine Dragons, so why not do that? I grew up mainly listening to hip-hop and I loved the whole aspect of mixtapes—you could consume stuff from your favorite artists continually, and rock doesn’t do that. We kind of just get put there because we have a guitarist and because sometimes I sing a little screamy, but I really am more influenced by the culture of hip-hop, and of R&B music. <br />\n<b>Is there one particular song that made you realize this was going to be a proper album sooner than later?</b>\nThe last track, “Real Life,” really solidified things for me. Imagine Dragons has never been a love song kind of band, but this record is, like, 90% about love and relationships. I went through a hard divorce this year and we announced it to the world—then we never wound up signing the papers. We have a chaotic relationship, but a stale one seems worse to me. It sounds like such a clichéd thing to say, but going through heartbreak is devastating. Your whole world falls apart.<br />\n<b>So you threw yourself into writing?</b> I had to be either listening to or creating music at all times, because I was so afraid of facing a quiet room. I just had this gaping hole that felt so desolate and scary, and music at least took me away from that. “Bad Liar” I wrote with my wife right before we separated, and it’s all about a dying relationship. Listening to it now that we’re back together, it’s kind of cathartic in a weird way.<br />\n<b>Do you write differently now, knowing there’s a huge audience waiting?</b>\nFortunately, we have a few things going for us. We’ve been pretty genre-less since the beginning, so whereas some bands get pigeonholed, we’re able to be all over the gamut. I love big melodies and poppy songs; the only rock I listened to was Rage Against the Machine and Minor Threat. I enjoy writing pop music and I want to write big pop songs.",
+          "short": "Four albums in six years, under duress. What have you ever done?"
+        },
+        "isComplete": true
+      }
+    },
+    "1437948883": {
+      "id": "1437948883",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2018-11-09",
+        "upc": "00602577199219",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/80/a8/3f80a8ef-5409-42ac-c126-c7354698c7fc/18UMGIM65849.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d5dadb",
+          "textColor2": "bcd6d7",
+          "textColor4": "a0bcbc",
+          "textColor1": "fffbff",
+          "bgColor": "325750",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/origins-deluxe/1437948883",
+        "playParams": {
+          "id": "1437948883",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 15,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Origins (Deluxe)",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "Four albums in six years is a breakneck pace for any major artist in 2018, to say nothing of a band as ascendant and ambitious as Imagine Dragons. And as with its predecessors, the songs that comprise <i>Origins</i>—coming just over a year after the blockbuster <i>Evolve</i>—aren't tossed-off lo-fi recordings. They’re big hits with big beats and big choruses and big production, made for the big venues that the Los Angeles/Las Vegas quartet regularly play. And if the pressures that come with mounting pop stardom aren’t enough to discourage a prolific streak, there’s always debilitating personal strife. But those hard times led to more songs, frontman Dan Reynolds tells Apple Music.<br />\n<b>How did this album come together so quickly?</b>\nSome of these songs were written when we had weeks off on tour; some were written a month ago. I know there’s some bands that say, “Every three years we’ll put out a record and feed the fans, do a big tour, and then go away,” but we have the ability to continually feed the culture and fan base of Imagine Dragons, so why not do that? I grew up mainly listening to hip-hop and I loved the whole aspect of mixtapes—you could consume stuff from your favorite artists continually, and rock doesn’t do that. We kind of just get put there because we have a guitarist and because sometimes I sing a little screamy, but I really am more influenced by the culture of hip-hop, and of R&B music. <br />\n<b>Is there one particular song that made you realize this was going to be a proper album sooner than later?</b>\nThe last track, “Real Life,” really solidified things for me. Imagine Dragons has never been a love song kind of band, but this record is, like, 90% about love and relationships. I went through a hard divorce this year and we announced it to the world—then we never wound up signing the papers. We have a chaotic relationship, but a stale one seems worse to me. It sounds like such a clichéd thing to say, but going through heartbreak is devastating. Your whole world falls apart.<br />\n<b>So you threw yourself into writing?</b>\nI had to be either listening to or creating music at all times, because I was so afraid of facing a quiet room. I just had this gaping hole that felt so desolate and scary, and music at least took me away from that. “Bad Liar” I wrote with my wife right before we separated, and it’s all about a dying relationship. Listening to it now that we’re back together, it’s kind of cathartic in a weird way.<br />\n<b>Do you write differently now, knowing there’s a huge audience waiting?</b>\nFortunately, we have a few things going for us. We’ve been pretty genre-less since the beginning, so whereas some bands get pigeonholed, we’re able to be all over the gamut. I love big melodies and poppy songs; the only rock I listened to was Rage Against the Machine and Minor Threat. I enjoy writing pop music and I want to write big pop songs. ",
+          "short": "Four albums in six years, under duress. What have you ever done?"
+        },
+        "isComplete": true
+      }
+    },
+    "1440819698": {
+      "id": "1440819698",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2013-01-01",
+        "isMasteredForItunes": true,
+        "upc": "00602537419463",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7e/81/a7/7e81a74d-c5e0-c42b-5be6-533161ce3d09/00602537419463.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "dedad4",
+          "textColor2": "f4ccca",
+          "textColor4": "d5b5b4",
+          "textColor1": "fffaf3",
+          "bgColor": "5c5c5c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/itunes-session-ep/1440819698",
+        "playParams": {
+          "id": "1440819698",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 5,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "iTunes Session - EP",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "Imagine Dragons begins this exclusive live session with an acoustic recasting of the two singles that put them on the map, “It’s Time” and “Radioactive.” And while these alone make a satisfying offering for fans of the band’s multi-platinum debut, <i>Night Visions</i>, the most exciting material comes at the end, when the Las Vegas group delivers a pair of yet-unreleased tracks: a delicate, harmony-rich ballad, “30 Lives,” and a spirited, uptempo sing-along, “Destination.” Regardless of whether the songs are familiar or new, the stripped-down accompaniment of acoustic guitar, mandolin, and strings has the casual feel of a living room jam session, allowing an intimate perspective into Imagine Dragons’ songwriting."
+        },
+        "isComplete": true
+      }
+    },
+    "1440831203": {
+      "id": "1440831203",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2015-10-30",
+        "upc": "00602547623805",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/a8/b0/b3a8b05f-7dfe-f557-6147-57e74dfdbebe/15UMGIM53209.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "e5c68c",
+          "textColor2": "f1cb86",
+          "textColor4": "dab46f",
+          "textColor1": "ffe2aa",
+          "bgColor": "7f5614",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/smoke-mirrors-deluxe/1440831203",
+        "playParams": {
+          "id": "1440831203",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 21,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Smoke + Mirrors (Deluxe)",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "The Vegas band hold nothing back on their sophomore album, flying skyscraping anthems over an increasingly diverse landscape. \"Shots\" gets struck through with glittery '80s synths and a Toto-esque beat, while \"Gold\" is set to a doomy EDM thump and \"I'm So Sorry\" sloshes around in bluesy grime. Frontman Dan Reynolds keeps up with every twist and turn, evoking soulful vocals on the swaying rock ballad \"Smoke and Mirrors\" before letting out a rip-roaring wail on the folk-pop stomp \"I Bet My Life.\"",
+          "short": "Big rock anthems laced with EDM, folk-pop, and bluesy grime."
+        },
+        "isComplete": true
+      }
+    },
+    "1440855747": {
+      "id": "1440855747",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "releaseDate": "2013-01-01",
+        "upc": "00602537293308",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/0e/ae/f30eaee3-d049-05ff-8b46-9cc61f2e2524/12UMGIM46900.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "a5a8af",
+          "textColor2": "dda39c",
+          "textColor4": "b68786",
+          "textColor1": "c7ccce",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/night-visions-deluxe-version/1440855747",
+        "playParams": {
+          "id": "1440855747",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 18,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Night Visions (Deluxe Version)",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "Tracks such as beat heavy opener “Radioactive” and the masterfully layered “Demons” could be performed acoustically around the campfire or electrified in concert. “Tiptoe” has elements of classic ‘80s technopop, while “On Top of the World” is a joyous handclap-driven number with big harmony vocals on the chorus and happy drumming. Both the airplay-friendly sound and thoughtful lyrics of “Every Night” are timeless.    "
+        },
+        "isComplete": true
+      }
+    },
+    "1440873107": {
+      "id": "1440873107",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "releaseDate": "2012-09-04",
+        "upc": "00602537150120",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1501,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1501,
+          "textColor3": "b9b1be",
+          "textColor2": "d59b99",
+          "textColor4": "b08185",
+          "textColor1": "e0d7e1",
+          "bgColor": "1d1932",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/night-visions/1440873107",
+        "playParams": {
+          "id": "1440873107",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 13,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Night Visions",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "Hailing from Las Vegas, Imagine Dragon’s sound mirrors its hometown’s blended contrast of the constructed (glimmering buildings) with the natural (majestic desert). Tracks such as beat heavy opener “Radioactive” and the masterfully layered “Demons” could be performed acoustically around the campfire or electrified in concert. “Tiptoe” has elements of classic ‘80s technopop, while “On Top of the World” is a joyous handclap-driven number with big harmony vocals on the chorus and happy drumming. Both the airplay-friendly sound and thoughtful lyrics of “Every Night” are timeless, with steady acoustic guitar strumming, booming yet restrained drumming, and an emotive electric guitar solo all in play on this gently rocking ballad.    "
+        },
+        "isComplete": true
+      }
+    },
+    "1440874670": {
+      "id": "1440874670",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2017-08-04",
+        "isMasteredForItunes": false,
+        "upc": "00602557869064",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ef/93/21/ef9321e4-d1bd-0ec6-4a31-d0b583598e1c/00602557869064.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d6d6d5",
+          "textColor2": "deb09d",
+          "textColor4": "bc9787",
+          "textColor1": "ffffff",
+          "bgColor": "34332f",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1440874670",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/live-at-allsaints-studios-ep/1440874670",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Live at AllSaints Studios - EP",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "short": "Stripped-back cuts recorded live in Los Angeles."
+        },
+        "isComplete": true
+      }
+    },
+    "1445011665": {
+      "id": "1445011665",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 KIDinaKORNER/Interscope Records",
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Rock",
+          "Electronic",
+          "Pop",
+          "Pop/Rock",
+          "Adult Alternative"
+        ],
+        "releaseDate": "2012-01-01",
+        "upc": "00602527968025",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bf/95/5d/bf955d66-8104-1f3e-8946-be0f2a73040f/12UMGIM06090.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cac2cd",
+          "textColor2": "d3d1de",
+          "textColor4": "bab6c6",
+          "textColor1": "e8e0e8",
+          "bgColor": "544c64",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/continued-silence-ep/1445011665",
+        "playParams": {
+          "id": "1445011665",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 6,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Continued Silence - EP",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "Las Vegas quartet Imagine Dragons’ first major-label recording finds them working with English hip-hop producer and songwriter Alex da Kid. “Radioactive” opens their <i>Continued Silence</i> EP with an impressive arsenal of bells and whistles. Over a contemporary folk-rock foundation on par with the band Train, Alex da Kid layer a huge rumbling bass and equally gigantic beats. It’s the grappling melody that stands out here—especially in the song’s chorus, where Dan Reynolds’ vocal parts are overlapped to sound like he’s singing with himself. The following song, “Demons”, takes on darker characteristics that have more in common with Coldplay. It starts with Reynolds singing over delicate keyboard parts before the bombastic beats return alongside self-accompanying vocal tracks and subtly trippy electric guitar effects. “On Top of the World” tones down the rhythmic explosions for a skittering beat built on handclaps and finger snaps, over which Imagine Dragons play an uplifting tune infused with world-beat accoutrements. “My Fault” closes on a ballad where Reynolds sings self-scrutinizing lyrics."
+        },
+        "isComplete": true
+      }
+    },
+    "1445055473": {
+      "id": "1445055473",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2014-01-01",
+        "isMasteredForItunes": true,
+        "upc": "00602537744022",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/06/54/fc065472-03b2-3a28-0e0c-f1ad7859e656/00602537744022.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "edbfc6",
+          "textColor2": "eaa7ac",
+          "textColor4": "dd888e",
+          "textColor1": "ffedf2",
+          "bgColor": "a70b18",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/radioactive-feat-kendrick-lamar-single/1445055473",
+        "playParams": {
+          "id": "1445055473",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Radioactive (feat. Kendrick Lamar) - Single",
+        "contentRating": "explicit",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1445165659": {
+      "id": "1445165659",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2012-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00602537135219",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ef/88/84/ef8884e1-c839-6793-74f3-42f0272c5b0f/00602537135219.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "e3e0da",
+          "textColor2": "ede7e1",
+          "textColor4": "d5cdc2",
+          "textColor1": "ffffff",
+          "bgColor": "776449",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/its-time-remixes-ep/1445165659",
+        "playParams": {
+          "id": "1445165659",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "It's Time (Remixes) - EP",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1445281053": {
+      "id": "1445281053",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2013-01-01",
+        "upc": "00602537606276",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f9/4d/17/f94d170f-5ab9-a894-14a4-64e1167d3b7c/00602537606276.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "2d4333",
+          "textColor2": "051f07",
+          "textColor4": "2b4431",
+          "textColor1": "081e0a",
+          "bgColor": "c2d6d7",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/demons-single/1445281053",
+        "playParams": {
+          "id": "1445281053",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 3,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Demons - Single",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1445305269": {
+      "id": "1445305269",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2015-05-04",
+        "isMasteredForItunes": false,
+        "upc": "00602547358271",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/1a/8a/f31a8afb-99cb-e3cb-ed2e-995bde64345c/00602547358271.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c1cfc9",
+          "textColor2": "59a5d8",
+          "textColor4": "4889b5",
+          "textColor1": "f1fdf1",
+          "bgColor": "041b29",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445305269",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/shots-ep/1445305269",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 3,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Shots - EP",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1445311373": {
+      "id": "1445311373",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2014-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00602537745944",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e9/b6/7b/e9b67b1c-d0af-8c96-33dd-ebcad281dfac/00602537745944.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "e3babd",
+          "textColor2": "e7e4e5",
+          "textColor4": "dab8bc",
+          "textColor1": "f2e5e6",
+          "bgColor": "a70b18",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445311373",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/radioactive-feat-kendrick-lamar-single/1445311373",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Radioactive (feat. Kendrick Lamar) - Single",
+        "contentRating": "clean",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1445314543": {
+      "id": "1445314543",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2015-02-03",
+        "isMasteredForItunes": false,
+        "upc": "00602547229731",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8d/3d/58/8d3d5823-a137-f573-8e91-aa666c749955/00602547229731.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c1ccc4",
+          "textColor2": "e1c9ac",
+          "textColor4": "b4a48b",
+          "textColor1": "f2fcf4",
+          "bgColor": "010e07",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445314543",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/i-bet-my-life-remixes-ep/1445314543",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "I Bet My Life (Remixes) - EP",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1445867303": {
+      "id": "1445867303",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2014-09-18",
+        "isMasteredForItunes": true,
+        "upc": "00602547161659",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/16/59/c116596f-f3fd-3499-6cc2-bcb5b4931e6e/14UMGIM61459.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "bf9a94",
+          "textColor2": "d5b780",
+          "textColor4": "ab9367",
+          "textColor1": "eebfb9",
+          "bgColor": "030502",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445867303",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/smoke-mirrors/1445867303",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 13,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Smoke + Mirrors",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "While trekking through sold-out arenas around the world to support its 2012 smash debut, <i>Night Visions</i>, Imagine Dragons was already feverishly thinking about its next move. How could it not? The more singles it released, the bigger it seemed to get. And so, the Vegas band approached its 2015 sophomore album as another skyscraping mountain to climb—or better yet, move. <i>Smoke + Mirrors</i> embraces all the band’s melting-pot whims while leaning more heavily into its rock ambitions. If possible, the songs here thrash and thunder with even more might than those of its predecessor, perhaps a symptom of the daunting weight of Imagine Dragons’ success.\nAs on <i>Night Visions</i>, frontman Dan Reynolds thrives in emotional extremes, but here he’s more pointed in his words, and his target—himself. “I’m sorry for everything, oh, everything I’ve done,” he cries at the top of opener “Shots,” a shimmery synth-pop romp that still manages to triumphantly gallop into the sunset. On “Gold,” he frets over the impact of his band’s Midas touch: “Who can you trust when everything you touch turns to gold?” he roars over a Zeus-worthy stomp. Meanwhile, on “Dream,” he slips into a Coldplay-like mood, falsetto and all, determined to keep dreaming because “everything’s a mess.”\nThe rest of the band is just as eager to push beyond respective limits. Guitarist Wayne Sermon muscles up with the bluesy, Black Keys-esque riffs that pummel through the reverb-laden “I’m So Sorry.” He flexes even harder on the folky battle cry “I Bet My Life,” another anthem that vies for world domination. Throughout, bassist/keyboardist Ben McKee and drummer Daniel Platzman are feverishly sculpting the mood, most menacingly on the sitar-meets-metal bruiser “Friction” and most playfully on the polyrhythmic uplifter “Summer.”\nMuch of <i>Smoke + Mirrors</i> was written on the road, with an aim for even bigger arenas to conquer. While nothing here quite matched the Herculean triumph of 2012’s “Radioactive,” the more vulnerable moments and sonic experiments would set the tone for the band’s next evolution.",
+          "short": "The Vegas superstar group amps up the rock and the theatrics."
+        },
+        "isComplete": true
+      }
+    },
+    "1445871978": {
+      "id": "1445871978",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "releaseDate": "2013-01-01",
+        "isMasteredForItunes": true,
+        "upc": "00602537329168",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/21/98/b5219816-907c-6a0d-1b42-13bb30663331/13UMGIM04807.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "3e2d20",
+          "textColor2": "0b0703",
+          "textColor4": "3b2e20",
+          "textColor1": "0f0603",
+          "bgColor": "fbcc96",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445871978",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/the-archive-ep/1445871978",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 5,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "The Archive - EP",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1574210519": {
+      "id": "1574210519",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2021-09-03",
+        "upc": "00602438545704",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/8a/c2/018ac22e-1756-2dd1-03e7-74a55e92ea2c/21UMGIM58932.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2c261f",
+          "textColor2": "281c09",
+          "textColor4": "4c3d25",
+          "textColor1": "000001",
+          "bgColor": "dcbf95",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1574210519",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/mercury-act-1/1574210519",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 13,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Mercury - Act 1",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "“I never fully comprehend, thematically, what the record is about,” Imagine Dragons frontman Dan Reynolds tells Apple Music about their fifth full-length album. “I’m not that deliberate, for better or worse, when I’m writing.” After three years and some band therapy, <i>Mercury - Act 1</i> arrives as ascending, eclectic, accessible arena rock, amplified by a new collaborator: legendary producer Rick Rubin (Beastie Boys, Johnny Cash, System of a Down, Tom Petty, AC/DC, Red Hot Chili Peppers). “They're wildly sophisticated in their production ability, in their playing, and in their writing, this glut of greatness,” Rubin says of the band.<br />\nRubin’s style allowed Reynolds to rectify his loss of religious faith and discover a new kind of meaning on record. “My first goal with creating art is putting out something that is honest,” Reynolds says. “One of the things that has been so inspiring to me working with Rick is I have been trying to refine spirituality and belief. When the rug is pulled out on you with religion, I was left with nothing. It made me trust no one. Any story anybody told me, it was a ghost story. I've been trying to refine believing in deeper things, unexplainable things. I'm trusting where I feel honesty. Rick is honest.”<br />\n<i>Mercury - Act 1</i> became a record about letting go—about moving forward (like in the haunting vocal overlays of “Wrecked,” a song written about Reynolds’ sister-in-law who died of cancer in 2019)—and about accepting what terrifies us. “My biggest fear in life, and I didn't know this until recently, is lack of control,” Reynolds admits, revealing that he confronted that fear in a spiritually transformative ayahuasca trip, which no doubt influenced the record. “I had to give up control completely. And I died. Spiritually, I felt like I died. I saw so many things in my life from a bird's-eye view. Then I heard like the bell and this incredible shaman came over and was helping me come alive again. It felt like a rebirth. It was everything I was told religion would give to me.”<br />\nIf <i>Mercury - Act 1</i> sounds darker than its predecessor, 2018’s <i>Origins</i>, it’s because Imagine Dragons have never been so forthright; Rubin brought it out of the band. The ebullient percussion of “It’s Ok,” the shimmery piano of “Easy Come Easy Go,” the thunderous nu-metal-adjacent “Cutthroat,” the glitchy romance of “Monday”—all of these kaleidoscopic elements work to mirror Reynolds’ understanding that some things are out of our control, and that’s all right. “I'd be overly metaphorical out of fear of people knowing what I was talking about,” Reynolds says. “I have a hard enough time knowing that people are going to hear what I'm talking about.”",
+          "short": "Legendary producer Rick Rubin takes the helm on their ambitious fifth album."
+        },
+        "isComplete": false
+      }
+    },
+    "1589340541": {
+      "id": "1589340541",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music", "Rock", "Adult Alternative"],
+        "releaseDate": "2009-02-01",
+        "isMasteredForItunes": false,
+        "upc": "00602445011094",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c0/da/67/c0da67e5-58b4-d216-e876-a287c19f2f99/21UM1IM23315.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3e2a17",
+          "textColor2": "2f1e09",
+          "textColor4": "503c1f",
+          "textColor1": "180800",
+          "bgColor": "d3b577",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/imagine-dragons-ep/1589340541",
+        "playParams": {
+          "id": "1589340541",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 6,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Imagine Dragons EP",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1589343066": {
+      "id": "1589343066",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2010-06-01",
+        "isMasteredForItunes": false,
+        "upc": "00602445011063",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/91/f5/a191f565-5a9a-efa1-5a3e-ce352b32320e/21UM1IM23313.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3b2516",
+          "textColor2": "1f1300",
+          "textColor4": "433316",
+          "textColor1": "150200",
+          "bgColor": "d1b272",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/hell-and-silence-ep/1589343066",
+        "playParams": {
+          "id": "1589343066",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 6,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Hell And Silence EP",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1589343103": {
+      "id": "1589343103",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2011-03-12",
+        "upc": "00602445011070",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4e/7f/ad/4e7fadbc-2415-1d73-9556-7a205da09cd0/21UM1IM23314.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a2616",
+          "textColor2": "1f1300",
+          "textColor4": "423316",
+          "textColor1": "150200",
+          "bgColor": "cfb46f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/its-time-ep/1589343103",
+        "playParams": {
+          "id": "1589343103",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 9,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "It’s Time EP",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1607399614": {
+      "id": "1607399614",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2021-09-03",
+        "upc": "00602445501359",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/1d/a0/121da03f-2938-12d1-65b5-5d18c752ffaf/21UMGIM58932.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2c261f",
+          "textColor2": "281c09",
+          "textColor4": "4c3d25",
+          "textColor1": "000001",
+          "bgColor": "dcbf95",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/mercury-act-1-additional-track-version/1607399614",
+        "playParams": {
+          "id": "1607399614",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "trackCount": 14,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Mercury - Act 1 (Additional Track Version)",
+        "artistName": "Imagine Dragons",
+        "isComplete": false
+      }
+    },
+    "1617908569": {
+      "id": "1617908569",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2022-07-01",
+        "isMasteredForItunes": true,
+        "upc": "00602445825462",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2d/54/70/2d5470e7-ab60-f062-7ac8-e950e9726cba/22UMGIM37171.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6c2c3",
+          "textColor2": "e8e8e8",
+          "textColor4": "dac1c2",
+          "textColor1": "f6e9e9",
+          "bgColor": "a6282b",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1617908569",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/mercury-acts-1-2/1617908569",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 32,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Mercury - Acts 1 & 2",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "“One thing we saw very early on in the recording process was the fact that this couldn’t be one record,” Imagine Dragons frontman Dan Reynolds tells Apple Music. “There were two different directions, two stories being told, and two timelines. We had songs that I wrote right after my best friend took his life and right after my sister passed away—you know, grieving songs. And then we had songs that were written, because of COVID, almost three years later, when I was in a totally different place. I had a different story to tell.” The band decided to release two variations on a single theme: <i>Mercury - Act 1</i> addresses the death and grieving process, while <i>Act 2</i> unpacks the complicated task of trying to move forward.\n\nThese eclectic and ultimately uplifting rock songs are amplified by the band’s new collaborator: legendary producer Rick Rubin (Beastie Boys, Johnny Cash, System of a Down, Tom Petty, AC/DC, Red Hot Chili Peppers). “They’re wildly sophisticated in their production ability, in their playing, and in their writing—this glut of greatness,” Rubin says of the band. Rubin’s style allowed Reynolds to rectify his loss of religious faith and discover a new kind of meaning on the record. “My first goal with creating art is putting out something that is honest,” Reynolds says. “One of the things that has been so inspiring to me working with Rick is I have been trying to refine spirituality and belief. When the rug is pulled out on you with religion, I was left with nothing. It made me trust no one. Any story anybody told me, it was a ghost story. I’ve been trying to refine believing in deeper things, unexplainable things. I’m trusting where I feel honesty. Rick is honest.”\n\n<i>Act 1</i> is largely about letting go, as evidenced in the haunting vocal overlays of “Wrecked,” a song written about Reynolds’ sister-in-law, who died of cancer in 2019. “My biggest fear in life is lack of control,” Reynolds admits, revealing that he confronted that fear in a spiritually transformative ayahuasca trip, which no doubt influenced the record. “I had to give up control completely. And I died. Spiritually, I felt like I died. I saw so many things in my life from a bird’s-eye view. Then I heard, like, the bell and this incredible shaman came over and was helping me come alive again. It felt like a rebirth. It was everything I was told religion would give to me.” <i>Act 2</i> focuses on the “post-death” experience, he says, and reaches for the light at the end of the tunnel. “Dealing with someone who has passed—and then what? What does tomorrow look like? Grief is always there, but life continues. It’s about being present. All you have, after you lose someone close to you, is this [new perspective] that every single second counts.”",
+          "short": "Hear part two of the band’s double album, produced by Rick Rubin.",
+          "tagline": "Recommended Album"
+        },
+        "isComplete": true
+      }
+    },
+    "1641821680": {
+      "id": "1641821680",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Interscope Records release; ℗ 2022 KIDinaKORNER/UMG Recordings, Inc.",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2012-09-04",
+        "isMasteredForItunes": false,
+        "upc": "00602448092458",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/4b/10/234b10a6-95b6-db07-ff15-542b56aee927/22UMGIM65859.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "434343",
+          "textColor2": "2b2823",
+          "textColor4": "55534f",
+          "textColor1": "141414",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1641821680",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/night-visions-expanded-edition-super-deluxe/1641821680",
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 54,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Night Visions (Expanded Edition) [Super Deluxe]",
+        "artistName": "Imagine Dragons",
+        "editorialNotes": {
+          "standard": "“This is it, the apocalypse,” Imagine Dragons’ frontman Dan Reynolds boldly declares on “Radioactive,” the thunderous opening track of the Las Vegas quartet’s monstrous 2012 debut album. “Welcome to the new age,” he continues with an ominous snarl, as if challenging anyone to suggest otherwise. The track pushes on like a gladiator's call to arms, punctuated with earth-shattering bass. It’s an all-or-nothing stadium rouser that introduces Imagine Dragons as a band ready to take on the world—and boy, would it. \n“Radioactive” has since been certified Diamond and become one of the best-selling singles of all time. Not bad for a band that was closing out the 2000s playing the local casino scene just to make rent. <i>Night Visions</i> is a clear marker of its time, an uncompromising amalgam of early 21st-century alt-rock—think The Killers’ soaring sincerity mixed with Muse’s formidable swagger and Mumford & Sons’ folky zeal—infused with boisterous elements of hip-hop and dubstep. The band seems on a mission to outdo itself with every track. The top half of the album—heavy in hits—sets out to prove this. “It’s Time” is a vivid anthem for picking oneself up, buoyed by guitarist Wayne Sermon’s plunky mandolin, while “On Top of the World” adds a touch of Jack Johnson-like levity to a clap-happy Steve Reich sample. But it’s not all so optimistic. “Demons” slips back into the darkness, plodding up a bass-laden hill in search of peak catharsis. \nThat intensity never lets up through the second half. Reynolds counts his sins over the jagged rhythms of “Bleeding Out” and reflects on the band’s humble beginnings on the squelchy, synth-edged banger “Underdog.” The members finally let themselves stretch out on the sprawling rock-operatic closer “Nothing Left To Say / Rocks (Medley),” which ends on a merry, mandolin-fueled note and one pivotal question from Reynolds: “Where do we go from here?”\nThis 10-year-anniversary Super Deluxe Edition from 2022 reveals where Imagine Dragons started—many of the bonus studio recordings can be found on earlier EPs, like the midtempo meditation “The River”—and where they began to hit their stride. A buoyant 2014 performance from Red Rocks shows how well the band translates the ferocity of the record to the stage, while the final collection of remixes highlight its wide-range appeal.",
+          "short": "Rousing alt-rock anthems primed for world dominance."
+        },
+        "isComplete": true
+      }
+    },
+    "1698581714": {
+      "id": "1698581714",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2023-07-28",
+        "isMasteredForItunes": true,
+        "upc": "00602458313819",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/9d/f1/c19df16e-8cfe-84f9-3401-47b6a9085e99/23UMGIM84011.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "aa8d8e",
+          "textColor2": "cba6a4",
+          "textColor4": "a38489",
+          "textColor1": "d5b0ab",
+          "bgColor": "01001e",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1698581714",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/imagine-dragons-live-in-vegas/1698581714",
+        "recordLabel": "KIDinaKORNER/Interscope Records",
+        "trackCount": 23,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Imagine Dragons Live in Vegas",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1704113652": {
+      "id": "1704113652",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2023-08-30",
+        "isMasteredForItunes": true,
+        "upc": "00602458469578",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/32/ec/f032ec21-b689-c5c5-b4f1-43bdeae7f910/23UMGIM99308.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c7d0cf",
+          "textColor2": "2cc2dc",
+          "textColor4": "29a0b4",
+          "textColor1": "f3ffff",
+          "bgColor": "1c1714",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1704113652",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/children-of-the-sky-a-starfield-song-single/1704113652",
+        "recordLabel": "KIDinaKORNER/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Children of the Sky (a Starfield song) - Single",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    }
+  }
+}

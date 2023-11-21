@@ -3,6 +3,7 @@ import SongBar from "./SongBar";
 const RelatedSongs = ({
   data,
   isPlaying,
+  artistId,
   activeSong,
   handlePauseClick,
   handlePlayClick,
@@ -16,6 +17,7 @@ const RelatedSongs = ({
           key={song.key}
           song={song}
           i={i}
+          artistId={artistId}
           isPlaying={isPlaying}
           activeSong={activeSong}
           handlePauseClick={handlePauseClick}

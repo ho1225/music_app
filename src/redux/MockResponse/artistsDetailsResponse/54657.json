@@ -1,0 +1,2415 @@
+{
+  "artists": {
+    "54657": {
+      "id": "54657",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Pop"],
+        "name": "Elton John",
+        "artwork": {
+          "width": 2400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/22/7a/b7/227ab79d-8c57-3622-f414-ba2e83252ee5/mzl.qlkmclct.jpg/{w}x{h}bb.jpg",
+          "height": 2400,
+          "textColor3": "433b37",
+          "textColor2": "5c0010",
+          "textColor4": "7c323e",
+          "textColor1": "150b06",
+          "bgColor": "fafafa",
+          "hasP3": false
+        },
+        "classicalUrl": "https://classical.music.apple.com/us/artist/54657",
+        "url": "https://music.apple.com/us/artist/elton-john/54657"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1445732923",
+              "type": "albums"
+            },
+            {
+              "id": "1460664692",
+              "type": "albums"
+            },
+            {
+              "id": "1440863013",
+              "type": "albums"
+            },
+            {
+              "id": "1583227776",
+              "type": "albums"
+            },
+            {
+              "id": "1440910513",
+              "type": "albums"
+            },
+            {
+              "id": "1440643462",
+              "type": "albums"
+            },
+            {
+              "id": "1440721415",
+              "type": "albums"
+            },
+            {
+              "id": "1440810893",
+              "type": "albums"
+            },
+            {
+              "id": "1440810640",
+              "type": "albums"
+            },
+            {
+              "id": "1440912783",
+              "type": "albums"
+            },
+            {
+              "id": "1440925614",
+              "type": "albums"
+            },
+            {
+              "id": "1440912739",
+              "type": "albums"
+            },
+            {
+              "id": "1652668529",
+              "type": "albums"
+            },
+            {
+              "id": "1440916847",
+              "type": "albums"
+            },
+            {
+              "id": "1440746215",
+              "type": "albums"
+            },
+            {
+              "id": "1597492455",
+              "type": "albums"
+            },
+            {
+              "id": "1440669121",
+              "type": "albums"
+            },
+            {
+              "id": "1618478418",
+              "type": "albums"
+            },
+            {
+              "id": "1440845733",
+              "type": "albums"
+            },
+            {
+              "id": "1484997755",
+              "type": "albums"
+            },
+            {
+              "id": "1440922045",
+              "type": "albums"
+            },
+            {
+              "id": "1435044337",
+              "type": "albums"
+            },
+            {
+              "id": "1440809655",
+              "type": "albums"
+            },
+            {
+              "id": "1440912988",
+              "type": "albums"
+            },
+            {
+              "id": "1712934271",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1714636962",
+              "type": "albums"
+            }
+          ]
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1437005633",
+              "type": "songs"
+            },
+            {
+              "id": "1578986673",
+              "type": "songs"
+            },
+            {
+              "id": "1440643464",
+              "type": "songs"
+            },
+            {
+              "id": "1440863120",
+              "type": "songs"
+            },
+            {
+              "id": "1440910931",
+              "type": "songs"
+            },
+            {
+              "id": "1440810937",
+              "type": "songs"
+            },
+            {
+              "id": "1440912993",
+              "type": "songs"
+            },
+            {
+              "id": "1440863122",
+              "type": "songs"
+            },
+            {
+              "id": "1641082205",
+              "type": "songs"
+            },
+            {
+              "id": "1440912996",
+              "type": "songs"
+            },
+            {
+              "id": "1445733073",
+              "type": "songs"
+            },
+            {
+              "id": "1440926343",
+              "type": "songs"
+            },
+            {
+              "id": "1440863140",
+              "type": "songs"
+            },
+            {
+              "id": "1440912990",
+              "type": "songs"
+            },
+            {
+              "id": "1440912979",
+              "type": "songs"
+            },
+            {
+              "id": "1440925733",
+              "type": "songs"
+            },
+            {
+              "id": "1583227785",
+              "type": "songs"
+            },
+            {
+              "id": "1440643465",
+              "type": "songs"
+            },
+            {
+              "id": "1484998284",
+              "type": "songs"
+            },
+            {
+              "id": "1484999360",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "1437005633": {
+      "id": "1437005633",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "On the Rvn - EP",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 6,
+        "durationInMillis": 195160,
+        "releaseDate": "2018-09-24",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21811269",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/db/b1/81/dbb181d8-8afb-b394-9d97-36f10e0de1de/075679862259.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "303030",
+          "textColor2": "202020",
+          "textColor4": "424242",
+          "textColor1": "0a0a0a",
+          "bgColor": "cacaca",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffrey Williams, Rex Kudo & Ryan Vojtesak",
+        "url": "https://music.apple.com/us/album/high-feat-elton-john/1437005625?i=1437005633",
+        "playParams": {
+          "id": "1437005633",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "High (feat. Elton John)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f2/3a/d5/f23ad5cb-373f-76a4-a797-e1b7272293bf/mzaf_627652238873360445.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Young Thug"
+      }
+    },
+    "1440643464": {
+      "id": "1440643464",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Madman Across the Water",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Singer/Songwriter",
+          "Soft Rock",
+          "Rock & Roll",
+          "Arena Rock",
+          "Pop/Rock"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1971-11-05",
+        "durationInMillis": 377200,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAMB7100001",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/d7/21/46d72100-a10b-902e-8ee6-98a22ad26769/06UMGIM52391.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "cbcbcc",
+          "textColor2": "70bbe4",
+          "textColor4": "5c98ba",
+          "textColor1": "fafafa",
+          "bgColor": "0c1011",
+          "hasP3": false
+        },
+        "composerName": "Elton John",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/tiny-dancer/1440643462?i=1440643464",
+        "playParams": {
+          "id": "1440643464",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Tiny Dancer",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/11/05/cc/1105ccb8-87e5-a793-a87c-4b4f1f944484/mzaf_15008217837549339406.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["485536464", "484572438"]
+      }
+    },
+    "1440643465": {
+      "id": "1440643465",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Madman Across the Water",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Singer/Songwriter",
+          "Soft Rock",
+          "Rock & Roll",
+          "Arena Rock",
+          "Pop/Rock"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "1971-11-05",
+        "durationInMillis": 322653,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAMB7100002",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/d7/21/46d72100-a10b-902e-8ee6-98a22ad26769/06UMGIM52391.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "cbcbcc",
+          "textColor2": "70bbe4",
+          "textColor4": "5c98ba",
+          "textColor1": "fafafa",
+          "bgColor": "0c1011",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John",
+        "url": "https://music.apple.com/us/album/levon/1440643462?i=1440643465",
+        "playParams": {
+          "id": "1440643465",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Levon",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/04/ef/f1/04eff1f4-50af-9a22-f04e-04f922fc8a2b/mzaf_13555271366449189345.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["485536465", "484572440"]
+      }
+    },
+    "1440810937": {
+      "id": "1440810937",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Elton John",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Rock & Roll",
+          "Pop/Rock",
+          "Soft Rock",
+          "Singer/Songwriter",
+          "Arena Rock",
+          "Adult Contemporary"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "1970-04-10",
+        "durationInMillis": 244560,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAMB9500072",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/52/e6/a952e6c5-a5e1-a56d-a6f4-b01ca42a4368/06UMGIM50695.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "b9b26e",
+          "textColor2": "d6bc6f",
+          "textColor4": "ac975a",
+          "textColor1": "e7dd88",
+          "bgColor": "040407",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John & Bernie Taupin",
+        "url": "https://music.apple.com/us/album/your-song/1440810640?i=1440810937",
+        "playParams": {
+          "id": "1440810937",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "atmos",
+          "hi-res-lossless",
+          "lossless",
+          "lossy-stereo",
+          "spatial"
+        ],
+        "name": "Your Song",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4f/c2/3d/4fc23d9c-453c-aac0-ab64-0453879321cf/mzaf_14465838471262097980.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["484573332", "485503625"]
+      }
+    },
+    "1440863120": {
+      "id": "1440863120",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Goodbye Yellow Brick Road",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Rock & Roll",
+          "Pop",
+          "Pop/Rock",
+          "Arena Rock",
+          "Singer/Songwriter",
+          "Soft Rock",
+          "Adult Contemporary",
+          "Glam Rock"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "1973-10-05",
+        "durationInMillis": 322553,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBUM71304955",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/60/b6/b360b655-4d28-179d-d0d4-4e128ebdf4c9/13UAEIM19273.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "4d3834",
+          "textColor2": "362723",
+          "textColor4": "55443f",
+          "textColor1": "2c1815",
+          "bgColor": "d4b9ae",
+          "hasP3": false
+        },
+        "composerName": "Elton John",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/bennie-and-the-jets-2014-remaster/1440863013?i=1440863120",
+        "playParams": {
+          "id": "1440863120",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Bennie and the Jets (2014 Remaster)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/79/e5/15/79e515a8-b793-8376-6a38-9c1889c05ce8/mzaf_1223049661933086575.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["803080328", "798905891"]
+      }
+    },
+    "1440863122": {
+      "id": "1440863122",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Goodbye Yellow Brick Road",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Rock & Roll",
+          "Pop",
+          "Pop/Rock",
+          "Arena Rock",
+          "Singer/Songwriter",
+          "Soft Rock",
+          "Adult Contemporary",
+          "Glam Rock"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "1973-09-07",
+        "durationInMillis": 192827,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBUM71304956",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/60/b6/b360b655-4d28-179d-d0d4-4e128ebdf4c9/13UAEIM19273.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "4d3834",
+          "textColor2": "362723",
+          "textColor4": "55443f",
+          "textColor1": "2c1815",
+          "bgColor": "d4b9ae",
+          "hasP3": false
+        },
+        "composerName": "Elton John & Bernie Taupin",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/goodbye-yellow-brick-road-2014-remaster/1440863013?i=1440863122",
+        "playParams": {
+          "id": "1440863122",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Goodbye Yellow Brick Road (2014 Remaster)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/44/a6/5a/44a65a0b-5ef3-869f-8f6a-fdf4b260ce0c/mzaf_38555944046098069.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["803080330", "798905893"]
+      }
+    },
+    "1440863140": {
+      "id": "1440863140",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Goodbye Yellow Brick Road",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Rock & Roll",
+          "Pop",
+          "Pop/Rock",
+          "Arena Rock",
+          "Singer/Songwriter",
+          "Soft Rock",
+          "Adult Contemporary",
+          "Glam Rock"
+        ],
+        "trackNumber": 14,
+        "releaseDate": "1973-06-29",
+        "durationInMillis": 295466,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBUM71304966",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/60/b6/b360b655-4d28-179d-d0d4-4e128ebdf4c9/13UAEIM19273.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "4d3834",
+          "textColor2": "362723",
+          "textColor4": "55443f",
+          "textColor1": "2c1815",
+          "bgColor": "d4b9ae",
+          "hasP3": false
+        },
+        "composerName": "Elton John & Bernie Taupin",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/saturday-nights-alright-for-fighting-2014-remaster/1440863013?i=1440863140",
+        "playParams": {
+          "id": "1440863140",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Saturday Night's Alright for Fighting (2014 Remaster)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/87/2c/68/872c6887-fa40-c356-f18b-8202bd6d9a30/mzaf_1409614977690274897.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["803080367", "798905936"]
+      }
+    },
+    "1440910931": {
+      "id": "1440910931",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Honky Château",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 5,
+        "durationInMillis": 281613,
+        "releaseDate": "1972-04-17",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBAMB7200006",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/b6/da/75b6da76-a3e0-6a77-cbe5-ad6c42cb0692/06UMGIM48050.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "363125",
+          "textColor2": "24221d",
+          "textColor4": "484134",
+          "textColor1": "0d0e0b",
+          "bgColor": "dbbf8f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John & Bernie Taupin",
+        "url": "https://music.apple.com/us/album/rocket-man-i-think-its-going-to-be-a-long-long-time/1440910513?i=1440910931",
+        "playParams": {
+          "id": "1440910931",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Rocket Man (I Think It's Going to Be a Long Long Time)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e9/0b/dc/e90bdc71-731e-78ea-56d9-53cb60b28285/mzaf_15531348683671689020.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["45380", "218551392"]
+      }
+    },
+    "1440912979": {
+      "id": "1440912979",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Caribou (Remastered 1995)",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 9,
+        "durationInMillis": 336733,
+        "releaseDate": "1974-06-24",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBAMB9500047",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/e8/a9/08e8a97d-1e86-6973-4f69-2093ce8523f8/06UMGIM51740.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "bcc3cd",
+          "textColor2": "fbd6be",
+          "textColor4": "cbbcb4",
+          "textColor1": "e8dfdd",
+          "bgColor": "0b518b",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John & Bernie Taupin",
+        "url": "https://music.apple.com/us/album/dont-let-the-sun-go-down-on-me-remastered-1995/1440912739?i=1440912979",
+        "playParams": {
+          "id": "1440912979",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Don't Let The Sun Go Down On Me (Remastered 1995)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/02/58/d5/0258d5c3-835f-0995-fe1b-27e71c4602c8/mzaf_8790767115762958760.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["379829", "218551520"]
+      }
+    },
+    "1440912990": {
+      "id": "1440912990",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Caribou (Remastered 1995)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Holiday", "Music"],
+        "trackNumber": 14,
+        "releaseDate": "1973-11-23",
+        "durationInMillis": 272333,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBAMB9500053",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/e8/a9/08e8a97d-1e86-6973-4f69-2093ce8523f8/06UMGIM51740.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "bcc3cd",
+          "textColor2": "fbd6be",
+          "textColor4": "cbbcb4",
+          "textColor1": "e8dfdd",
+          "bgColor": "0b518b",
+          "hasP3": false
+        },
+        "composerName": "Elton John",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/step-into-christmas-remastered-1995/1440912739?i=1440912990",
+        "playParams": {
+          "id": "1440912990",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Step Into Christmas (Remastered 1995)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/67/74/d6/6774d629-7723-6cfd-4fe6-0a0aca462282/mzaf_12746013117088070211.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["218551540", "379839"]
+      }
+    },
+    "1440912993": {
+      "id": "1440912993",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Too Low For Zero (Bonus Track Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "1983-01-01",
+        "durationInMillis": 183440,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBALX8300190",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/e5/b4/45e5b409-0564-a7a3-186c-1dc116c3ffb7/06UMGIM49712.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1410,
+          "textColor3": "333434",
+          "textColor2": "262626",
+          "textColor4": "515151",
+          "textColor1": "000101",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Elton John & Bernie Taupin",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/im-still-standing/1440912988?i=1440912993",
+        "playParams": {
+          "id": "1440912993",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "I'm Still Standing",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ac/cf/e6/accfe653-6365-2f38-139a-73b334d46c99/mzaf_13362539378990107246.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["412362", "218550763"]
+      }
+    },
+    "1440912996": {
+      "id": "1440912996",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Too Low For Zero (Bonus Track Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "1983-04-01",
+        "durationInMillis": 285333,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBALX8300088",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/e5/b4/45e5b409-0564-a7a3-186c-1dc116c3ffb7/06UMGIM49712.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1410,
+          "textColor3": "333434",
+          "textColor2": "262626",
+          "textColor4": "515151",
+          "textColor1": "000101",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Elton John, Bernie Taupin & Davey Johnstone",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/i-guess-thats-why-they-call-it-the-blues/1440912988?i=1440912996",
+        "playParams": {
+          "id": "1440912996",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "I Guess That's Why They Call It the Blues",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/71/a2/0a/71a20a74-99cc-be6e-4460-5248ac7f3a50/mzaf_10108539848525798098.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["412339", "218550776"]
+      }
+    },
+    "1440925733": {
+      "id": "1440925733",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Don't Shoot Me I'm Only The Piano Player",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "1973-01-20",
+        "durationInMillis": 234667,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBAMB9500001",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/cd/b8/49cdb8de-4752-8cec-f795-b7547930990d/06UMGIM34697.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "cbcbc8",
+          "textColor2": "f2af84",
+          "textColor4": "c5906d",
+          "textColor1": "fbfaf5",
+          "bgColor": "0e1213",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John & Bernie Taupin",
+        "url": "https://music.apple.com/us/album/daniel/1440925614?i=1440925733",
+        "playParams": {
+          "id": "1440925733",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Daniel",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a9/43/2f/a9432f03-66ee-b880-f39c-1e7187a90632/mzaf_10751672568370928482.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["218551735", "313560"]
+      }
+    },
+    "1440926343": {
+      "id": "1440926343",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Don't Shoot Me I'm Only The Piano Player",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "1972-10-27",
+        "durationInMillis": 235440,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBAMB7200001",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/cd/b8/49cdb8de-4752-8cec-f795-b7547930990d/06UMGIM34697.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "cbcbc8",
+          "textColor2": "f2af84",
+          "textColor4": "c5906d",
+          "textColor1": "fbfaf5",
+          "bgColor": "0e1213",
+          "hasP3": false
+        },
+        "composerName": "Elton John & Bernie Taupin",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/crocodile-rock/1440925614?i=1440926343",
+        "playParams": {
+          "id": "1440926343",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Crocodile Rock",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/94/21/15/9421159d-51b7-8b25-795b-d2d262537217/mzaf_221460287291498018.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["218551767", "313548"]
+      }
+    },
+    "1445733073": {
+      "id": "1445733073",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Lion King (Original Motion Picture Soundtrack)",
+        "genreNames": [
+          "Musicals",
+          "Music",
+          "Soundtrack",
+          "Disney",
+          "Original Score",
+          "Pop",
+          "Adult Contemporary",
+          "Soft Rock"
+        ],
+        "trackNumber": 12,
+        "durationInMillis": 241013,
+        "releaseDate": "1994-05-31",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USWD10220758",
+        "artwork": {
+          "width": 1404,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/80/89/ce808921-d594-fa7f-03e8-adcc92a69de8/06PNDIM00020.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1404,
+          "textColor3": "d1dae7",
+          "textColor2": "fdedbc",
+          "textColor4": "d0ceb2",
+          "textColor1": "fffdfe",
+          "bgColor": "1a528b",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John & Tim Rice",
+        "url": "https://music.apple.com/us/album/can-you-feel-the-love-tonight/1445732923?i=1445733073",
+        "playParams": {
+          "id": "1445733073",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Can You Feel the Love Tonight",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6a/d5/7e/6ad57e89-45c9-c9ad-0fa3-af70f52e911e/mzaf_4919507612855150600.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      },
+      "meta": {
+        "formerIds": ["540156928", "156089582"]
+      }
+    },
+    "1484998284": {
+      "id": "1484998284",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 4,
+        "durationInMillis": 192827,
+        "releaseDate": "1973-10-05",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBUM71304956",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/02/ee/dc02ee4a-ff56-75df-64d4-9afcf8c0885d/18UMGIM35649.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5d4a25",
+          "textColor2": "423120",
+          "textColor4": "67552a",
+          "textColor1": "35231a",
+          "bgColor": "fce852",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John & Bernie Taupin",
+        "url": "https://music.apple.com/us/album/goodbye-yellow-brick-road-remastered-2014/1484997755?i=1484998284",
+        "playParams": {
+          "id": "1484998284",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Goodbye Yellow Brick Road (Remastered 2014)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b5/90/b7/b590b731-0c91-d9b2-f7ad-d51719be8dd0/mzaf_15630968617251420047.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      }
+    },
+    "1484999360": {
+      "id": "1484999360",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 15,
+        "releaseDate": "1973-10-05",
+        "durationInMillis": 272396,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAMB9500053",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/02/ee/dc02ee4a-ff56-75df-64d4-9afcf8c0885d/18UMGIM35649.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5d4a25",
+          "textColor2": "423120",
+          "textColor4": "67552a",
+          "textColor1": "35231a",
+          "bgColor": "fce852",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John",
+        "url": "https://music.apple.com/us/album/step-into-christmas/1484997755?i=1484999360",
+        "playParams": {
+          "id": "1484999360",
+          "kind": "song"
+        },
+        "discNumber": 2,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Step into Christmas",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/36/2d/13/362d13a8-6d7e-f971-dd7c-0379b83a693d/mzaf_11318257783467354579.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John"
+      }
+    },
+    "1578986673": {
+      "id": "1578986673",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Cold Heart (PNAU Remix) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2021-08-13",
+        "durationInMillis": 202735,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBUM72104705",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/2f/92/ec2f929f-e7ea-b291-42d7-75081bd808a1/21UMGIM68484.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "1e1f1c",
+          "textColor4": "4b4b4a",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Elton John, Bernie Taupin, Peter Mayes, Nicholas Littlemore, Sam Littlemore, Dean Meredith & ANDREW MEECHAM",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/cold-heart-pnau-remix/1578986656?i=1578986673",
+        "playParams": {
+          "id": "1578986673",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Cold Heart (PNAU Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d2/ba/21/d2ba2159-906b-1835-3e6a-88ba5ee42502/mzaf_16613097578156674774.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John & Dua Lipa"
+      }
+    },
+    "1583227785": {
+      "id": "1583227785",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Lockdown Sessions",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2017-11-10",
+        "durationInMillis": 202735,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBUM72104705",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d3a060",
+          "textColor2": "d8adbf",
+          "textColor4": "b48f9d",
+          "textColor1": "ffc373",
+          "bgColor": "241615",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Elton John, Bernie Taupin, Peter Mayes, Nicholas Littlemore, Sam Littlemore, Dean Meredith & ANDREW MEECHAM",
+        "url": "https://music.apple.com/us/album/cold-heart-pnau-remix/1583227776?i=1583227785",
+        "playParams": {
+          "id": "1583227785",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Cold Heart (PNAU Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/68/61/63/686163a3-c295-ae70-878e-792c6e08c359/mzaf_7222690797141433478.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John & Dua Lipa"
+      }
+    },
+    "1641082205": {
+      "id": "1641082205",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Hold Me Closer - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-08-26",
+        "durationInMillis": 202246,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBUM72205030",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/44/79/8d/44798d46-1503-f69a-03a0-050762fd0e8b/22UMGIM92163.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "323032",
+          "textColor2": "293251",
+          "textColor4": "535971",
+          "textColor1": "000001",
+          "bgColor": "fbf2f5",
+          "hasP3": false
+        },
+        "composerName": "Elton John, Bernie Taupin, Andrew Wotman & Henry Walter",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/hold-me-closer/1641082201?i=1641082205",
+        "playParams": {
+          "id": "1641082205",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Hold Me Closer",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7a/24/60/7a246091-cef8-1df4-1435-a107ed3c6980/mzaf_7031321512640671226.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elton John & Britney Spears"
+      }
+    }
+  },
+  "albums": {
+    "1435044337": {
+      "id": "1435044337",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 1998 Mercury Records Limited",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Arena Rock",
+          "Pop/Rock",
+          "Adult Contemporary",
+          "Soft Rock"
+        ],
+        "releaseDate": "1987-06-13",
+        "isMasteredForItunes": false,
+        "upc": "00602567778523",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/99/2f/56/992f567a-96cd-8477-a28d-2da83a3010ed/00602567778523.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d2c2d",
+          "textColor2": "2a1c19",
+          "textColor4": "4e4341",
+          "textColor1": "000000",
+          "bgColor": "e1dce2",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/live-in-australia-remastered/1435044337",
+        "playParams": {
+          "id": "1435044337",
+          "kind": "album"
+        },
+        "recordLabel": "UMC (Universal Music Catalogue)",
+        "trackCount": 14,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Live In Australia (Remastered)",
+        "artistName": "Elton John",
+        "isComplete": true
+      }
+    },
+    "1440643462": {
+      "id": "1440643462",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2011 This Record Company Ltd.",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Singer/Songwriter",
+          "Soft Rock",
+          "Rock & Roll",
+          "Arena Rock",
+          "Pop/Rock"
+        ],
+        "releaseDate": "1971-11-05",
+        "upc": "00602527918945",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/d7/21/46d72100-a10b-902e-8ee6-98a22ad26769/06UMGIM52391.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "cbcbcc",
+          "textColor2": "70bbe4",
+          "textColor4": "5c98ba",
+          "textColor1": "fafafa",
+          "bgColor": "0c1011",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/madman-across-the-water/1440643462",
+        "playParams": {
+          "id": "1440643462",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "isCompilation": false,
+        "trackCount": 9,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Madman Across the Water",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "Elton John’s fourth album is a dusky, dense set of big pop gestures and lush ballads that, conceptually, detail Elton in America. It’s rich with shimmering melodies, booming pianos and guitars, and syrupy-sweet orchestral arrangements that sometimes hint at prog rock. There’s lots of magic and emotional depth in Bernie Taupin’s storyteller lyrics and Elton’s warm, dynamic vocals and performances—from the California girl in the haunting and pretty “Tiny Dancer” to the Native American warriors in the string-and-piano epic “Indian Sunset” to the homeless man in the blues-y “Razor Face.”",
+          "short": "Where the Rocket Man hits new highs."
+        },
+        "isComplete": true
+      }
+    },
+    "1440669121": {
+      "id": "1440669121",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2003 Walt Disney Records",
+        "genreNames": [
+          "Musicals",
+          "Music",
+          "Soundtrack",
+          "Disney",
+          "Original Score"
+        ],
+        "releaseDate": "1994-06-15",
+        "isMasteredForItunes": false,
+        "upc": "00050086012473",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/74/17/70741736-506d-4d62-4302-b4b0525df73b/06UMGIM20243.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "e2d1b1",
+          "textColor2": "fbf5dc",
+          "textColor4": "ebcdb6",
+          "textColor1": "eff9d6",
+          "bgColor": "ad301f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-lion-king-original-motion-picture-soundtrack/1440669121",
+        "playParams": {
+          "id": "1440669121",
+          "kind": "album"
+        },
+        "recordLabel": "Walt Disney Records",
+        "trackCount": 14,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Lion King (Original Motion Picture Soundtrack) [Special Edition]",
+        "artistName": "Elton John & Tim Rice, Hans Zimmer",
+        "isComplete": true
+      }
+    },
+    "1440721415": {
+      "id": "1440721415",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 1997 Walt Disney Records",
+        "genreNames": [
+          "Musicals",
+          "Music",
+          "Soundtrack",
+          "Original Score",
+          "Disney"
+        ],
+        "releaseDate": "1997-07-08",
+        "isMasteredForItunes": false,
+        "upc": "00050086080274",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/f1/f6/9cf1f63a-e399-2c61-f1a0-5c295bf02dfc/00050086080274.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "343434",
+          "textColor2": "4a150f",
+          "textColor4": "6e433e",
+          "textColor1": "010203",
+          "bgColor": "fefdfb",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-lion-king-original-1997-broadway-cast-recording/1440721415",
+        "playParams": {
+          "id": "1440721415",
+          "kind": "album"
+        },
+        "recordLabel": "Walt Disney Records",
+        "trackCount": 20,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Lion King (Original 1997 Broadway Cast Recording)",
+        "artistName": "Elton John & Tim Rice, Hans Zimmer",
+        "editorialNotes": {
+          "standard": "The first collaboration between rock legend Sir Elton John and lyricist Tim Rice resulted in the devil-may-care “Hakuna Matata” and the romantic “Can You Feel the Love Tonight” becoming Disney-borne classics. In the stage adaptation of <i>The Lion King</i>, John and Rice’s works are arranged to nod more explicitly to the musical’s African setting; South African composer Lebo M’s contributions, which include the triumphant “One by One” and a gently funky take on “The Lion Sleeps Tonight,” further ground it in its milieu.",
+          "short": "A Disney classic basks in its African setting."
+        },
+        "isComplete": true
+      }
+    },
+    "1440746215": {
+      "id": "1440746215",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2000 Mercury Records Limited, licensed exclusively to Universal Records, a division of UMG Recordings, Inc.",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Arena Rock",
+          "Pop/Rock",
+          "Glam Rock",
+          "Soft Rock",
+          "Singer/Songwriter",
+          "Adult Contemporary"
+        ],
+        "releaseDate": "2000-11-13",
+        "isMasteredForItunes": false,
+        "upc": "00044001305023",
+        "artwork": {
+          "width": 1453,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8e/a2/66/8ea26685-91b0-a9e2-5361-f749c1e071c5/00044001305023.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1417,
+          "textColor3": "c9e0e8",
+          "textColor2": "f0eddb",
+          "textColor4": "c0d2cb",
+          "textColor1": "fcffff",
+          "bgColor": "00668d",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/one-night-only-the-greatest-hits-live/1440746215",
+        "playParams": {
+          "id": "1440746215",
+          "kind": "album"
+        },
+        "recordLabel": "Uptown",
+        "isCompilation": false,
+        "trackCount": 17,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "One Night Only: The Greatest Hits (Live)",
+        "artistName": "Elton John",
+        "isComplete": true
+      }
+    },
+    "1440809655": {
+      "id": "1440809655",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2011 Buena Vista Records",
+        "genreNames": ["Soundtrack", "Music"],
+        "releaseDate": "2011-02-08",
+        "upc": "00050087238612",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b3/0d/8d/b30d8d15-6dbc-8ccc-7ca1-d060720cc2e8/10DMGIM02076.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "201f1a",
+          "textColor2": "231a0e",
+          "textColor4": "3b3021",
+          "textColor1": "010505",
+          "bgColor": "9c886d",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/gnomeo-juliet-soundtrack-from-the-motion-picture/1440809655",
+        "playParams": {
+          "id": "1440809655",
+          "kind": "album"
+        },
+        "recordLabel": "Buena Vista Records",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Gnomeo & Juliet (Soundtrack from the Motion Picture)",
+        "artistName": "Elton John & James Newton Howard",
+        "isComplete": true
+      }
+    },
+    "1440810640": {
+      "id": "1440810640",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2011 This Record Company Ltd.",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Rock & Roll",
+          "Pop/Rock",
+          "Soft Rock",
+          "Singer/Songwriter",
+          "Arena Rock",
+          "Adult Contemporary"
+        ],
+        "releaseDate": "1970-04-10",
+        "upc": "00602527918877",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/52/e6/a952e6c5-a5e1-a56d-a6f4-b01ca42a4368/06UMGIM50695.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "b9b26e",
+          "textColor2": "d6bc6f",
+          "textColor4": "ac975a",
+          "textColor1": "e7dd88",
+          "bgColor": "040407",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/elton-john/1440810640",
+        "playParams": {
+          "id": "1440810640",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "trackCount": 13,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": [
+          "atmos",
+          "hi-res-lossless",
+          "lossless",
+          "lossy-stereo",
+          "spatial"
+        ],
+        "isSingle": false,
+        "name": "Elton John",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "Elton John's eponymous second record isn't just packed with the kinds of songs that would define the singer—they'd also help define the burgeoning singer/songwriter era of pop music. John and his co-writer Bernie Taupin touch the uplifting “Border Song” with gospel, imbue the haunting ballad “First Episode at Hienton” with an eerie theremin (which adds to the song’s foreboding narrative before lush string arrangements pour in), and make one of the decade's most memorable tunes with the pensive, piano-based opener “Your Song.” It’s a winner from start to finish.",
+          "short": "This record helped define the singer/songwriter era of pop music."
+        },
+        "isComplete": true
+      }
+    },
+    "1440810893": {
+      "id": "1440810893",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2011 This Record Company Ltd.",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Rock & Roll",
+          "Arena Rock",
+          "Pop/Rock",
+          "Singer/Songwriter",
+          "Soft Rock"
+        ],
+        "releaseDate": "1975-05-19",
+        "upc": "00602527918921",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/dc/2a/83dc2ad2-61eb-feb2-80df-e77206cc3dbc/06UMGIM53454.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "bcc1c1",
+          "textColor2": "f62e25",
+          "textColor4": "c4251e",
+          "textColor1": "ebf1f1",
+          "bgColor": "000201",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/captain-fantastic-and-the-brown-dirt-cowboy/1440810893",
+        "playParams": {
+          "id": "1440810893",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "isCompilation": false,
+        "trackCount": 13,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Captain Fantastic and the Brown Dirt Cowboy",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "This sharply honed and impeccably catchy concept album casts Elton John as Captain Fantastic and lyricist Bernie Taupin as the Brown Dirt Cowboy in a semi-autobiographical version of the pair’s struggling early days. The 1975 LP shows off Elton’s stylistic leaps too—beautiful, languid ballads like “Someone Saved My Life Tonight” and “Curtains” mix with baroque, ivory-tickled poppers “Bitter Fingers” and “Better Off Dead.” Then Elton and the band rock hard on “(Gotta Get A) Meal Ticket,” and offer up a randy slice of Philly-styled soul on “Tell Me When the Whistle Blows.”",
+          "short": "Pop melodicism stuns on this mid-’70s hit release."
+        },
+        "isComplete": true
+      }
+    },
+    "1440845733": {
+      "id": "1440845733",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2000 SKG Music L.L.C.",
+        "genreNames": ["Soundtrack", "Music"],
+        "releaseDate": "2000-03-14",
+        "isMasteredForItunes": false,
+        "upc": "00602547815569",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/51/0e/b5/510eb58e-2106-90b3-3ce0-4dea169dd310/00602547815569.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "352b12",
+          "textColor2": "0e100d",
+          "textColor4": "3a3013",
+          "textColor1": "08090c",
+          "bgColor": "ebb22d",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-road-to-el-dorado-original-motion-picture-soundtrack/1440845733",
+        "playParams": {
+          "id": "1440845733",
+          "kind": "album"
+        },
+        "recordLabel": "Geffen",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Road to El Dorado (Original Motion Picture Soundtrack)",
+        "artistName": "Elton John",
+        "isComplete": true
+      }
+    },
+    "1440863013": {
+      "id": "1440863013",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 This Record Company Ltd.",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Rock & Roll",
+          "Pop",
+          "Pop/Rock",
+          "Arena Rock",
+          "Singer/Songwriter",
+          "Soft Rock",
+          "Adult Contemporary",
+          "Glam Rock"
+        ],
+        "releaseDate": "1973-10-05",
+        "isMasteredForItunes": true,
+        "upc": "00602537535170",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/60/b6/b360b655-4d28-179d-d0d4-4e128ebdf4c9/13UAEIM19273.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "4d3834",
+          "textColor2": "362723",
+          "textColor4": "55443f",
+          "textColor1": "2c1815",
+          "bgColor": "d4b9ae",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/goodbye-yellow-brick-road-2014-remaster/1440863013",
+        "playParams": {
+          "id": "1440863013",
+          "kind": "album"
+        },
+        "recordLabel": "UMC (Universal Music Catalogue)",
+        "trackCount": 17,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Goodbye Yellow Brick Road (2014 Remaster)",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "Having rocketed from the lavish orchestrations of “Your Song” and “Levon” to “Crocodile Rock” in less than three years, Elton John saw fit to make a Big Statement tying together all his musical impulses. The 1973 double LP <i>Goodbye Yellow Brick Road</i> cemented not only his nearly wayward eclecticism, but also his audience’s willingness to follow any path he trod. The result was his critical and commercial peak—an album whose tracklist looks, at first blush, like a greatest-hits anthology and a defining snapshot of an artist at the height of his powers.\n\nThe album’s opening sequence is more or less a sketch of Elton John’s early career and imperial phase, blending these far-reaching musical swings with Bernie Taupin’s increasingly cinematic and high-concept lyrics. The quintessential FM-rock-era sprawl of “Funeral for a Friend/Love Lies Bleeding” segues into the sentimental and ubiquitous Marilyn Monroe tribute “Candle in the Wind” and bursts into full-on Eltonic lunacy with “Bennie and the Jets.” Many cuts (the elegiac title song, “Saturday Night’s Alright for Fighting,” “Grey Seal”) became airplay staples, while others (the manic “Your Sister Can’t Twist [But She Can Rock ’N Roll]”) deserve more notice than they got—likely because of <i>Road</i>’s sheer bulk of worthy material.",
+          "short": "A defining snapshot of an artist at the height of his powers.",
+          "tagline": "50th Anniversary"
+        },
+        "isComplete": true
+      }
+    },
+    "1440910513": {
+      "id": "1440910513",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 1972 This Record Company Ltd.",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Soft Rock",
+          "Rock",
+          "Arena Rock",
+          "Rock & Roll",
+          "Singer/Songwriter",
+          "Pop/Rock"
+        ],
+        "releaseDate": "1972-05-19",
+        "upc": "00731452816221",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/b6/da/75b6da76-a3e0-6a77-cbe5-ad6c42cb0692/06UMGIM48050.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "363125",
+          "textColor2": "24221d",
+          "textColor4": "484134",
+          "textColor1": "0d0e0b",
+          "bgColor": "dbbf8f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/honky-ch%C3%A2teau-bonus-track-version/1440910513",
+        "playParams": {
+          "id": "1440910513",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "trackCount": 11,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Honky Château (Bonus Track Version)",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "<i>Honky Chateau</i> is the pinnacle of Elton John and lyricist Bernie Taupin’s obsession with all things American, not least because its themes are funny (“I Think I’m Gonna Kill Myself”) and personalized (“Amy,” a sly paean to young lust). Elton’s small group, augmented with some daredevil electric violin by Jean-Luc Ponty, adapts to everything from the New Orleans carousel music of “Honky Cat” to the Ray Charles-ready “Mellow.” Similarly riding varied currents, the man does some of his best singing here; he’s positively funky on the Band-informed “Susie (Dramas).”",
+          "short": "The pinnacle of his obsession with all things American."
+        },
+        "isComplete": true
+      }
+    },
+    "1440912739": {
+      "id": "1440912739",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 1974 This Record Company Ltd.",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Adult Contemporary",
+          "Rock",
+          "Rock & Roll",
+          "Arena Rock",
+          "Soft Rock",
+          "Singer/Songwriter",
+          "Pop/Rock"
+        ],
+        "releaseDate": "1974-06-24",
+        "upc": "00731452815828",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/e8/a9/08e8a97d-1e86-6973-4f69-2093ce8523f8/06UMGIM51740.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "bcc3cd",
+          "textColor2": "fbd6be",
+          "textColor4": "cbbcb4",
+          "textColor1": "e8dfdd",
+          "bgColor": "0b518b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/caribou-remastered-1995/1440912739",
+        "playParams": {
+          "id": "1440912739",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Caribou (Remastered 1995)",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "Led by the glam-slam party starter “The Bitch Is Back,” this underrated 1974 release takes comforting sonic turns. There’s an acoustic guitar and piano love ballad (“Pinky”), a guitar-driven pop-rock gem (“Grimsby”), a country music spin (“Dixie Lily”), and a cinematic sojourn (“I’ve Seen the Saucers”). “Ticking” is a sobering vocal-piano song about violence, and the album’s centerpiece, “Don’t Let the Sun Go Down on Me” (which features two Beach Boys on backing vocals), is a betrayed lover’s plea that rises on a bed of exquisite harmonies. Here, Elton tests the era’s rock ’n’ roll boundaries, expertly mixing breakup balladry with mood-setting grandeur and fist-pumping rock.",
+          "short": "Released at the height of glitter rock, this album quietly pushed musical boundaries."
+        },
+        "isComplete": true
+      }
+    },
+    "1440912783": {
+      "id": "1440912783",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 1970 This Record Company Ltd.",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Pop",
+          "Southern Rock",
+          "Rock & Roll",
+          "Pop/Rock",
+          "Singer/Songwriter",
+          "Soft Rock",
+          "Arena Rock"
+        ],
+        "releaseDate": "1970-10-30",
+        "isMasteredForItunes": false,
+        "upc": "00731452815521",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d3/40/f0/d340f006-fc6e-3bda-2d17-c4551b328e4c/00731452815521.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "e5c68f",
+          "textColor2": "fdd98f",
+          "textColor4": "e4be7c",
+          "textColor1": "fde3a8",
+          "bgColor": "83532f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/tumbleweed-connection-remastered/1440912783",
+        "playParams": {
+          "id": "1440912783",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Tumbleweed Connection (Remastered)",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "When we want to explain what a maverick Elton John is in the world of pop music, we just point to <i>Tumbleweed Connection</i>. Eschewing the singer/songwriter pop sound of his first two records, he and writing partner Bernie Taupin create a loose concept album about the Old West, full of restrained emotion and ambling melodies—and it totally works. Meandering tunes like the bluesy \"Amoreena\" and bluegrass-inspired \"Country Comfort\" feel like the soundtrack to a perfect Western movie that exists only in our minds.",
+          "short": "Sir Elton proves he can do anything—including country."
+        },
+        "isComplete": true
+      }
+    },
+    "1440912988": {
+      "id": "1440912988",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 1998 Mercury Records Limited",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Arena Rock",
+          "Pop/Rock",
+          "Adult Contemporary",
+          "Soft Rock",
+          "Singer/Songwriter"
+        ],
+        "releaseDate": "1983-05-30",
+        "isMasteredForItunes": false,
+        "upc": "00731455847529",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/e5/b4/45e5b409-0564-a7a3-186c-1dc116c3ffb7/06UMGIM49712.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1410,
+          "textColor3": "333434",
+          "textColor2": "262626",
+          "textColor4": "515151",
+          "textColor1": "000101",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/too-low-for-zero-bonus-track-version/1440912988",
+        "playParams": {
+          "id": "1440912988",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "trackCount": 13,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Too Low For Zero (Bonus Track Version)",
+        "artistName": "Elton John",
+        "isComplete": true
+      }
+    },
+    "1440916847": {
+      "id": "1440916847",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 1997 Mercury Records Limited",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Adult Contemporary",
+          "Soft Rock",
+          "Pop/Rock",
+          "Rock",
+          "Singer/Songwriter"
+        ],
+        "releaseDate": "1997-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00731456810928",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/b1/dc/98b1dcad-899b-d8c6-d17c-f20a74baf2d7/00731456810928.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d2dce6",
+          "textColor2": "dbcfad",
+          "textColor4": "b6b6a8",
+          "textColor1": "fffffb",
+          "bgColor": "215493",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/candle-in-the-wind-1997-something-about-the-way-you/1440916847",
+        "playParams": {
+          "id": "1440916847",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "isCompilation": false,
+        "trackCount": 3,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Candle In the Wind 1997 / Something About the Way You Look Tonight - Single",
+        "artistName": "Elton John",
+        "isComplete": true
+      }
+    },
+    "1440922045": {
+      "id": "1440922045",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 1995 UMG Recordings, Inc.",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Arena Rock",
+          "Singer/Songwriter",
+          "Adult Contemporary",
+          "Pop/Rock",
+          "Soft Rock"
+        ],
+        "releaseDate": "1995-11-06",
+        "upc": "00731454884129",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/39/65/16/39651605-d9a1-c0e4-6e79-ba634b39c433/06UMGIM01415.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "dcd7d8",
+          "textColor2": "f7c4c0",
+          "textColor4": "d7aaa7",
+          "textColor1": "fdfdfd",
+          "bgColor": "5a4144",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/love-songs-remastered/1440922045",
+        "playParams": {
+          "id": "1440922045",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "trackCount": 15,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Love Songs (Remastered)",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "This collection of love songs reveals Elton John to be a dreamer, a romantic, and a truth-teller. Tunes like the mounting ballad “Someone Saved My Life Tonight” and the R&B-tinged “Sacrifice” find Elton defining hardcore relationship troubles with inescapable melodies and poetic sensibilities. “Blue Eyes” and Cole Porter’s “True Love” (a duet with Kiki Dee) are deceptively poignant in slick-pop veneers, and the absolutely majestic “Circle of Life” (from <i>The Lion King</i>) could be the aural equivalent of what it feels like to fall in love.",
+          "short": "There’s heartbreak, depth, and redemption in these mellow stunners."
+        },
+        "isComplete": true
+      }
+    },
+    "1440925614": {
+      "id": "1440925614",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 1973 This Record Company Ltd.",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Arena Rock",
+          "Pop",
+          "Pop/Rock",
+          "Soft Rock",
+          "Rock & Roll",
+          "Singer/Songwriter"
+        ],
+        "releaseDate": "1973-01-26",
+        "upc": "00731452815422",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/cd/b8/49cdb8de-4752-8cec-f795-b7547930990d/06UMGIM34697.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "cbcbc8",
+          "textColor2": "f2af84",
+          "textColor4": "c5906d",
+          "textColor1": "fbfaf5",
+          "bgColor": "0e1213",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/dont-shoot-me-im-only-the-piano-player-bonus-tracks-version/1440925614",
+        "playParams": {
+          "id": "1440925614",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Don't Shoot Me I'm Only The Piano Player (Bonus Tracks Version)",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "This 1973 release was a turning point in Elton John’s career. It found him and lyricist Bernie Taupin becoming purposely concise in their songwriting—even radio-friendly, which wasn’t a bad thing. Besides the hits, like the tensely foreboding “Daniel” and rock ’n’ roll uplifter “Crocodile Rock,” many of the album cuts suckerpunch with equally killer pop hooks and lyrical smarts—from the schoolyard yarn in the lively, mellotron-enhanced “Teacher I Need You” to the empathetic piano-and-string ballad “Have Mercy on the Criminal” to the punchy horns in sing-along rocker “Elderberry Wine.”",
+          "short": "Elton's sixth studio album captures the glittery star at his pop-song best."
+        },
+        "isComplete": true
+      }
+    },
+    "1445732923": {
+      "id": "1445732923",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 1994 Buena Vista Pictures Distribution, Inc.",
+        "genreNames": [
+          "Musicals",
+          "Music",
+          "Soundtrack",
+          "Disney",
+          "Original Score",
+          "Pop",
+          "Adult Contemporary",
+          "Soft Rock"
+        ],
+        "releaseDate": "1994-05-31",
+        "isMasteredForItunes": false,
+        "upc": "00050086085873",
+        "artwork": {
+          "width": 1404,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/80/89/ce808921-d594-fa7f-03e8-adcc92a69de8/06PNDIM00020.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1404,
+          "textColor3": "d1dae7",
+          "textColor2": "fdedbc",
+          "textColor4": "d0ceb2",
+          "textColor1": "fffdfe",
+          "bgColor": "1a528b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-lion-king-original-motion-picture-soundtrack/1445732923",
+        "playParams": {
+          "id": "1445732923",
+          "kind": "album"
+        },
+        "recordLabel": "Walt Disney Records",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "The Lion King (Original Motion Picture Soundtrack)",
+        "artistName": "Elton John & Tim Rice, Hans Zimmer",
+        "editorialNotes": {
+          "standard": "Disney’s feline fantasy was also the first collaboration between Tim Rice and Elton John. Combining African influences with Rice’s plainspoken yet poetic lyrics, the pair’s songs work just as well without visuals, whether sung by the cast—including an amazing Nathan Lane, who takes lead on “Hakuna Matata”—or John himself. (The cast recording of \"Can You Feel the Love Tonight\" is a particularly buoyant take on the Oscar-winning hit.) Portions of Hans Zimmer’s sweeping score round out the album with appropriately cinematic flair.",
+          "short": "Rediscover Elton John’s Oscar-winning tunes—in immersive Spatial Audio.",
+          "tagline": "Now in Spatial Audio"
+        },
+        "isComplete": true
+      }
+    },
+    "1460664692": {
+      "id": "1460664692",
+      "type": "albums",
+      "attributes": {
+        "copyright": "A Virgin EMI Records release; ℗ 2019 Paramount Pictures, under exclusive license to Universal Music Operations Limited",
+        "genreNames": ["Soundtrack", "Music"],
+        "releaseDate": "2019-05-24",
+        "upc": "00602577659263",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a5/75/af/a575af10-be53-bac4-e2d5-1f8c46854dae/19UMGIM28607.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "ceba90",
+          "textColor2": "d2def7",
+          "textColor4": "b1b5cf",
+          "textColor1": "f6e4aa",
+          "bgColor": "2d102c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/rocketman-music-from-the-motion-picture/1460664692",
+        "playParams": {
+          "id": "1460664692",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "isCompilation": false,
+        "trackCount": 22,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Rocketman (Music from the Motion Picture)",
+        "artistName": "Taron Egerton & Elton John",
+        "editorialNotes": {
+          "standard": "“I definitely wanted for everyone to know it's not me singing,” Elton John tells Apple Music of the soundtrack to his fantasia biopic <i>Rocketman</i>, starring and masterfully performed by Taron Egerton. “I didn't want lip-synching. Now, my songs aren't easy to sing—I know 'cause loads of musicians have told me. He sounds like me, but he also sounds like Taron. Things like 'Don't Let the Sun Go Down on Me,' 'Take Me to the Pilot,' 'Tiny Dancer' are not easy, and it blew my mind when I heard them.”<br />\nUnder the supervision of musical director Giles Martin—and with Sir Elton himself choosing to largely stay out of the process—Egerton found the line between impersonation and reinvention. And he's had years of practice, even before his fateful (albeit in gorilla form) rendition of “I'm Still Standing” in 2016's <i>Sing</i>. “When I was 17, I auditioned for drama school,” he tells Apple Music. “The first year I didn't have much luck, but when you audition for drama schools in the UK you're asked to sing a song, and both years I did 'Your Song,' which my mom loves to tell people now.”<br />\nElton John's actual voice is absent from the movie and the soundtrack until the very end—he and Egerton duet on “(I'm Gonna) Love Me Again,” which was written specifically for the project, and the result of some high-profile multitasking. “I had to write a song for the end of the movie—a duet for him and I to sing—<i>and</i> I had to write a song for the end of the new <i>Lion King</i> movie,” John says. “I did them both in the same afternoon in Atlanta, and they both turned out really well.”",
+          "short": "Ladies and gentlemen, not exactly Mr. Elton John."
+        },
+        "isComplete": true
+      }
+    },
+    "1484997755": {
+      "id": "1484997755",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2014 Mercury Records Limited",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Arena Rock",
+          "Glam Rock",
+          "Pop",
+          "Pop/Rock",
+          "Adult Contemporary",
+          "Rock & Roll",
+          "Singer/Songwriter",
+          "Soft Rock"
+        ],
+        "releaseDate": "1973-10-05",
+        "isMasteredForItunes": true,
+        "upc": "00602508469688",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/02/ee/dc02ee4a-ff56-75df-64d4-9afcf8c0885d/18UMGIM35649.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5d4a25",
+          "textColor2": "423120",
+          "textColor4": "67552a",
+          "textColor1": "35231a",
+          "bgColor": "fce852",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/goodbye-yellow-brick-road-40th-anniversary-celebration/1484997755",
+        "playParams": {
+          "id": "1484997755",
+          "kind": "album"
+        },
+        "recordLabel": "UMC (Universal Music Catalogue)",
+        "isCompilation": false,
+        "trackCount": 52,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition) [2014 Remaster]",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "Having rocketed from the lavish orchestrations of “Your Song” and “Levon” to “Crocodile Rock” in less than three years, Elton John saw fit to make a Big Statement tying together all his musical impulses. The 1973 double LP <i>Goodbye Yellow Brick Road</i> cemented not only his nearly wayward eclecticism, but also his audience’s willingness to follow any path he trod. The result was his critical and commercial peak—an album whose tracklist looks, at first blush, like a greatest-hits anthology and a defining snapshot of an artist at the height of his powers.\n\nThe album’s opening sequence is more or less a sketch of Elton John’s early career and imperial phase, blending these far-reaching musical swings with Bernie Taupin’s increasingly cinematic and high-concept lyrics. The quintessential FM-rock-era sprawl of “Funeral for a Friend/Love Lies Bleeding” segues into the sentimental and ubiquitous Marilyn Monroe tribute “Candle in the Wind” and bursts into full-on Eltonic lunacy with “Bennie and the Jets.” Many cuts (the elegiac title song, “Saturday Night’s Alright for Fighting,” “Grey Seal”) became airplay staples, while others (the manic “Your Sister Can’t Twist [But She Can Rock ’N Roll]”) deserve more notice than they got—likely because of <i>Road</i>’s sheer bulk of worthy material.",
+          "short": "A defining snapshot of an artist at the height of his powers.",
+          "tagline": "50th Anniversary"
+        },
+        "isComplete": true
+      }
+    },
+    "1583227776": {
+      "id": "1583227776",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An EMI release; ℗ 2021 Mercury Records Limited",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-10-22",
+        "upc": "00602438711840",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/14/d4/0914d491-67ca-62fc-64a2-4bad5278b7ae/21UMGIM74865.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d3a060",
+          "textColor2": "d8adbf",
+          "textColor4": "b48f9d",
+          "textColor1": "ffc373",
+          "bgColor": "241615",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-lockdown-sessions/1583227776",
+        "playParams": {
+          "id": "1583227776",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "isCompilation": false,
+        "trackCount": 16,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Lockdown Sessions",
+        "contentRating": "explicit",
+        "artistName": "Elton John",
+        "editorialNotes": {
+          "standard": "Like many of us during the COVID pandemic, Elton John got to know a few of his neighbors very well. Unlike most of us, his neighbors are also famous musicians, and these serendipitous encounters have led to some of the highest-profile collaborations of his career. A chance meeting with Charlie Puth—“he lived three doors away from me”—was the first in a series of impromptu lockdown sessions launched via email and Zoom calls. After a few scattered tracks had come together, Elton had an epiphany. “I suddenly thought, ‘Oh my god, I’m a session musician again,’” he tells Apple Music, recalling his early days as a not-yet-famous piano player. “And it was just like, ‘You know what, I love this.’ To play on other people’s records, to hear different music and be able to fit in with someone else’s thoughts is an incredibly inspiring and moving thing to do.” And because it’s Elton—the host of Apple Music Radio’s Rocket Hour, where timeless classics mingle with the latest hits from upcoming artists—there’s a mix of old and new. Lil Nas X, Young Thug, and Nicki Minaj are here, as are the late Glen Campbell, Eddie Vedder, and Stevies Wonder and Nicks. “They’ve all taught me something at 74 years of age,” he says. “I think if that can happen in your life and you listen and learn something from these people, it’s a bonus.” As a further bonus, Sir Elton takes us track by track through each collaboration on the album.<br />\n<b>“Cold Heart” (PNAU Remix) with Dua Lipa</b>\n“She was the most professional, brilliant, well‐rehearsed, humble, fabulous, glamorous, beautiful person. I just took to her immediately. <i>Future Nostalgia</i> is one of my favorite albums of the year. She has a certain energy that kind of reflected and inspired me, too. But it was her professionalism and her humility that really struck me.”<br />\n<b>“Always Love You” with Young Thug and Nicki Minaj</b>\n“He came over; I went, ‘What do I call you? Thug? Young Thug? Mr. Thug?’ He said, ‘No, just call me Jeffery.’ He was very humble and very sweet and asked my advice: ‘What do you think I should do as I go on?’ I said, ‘Did you sing in the gospel choir?’ ‘Yes.’ I said, ‘Then sing a little bit more—use more melody as well as rapping, because you do that brilliantly.’ He came into the studio and he just freestyled it all the way. What he did on the track was amazing, and then we thought we're going to have to have a female to answer it. Eventually we got hold of Nicki. I never knew Nicki could sing. I’d just heard her rap. She sang beautifully. She really captured the meaning of the song.”<br />\n<b>“Learn to Fly” with Surfaces</b>\n“They had a hit in America at that particular time and they wanted me to play and maybe do some vocals on their next single. I went up to the studio, and I did my first ever Zoom recording. I put a piano and I did voice on it. And so really that was the first <i>Lockdown</i> track I did. When I go into those situations, I say, ‘Listen, I’m playing on your record. If you don’t like anything, tell me. It’s not going to hurt my feelings.’ They were very, very forthright like that. I put the piano on, then I did the harmonies and the vocals. I love decisive people, so it made it very easy.”<br />\n<b>“After All” with Charlie Puth</b>\n“Charlie Puth and I were in the studio—just the two of us. He’s got a little home studio with all his keyboards and his synths, his Pro Tools. I went up there, played electric piano, and actually wrote the song all the way through. This and the Stevie Wonder song are very unusual for me because I wrote them all the way through without a lyric and the melody. Charlie wrote some words, and I did a vocal, he did a vocal, and that came from that.”<br />\n<b>“Chosen Family” with Rina Sawayama</b>\n“Rina’s album was one of the most amazing records I heard that year. The most frustrating thing for people like her is that they couldn’t tour, because she’s such a visual artist, and you can imagine what the song was going to be like. She was stuck in COVID and we became email friends, and I fell in love with her. I just absolutely adore her. ‘Chosen Family’ is such a beautifully written track, and it’s so important now to bring people together in the divided world that we live in.”<br />\n<b>“The Pink Phantom” with Gorillaz feat. 6LACK</b>\n“I just love the fact that Damon [Albarn] works with so many different people, and he’s not afraid to take a chance. They’re not in it for the glamorization and the glory, they’re in it because they’re working with people they like. And they might not be the biggest‐selling records in the world, but that doesn’t matter to them. Damon used to think I had a pink Phantom, but I didn’t. If I was going to have a Phantom, then it probably would have been pink. I haven’t really had anybody rapping on my records before. To hear 6LACK rapping and Damon weaving me in and out of this dreamlike track was hypnotic and fascinating for me.”<br />\n<b>“It’s a sin” (global reach mix) with Years & Years</b>\n“Olly [Alexander] did a version of ‘It’s a sin’ acoustically. It’s a beautiful song. The lyrics say everything about being gay. It’s a genius lyric by Neil Tennant and a genius record. It’s a tribute to the Pet Shop Boys, and how their music has influenced me, has given me so much pleasure. And it showed the brilliance of both of them creating music and lyrics that sum up being gay. I’ve never written those kinds of songs. It’s me paying tribute to two people who have given me so much pleasure all my life.”<br />\n<b>“Nothing Else Matters” with Miley Cyrus feat. WATT, Yo-Yo Ma, Robert Trujillo & Chad Smith</b>\n“Miley is a fairly new artist in a way, because she’s kind of making different music from when she started, you know, ‘Wrecking Ball.’ I was so impressed with her voice on ‘Nothing Else Matters.’ I’ve always loved Metallica and I always loved that song. It’s the same kind of version, except there’s a piano at the beginning and the end…and there’s Yo‐Yo Ma.”<br />\n<b>“Orbit” with SG Lewis</b>\n“Sam Lewis is someone I’ve been looking at for a long time. He’s a young British producer; I’ve interviewed him on Rocket Hour and played his tracks. I went to the studio in London with his lyricist and wrote a song called ‘Orbit.’ He sent me a track which I didn’t like because it was too Eltonish. I wanted balls. I wanted to dance. I said, ‘Sam, go ahead and destroy what I've done. Just keep the bits you like. The reason I wanted to work with you is that I wanted you in it.’ What he finished up with I love, because it's a bit Depeche Mode, a bit New Order. It’s totally what I wanted. I didn’t want it to sound like Elton John doing a dance record with an Elton John song, which was too formulaic. Dance records aren’t formulaic, with bits and snatches of melodies.”<br />\n<b>“Simple Things” with Brandi Carlile</b>\n“She wrote me a letter 18 years ago asking me to play on her album, the most beautiful letter saying how much I’d meant to her as an artist. She came to Vegas and I played on her record. And we’ve become friends ever since. For her to sing on ‘Simple Things,’ it’s like a dream come true, a bucket list moment. I watched her grow and become the artist she is. She’s exactly the same as me, she wants to help young people. It’s one of my favorite songs. It’s a sort of song I would have written with Bernie.”<br />\n<b>“Beauty in the Bones” with Jimmie Allen</b>\n“This came about because of my friend Bruce Roberts, who’s been having a lot of bad health. Bruce is a songwriter who I’ve known for years, and he played me this track. I liked the song, a different kind of song to all the rest, a different kind of genre. I wanted to support Jimmie because he’s a young rising star. He’s unknown over here, he’s just starting out.”<br />\n<b>“One of Me” with Lil Nas X</b>\n“All the people I work with knew what they wanted, and so did Lil Nas X and Giles Martin. They were decisive people. I’d say, ‘Is that too much?’ He said, ‘Yes, a bit too much, calm it down a bit.’ And I think they used the bare bones of the piano I did, because I did some other funky stuff. And maybe it shifted the track from what they wanted it to be and made it a bit too Elton. And I also sang a little on the Lil Nas X track, but they didn’t use that either. And that's fair enough. It’s their record. I give them as much as they want, and they can just take it away and just use what they want. You have to accept that you’re playing on someone else’s record.”<br />\n<b>“E-Ticket” with Eddie Vedder</b>\n“I got to know Eddie Vedder because he comes to a lot of shows, especially in Hawaii, where he has a place. He gave me a beautiful ukulele. I’ve always loved him, and I love what he stands for. Eddie left a note for me in the studio saying it would be one of his bucket list items if I would ever write a song to one of his lyrics. So I wrote two—one for him and one for me. How lovely to be able to do something for someone who's as joyous as that.”<br />\n<b>“Finish Line” with Stevie Wonder</b>\n“I put the electric piano down. He came and played acoustic piano and then did the harmonica solo. Then we put the Kanye West choir on, which really made the difference. And then Stevie put his vocal on. I haven’t heard Stevie sound so young since he was about 19, just before he did <i>Talking Book</i>; it’s an ‘Uptight’ Stevie. I’m the Ernie Wise to him on that record, because I’m just the straight man. You just listen to what he does vocally and instrumentally, and you think, ‘Oh, my god, this is a true genius.’ I’m obviously a huge fan of his, and he’s still younger than me, which I loathe. On this track that we did, he produced something very special that Stevie Wonder fans haven’t heard for a long time.”<br />\n<b>“Stolen Car” with Stevie Nicks</b>\n“I didn’t know Stevie that well. When I say bucket list of vocalists, Stevie Nicks and Christine McVie would be two of my choices. It’s just a dream come true. She has a style of her own; I never get fed up listening to her. When people like Stevie Wonder, Eddie Vedder, Stevie Nicks, and Brandi Carlile say yes to you straight away, it really makes you feel special. On this record, we sound like an old married couple in a car like Thelma and Louise going to Big Bear and having an argument, pulling over by the side of the road.”<br />\n<b>“I'm Not Gonna Miss You” with Glen Campbell</b>\n“I got a phone call from Glen Campbell’s people saying the last song he wrote was called ‘I’m Not Gonna Miss You.’ And when that came out, I said in an interview that I thought it was one of the most beautiful songs that I ever heard because it was very short and sweet, but it was about his battle with Alzheimer’s. They said they were doing a remake of the album with people duetting with him. ‘Would you sing that song?’ I said, ‘Yes, absolutely, I’d love to sing that with him.’”",
+          "short": "“Oh my god, I’m a session musician again.”"
+        },
+        "isComplete": true
+      }
+    },
+    "1597492455": {
+      "id": "1597492455",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An EMI release; ℗ 2021 Mercury Records Limited",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-10-22",
+        "isMasteredForItunes": true,
+        "upc": "00602445288656",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/29/07/db290719-0123-4b57-8593-426925c454ba/21UMGIM74865.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d3a060",
+          "textColor2": "d8adbf",
+          "textColor4": "b48f9d",
+          "textColor1": "ffc373",
+          "bgColor": "241615",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-lockdown-sessions-christmas-edition/1597492455",
+        "playParams": {
+          "id": "1597492455",
+          "kind": "album"
+        },
+        "recordLabel": "EMI",
+        "trackCount": 17,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Lockdown Sessions (Christmas Edition)",
+        "artistName": "Elton John",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1618478418": {
+      "id": "1618478418",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An EMI release; ℗ 2022 This Record Company Ltd.",
+        "genreNames": ["Rock", "Music"],
+        "releaseDate": "2022-06-10",
+        "isMasteredForItunes": false,
+        "upc": "00602438643868",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e0/2e/25/e02e2503-ec2d-4602-6c2c-ba5061a4d3c3/21UMGIM66702.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3da9b7",
+          "textColor2": "78b5e1",
+          "textColor4": "6095bd",
+          "textColor1": "4bceda",
+          "bgColor": "04142b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/madman-across-the-water-deluxe-edition/1618478418",
+        "playParams": {
+          "id": "1618478418",
+          "kind": "album"
+        },
+        "recordLabel": "UMC (Universal Music Catalogue)",
+        "trackCount": 34,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Madman Across The Water (Deluxe Edition)",
+        "artistName": "Elton John",
+        "isComplete": true
+      }
+    },
+    "1652668529": {
+      "id": "1652668529",
+      "type": "albums",
+      "attributes": {
+        "copyright": "A Virgin EMI Records Release; This Compilation ℗ 2022 Universal Music Operations Limited",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2017-11-10",
+        "isMasteredForItunes": false,
+        "upc": "00602448748867",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/58/c4/0e/58c40e30-98f8-1215-42f9-82ea7eec6918/22UM1IM16650.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "ccd8e1",
+          "textColor2": "9fd6ff",
+          "textColor4": "7fb7e1",
+          "textColor1": "ffffff",
+          "bgColor": "003e6b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/diamonds-deluxe/1652668529",
+        "playParams": {
+          "id": "1652668529",
+          "kind": "album"
+        },
+        "recordLabel": "UMC (Universal Music Catalogue)",
+        "trackCount": 54,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Diamonds (Deluxe)",
+        "artistName": "Elton John",
+        "isComplete": true
+      }
+    },
+    "1712934271": {
+      "id": "1712934271",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Gingerbread Man Records Limited",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2023-11-16",
+        "isMasteredForItunes": false,
+        "upc": "5054197879388",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/5d/ae/505dae71-627d-cc12-5cdf-344e50056fc6/5054197879388.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b6b08f",
+          "textColor2": "d2bc90",
+          "textColor4": "ae9c79",
+          "textColor1": "dcd5ab",
+          "bgColor": "1e1c1f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/guiding-light-anniversary-edition-feat-ed-sheeran-elton/1712934271",
+        "playParams": {
+          "id": "1712934271",
+          "kind": "album"
+        },
+        "recordLabel": "Atlantic Records UK",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Guiding Light (Anniversary Edition) [feat. Ed Sheeran, Elton John & Keith Urban] - Single",
+        "artistName": "Foy Vance",
+        "isComplete": true
+      }
+    },
+    "1714636962": {
+      "id": "1714636962",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Mercury Records Limited",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2023-11-06",
+        "upc": "00602458471878",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/8f/fa/ca8ffa5a-de90-17eb-3688-861091fc0185/23UM1IM46570.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "da9f51",
+          "textColor2": "f1c540",
+          "textColor4": "db9d35",
+          "textColor1": "f1c763",
+          "bgColor": "82000b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/step-into-christmas/1714636962",
+        "playParams": {
+          "id": "1714636962",
+          "kind": "album"
+        },
+        "recordLabel": "UMC (Universal Music Catalogue)",
+        "isCompilation": false,
+        "trackCount": 7,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Step Into Christmas",
+        "artistName": "Elton John",
+        "isComplete": true
+      }
+    }
+  }
+}

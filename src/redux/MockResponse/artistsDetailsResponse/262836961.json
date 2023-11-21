@@ -1,0 +1,1511 @@
+{
+  "artists": {
+    "262836961": {
+      "id": "262836961",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Pop"],
+        "name": "Adele",
+        "artwork": {
+          "width": 2400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/a2/2d/df/a22ddf71-9254-043c-c162-11fbc25c5ff3/mzl.ilbjswky.jpg/{w}x{h}bb.jpg",
+          "height": 2400,
+          "textColor3": "37332c",
+          "textColor2": "3d2f20",
+          "textColor4": "5e5145",
+          "textColor1": "0d0900",
+          "bgColor": "e0dbdc",
+          "hasP3": true
+        },
+        "url": "https://music.apple.com/us/artist/adele/262836961"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1590035691",
+              "type": "albums"
+            },
+            {
+              "id": "1544491232",
+              "type": "albums"
+            },
+            {
+              "id": "1544494115",
+              "type": "albums"
+            },
+            {
+              "id": "1545382283",
+              "type": "albums"
+            },
+            {
+              "id": "1544490298",
+              "type": "albums"
+            },
+            {
+              "id": "1395523242",
+              "type": "albums"
+            },
+            {
+              "id": "1545376276",
+              "type": "albums"
+            },
+            {
+              "id": "1545376338",
+              "type": "albums"
+            },
+            {
+              "id": "1395522687",
+              "type": "albums"
+            },
+            {
+              "id": "566322358",
+              "type": "albums"
+            },
+            {
+              "id": "1545039947",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1544494392",
+              "type": "songs"
+            },
+            {
+              "id": "1590036021",
+              "type": "songs"
+            },
+            {
+              "id": "1544494407",
+              "type": "songs"
+            },
+            {
+              "id": "1544494394",
+              "type": "songs"
+            },
+            {
+              "id": "1544491998",
+              "type": "songs"
+            },
+            {
+              "id": "1544494912",
+              "type": "songs"
+            },
+            {
+              "id": "1544494722",
+              "type": "songs"
+            },
+            {
+              "id": "1544491233",
+              "type": "songs"
+            },
+            {
+              "id": "1544494731",
+              "type": "songs"
+            },
+            {
+              "id": "1544491988",
+              "type": "songs"
+            },
+            {
+              "id": "1545382976",
+              "type": "songs"
+            },
+            {
+              "id": "1590036031",
+              "type": "songs"
+            },
+            {
+              "id": "1545382295",
+              "type": "songs"
+            },
+            {
+              "id": "1590036026",
+              "type": "songs"
+            },
+            {
+              "id": "1590036250",
+              "type": "songs"
+            },
+            {
+              "id": "1544494717",
+              "type": "songs"
+            },
+            {
+              "id": "566322365",
+              "type": "songs"
+            },
+            {
+              "id": "1544491234",
+              "type": "songs"
+            },
+            {
+              "id": "1590036034",
+              "type": "songs"
+            },
+            {
+              "id": "1544494401",
+              "type": "songs"
+            }
+          ]
+        },
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": []
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "albums": {
+    "566322358": {
+      "id": "566322358",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Melted Stone Ltd under exclusive license to Columbia Records / Skyfall © 2012 Danjaq LLC, United Artists Corporation, Columbia Pictures Industries Inc., Skyfall, 007 Gun Logo, and related James Bond Trademarks © 1962-2012",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Soundtrack",
+          "Adult Alternative",
+          "Soundtrack"
+        ],
+        "releaseDate": "2012-10-05",
+        "upc": "886443673632",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "01c2c1",
+          "textColor2": "22eee2",
+          "textColor4": "1dc1b8",
+          "textColor1": "00f0ed",
+          "bgColor": "090d0e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/skyfall-single/566322358",
+        "playParams": {
+          "id": "566322358",
+          "kind": "album"
+        },
+        "recordLabel": "XL Recordings/Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Skyfall - Single",
+        "artistName": "Adele",
+        "isComplete": true
+      }
+    },
+    "1395522687": {
+      "id": "1395522687",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2008-07-21",
+        "upc": "191404094068",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/31/03/bf/3103bfa8-0d4b-3bcd-df46-c56a1af354c7/191404094068.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0c0c0",
+          "textColor2": "d3d3d3",
+          "textColor4": "adadad",
+          "textColor1": "ebebeb",
+          "bgColor": "151515",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1395522687",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/hometown-glory-single/1395522687",
+        "recordLabel": "XL Recordings",
+        "trackCount": 3,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Hometown Glory - Single",
+        "artistName": "Adele",
+        "isComplete": true
+      }
+    },
+    "1395523242": {
+      "id": "1395523242",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2008 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music", "R&B/Soul", "Soul"],
+        "releaseDate": "2008",
+        "upc": "191404094365",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e6/ad/ed/e6adedab-c8a9-deab-337a-ed1cb4e32b27/191404094365.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "cccccc",
+          "textColor2": "dcb18b",
+          "textColor4": "b08e70",
+          "textColor1": "ffffff",
+          "bgColor": "020202",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/cold-shoulder-ep/1395523242",
+        "playParams": {
+          "id": "1395523242",
+          "kind": "album"
+        },
+        "recordLabel": "XL Recordings",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Cold Shoulder - EP",
+        "artistName": "Adele",
+        "isComplete": true
+      }
+    },
+    "1544490298": {
+      "id": "1544490298",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2011 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2011-07-12",
+        "isMasteredForItunes": false,
+        "upc": "191404114957",
+        "artwork": {
+          "width": 3240,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/a0/0911a007-9587-3e67-4dac-0821b030061f/191404114957.png/{w}x{h}bb.jpg",
+          "height": 3240,
+          "textColor3": "cac9c5",
+          "textColor2": "d7d9d1",
+          "textColor4": "adaea8",
+          "textColor1": "fbfaf5",
+          "bgColor": "050505",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/itunes-festival-london-2011-ep/1544490298",
+        "playParams": {
+          "id": "1544490298",
+          "kind": "album"
+        },
+        "recordLabel": "XL Recordings",
+        "isCompilation": false,
+        "trackCount": 6,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "iTunes Festival: London 2011 - EP",
+        "artistName": "Adele",
+        "editorialNotes": {
+          "standard": "This EP was recorded at the iTunes Festival—a month of exclusive live performances at the legendary Roundhouse in London. The first iTunes Festival launched in 2007, bringing out a wide array of amazing music every night for an entire month. Check out more EPs like this one and go to www.itunes.com/festival for more information."
+        },
+        "isComplete": true
+      }
+    },
+    "1544491232": {
+      "id": "1544491232",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2011 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2011-01-24",
+        "isMasteredForItunes": false,
+        "upc": "191404113868",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/82/a5/6282a515-c95c-9e5e-3eef-4ef7b75639ca/191404113868.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "cfcfd0",
+          "textColor2": "a1e446",
+          "textColor4": "8fc547",
+          "textColor1": "f2f2f2",
+          "bgColor": "45464a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/21/1544491232",
+        "playParams": {
+          "id": "1544491232",
+          "kind": "album"
+        },
+        "recordLabel": "XL Recordings",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "21",
+        "artistName": "Adele",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "When the British soul belter Adele began working on the follow-up to her 2008 debut <i>19</i>, she had a difficult time finding songwriting inspiration. Then, her relationship imploded—and within a day of her breakup, she and producer Paul Epworth had written the stormy, tearful \"Rolling in the Deep,\" which would go on to not only open her second album, <i>21</i>, but eventually become one of 2011's defining singles and set the tone for a vibrant portrait of young heartbreak that showcases Adele's fierce alto.<br />\nOn <i>19</i>, Adele established herself as a key part of the 2000s class of British R&B-inspired singers that included Amy Winehouse and Duffy. For <i>21</i>, however, she added new dimensions to her sound, bringing in ideas borrowed from country, rock, gospel, and modern pop—as well as a gently psychedelic take on the downcast \"Lovesong,\" originally by fellow Brit miserablists The Cure. Adele's powerful voice and unguarded feelings were <i>21</i>'s main draw, but her savvy about using them—and only going all in when a song's emotional force required her to do so—made it one of the 21st century's biggest albums.<br />\nWhile a few top-tier producers, including Rick Rubin, Ryan Tedder, and Dan Wilson, worked on <i>21</i>, its coherence comes from the woman at its center, whose voice channels the anguish of the stirring ballad \"One and Only,\" the weepy \"Don't You Remember,\" and the vengeful \"Rumour Has It.\" The stripped-down \"Someone Like You,\" meanwhile, is the natural bookend to \"Rolling,\" its bittersweet lyrics and quietly anguished vocal sounding like the aftermath of the argument that track began.<br />\n“<i>21</i> isn't even my record—it belongs to the people,” Adele told Apple Music in 2015. That's true in a sense; <i>21</i> was one of the 2010s' true pop successes, reaching listeners from all over the world. But Adele is its key ingredient, a modern soul singer whose range is only matched by her ability to conjure up deeply felt emotions.",
+          "short": "“21 isn't even my record—it belongs to the people.”"
+        },
+        "isComplete": true
+      }
+    },
+    "1544494115": {
+      "id": "1544494115",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2015-11-20",
+        "upc": "191404113974",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1544494115",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/25/1544494115",
+        "recordLabel": "XL Recordings",
+        "isCompilation": false,
+        "trackCount": 11,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "25",
+        "artistName": "Adele",
+        "editorialNotes": {
+          "standard": "“Hello, it’s me,” declares Adele Adkins at the start of <i>25</i>, her third album. It wasn’t just a greeting to the fans who’d been waiting almost five years for a new record. The British singer-songwriter was also, in many ways, addressing her old self, in the hopes of finding a way forward: As she later sings: “I was wondering if after all these years you’d like to meet.” \n\nAdele has always named her albums for the age at which she wrote them, with each release becoming a sonic scrapbook of emotions and experiences she weathered during those times. But when it came to making <i>25</i>, she was feeling directionless—at least creatively. By the time she was in her mid-twenties, the Tottenham-born singer-songwriter and once-in-a-generation chronicler of heartbreak was in a long-term relationship and had recently given birth to a son. But, she later revealed, she felt writing about becoming a mother wasn’t interesting enough.\n\nThat conflict led to a bout of writer’s block—not to mention plenty of soul-searching. It also eventually yielded the music on <i>25</i>, her third smash album. Released in 2015, the album finds Adele searching for ways to update the classic sound she’d developed on both <i>19</i> and <i>21</i>. She brought in several hitmaking big-name collaborators, including Max Martin, Bruno Mars and Danger Mouse, and she began exploring new genres, many of which found their way onto <i>25</i>. You can hear the dancehall influence on “Send My Love (To Your New Lover)”, while “Water Under the Bridge”—with its electro drumbeat and sonically tropical verses—has the undeniable feel of 1980s R&B.\n\nStill, even with so many styles and songwriters at her disposal, Adele retains her trademark sound on <i>25</i>, which finds her exploring the passage of time in often devastating detail. On the nostalgic, piano-led “When We Were Young”—written with close collaborator Tobias Jesso Jr.—she sings of being surrounded by people she’s known for years, reflecting on the past and present with a gut-punching enormity of feeling. The organ-accompanied “River Lea”, meanwhile, finds Adele looking back at a river close to her childhood home—while also taking stock at of her current-day flaws. And on “Million Years Ago”, a Spanish-inspired folk song, she laments the end of her pre-fame life, and looks back at the friends and freedoms she’s lost along the way. \n\nBy the time of <i>25</i>’s arrival, listeners knew what to expect from Adele—big, heart-stopping, tear-jerking ballads from a soulful pop artist who idolised Etta James as a kid. But the album proved Adele still had plenty of surprises left. Across its 11 tracks, she fully embraces the difficulties of being in your twenties, while also trying to make sense of them. She may no longer be a teenager, but with age comes that other special quality: wisdom. \n\nAfter <i>25</i>, Adele made listeners wait six long years for her next full-length, the 2021 hit <i>30</i>. Only then, and no sooner, was she ready to present her <i>magnum opus</i> about motherhood and marriage—and the crushing impact of the latter coming to an end.",
+          "short": "The megastar talent reflects on getting older—but here, she’s also wiser.",
+          "tagline": "Essential Album"
+        },
+        "isComplete": true
+      }
+    },
+    "1545039947": {
+      "id": "1545039947",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2011 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2011-04-11",
+        "upc": "191404115152",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/6b/d9/e96bd9ca-3db1-6582-246d-0ed6dc1aae70/191404115152.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "aeafb1",
+          "textColor2": "bec3ca",
+          "textColor4": "989ca1",
+          "textColor1": "dadbdd",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/rolling-in-the-deep-jamie-xx-shuffle-single/1545039947",
+        "playParams": {
+          "id": "1545039947",
+          "kind": "album"
+        },
+        "recordLabel": "XL Recordings",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Rolling in the Deep (Jamie xx Shuffle) - Single",
+        "artistName": "Adele",
+        "isComplete": true
+      }
+    },
+    "1545376276": {
+      "id": "1545376276",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2008 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2008-10-27",
+        "isMasteredForItunes": false,
+        "upc": "191404094167",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/24/51/bf/2451bfd0-281e-4349-b7fd-92ee1c6b2e53/191404094167.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "342d24",
+          "textColor2": "201811",
+          "textColor4": "3d372d",
+          "textColor1": "150c05",
+          "bgColor": "b4b39f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/make-you-feel-my-love-single/1545376276",
+        "playParams": {
+          "id": "1545376276",
+          "kind": "album"
+        },
+        "recordLabel": "XL Recordings",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Make You Feel My Love - Single",
+        "artistName": "Adele",
+        "isComplete": true
+      }
+    },
+    "1545376338": {
+      "id": "1545376338",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2008 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2008-01-21",
+        "isMasteredForItunes": false,
+        "upc": "191404094266",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8c/5c/b5/8c5cb579-818d-b7cd-cb9f-f16fb72427d5/191404094266.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "d2d2d3",
+          "textColor2": "f1ccac",
+          "textColor4": "c7a991",
+          "textColor1": "ffffff",
+          "bgColor": "1f2025",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/chasing-pavements-single/1545376338",
+        "playParams": {
+          "id": "1545376338",
+          "kind": "album"
+        },
+        "recordLabel": "XL Recordings",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Chasing Pavements - Single",
+        "artistName": "Adele",
+        "isComplete": true
+      }
+    },
+    "1545382283": {
+      "id": "1545382283",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2008 XL Recordings Ltd",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2008-01-28",
+        "isMasteredForItunes": false,
+        "upc": "191404093863",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/86/e2/e0/86e2e072-5f87-b032-ca28-11ac095489f3/191404093863.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c6b4a2",
+          "textColor2": "e7c4a7",
+          "textColor4": "b99e87",
+          "textColor1": "f7e0c8",
+          "bgColor": "050508",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/19/1545382283",
+        "playParams": {
+          "id": "1545382283",
+          "kind": "album"
+        },
+        "recordLabel": "XL Recordings",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "19",
+        "artistName": "Adele",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Adele Adkins recorded her debut when she was still in her teens, but the gravitas and interpretative skill she exhibits on the stripped-down soul-pop of <i>19</i> reveal a timeless talent. The introspective “Chasing Pavements” and the biting “Cold Shoulder” showcase her supple alto, which brings her lyrics’ deep-seated emotions to the fore; her sweetly smitten cover of Bob Dylan’s “Make You Feel My Love” turns its professions of devotion into honey drops. A stirring introduction from one of the 21st century’s pop luminaries.",
+          "short": "A stirring debut from the 21st century’s premier pop star."
+        },
+        "isComplete": true
+      }
+    },
+    "1590035691": {
+      "id": "1590035691",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Melted Stone under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-11-19",
+        "isMasteredForItunes": false,
+        "upc": "886449666430",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4cbc5",
+          "textColor2": "dfd1b4",
+          "textColor4": "bcb6a1",
+          "textColor1": "eaebe2",
+          "bgColor": "2d4b53",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/30/1590035691",
+        "playParams": {
+          "id": "1590035691",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "isCompilation": false,
+        "trackCount": 12,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "30",
+        "artistName": "Adele",
+        "editorialNotes": {
+          "standard": "“Right then, I’m ready,” Adele says quietly at the close of <i>30</i>’s opening track, “Strangers By Nature.” It feels like a moment of gentle—but firm—self-encouragement. This album is something that clearly required a few deep breaths for Tottenham’s most celebrated export. “There were moments when I was writing these songs, and even when I was mixing them and stuff like that, where I was like, ‘Maybe I don't need to put this album out,’” she tells Apple Music’s Zane Lowe. “Like, ‘Maybe I should write another.’ Just because music is my therapy. I'm never going into the studio to be like, ‘Right, I need another hit.’ It's not like that for me. When something is more powerful and overwhelming [to] me, I like to go to a studio, because it's normally a basement and there's no fucking windows and no reception, so no one can get ahold of me. So I'm basically running away. And no one would've known I'd written that record. Maybe I just had to get it out of my system.”<br />\nBut, almost two years after much of it was completed, Adele did release <i>30</i>. And remarkably, considering the world has been using her back catalog to channel its rawest emotions since 2008, this is easily Adele’s most vulnerable record. It concerns itself with Big Things Only—crippling guilt over her 2019 divorce, motherhood, daring to date as one of the world’s most famous people, falling in love—capturing perfectly the wobbly resolve of a broken heart in repair. Its songs often feel sentimental in a way that’s unusually warm and inviting, very California, and crucially: <i>earned</i>. “The album is for my son, for Angelo,” she says. “I knew I had to tell his story in a song because it was very clear he was feeling it, even though I thought I was doing a very good job of being like, ‘Everything’s fine.’ But I also knew I wasn’t being as present. I was just so consumed by so many different feelings. And he plucked up the courage to very articulately say to me, ‘You’re basically a ghost. You might as well not be here.’ What kind of poet is that? For him to be little and say ‘I can’t see you’ to my face broke my heart.”<br />\nThis is also Adele’s most confident album sonically. She fancied paying tribute to Judy Garland with Swedish composer Ludwig Göransson (“Strangers By Nature”), so she did. “I’d watched the Judy Garland biopic,” she says. “And I remember thinking, ‘Why did everyone stop writing such incredible melodies and cadences and harmonies?’” She felt comfortable working heartbreaking bedside chats with her young son and a voice memo documenting her own fragile mental state into her music on “My Little Love.” “While I was writing it, I just remember thinking of any child that’s been through divorce or any person that has been though a divorce themselves, or anyone that wants to leave a relationship and never will,” she says. “I thought about all of them, because my divorce really humanized my parents for me.”<br />\nThe album does not steep in sorrow and regret, however: There’s a Max Martin blockbuster with a whistled chorus (“Can I Get It”), a twinkling interlude sampling iconic jazz pianist Erroll Garner (“All Night Parking”), and the fruits of a new creative partnership with Dean Josiah Cover—aka Michael Kiwanuka, Sault, and Little Simz producer Inflo. “The minute I realized he [Inflo] was from North London, I wouldn’t stop talking to him,” she says. “We got no work done. It was only a couple of months after I’d left my marriage, and we got on so well, but he could feel that something was wrong. He knew that something dark was happening in me. I just opened up. I was dying for someone to ask me how I was.”<br />\nOne of the Inflo tracks, “Hold On,” is the album’s centerpiece. Rolling through self-loathing (“I swear to god, I am such a mess/The harder that I try, I regress”) into instantly quotable revelations (“Sometimes loneliness is the only rest we get”) before reaching show-stopping defiance (“Let time be patient, let pain be gracious/Love will soon come, if you just hold on”), the song accesses something like final-form Adele. It’s a rainbow of emotions, it’s got a choir (“I got my friends to come and sing,” she tells Apple Music), and she hits notes we’ll all only dare tackle in cars, solo. “I definitely lost hope a number of times that I’d ever find my joy again,” she says. “I remember I didn’t barely laugh for about a year. But I didn’t realize I was making progress until I wrote ‘Hold On’ and listened to it back. Later, I was like, ‘Oh, fuck, I’ve really learned a lot. I’ve really come a long way.’”<br />\nSo, after all this, is Adele happy that <i>30</i> found its way to the world? “It really helped me, this album,” she says. “I really think that some of the songs on this album could really help people, really change people’s lives. A song like ‘Hold On’ could actually save a few lives.” It’s also an album she feels could support fellow artists. “I think it’s an important record for them to hear,” she says. “The ones that I feel are being encouraged not to value their own art, and that everything should be massive and everything should be ‘get it while you can’… I just wanted to remind them that you don’t need to be in everyone’s faces all the time. And also, you can really write from your stomach, if you want.”",
+          "short": "“Some of the songs on this album could really help people.”"
+        },
+        "isComplete": true
+      }
+    }
+  },
+  "songs": {
+    "566322365": {
+      "id": "566322365",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Skyfall - Single",
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Rock",
+          "Soundtrack",
+          "Adult Alternative",
+          "Soundtrack"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 286082,
+        "releaseDate": "2012-10-05",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBBKS1200164",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "01c2c1",
+          "textColor2": "22eee2",
+          "textColor4": "1dc1b8",
+          "textColor1": "00f0ed",
+          "bgColor": "090d0e",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Paul Epworth",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "566322365",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/skyfall/566322358?i=566322365",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Skyfall",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a8/f3/65/a8f365f6-9046-8e0a-78ba-5fa964b57ab6/mzaf_1188477786893432831.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544491233": {
+      "id": "1544491233",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "21",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 228093,
+        "releaseDate": "2010-11-29",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBBKS1000335",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/82/a5/6282a515-c95c-9e5e-3eef-4ef7b75639ca/191404113868.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "cfcfd0",
+          "textColor2": "a1e446",
+          "textColor4": "8fc547",
+          "textColor1": "f2f2f2",
+          "bgColor": "45464a",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Paul Epworth",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/rolling-in-the-deep/1544491232?i=1544491233",
+        "playParams": {
+          "id": "1544491233",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Rolling in the Deep",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/07/1d/9f071dc7-791c-c869-dfa2-06b25936a287/mzaf_3679399808385576247.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele",
+        "contentRating": "explicit"
+      }
+    },
+    "1544491234": {
+      "id": "1544491234",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "21",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2011-01-19",
+        "durationInMillis": 223267,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBBKS1000349",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/82/a5/6282a515-c95c-9e5e-3eef-4ef7b75639ca/191404113868.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "cfcfd0",
+          "textColor2": "a1e446",
+          "textColor4": "8fc547",
+          "textColor1": "f2f2f2",
+          "bgColor": "45464a",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Ryan Tedder",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/rumour-has-it/1544491232?i=1544491234",
+        "playParams": {
+          "id": "1544491234",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Rumour Has It",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/1b/91/b81b9194-3614-04cc-18bd-b653fadb05ff/mzaf_5361972532451713247.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544491988": {
+      "id": "1544491988",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "21",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2011-01-01",
+        "durationInMillis": 242974,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBBKS1000348",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/82/a5/6282a515-c95c-9e5e-3eef-4ef7b75639ca/191404113868.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "cfcfd0",
+          "textColor2": "a1e446",
+          "textColor4": "8fc547",
+          "textColor1": "f2f2f2",
+          "bgColor": "45464a",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Fraser T. Smith",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/set-fire-to-the-rain/1544491232?i=1544491988",
+        "playParams": {
+          "id": "1544491988",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Set Fire to the Rain",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/81/19/83/811983ba-173c-84f4-4058-fae8340abcdf/mzaf_1300377276077183208.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544491998": {
+      "id": "1544491998",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "21",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2011-01-19",
+        "durationInMillis": 285240,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBBKS1000351",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/82/a5/6282a515-c95c-9e5e-3eef-4ef7b75639ca/191404113868.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "cfcfd0",
+          "textColor2": "a1e446",
+          "textColor4": "8fc547",
+          "textColor1": "f2f2f2",
+          "bgColor": "45464a",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Dan Wilson",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/someone-like-you/1544491232?i=1544491998",
+        "playParams": {
+          "id": "1544491998",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Someone Like You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/18/7b/ef187b7d-f487-e935-4ca1-af5748313710/mzaf_14294143740589280948.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544494392": {
+      "id": "1544494392",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "25",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2015-10-23",
+        "durationInMillis": 295502,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBBKS1500214",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "composerName": "Greg Kurstin & Adele Adkins",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/hello/1544494115?i=1544494392",
+        "playParams": {
+          "id": "1544494392",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Hello",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/93/22/22/93222271-8d55-d923-e0ff-b2964a5abefe/mzaf_18330225476035595009.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544494394": {
+      "id": "1544494394",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "25",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2015-11-20",
+        "durationInMillis": 223079,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBBKS1500215",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "composerName": "Karl Johan Schuster, Max Martin & Adele Adkins",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/send-my-love-to-your-new-lover/1544494115?i=1544494394",
+        "playParams": {
+          "id": "1544494394",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Send My Love (To Your New Lover)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a9/09/7d/a9097de1-f60b-2e69-bd1c-9f0bca6c0061/mzaf_14603543425893904306.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544494401": {
+      "id": "1544494401",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "25",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2015-11-20",
+        "durationInMillis": 348625,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBBKS1500216",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "composerName": "Paul Epworth & Adele Adkins",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/i-miss-you/1544494115?i=1544494401",
+        "playParams": {
+          "id": "1544494401",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "I Miss You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/94/37/5c/94375c44-3414-dfd0-02aa-f4c2de0ddf46/mzaf_17860153463864165104.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544494407": {
+      "id": "1544494407",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "25",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2015-11-20",
+        "durationInMillis": 290900,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBBKS1500217",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "composerName": "Tobias Jesso Jr. & Adele Adkins",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/when-we-were-young/1544494115?i=1544494407",
+        "playParams": {
+          "id": "1544494407",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "When We Were Young",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1e/0f/d8/1e0fd875-e1fc-9b77-5f5e-4d9359a5a774/mzaf_5419244013024957179.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544494717": {
+      "id": "1544494717",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "25",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2015-11-20",
+        "durationInMillis": 245427,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBBKS1500218",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "composerName": "Ryan Tedder & Adele Adkins",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1544494717",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/remedy/1544494115?i=1544494717",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Remedy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/23/e6/04/23e6047e-0370-616e-7145-f465fc9db8aa/mzaf_11862112201273280265.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544494722": {
+      "id": "1544494722",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "25",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 6,
+        "releaseDate": "2015-11-20",
+        "durationInMillis": 240439,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBBKS1500219",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "composerName": "Greg Kurstin & Adele Adkins",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/water-under-the-bridge/1544494115?i=1544494722",
+        "playParams": {
+          "id": "1544494722",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Water Under the Bridge",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/27/9c/b3/279cb347-d2f8-e82f-9f2c-e6fda8f47a34/mzaf_969321330562119879.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544494731": {
+      "id": "1544494731",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "25",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 8,
+        "releaseDate": "2015-11-20",
+        "durationInMillis": 285935,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBBKS1500221",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "composerName": "Samuel Dixon & Adele Adkins",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/love-in-the-dark/1544494115?i=1544494731",
+        "playParams": {
+          "id": "1544494731",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Love in the Dark",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/26/9e/47/269e47a3-f458-d46d-124b-25c8dda59407/mzaf_16118425984035813914.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1544494912": {
+      "id": "1544494912",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "25",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 10,
+        "releaseDate": "2015-11-20",
+        "durationInMillis": 271800,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBBKS1500223",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c0b9a9",
+          "textColor2": "dbd0bb",
+          "textColor4": "b6ac9a",
+          "textColor1": "e8e0cd",
+          "bgColor": "232019",
+          "hasP3": false
+        },
+        "composerName": "Bruno Mars, Christopher \"Brody\" Brown, Philip Lawrence & Adele Adkins",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/all-i-ask/1544494115?i=1544494912",
+        "playParams": {
+          "id": "1544494912",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "All I Ask",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b6/06/54/b60654b9-7ab7-9d6a-0d9a-eec33781d1a1/mzaf_14249595850282015497.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1545382295": {
+      "id": "1545382295",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "19",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2008-01-14",
+        "durationInMillis": 210507,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBBKS0700574",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/86/e2/e0/86e2e072-5f87-b032-ca28-11ac095489f3/191404093863.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c6b4a2",
+          "textColor2": "e7c4a7",
+          "textColor4": "b99e87",
+          "textColor1": "f7e0c8",
+          "bgColor": "050508",
+          "hasP3": false
+        },
+        "composerName": "Eg White & Adele Adkins",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1545382295",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/chasing-pavements/1545382283?i=1545382295",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Chasing Pavements",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/21/a7/be21a789-a4f6-b5aa-c2bb-a77f122702b8/mzaf_9453676016545285651.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1545382976": {
+      "id": "1545382976",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "19",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 9,
+        "durationInMillis": 212040,
+        "releaseDate": "2008-01-28",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBBKS0700586",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/86/e2/e0/86e2e072-5f87-b032-ca28-11ac095489f3/191404093863.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "c6b4a2",
+          "textColor2": "e7c4a7",
+          "textColor4": "b99e87",
+          "textColor1": "f7e0c8",
+          "bgColor": "050508",
+          "hasP3": false
+        },
+        "composerName": "Bob Dylan",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1545382976",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/make-you-feel-my-love/1545382283?i=1545382976",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Make You Feel My Love",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7b/36/8a/7b368ad0-752e-fdea-ea87-8e307cf63e3c/mzaf_13721621474944992358.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1590036021": {
+      "id": "1590036021",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "30",
+        "genreNames": ["Pop", "Music", "Vocal", "Vocal Pop"],
+        "trackNumber": 2,
+        "durationInMillis": 224695,
+        "releaseDate": "2021-10-14",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12105970",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4cbc5",
+          "textColor2": "dfd1b4",
+          "textColor4": "bcb6a1",
+          "textColor1": "eaebe2",
+          "bgColor": "2d4b53",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Greg Kurstin",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/easy-on-me/1590035691?i=1590036021",
+        "playParams": {
+          "id": "1590036021",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Easy On Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/75/28/56/75285676-dbce-d91d-7b36-070084a3546b/mzaf_14592298516945327705.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1590036026": {
+      "id": "1590036026",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "30",
+        "genreNames": ["Pop", "Music", "Vocal", "Vocal Pop"],
+        "trackNumber": 3,
+        "durationInMillis": 389107,
+        "releaseDate": "2021-11-19",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12105971",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4cbc5",
+          "textColor2": "dfd1b4",
+          "textColor4": "bcb6a1",
+          "textColor1": "eaebe2",
+          "bgColor": "2d4b53",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Greg Kurstin",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1590036026",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/my-little-love/1590035691?i=1590036026",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "My Little Love",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1b/0d/83/1b0d83b8-9e18-0c98-7a12-c1e259e40cb0/mzaf_16318313566583057505.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1590036031": {
+      "id": "1590036031",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "30",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 5,
+        "durationInMillis": 225149,
+        "releaseDate": "2021-11-19",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12105973",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4cbc5",
+          "textColor2": "dfd1b4",
+          "textColor4": "bcb6a1",
+          "textColor1": "eaebe2",
+          "bgColor": "2d4b53",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Greg Kurstin",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1590036031",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/oh-my-god/1590035691?i=1590036031",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Oh My God",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0e/04/ea/0e04ea1a-a423-6c57-89ad-9b0288ba3857/mzaf_8102174182656200205.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1590036034": {
+      "id": "1590036034",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "30",
+        "genreNames": ["Pop", "Music", "Vocal", "Vocal Pop"],
+        "trackNumber": 6,
+        "releaseDate": "2021-11-19",
+        "durationInMillis": 210384,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12105974",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4cbc5",
+          "textColor2": "dfd1b4",
+          "textColor4": "bcb6a1",
+          "textColor1": "eaebe2",
+          "bgColor": "2d4b53",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins, Max Martin, Shellback & Tobias Jesso Jr.",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/can-i-get-it/1590035691?i=1590036034",
+        "playParams": {
+          "id": "1590036034",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Can I Get It",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fc/68/3d/fc683d53-51b0-32dc-1a86-79c643966ef5/mzaf_11708083699799453160.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    },
+    "1590036250": {
+      "id": "1590036250",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "30",
+        "genreNames": ["Pop", "Music", "Vocal", "Vocal Pop"],
+        "trackNumber": 7,
+        "durationInMillis": 376169,
+        "releaseDate": "2021-11-19",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12105975",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4cbc5",
+          "textColor2": "dfd1b4",
+          "textColor4": "bcb6a1",
+          "textColor1": "eaebe2",
+          "bgColor": "2d4b53",
+          "hasP3": false
+        },
+        "composerName": "Adele Adkins & Greg Kurstin",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/i-drink-wine/1590035691?i=1590036250",
+        "playParams": {
+          "id": "1590036250",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "I Drink Wine",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/b9/94/88b99485-c67d-efcc-95cb-ce7221437772/mzaf_9309360371481490823.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Adele"
+      }
+    }
+  }
+}

@@ -1,0 +1,2586 @@
+{
+      "artists": {
+        "1392280": {
+          "id": "1392280",
+          "type": "artists",
+          "attributes": {
+            "genreNames": [
+              "R&B/Soul"
+            ],
+            "name": "Mary J. Blige",
+            "artwork": {
+              "width": 2400,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/d1/12/08/d112086d-11a4-ebc2-f21a-419346306a59/mzl.qkqsfmpx.jpg/{w}x{h}bb.jpg",
+              "height": 2400,
+              "textColor3": "46413d",
+              "textColor2": "34251f",
+              "textColor4": "4f453e",
+              "textColor1": "28201d",
+              "bgColor": "bdc2bc",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/artist/mary-j-blige/1392280"
+          },
+          "relationships": {
+            "albums": {
+              "data": [
+                {
+                  "id": "1440817713",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440817005",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440837272",
+                  "type": "albums"
+                },
+                {
+                  "id": "1604654340",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440827760",
+                  "type": "albums"
+                },
+                {
+                  "id": "1488020290",
+                  "type": "albums"
+                },
+                {
+                  "id": "1442988659",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440828448",
+                  "type": "albums"
+                },
+                {
+                  "id": "1442964062",
+                  "type": "albums"
+                },
+                {
+                  "id": "1621795202",
+                  "type": "albums"
+                },
+                {
+                  "id": "1498277732",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440895460",
+                  "type": "albums"
+                },
+                {
+                  "id": "1446021244",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440836475",
+                  "type": "albums"
+                },
+                {
+                  "id": "1443182622",
+                  "type": "albums"
+                },
+                {
+                  "id": "1445747720",
+                  "type": "albums"
+                },
+                {
+                  "id": "1443060299",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440819962",
+                  "type": "albums"
+                },
+                {
+                  "id": "1442944789",
+                  "type": "albums"
+                },
+                {
+                  "id": "1443158657",
+                  "type": "albums"
+                },
+                {
+                  "id": "1482679768",
+                  "type": "albums"
+                },
+                {
+                  "id": "1444317232",
+                  "type": "albums"
+                },
+                {
+                  "id": "1442915945",
+                  "type": "albums"
+                },
+                {
+                  "id": "1636566049",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440851006",
+                  "type": "albums"
+                }
+              ]
+            }
+          },
+          "views": {
+            "latest-release": {
+              "attributes": {
+                "title": "Latest Release"
+              },
+              "data": [
+                {
+                  "id": "1712196200",
+                  "type": "albums"
+                }
+              ]
+            },
+            "top-songs": {
+              "attributes": {
+                "title": "Top Songs"
+              },
+              "data": [
+                {
+                  "id": "1440827944",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440817021",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440818116",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440818137",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440817961",
+                  "type": "songs"
+                },
+                {
+                  "id": "1442964068",
+                  "type": "songs"
+                },
+                {
+                  "id": "1442989073",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440838052",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440817273",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440837686",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440828585",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440819196",
+                  "type": "songs"
+                },
+                {
+                  "id": "1444317236",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440817530",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440827935",
+                  "type": "songs"
+                },
+                {
+                  "id": "1536994387",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440756996",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440838496",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440817025",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440818035",
+                  "type": "songs"
+                }
+              ]
+            }
+          },
+          "meta": {
+            "views": {
+              "order": [
+                "latest-release",
+                "top-songs"
+              ]
+            }
+          }
+        }
+      },
+      "albums": {
+        "1440817005": {
+          "id": "1440817005",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 1992 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "releaseDate": "1992-07-28",
+            "isMasteredForItunes": true,
+            "upc": "00602547109651",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/54/ba/4354ba48-b993-9c58-af75-2987f1d2fcab/06UMGIM05898.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "dad6d4",
+              "textColor2": "f0dfc4",
+              "textColor4": "d0c1ab",
+              "textColor1": "fdf9f8",
+              "bgColor": "524a47",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/whats-the-411/1440817005",
+            "playParams": {
+              "id": "1440817005",
+              "kind": "album"
+            },
+            "recordLabel": "UNI/MOTOWN",
+            "isCompilation": false,
+            "trackCount": 12,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "What's the 411?",
+            "artistName": "Mary J. Blige",
+            "contentRating": "explicit",
+            "editorialNotes": {
+              "standard": "Before <i>What’s The 411?</i> was released in 1992, commercial soul was largely saccharine—the polar opposite of the rugged hip-hop beats and gritty subject matter pioneered by Blige. Her throaty vocals ache with emotion on uptempo tunes like “Reminisce,” the plaintive new jack swing of “You Remind Me,” and the heart-on-its-sleeve modern soul classic “Real Love.” The combination of edgy street vibe with soaring melodies worked like coffee and cream, deservingly earning her the title Queen of Hip-Hop Soul.",
+              "short": "The hip-hop-heavy debut from the mother of modern soul music."
+            },
+            "isComplete": true
+          }
+        },
+        "1440817713": {
+          "id": "1440817713",
+          "type": "albums",
+          "attributes": {
+            "copyright": "A Geffen Records Release; ℗ 1997 UMG Recordings, Inc.",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "releaseDate": "1997-04-22",
+            "isMasteredForItunes": true,
+            "upc": "00602547109675",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f0/16/77/f01677fd-bbe7-2506-f7c9-646f47bf515e/06UMGIM21088.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3c393a",
+              "textColor2": "201919",
+              "textColor4": "4c4646",
+              "textColor1": "0b0909",
+              "bgColor": "fffcfb",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1440817713",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/share-my-world/1440817713",
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 17,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Share My World",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1440819962": {
+          "id": "1440819962",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2013 The Verve Music Group / Interscope Records, a Division of UMG Recordings, Inc.",
+            "genreNames": [
+              "Holiday",
+              "Music",
+              "Christmas",
+              "Rock",
+              "R&B/Soul",
+              "Pop",
+              "Adult Contemporary"
+            ],
+            "releaseDate": "2013-01-01",
+            "isMasteredForItunes": true,
+            "upc": "00602537477036",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/b2/09/b5b2091b-fbc0-772c-8244-e442a5f22e39/13UAAIM79700.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "655957",
+              "textColor2": "3e3228",
+              "textColor4": "645b53",
+              "textColor1": "3f302d",
+              "bgColor": "ffffff",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/a-mary-christmas/1440819962",
+            "playParams": {
+              "id": "1440819962",
+              "kind": "album"
+            },
+            "recordLabel": "Mary J Blige PS",
+            "isCompilation": false,
+            "trackCount": 12,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "A Mary Christmas",
+            "artistName": "Mary J. Blige",
+            "editorialNotes": {
+              "standard": "Leave it to Mary J. Blige, the queen of emotive, edgy soul, to turn her first holiday album into a dramatic and often poignant affair. <i>A Mary Christmas</i> does have its share of cheer: backed by a live orchestra, as are many of the tracks, “This Christmas” is a bright rendition of the Donny Hathaway classic. Still, Blige’s take on “My Favorite Things” is hushed and delicate, and on her version of “Petit Papa Noël,” she sings in French over melancholy guitar.",
+              "short": "The soul singer lends gravitas to a collection of holiday classics."
+            },
+            "isComplete": true
+          }
+        },
+        "1440827760": {
+          "id": "1440827760",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "2005-12-20",
+            "isMasteredForItunes": true,
+            "upc": "00602547209245",
+            "artwork": {
+              "width": 1428,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/16/f1/41/16f14177-75c1-2571-dba2-4f9644a4d706/15UMGIM00591.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1428,
+              "textColor3": "17262f",
+              "textColor2": "041116",
+              "textColor4": "1a2b33",
+              "textColor1": "000b11",
+              "bgColor": "7392a7",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/the-breakthrough-deluxe/1440827760",
+            "playParams": {
+              "id": "1440827760",
+              "kind": "album"
+            },
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 18,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "The Breakthrough (Deluxe)",
+            "artistName": "Mary J. Blige",
+            "editorialNotes": {
+              "standard": "By the time Mary J. Blige released 2005's <i>The Breakthrough</i>, she had already cemented herself as an undeniable legend—the reigning queen of hip-hop soul for over a decade. She began her career working closely with Diddy, who executive-produced her first two albums, and the pair reunited for 2003's <i>Love & Life</i>. When that album was unable to reconjure the magic of old, <i>The Breakthrough</i> found the singer collaborating with a who's who of producers: Raphael Saadiq, 9th Wonder, Jimmy Jam and Terry Lewis, J.U.S.T.I.C.E. League, and will.i.am, among a slew of others. The result was a triumphant collection of songs that subtly ushered Blige into a decidedly more adult era of her R&B powers. Songs like \"Enough Cryin\" (produced by Rodney Jerkins and Sean Garrett), \"Take Me As I Am,\" and the smash single \"Be Without You\" (courtesy of Bryan-Michael Cox) harkened to the wounded balladeering of old with a new grown-and-sexy bent. Netting seven Grammy nominations, the album remains one of her most celebrated.",
+              "short": "The Queen of Hip-Hop Soul assembled all-star support for her seventh album."
+            },
+            "isComplete": true
+          }
+        },
+        "1440828448": {
+          "id": "1440828448",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2007 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "2007-12-18",
+            "isMasteredForItunes": true,
+            "upc": "00602547208156",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/75/0e/00750e92-5272-64a8-5332-8420ba09d7aa/15UMGIM00470.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "2d2b27",
+              "textColor2": "1f160e",
+              "textColor4": "453a32",
+              "textColor1": "000301",
+              "bgColor": "deccc0",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/growing-pains-deluxe/1440828448",
+            "playParams": {
+              "id": "1440828448",
+              "kind": "album"
+            },
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 21,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Growing Pains (Deluxe)",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1440836475": {
+          "id": "1440836475",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Pop",
+              "Hip-Hop/Rap"
+            ],
+            "releaseDate": "2006-01-01",
+            "isMasteredForItunes": true,
+            "upc": "00602547209382",
+            "artwork": {
+              "width": 1412,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/f6/43/74f643ad-5dc2-9550-82dd-90d7c6f2d420/15UMGIM00600.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1412,
+              "textColor3": "393a38",
+              "textColor2": "2f332d",
+              "textColor4": "595c57",
+              "textColor1": "080906",
+              "bgColor": "ffffff",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1440836475",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/reflections-a-retrospective-deluxe-edition/1440836475",
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 19,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Reflections - A Retrospective (Deluxe Edition)",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1440837272": {
+          "id": "1440837272",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Pop",
+              "Hip-Hop/Rap"
+            ],
+            "releaseDate": "1994-11-29",
+            "isMasteredForItunes": true,
+            "upc": "00602547208149",
+            "artwork": {
+              "width": 1447,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/b2/fa/1db2fa7b-236e-ad08-4635-62be9b89e44f/15UMGIM00469.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1447,
+              "textColor3": "76a2c5",
+              "textColor2": "81aed6",
+              "textColor4": "678db3",
+              "textColor1": "93c9ed",
+              "bgColor": "000628",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/my-life-bonus-track-version/1440837272",
+            "playParams": {
+              "id": "1440837272",
+              "kind": "album"
+            },
+            "recordLabel": "UNI/MOTOWN",
+            "isCompilation": false,
+            "trackCount": 18,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "My Life (Bonus Track Version)",
+            "artistName": "Mary J. Blige",
+            "editorialNotes": {
+              "standard": "<i>My Life</i> is extraordinary because it expresses elation, desperation, affection and depression—often in the same moment. The album’s songs refer to different segments of soul music history. “Mary Jane (All Night Long)” blends elements of the Mary Jane Girls and Teddy Pendergrass; “You Bring Me Joy” samples Barry White; the title track borrows from Roy Ayers’ “Everybody Loves the Sunshine”. The lyrics were penned entirely by Blige, and the album’s story of a relationship at its end is told in her performance. She conveys emotion with such nakedness and intensity that it often feels like we are sharing her experiences in real time.",
+              "short": "An album of naked emotion that proved Mary J. Blige’s depth and complexity."
+            },
+            "isComplete": true
+          }
+        },
+        "1440851006": {
+          "id": "1440851006",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2014 Capitol Records, LLC",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Rock",
+              "Contemporary R&B",
+              "Dance"
+            ],
+            "releaseDate": "2014-12-02",
+            "isMasteredForItunes": true,
+            "upc": "00602547007186",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/d3/5e/aad35e77-f948-484e-2a3c-c33052c50258/14UMGIM39883.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "bcbdbc",
+              "textColor2": "d0d0d0",
+              "textColor4": "acacac",
+              "textColor1": "e4e4e4",
+              "bgColor": "1e201f",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1440851006",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/the-london-sessions/1440851006",
+            "recordLabel": "Capitol Records (CAP)",
+            "isCompilation": false,
+            "trackCount": 12,
+            "isPrerelease": false,
+            "audioTraits": [
+              "hi-res-lossless",
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "The London Sessions",
+            "artistName": "Mary J. Blige",
+            "editorialNotes": {
+              "standard": "Mary J. Blige doesn’t fear new challenges. Over two decades, the GRAMMY®-winning R&B icon has shown herself to be a skilled collaborator who’s worked with artists and producers as disparate as Sean “Puffy” Combs, Chaka Khan, and Sting. For <i>The London Sessions</i>, Blige traveled to the U.K.'s capital city in search of inspiration. What she found was a team of exciting young artists with roots in London’s vibrant dance music community. Written with and produced by the likes of Sam Smith, Disclosure, Jimmy Napes, Naughty Boy, and Emeli Sandé, the resulting album is one of Blige’s bravest and most refreshing releases to date."
+            },
+            "isComplete": true
+          }
+        },
+        "1440895460": {
+          "id": "1440895460",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2017 Capitol Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "releaseDate": "2017-04-28",
+            "isMasteredForItunes": true,
+            "upc": "00602557261516",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/17/53/73175377-1c05-6483-09d7-a3dcf2a093ef/16UMGIM62113.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "c9bea1",
+              "textColor2": "ebc889",
+              "textColor4": "c1a572",
+              "textColor1": "f6e8c3",
+              "bgColor": "19171a",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/strength-of-a-woman/1440895460",
+            "playParams": {
+              "id": "1440895460",
+              "kind": "album"
+            },
+            "recordLabel": "Capitol Records (CAP)",
+            "isCompilation": false,
+            "trackCount": 14,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Strength of a Woman",
+            "artistName": "Mary J. Blige",
+            "contentRating": "explicit",
+            "editorialNotes": {
+              "standard": "After investigating UK club culture on 2014’s <i>The London Sessions</i>, Mary J. Blige returns to hip-hop soul to process her broken marriage. Survivor’s spirit, regal horns, and a bravura verse from Kanye West combine on invigorating opener “Love Yourself,” while her F-you vocal outshines a supporting cast of Missy Elliott, DJ Khaled, and Migos’ Quavo on “Glow Up.” Turning pain into compelling music has long been Blige’s trademark, but her choice of inventive producers—particularly KAYTRANADA on “Telling the Truth”’s glitchy soul—keeps pushing her sound forward.",
+              "short": "Pain and invention fuel the Queen of Hip-Hop Soul’s return."
+            },
+            "isComplete": true
+          }
+        },
+        "1442915945": {
+          "id": "1442915945",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 1998 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "1998-01-01",
+            "upc": "00602547109682",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 1431,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fc/5c/bd/fc5cbdb6-0e1c-a5a8-5132-fd597629a72f/00602547109682.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1431,
+              "textColor3": "cdc9bf",
+              "textColor2": "e19c51",
+              "textColor4": "b68145",
+              "textColor1": "fef6e9",
+              "bgColor": "091818",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1442915945",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/the-tour-live/1442915945",
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 24,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "The Tour (Live)",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1442944789": {
+          "id": "1442944789",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2011 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B",
+              "Rock"
+            ],
+            "releaseDate": "2011-01-01",
+            "isMasteredForItunes": false,
+            "upc": "00602527891996",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/f5/b0/e7f5b062-f9c8-c5db-d82d-f9421a63e7b6/00602527891996.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "3d2310",
+              "textColor2": "32160c",
+              "textColor4": "532e13",
+              "textColor1": "170909",
+              "bgColor": "d88c2e",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1442944789",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/my-life-ii-the-journey-continues-act-1/1442944789",
+            "recordLabel": "Geffen*",
+            "isCompilation": false,
+            "trackCount": 14,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "My Life II...The Journey Continues (Act 1)",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1442964062": {
+          "id": "1442964062",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "2001-08-28",
+            "isMasteredForItunes": true,
+            "upc": "00602547209337",
+            "artwork": {
+              "width": 1409,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7f/2b/70/7f2b7024-45d5-4595-2d87-b767590ee545/15UMGIM00598.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1409,
+              "textColor3": "3c3533",
+              "textColor2": "3f0c18",
+              "textColor4": "653c46",
+              "textColor1": "0c0300",
+              "bgColor": "ffffff",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/no-more-drama-version-2/1442964062",
+            "playParams": {
+              "id": "1442964062",
+              "kind": "album"
+            },
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 19,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "No More Drama (Version 2)",
+            "artistName": "Mary J. Blige",
+            "contentRating": "explicit",
+            "isComplete": true
+          }
+        },
+        "1442988659": {
+          "id": "1442988659",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "releaseDate": "2011-11-21",
+            "isMasteredForItunes": true,
+            "upc": "00602547208248",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/a1/9a/e1a19a8c-8fdc-a114-6c86-7cd334384d79/00602547208248.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "3d1f0f",
+              "textColor2": "2b1306",
+              "textColor4": "4e270e",
+              "textColor1": "160908",
+              "bgColor": "d9792b",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/my-life-ii-the-journey-continues-act-1-deluxe/1442988659",
+            "playParams": {
+              "id": "1442988659",
+              "kind": "album"
+            },
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 21,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "My Life II...The Journey Continues (Act 1) [Deluxe]",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1443060299": {
+          "id": "1443060299",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Geffen Records",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "1999-01-01",
+            "upc": "00602547209290",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 1414,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/33/d1/20/33d120dd-e226-03b3-9235-256267e20c8f/00602547209290.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1414,
+              "textColor3": "3a3b3c",
+              "textColor2": "202020",
+              "textColor4": "4d4d4d",
+              "textColor1": "090a0b",
+              "bgColor": "ffffff",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1443060299",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/mary-deluxe/1443060299",
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 16,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Mary (Deluxe)",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1443158657": {
+          "id": "1443158657",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "2003-01-01",
+            "upc": "00602547209320",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 1410,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bd/2d/b1/bd2db158-5c50-cea2-9184-ee3ca3953621/00602547209320.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1410,
+              "textColor3": "1d2123",
+              "textColor2": "221c18",
+              "textColor4": "323535",
+              "textColor1": "080302",
+              "bgColor": "7299a8",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1443158657",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/love-life-deluxe/1443158657",
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 20,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Love & Life (Deluxe)",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1443182622": {
+          "id": "1443182622",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 1993 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "releaseDate": "1993-01-01",
+            "isMasteredForItunes": true,
+            "upc": "00602547109644",
+            "artwork": {
+              "width": 1437,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/f5/fe/b6f5fec0-3c9f-a853-815e-6515d9d8e0fa/00602547109644.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1437,
+              "textColor3": "c0a99c",
+              "textColor2": "e38a7b",
+              "textColor4": "ba7569",
+              "textColor1": "eacabb",
+              "bgColor": "172321",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/whats-the-411-remix/1443182622",
+            "playParams": {
+              "id": "1443182622",
+              "kind": "album"
+            },
+            "recordLabel": "UNI/MOTOWN",
+            "isCompilation": false,
+            "trackCount": 12,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "What's the 411? (Remix)",
+            "artistName": "Mary J. Blige",
+            "contentRating": "explicit",
+            "isComplete": true
+          }
+        },
+        "1444317232": {
+          "id": "1444317232",
+          "type": "albums",
+          "attributes": {
+            "copyright": "A Def Jam Records Release; ℗ 1995 UMG Recordings, Inc.",
+            "genreNames": [
+              "Hip-Hop/Rap",
+              "Music",
+              "Hip-Hop",
+              "East Coast Rap"
+            ],
+            "releaseDate": "1995-04-25",
+            "isMasteredForItunes": false,
+            "upc": "00042285187922",
+            "artwork": {
+              "width": 1440,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/13/30/2c133048-d7a0-4aa1-1921-74b7cca0476e/06UMGIM73029.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1422,
+              "textColor3": "3a3d3f",
+              "textColor2": "532219",
+              "textColor4": "754e47",
+              "textColor1": "090d10",
+              "bgColor": "fffdff",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1444317232",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/ill-be-there-for-you-feat-mary-j-blige-single/1444317232",
+            "recordLabel": "Def Jam Recordings",
+            "isCompilation": false,
+            "trackCount": 5,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "I'll Be There for You (feat. Mary J. Blige) - Single",
+            "contentRating": "explicit",
+            "artistName": "Method Man",
+            "isComplete": true
+          }
+        },
+        "1445747720": {
+          "id": "1445747720",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Geffen Records",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2009-01-01",
+            "isMasteredForItunes": true,
+            "upc": "00602547209276",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/75/e3/3075e3c3-b21d-6b7d-6028-28ec9141a39e/00602547209276.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "d5d5d6",
+              "textColor2": "d7c5b4",
+              "textColor4": "b5a79b",
+              "textColor1": "ffffff",
+              "bgColor": "2f3035",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/stronger-with-each-tear-deluxe/1445747720",
+            "playParams": {
+              "id": "1445747720",
+              "kind": "album"
+            },
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 13,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Stronger With Each Tear (Deluxe)",
+            "artistName": "Mary J. Blige",
+            "editorialNotes": {
+              "standard": "The songwriting for Mary J. Blige’s ninth studio album was born on her 2008 tour with Robin Thicke. <i>Stronger withEach Tear</i> was initially titled <i>Stronger</i> and its timely trappings – like the Auto-Tuned vocals on “The One (featuring Drake)” and the Motown- inspired “In the Morning,” and “Color – From the Motion Picture ‘Precious’” are sure to someday make for a nostalgic time capsule. But when Blige’s lead single from the soundtrack to the LeBron James documentary <i>More Than a Game</i> failed to make a big enough dent in the charts, the moniker was retooled. “Each Tear” is well worthy of such status; it’s catchy, inspiring and overflowing with the kinds of timeless R&B harmonies that Blige’s fans have come to expect. “I Am” is another standout as it reflects Blige’s sunnier disposition while maintaining the fierce confidence that fueled her former diva theatrics. Bonus track “Closer” grooves with mellow beats and melodic harmonies so infectious, it’s curious why this song wasn’t a regular album cut, if not a single."
+            },
+            "isComplete": true
+          }
+        },
+        "1446021244": {
+          "id": "1446021244",
+          "type": "albums",
+          "attributes": {
+            "copyright": "This Compilation ℗ 1999 Geffen Records",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "releaseDate": "1999-01-01",
+            "isMasteredForItunes": false,
+            "upc": "00602527923604",
+            "artwork": {
+              "width": 1664,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/de/5f/59/de5f592f-720f-dcf1-f0de-73a94f921547/06UMGIM03883.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1486,
+              "textColor3": "d5d6d7",
+              "textColor2": "d2d0d4",
+              "textColor4": "b2b0b4",
+              "textColor1": "ffffff",
+              "bgColor": "303338",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/mary-deluxe-edition/1446021244",
+            "playParams": {
+              "id": "1446021244",
+              "kind": "album"
+            },
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 18,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Mary (Deluxe Edition)",
+            "artistName": "Mary J. Blige",
+            "contentRating": "clean",
+            "isComplete": true
+          }
+        },
+        "1482679768": {
+          "id": "1482679768",
+          "type": "albums",
+          "attributes": {
+            "copyright": "A Geffen Records Release; This Compilation ℗ 2019 UMG Recordings, Inc.",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Hip-Hop/Rap",
+              "Pop"
+            ],
+            "releaseDate": "2019-12-06",
+            "upc": "00602508412097",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 5000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/1b/a1/dc1ba14b-f104-11b3-c9f6-53282e8ded99/19UMGIM90457.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 5000,
+              "textColor3": "9f9994",
+              "textColor2": "f2a93b",
+              "textColor4": "c28830",
+              "textColor1": "c6bfb8",
+              "bgColor": "020403",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1482679768",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/herstory-vol-1/1482679768",
+            "recordLabel": "Hip-O",
+            "isCompilation": false,
+            "trackCount": 15,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "HERstory Vol. 1",
+            "contentRating": "explicit",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1488020290": {
+          "id": "1488020290",
+          "type": "albums",
+          "attributes": {
+            "copyright": "A Geffen Records Release; ℗ 1994 UMG Recordings, Inc.",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "1994-11-29",
+            "isMasteredForItunes": true,
+            "upc": "00602508507762",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f8/8c/9a/f88c9a3f-64cd-9a3a-3a82-f2a7f732ce9c/19UMGIM98447.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "7eabce",
+              "textColor2": "9ac7e8",
+              "textColor4": "7ca5c6",
+              "textColor1": "9ccef1",
+              "bgColor": "042141",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/my-life/1488020290",
+            "playParams": {
+              "id": "1488020290",
+              "kind": "album"
+            },
+            "recordLabel": "Geffen",
+            "isCompilation": false,
+            "trackCount": 17,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "My Life",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1498277732": {
+          "id": "1498277732",
+          "type": "albums",
+          "attributes": {
+            "copyright": "A Republic Records release; ℗ 2020 UMG Recordings, Inc.",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "1994-11-29",
+            "upc": "00602508555343",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/cb/70/cccb705b-ce73-4b6f-7f74-d3575561fa13/20UMGIM03203.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "1c252c",
+              "textColor2": "0d1317",
+              "textColor4": "212c32",
+              "textColor1": "080c10",
+              "bgColor": "708d9d",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1498277732",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/my-life-deluxe-commentary-edition/1498277732",
+            "recordLabel": "Universal Records",
+            "isCompilation": false,
+            "trackCount": 40,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "My Life (Deluxe / Commentary Edition)",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1604654340": {
+          "id": "1604654340",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2022 Mary Jane Productions Inc./ 300 Entertainment",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "2022-02-11",
+            "isMasteredForItunes": true,
+            "upc": "810043687966",
+            "artwork": {
+              "width": 1425,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ff/7d/1e/ff7d1e81-a51b-09d8-a010-4350622cd9bb/810043687966.jpg/{w}x{h}bb.jpg",
+              "height": 1425,
+              "textColor3": "d2ccc7",
+              "textColor2": "eedbca",
+              "textColor4": "c5b4a6",
+              "textColor1": "fef9f3",
+              "bgColor": "221817",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/good-morning-gorgeous/1604654340",
+            "playParams": {
+              "id": "1604654340",
+              "kind": "album"
+            },
+            "recordLabel": "300 Entertainment",
+            "isCompilation": false,
+            "trackCount": 13,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "Good Morning Gorgeous",
+            "artistName": "Mary J. Blige",
+            "contentRating": "explicit",
+            "editorialNotes": {
+              "standard": "The centerpiece and title track of Mary J. Blige’s 14th album is an emotional display of self-love—the kind of song that, after three decades of heartbreak anthems, feels like the soft landing spot she’s been searching for this entire time. “All the times that I hated myself, all the times that I wanted to be someone else, all the times that I should’ve been gentle with me,” she sings in the second verse. “I wake up every morning and tell myself, ‘Good morning gorgeous.’” Across the album, her voice sounds just as convincing as it has all these years, contoured in soul and grit. Her lyrics, though, beautifully reflect her life experiences, evolved and brimming with wisdom.<br />\nThere are no histrionics to be found here; she knows what she wants and will put up with nothing less. On songs like “Love Without the Heartbreak” (“I’m so got’damn sick of the pain,” she cries on the hook) and “Enough” (“You can’t see what you got at home, you dead wrong not to fight for it,” goes that chorus), she sounds genuinely fed up, far from the wounded defeat of those beloved earlier releases. It’s no small feat to have a career and catalog as long and storied as Mary J.’s, and here she reveals some of the secret. Her brand of R&B is uniquely hers, ebbing and flowing with the waves of her own life; here, her take on love feels honest and lived-in without the pretense of autobiography. <i>Good Morning Gorgeous</i> stands up as not just a possible blueprint for artistic longevity, but also a model for how to love yourself even when others have failed to.",
+              "short": "The legendary singer returns with her 14th album."
+            },
+            "isComplete": true
+          }
+        },
+        "1621795202": {
+          "id": "1621795202",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2022 Mary Jane Productions Inc. / 300 Entertainment",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "2022-02-11",
+            "isMasteredForItunes": false,
+            "upc": "075679747136",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/66/15/c2/6615c273-2b17-ae40-491e-ed503c7349e9/075679747136.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "dcc2ae",
+              "textColor2": "dcbca7",
+              "textColor4": "c1a490",
+              "textColor1": "ffe1cd",
+              "bgColor": "544736",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1621795202",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/good-morning-gorgeous-deluxe/1621795202",
+            "recordLabel": "300 Entertainment",
+            "isCompilation": false,
+            "trackCount": 19,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "Good Morning Gorgeous (Deluxe)",
+            "contentRating": "explicit",
+            "artistName": "Mary J. Blige",
+            "isComplete": true
+          }
+        },
+        "1636566049": {
+          "id": "1636566049",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2022 Mary Jane Productions Inc./ 300 Entertainment",
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "releaseDate": "2022-02-11",
+            "isMasteredForItunes": false,
+            "upc": "075679732101",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/93/0d/d9/930dd9d6-f47f-5775-3ba1-83d4ca385691/075679732101.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "c8c7c7",
+              "textColor2": "d3bd97",
+              "textColor4": "aa977a",
+              "textColor1": "f9f9f9",
+              "bgColor": "060203",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1636566049",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/apple-music-live-mary-j-blige/1636566049",
+            "recordLabel": "300 Entertainment",
+            "isCompilation": false,
+            "trackCount": 23,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "Apple Music Live: Mary J. Blige",
+            "contentRating": "explicit",
+            "artistName": "Mary J. Blige",
+            "editorialNotes": {
+              "short": "Hear songs from Mary J. Blige's NYC performance in Spatial Audio."
+            },
+            "isComplete": true
+          }
+        },
+        "1712196200": {
+          "id": "1712196200",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2023 Beautiful Life Music",
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Pop"
+            ],
+            "releaseDate": "2023-10-27",
+            "upc": "617513841398",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 2903,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/40/8d/4b408d6c-a464-90e0-5b1a-d997fcb3290e/617513841398_cover.jpg/{w}x{h}bb.jpg",
+              "height": 2903,
+              "textColor3": "3e3e49",
+              "textColor2": "2c1f28",
+              "textColor4": "443f4c",
+              "textColor1": "241f25",
+              "bgColor": "a5bcdc",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1712196200",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/still-believe-in-love-single/1712196200",
+            "recordLabel": "Beautiful Life Music",
+            "isCompilation": false,
+            "trackCount": 1,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": true,
+            "name": "Still Believe In Love - Single",
+            "contentRating": "explicit",
+            "artistName": "Mary J. Blige & Vado",
+            "isComplete": true
+          }
+        }
+      },
+      "songs": {
+        "1440756996": {
+          "id": "1440756996",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Release Therapy",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Hip-Hop/Rap",
+              "Music"
+            ],
+            "trackNumber": 13,
+            "releaseDate": "2006-01-01",
+            "durationInMillis": 280680,
+            "isVocalAttenuationAllowed": false,
+            "isMasteredForItunes": false,
+            "isrc": "USUM70609877",
+            "artwork": {
+              "width": 1423,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5e/76/3f/5e763f67-2634-36a8-c225-5ba06be0d54a/06UMGIM19394.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1411,
+              "textColor3": "d9d2d2",
+              "textColor2": "dba07b",
+              "textColor4": "bc896a",
+              "textColor1": "fffdfe",
+              "bgColor": "432b27",
+              "hasP3": false
+            },
+            "composerName": "Christopher Bridges, J. Jones, Keri Hilson, Ricky M.L. Walters & Doug Davis",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/runaway-love-feat-mary-j-blige/1440756826?i=1440756996",
+            "playParams": {
+              "id": "1440756996",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Runaway Love (feat. Mary J. Blige)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3a/f6/68/3af66849-b112-f7e6-f5da-a6104576b305/mzaf_15008847119849400221.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Ludacris",
+            "contentRating": "explicit"
+          },
+          "meta": {
+            "formerIds": [
+              "192180213",
+              "192311586"
+            ]
+          }
+        },
+        "1440817021": {
+          "id": "1440817021",
+          "type": "songs",
+          "attributes": {
+            "albumName": "What's the 411?",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 3,
+            "durationInMillis": 272707,
+            "releaseDate": "1992-01-01",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19238482",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/54/ba/4354ba48-b993-9c58-af75-2987f1d2fcab/06UMGIM05898.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "dad6d4",
+              "textColor2": "f0dfc4",
+              "textColor4": "d0c1ab",
+              "textColor1": "fdf9f8",
+              "bgColor": "524a47",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Mark Morales, Mark Rooney, Richard Martin & Kirk Robinson",
+            "url": "https://music.apple.com/us/album/real-love/1440817005?i=1440817021",
+            "playParams": {
+              "id": "1440817021",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Real Love",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d5/c7/ee/d5c7ee5d-10e0-94d7-29a1-e029cb00eeb7/mzaf_4930355165392229069.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "962929829",
+              "953081682"
+            ]
+          }
+        },
+        "1440817025": {
+          "id": "1440817025",
+          "type": "songs",
+          "attributes": {
+            "albumName": "What's the 411?",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 4,
+            "releaseDate": "1992-01-01",
+            "durationInMillis": 259533,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19238426",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/54/ba/4354ba48-b993-9c58-af75-2987f1d2fcab/06UMGIM05898.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "dad6d4",
+              "textColor2": "f0dfc4",
+              "textColor4": "d0c1ab",
+              "textColor1": "fdf9f8",
+              "bgColor": "524a47",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Dave Hall & Eric Milteer",
+            "playParams": {
+              "id": "1440817025",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/you-remind-me/1440817005?i=1440817025",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "You Remind Me",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c4/b6/e2/c4b6e250-6415-4e3b-40cd-273c03337169/mzaf_8577490422637484808.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "962929830",
+              "953081683"
+            ]
+          }
+        },
+        "1440817273": {
+          "id": "1440817273",
+          "type": "songs",
+          "attributes": {
+            "albumName": "What's the 411?",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 6,
+            "releaseDate": "1992-01-01",
+            "durationInMillis": 226533,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19238491",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/54/ba/4354ba48-b993-9c58-af75-2987f1d2fcab/06UMGIM05898.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "dad6d4",
+              "textColor2": "f0dfc4",
+              "textColor4": "d0c1ab",
+              "textColor1": "fdf9f8",
+              "bgColor": "524a47",
+              "hasP3": false
+            },
+            "composerName": "Chaka Khan & Tony Maiden",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1440817273",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/sweet-thing/1440817005?i=1440817273",
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Sweet Thing",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ca/19/af/ca19af05-e5de-80c2-eae9-39479081e396/mzaf_9812566745121929741.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "953081685",
+              "962929832"
+            ]
+          }
+        },
+        "1440817530": {
+          "id": "1440817530",
+          "type": "songs",
+          "attributes": {
+            "albumName": "No More Drama (Version 1)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 2,
+            "releaseDate": "2001-01-01",
+            "durationInMillis": 265867,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC10111369",
+            "artwork": {
+              "width": 3750,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/9f/34/569f3460-d673-5bc0-b514-a0041fb3d3ee/06UMGIM00908.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3632,
+              "textColor3": "9eabae",
+              "textColor2": "db9b4a",
+              "textColor4": "b38140",
+              "textColor1": "c1d0d3",
+              "bgColor": "131919",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Mary J. Blige, Bruce Miller, Andre R. Young, Camara Kambon, Mike Elizondo, Asiah Kewis & Luchana N. Lodge",
+            "playParams": {
+              "id": "1440817530",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/family-affair/1440817211?i=1440817530",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Family Affair",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0c/70/ec/0c70ec2c-bc1c-5569-ebd5-c0f116cc8dca/mzaf_16481533864248117887.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "954389270",
+              "962939805"
+            ]
+          }
+        },
+        "1440817961": {
+          "id": "1440817961",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Share My World",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "trackNumber": 2,
+            "durationInMillis": 286400,
+            "releaseDate": "1997-01-01",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19651987",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f0/16/77/f01677fd-bbe7-2506-f7c9-646f47bf515e/06UMGIM21088.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3c393a",
+              "textColor2": "201919",
+              "textColor4": "4c4646",
+              "textColor1": "0b0909",
+              "bgColor": "fffcfb",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Mary J. Blige, Carlos Broady, Nashiem Myrick, LaTonya Blige-DaCosta, Xenis DaCosta, Rodney Jerkins, Carlos \"Six July\" Daronde Broady, Nashiem Sa Allah Myrick & Kimberly Jones",
+            "playParams": {
+              "id": "1440817961",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/i-can-love-you-feat-lil-kim/1440817713?i=1440817961",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "I Can Love You (feat. Lil' Kim)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/61/70/06/617006de-7120-44f1-b33d-f7fecf537b4e/mzaf_15468112340126406954.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "954387945",
+              "962939176"
+            ]
+          }
+        },
+        "1440818035": {
+          "id": "1440818035",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Share My World",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "trackNumber": 7,
+            "durationInMillis": 309893,
+            "releaseDate": "1997-01-01",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19651993",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f0/16/77/f01677fd-bbe7-2506-f7c9-646f47bf515e/06UMGIM21088.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3c393a",
+              "textColor2": "201919",
+              "textColor4": "4c4646",
+              "textColor1": "0b0909",
+              "bgColor": "fffcfb",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Malik Pendleton & Malik \"Zavy Kid\" Pendleton",
+            "playParams": {
+              "id": "1440818035",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/seven-days-feat-george-benson/1440817713?i=1440818035",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Seven Days (feat. George Benson)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b7/68/cc/b768ccc5-42fb-7d83-4759-019f6acfca81/mzaf_11463703254005345700.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "954391058",
+              "962939181"
+            ]
+          }
+        },
+        "1440818116": {
+          "id": "1440818116",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Share My World",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "trackNumber": 11,
+            "durationInMillis": 299027,
+            "releaseDate": "1997-01-01",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19651992",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f0/16/77/f01677fd-bbe7-2506-f7c9-646f47bf515e/06UMGIM21088.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3c393a",
+              "textColor2": "201919",
+              "textColor4": "4c4646",
+              "textColor1": "0b0909",
+              "bgColor": "fffcfb",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "James Brown, Thom Bell, Linda Creed, Rokusuke Ei, Fred Wesley, Hachidai Nakamura, James Harris, John Starks & Terry Lewis",
+            "url": "https://music.apple.com/us/album/everything/1440817713?i=1440818116",
+            "playParams": {
+              "id": "1440818116",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Everything",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/97/ff/7b/97ff7b9f-4676-1a2c-5bcf-474e8ed55257/mzaf_17600259877134948442.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "954391062",
+              "962939185"
+            ]
+          }
+        },
+        "1440818137": {
+          "id": "1440818137",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Share My World",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music",
+              "Contemporary R&B"
+            ],
+            "trackNumber": 17,
+            "durationInMillis": 294267,
+            "releaseDate": "1995-11-14",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19652600",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f0/16/77/f01677fd-bbe7-2506-f7c9-646f47bf515e/06UMGIM21088.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3c393a",
+              "textColor2": "201919",
+              "textColor4": "4c4646",
+              "textColor1": "0b0909",
+              "bgColor": "fffcfb",
+              "hasP3": false
+            },
+            "composerName": "Babyface",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/not-gon-cry/1440817713?i=1440818137",
+            "playParams": {
+              "id": "1440818137",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Not Gon' Cry",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ed/fb/59/edfb5916-d791-87b2-6bd5-68f394a77fce/mzaf_1994071294341059305.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "962939191",
+              "954391084"
+            ]
+          }
+        },
+        "1440819196": {
+          "id": "1440819196",
+          "type": "songs",
+          "attributes": {
+            "albumName": "good kid, m.A.A.d city (Deluxe Version)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Hip-Hop/Rap",
+              "Music",
+              "Gangsta Rap",
+              "Rap",
+              "Hardcore Rap",
+              "West Coast Rap"
+            ],
+            "trackNumber": 15,
+            "releaseDate": "2012-01-01",
+            "durationInMillis": 257000,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USUM71210775",
+            "artwork": {
+              "width": 1426,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1426,
+              "textColor3": "3c3b41",
+              "textColor2": "132a36",
+              "textColor4": "3e515a",
+              "textColor1": "100e16",
+              "bgColor": "ececec",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Kendrick Lamar, Jack Splash & J.Sullivan",
+            "playParams": {
+              "id": "1440819196",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/now-or-never-feat-mary-j-blige-bonus-track/1440818890?i=1440819196",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Now Or Never (feat. Mary J. Blige) [Bonus Track]",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bd/93/5a/bd935ab2-27d9-5790-ef42-4de70661d410/mzaf_7382166283859504311.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Kendrick Lamar"
+          },
+          "meta": {
+            "formerIds": [
+              "622711136"
+            ]
+          }
+        },
+        "1440827935": {
+          "id": "1440827935",
+          "type": "songs",
+          "attributes": {
+            "albumName": "The Breakthrough (Deluxe)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 2,
+            "releaseDate": "2005-01-01",
+            "durationInMillis": 260893,
+            "isVocalAttenuationAllowed": false,
+            "isMasteredForItunes": true,
+            "isrc": "USUM70506835",
+            "artwork": {
+              "width": 1428,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/16/f1/41/16f14177-75c1-2571-dba2-4f9644a4d706/15UMGIM00591.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1428,
+              "textColor3": "17262f",
+              "textColor2": "041116",
+              "textColor4": "1a2b33",
+              "textColor1": "000b11",
+              "bgColor": "7392a7",
+              "hasP3": false
+            },
+            "composerName": "Mary J. Blige, Rodney Jerkins, Sean Garrett & Shawn Carter",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/enough-cryin-feat-brook-lynn/1440827760?i=1440827935",
+            "playParams": {
+              "id": "1440827935",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Enough Cryin (feat. Brook Lynn)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/31/af/63/31af6305-3d35-5e74-0f24-0e4691f59186/mzaf_6626499082209131379.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "961991475",
+              "962592373"
+            ]
+          }
+        },
+        "1440827944": {
+          "id": "1440827944",
+          "type": "songs",
+          "attributes": {
+            "albumName": "The Breakthrough (Deluxe)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Hip-Hop/Rap",
+              "Music"
+            ],
+            "trackNumber": 4,
+            "durationInMillis": 246333,
+            "releaseDate": "2005-01-01",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USUM70505512",
+            "artwork": {
+              "width": 1428,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/16/f1/41/16f14177-75c1-2571-dba2-4f9644a4d706/15UMGIM00591.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1428,
+              "textColor3": "17262f",
+              "textColor2": "041116",
+              "textColor4": "1a2b33",
+              "textColor1": "000b11",
+              "bgColor": "7392a7",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Mary J. Blige, Bryan-Michael Cox, Jason Perry & Johnta Austin",
+            "url": "https://music.apple.com/us/album/be-without-you-kendu-mix/1440827760?i=1440827944",
+            "playParams": {
+              "id": "1440827944",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Be Without You (Kendu Mix)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8d/d0/ae/8dd0aed6-76b0-abde-ca82-ee9fbeccdaf8/mzaf_12113314531786997042.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "961991479",
+              "962592375"
+            ]
+          }
+        },
+        "1440828585": {
+          "id": "1440828585",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Growing Pains (Deluxe)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 3,
+            "releaseDate": "2007-01-01",
+            "durationInMillis": 242133,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USUM70754422",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/75/0e/00750e92-5272-64a8-5332-8420ba09d7aa/15UMGIM00470.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "2d2b27",
+              "textColor2": "1f160e",
+              "textColor4": "453a32",
+              "textColor1": "000301",
+              "bgColor": "deccc0",
+              "hasP3": false
+            },
+            "composerName": "Mary J. Blige, Christopher Stewart, Phalon Alexander & Terius Nash",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/just-fine/1440828448?i=1440828585",
+            "playParams": {
+              "id": "1440828585",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Just Fine",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/02/65/f5/0265f55d-7e57-67b8-2904-f59ef943c9be/mzaf_480288060873522724.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "961477673",
+              "962585045"
+            ]
+          }
+        },
+        "1440837686": {
+          "id": "1440837686",
+          "type": "songs",
+          "attributes": {
+            "albumName": "My Life",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "trackNumber": 2,
+            "durationInMillis": 279240,
+            "releaseDate": "1994-01-01",
+            "isVocalAttenuationAllowed": false,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19443975",
+            "artwork": {
+              "width": 1447,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/b2/fa/1db2fa7b-236e-ad08-4635-62be9b89e44f/15UMGIM00469.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1447,
+              "textColor3": "76a2c5",
+              "textColor2": "81aed6",
+              "textColor4": "678db3",
+              "textColor1": "93c9ed",
+              "bgColor": "000628",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Mary J. Blige, Rick James, Chucky Thompson & P. Diddy",
+            "url": "https://music.apple.com/us/album/mary-jane-all-night-long/1440837272?i=1440837686",
+            "playParams": {
+              "id": "1440837686",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Mary Jane (All Night Long)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f3/21/79/f32179fe-2c50-79d6-b10d-210d72f86939/mzaf_17138049421327280834.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "961477048",
+              "962569618"
+            ]
+          }
+        },
+        "1440838052": {
+          "id": "1440838052",
+          "type": "songs",
+          "attributes": {
+            "albumName": "My Life",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "trackNumber": 7,
+            "releaseDate": "1994-01-01",
+            "durationInMillis": 257427,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19443980",
+            "artwork": {
+              "width": 1447,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/b2/fa/1db2fa7b-236e-ad08-4635-62be9b89e44f/15UMGIM00469.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1447,
+              "textColor3": "76a2c5",
+              "textColor2": "81aed6",
+              "textColor4": "678db3",
+              "textColor1": "93c9ed",
+              "bgColor": "000628",
+              "hasP3": false
+            },
+            "composerName": "Mary J. Blige, P. Diddy, Roy Ayers, Chucky Thompson & Arlene Delvalle",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/my-life/1440837272?i=1440838052",
+            "playParams": {
+              "id": "1440838052",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "My Life",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/5e/89/ae/5e89aed8-e6da-864a-966b-6f73326ad2dd/mzaf_7001550775414928138.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "962569623",
+              "961477191"
+            ]
+          }
+        },
+        "1440838496": {
+          "id": "1440838496",
+          "type": "songs",
+          "attributes": {
+            "albumName": "My Life",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 17,
+            "releaseDate": "1994-01-01",
+            "durationInMillis": 349560,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC19443788",
+            "artwork": {
+              "width": 1447,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/b2/fa/1db2fa7b-236e-ad08-4635-62be9b89e44f/15UMGIM00469.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1447,
+              "textColor3": "76a2c5",
+              "textColor2": "81aed6",
+              "textColor4": "678db3",
+              "textColor1": "93c9ed",
+              "bgColor": "000628",
+              "hasP3": false
+            },
+            "composerName": "Mary J. Blige, P. Diddy, Arlene Delvalle & Jean C Olivier",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1440838496",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/be-happy/1440837272?i=1440838496",
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Be Happy",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/60/32/8860326b-699f-9daa-fc33-22efb9859a4d/mzaf_3988539318993568617.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "961477526",
+              "962571523"
+            ]
+          }
+        },
+        "1442964068": {
+          "id": "1442964068",
+          "type": "songs",
+          "attributes": {
+            "albumName": "No More Drama (Version 2)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 2,
+            "releaseDate": "2001-01-01",
+            "durationInMillis": 265867,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USMC10111369",
+            "artwork": {
+              "width": 1409,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7f/2b/70/7f2b7024-45d5-4595-2d87-b767590ee545/15UMGIM00598.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1409,
+              "textColor3": "3c3533",
+              "textColor2": "3f0c18",
+              "textColor4": "653c46",
+              "textColor1": "0c0300",
+              "bgColor": "ffffff",
+              "hasP3": false
+            },
+            "composerName": "Mary J. Blige, Bruce Miller, Andre R. Young, Camara Kambon, Mike Elizondo, Asiah Kewis & Luchana N. Lodge",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/family-affair/1442964062?i=1442964068",
+            "playParams": {
+              "id": "1442964068",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Family Affair",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c8/87/2a/c8872a30-0d3d-17a9-45fb-5aa277f65b5b/mzaf_13958615663251209264.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "961477002",
+              "962574200"
+            ]
+          }
+        },
+        "1442989073": {
+          "id": "1442989073",
+          "type": "songs",
+          "attributes": {
+            "albumName": "My Life II...The Journey Continues (Act 1) [Deluxe]",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "R&B/Soul",
+              "Music"
+            ],
+            "trackNumber": 9,
+            "releaseDate": "2011-11-21",
+            "durationInMillis": 241853,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "USUM71116429",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/a1/9a/e1a19a8c-8fdc-a114-6c86-7cd334384d79/00602547208248.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "3d1f0f",
+              "textColor2": "2b1306",
+              "textColor4": "4e270e",
+              "textColor1": "160908",
+              "bgColor": "d9792b",
+              "hasP3": false
+            },
+            "composerName": "James Scheffer, Rico Love & Daniel Morris",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1442989073",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/mr-wrong-feat-drake/1442988659?i=1442989073",
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Mr. Wrong (feat. Drake)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8a/11/05/8a11052f-df94-4d94-e098-364e11a35801/mzaf_10685144679112093952.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Mary J. Blige"
+          },
+          "meta": {
+            "formerIds": [
+              "962581756",
+              "961477030"
+            ]
+          }
+        },
+        "1444317236": {
+          "id": "1444317236",
+          "type": "songs",
+          "attributes": {
+            "albumName": "I'll Be There for You (feat. Mary J. Blige) - Single",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Hip-Hop/Rap",
+              "Music",
+              "Hip-Hop",
+              "East Coast Rap"
+            ],
+            "trackNumber": 1,
+            "releaseDate": "1995-04-25",
+            "durationInMillis": 309773,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": false,
+            "isrc": "USDJ29500033",
+            "artwork": {
+              "width": 1440,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/13/30/2c133048-d7a0-4aa1-1921-74b7cca0476e/06UMGIM73029.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1422,
+              "textColor3": "3a3d3f",
+              "textColor2": "532219",
+              "textColor4": "754e47",
+              "textColor1": "090d10",
+              "bgColor": "fffdff",
+              "hasP3": false
+            },
+            "composerName": "Method Man, Robert F. \"Prince Rakeem\" Diggs, Valerie Simpson & Nickolas Ashford",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1444317236",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/ill-be-there-for-you-youre-all-i-need-to-get-by-feat-mary-j-blige/1444317232?i=1444317236",
+            "discNumber": 1,
+            "hasCredits": false,
+            "hasLyrics": true,
+            "isAppleDigitalMaster": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "I'll Be There for You / You're All I Need to Get By (feat. Mary J. Blige)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f6/47/6a/f6476a30-478e-2245-ea98-e865b6e39a51/mzaf_12488821632394247488.plus.aac.ep.m4a"
+              }
+            ],
+            "contentRating": "explicit",
+            "artistName": "Method Man"
+          },
+          "meta": {
+            "formerIds": [
+              "58461762"
+            ]
+          }
+        },
+        "1536994387": {
+          "id": "1536994387",
+          "type": "songs",
+          "attributes": {
+            "albumName": "In The Lonely Hour (Drowning Shadows Edition)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "trackNumber": 21,
+            "durationInMillis": 173449,
+            "releaseDate": "2014-05-26",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM71402189",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f2/59/8a/f2598a7e-945a-3cb6-24e1-9c3ead873760/15UMGIM50961.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "dddcdb",
+              "textColor2": "f6f5f1",
+              "textColor4": "d6d4d1",
+              "textColor1": "ffffff",
+              "bgColor": "56534e",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Sam Smith, James Napier, William Phillips, Jeff Lynne & Tom Petty",
+            "url": "https://music.apple.com/us/album/stay-with-me-feat-mary-j-blige-radio-edit/1536993568?i=1536994387",
+            "playParams": {
+              "id": "1536994387",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Stay With Me (feat. Mary J. Blige) [Radio Edit]",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/34/4d/b9/344db998-02b6-7a48-ad6d-3b0eb9b4bdc2/mzaf_5659182455781887172.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Sam Smith"
+          }
+        }
+      }
+    }

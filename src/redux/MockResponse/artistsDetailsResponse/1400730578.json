@@ -1,0 +1,1956 @@
+{
+  "artists": {
+    "1400730578": {
+      "id": "1400730578",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Hip-Hop/Rap"],
+        "name": "Lil Nas X",
+        "artwork": {
+          "width": 2400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cc/71/d7/cc71d772-a807-6943-b4e2-c1b92b7b99b8/pr_source.png/{w}x{h}bb.jpg",
+          "height": 2400,
+          "textColor3": "383738",
+          "textColor2": "21160f",
+          "textColor4": "4b433e",
+          "textColor1": "090707",
+          "bgColor": "f4f9fd",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/lil-nas-x/1400730578"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1468166325",
+              "type": "albums"
+            },
+            {
+              "id": "1582660720",
+              "type": "albums"
+            },
+            {
+              "id": "1560908103",
+              "type": "albums"
+            },
+            {
+              "id": "1586182256",
+              "type": "albums"
+            },
+            {
+              "id": "1564291776",
+              "type": "albums"
+            },
+            {
+              "id": "1559318717",
+              "type": "albums"
+            },
+            {
+              "id": "1629545449",
+              "type": "albums"
+            },
+            {
+              "id": "1589534928",
+              "type": "albums"
+            },
+            {
+              "id": "1539569479",
+              "type": "albums"
+            },
+            {
+              "id": "1589534783",
+              "type": "albums"
+            },
+            {
+              "id": "1472630241",
+              "type": "albums"
+            },
+            {
+              "id": "1474182253",
+              "type": "albums"
+            },
+            {
+              "id": "1567410554",
+              "type": "albums"
+            },
+            {
+              "id": "1479239195",
+              "type": "albums"
+            },
+            {
+              "id": "1460613243",
+              "type": "albums"
+            },
+            {
+              "id": "1495107244",
+              "type": "albums"
+            },
+            {
+              "id": "1576552540",
+              "type": "albums"
+            },
+            {
+              "id": "1631209981",
+              "type": "albums"
+            },
+            {
+              "id": "1539565272",
+              "type": "albums"
+            },
+            {
+              "id": "1577414584",
+              "type": "albums"
+            },
+            {
+              "id": "1645947561",
+              "type": "albums"
+            },
+            {
+              "id": "1642613175",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1642613175",
+              "type": "albums"
+            }
+          ]
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1468166326",
+              "type": "songs"
+            },
+            {
+              "id": "1576552565",
+              "type": "songs"
+            },
+            {
+              "id": "1468166328",
+              "type": "songs"
+            },
+            {
+              "id": "1468166457",
+              "type": "songs"
+            },
+            {
+              "id": "1474182258",
+              "type": "songs"
+            },
+            {
+              "id": "1479239196",
+              "type": "songs"
+            },
+            {
+              "id": "1582660725",
+              "type": "songs"
+            },
+            {
+              "id": "1539565285",
+              "type": "songs"
+            },
+            {
+              "id": "1582660722",
+              "type": "songs"
+            },
+            {
+              "id": "1560908105",
+              "type": "songs"
+            },
+            {
+              "id": "1468166468",
+              "type": "songs"
+            },
+            {
+              "id": "1582660724",
+              "type": "songs"
+            },
+            {
+              "id": "1559318719",
+              "type": "songs"
+            },
+            {
+              "id": "1468166466",
+              "type": "songs"
+            },
+            {
+              "id": "1582660727",
+              "type": "songs"
+            },
+            {
+              "id": "1577414972",
+              "type": "songs"
+            },
+            {
+              "id": "1642613664",
+              "type": "songs"
+            },
+            {
+              "id": "1472630463",
+              "type": "songs"
+            },
+            {
+              "id": "1564291778",
+              "type": "songs"
+            },
+            {
+              "id": "1567410789",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "1468166326": {
+      "id": "1468166326",
+      "type": "songs",
+      "attributes": {
+        "albumName": "7 - EP",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Country", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-04-05",
+        "durationInMillis": 157067,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11902498",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/c3/07d4c33e-b793-d78f-bb1b-52f1e224da88/886447788264.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2c8c4",
+          "textColor2": "d1cacf",
+          "textColor4": "aba7ac",
+          "textColor1": "eef4ec",
+          "bgColor": "131a22",
+          "hasP3": false
+        },
+        "composerName": "Billy Ray Cyrus, Montero Lamar Hill, Atticus Ross, Jocelyn Donald, Michael Trent Reznor & Kiowa Roukema",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/old-town-road-feat-billy-ray-cyrus-remix/1468166325?i=1468166326",
+        "playParams": {
+          "id": "1468166326",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Old Town Road (feat. Billy Ray Cyrus) [Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/df/c5/d9/dfc5d936-099d-8c34-3a52-209164115571/mzaf_11676247829724393400.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1468166328": {
+      "id": "1468166328",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "7 - EP",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2019-06-20",
+        "durationInMillis": 114893,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11903948",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/c3/07d4c33e-b793-d78f-bb1b-52f1e224da88/886447788264.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2c8c4",
+          "textColor2": "d1cacf",
+          "textColor4": "aba7ac",
+          "textColor1": "eef4ec",
+          "bgColor": "131a22",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Montero Lamar Hill, Denzel Baptiste, David Biral, Oladipo Omishore & Kurt Cobain",
+        "url": "https://music.apple.com/us/album/panini/1468166325?i=1468166328",
+        "playParams": {
+          "id": "1468166328",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Panini",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/9f/51/f99f512d-1afb-810e-715b-ef8c3878aadf/mzaf_3749017260266760309.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1468166457": {
+      "id": "1468166457",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "7 - EP",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 5,
+        "durationInMillis": 158707,
+        "releaseDate": "2019-06-21",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11903951",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/c3/07d4c33e-b793-d78f-bb1b-52f1e224da88/886447788264.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2c8c4",
+          "textColor2": "d1cacf",
+          "textColor4": "aba7ac",
+          "textColor1": "eef4ec",
+          "bgColor": "131a22",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Montero Lamar Hill, Denzel Baptiste, Russ Chell, Roy Lenzo, David Biral, Belcalis Almanzar, Jordan Thorpe, Klenord Raphael, Emekwanem Biosah, Patrick Adams, Afolabi Osinulu & Michael G. Dean",
+        "url": "https://music.apple.com/us/album/rodeo/1468166325?i=1468166457",
+        "playParams": {
+          "id": "1468166457",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Rodeo",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/11/64/49116458-1db6-643e-f7b1-a9ad4d24f5f3/mzaf_8627551731288514864.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Nas X & Cardi B"
+      }
+    },
+    "1468166466": {
+      "id": "1468166466",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "7 - EP",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 7,
+        "releaseDate": "2019-06-21",
+        "durationInMillis": 148653,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11903953",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/c3/07d4c33e-b793-d78f-bb1b-52f1e224da88/886447788264.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2c8c4",
+          "textColor2": "d1cacf",
+          "textColor4": "aba7ac",
+          "textColor1": "eef4ec",
+          "bgColor": "131a22",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Montero Lamar Hill, Allen Ritter, Matthew Jehu Samuels, Thomas Kessler, Imran Abbas & Jahaan Sweet",
+        "url": "https://music.apple.com/us/album/c7osure-you-like/1468166325?i=1468166466",
+        "playParams": {
+          "id": "1468166466",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "C7osure (You Like)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/69/8e/4f698ed2-16d9-d67f-26d5-1728deac69db/mzaf_4239134828557117529.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1468166468": {
+      "id": "1468166468",
+      "type": "songs",
+      "attributes": {
+        "albumName": "7 - EP",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 8,
+        "releaseDate": "2018-12-03",
+        "durationInMillis": 113000,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11901941",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/c3/07d4c33e-b793-d78f-bb1b-52f1e224da88/886447788264.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2c8c4",
+          "textColor2": "d1cacf",
+          "textColor4": "aba7ac",
+          "textColor1": "eef4ec",
+          "bgColor": "131a22",
+          "hasP3": false
+        },
+        "composerName": "Montero Lamar Hill, Kiowa Roukema, Michael Trent Reznor & Atticus Ross",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/old-town-road/1468166325?i=1468166468",
+        "playParams": {
+          "id": "1468166468",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Old Town Road",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9b/1f/b9/9b1fb99c-9111-91da-9296-5ab8d82028ee/mzaf_11237315064991720435.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1472630463": {
+      "id": "1472630463",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Old Town Road (Remix) [feat. Billy Ray Cyrus, Young Thug & Mason Ramsey] - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Country", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-07-12",
+        "durationInMillis": 171293,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11904496",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/59/0b/71590bed-61e4-c947-fe9d-822696ac1ef4/886447856222.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333e33",
+          "textColor2": "363131",
+          "textColor4": "5e5a5a",
+          "textColor1": "000e00",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Billy Ray Cyrus, Montero Lamar Hill, Jeffery Lamar Williams, Michael Trent Reznor, Atticus Ross, Jocelyn Donald, Kiowa Roukema, Ernest Keith Smith & Jake Owen",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/old-town-road-remix-feat-billy-ray-cyrus-young-thug/1472630241?i=1472630463",
+        "playParams": {
+          "id": "1472630463",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Old Town Road (Remix) [feat. Billy Ray Cyrus, Young Thug & Mason Ramsey]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/01/2b/fa/012bfa90-addd-6eaf-3d3b-60835e2be6a8/mzaf_12730218085862591904.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1474182258": {
+      "id": "1474182258",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Old Town Road (feat. RM of BTS) [Seoul Town Road Remix] - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-07-24",
+        "durationInMillis": 114133,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11904830",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/9d/4b/da9d4ba7-7efa-f4b5-2a69-70322d33eb3f/886447877043.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3f3544",
+          "textColor2": "360650",
+          "textColor4": "5e3873",
+          "textColor1": "0f0315",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Montero Lamar Hill, RM, Kim Nam-joon, Kiowa Roukema, Michael Trent Reznor & Atticus Ross",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/old-town-road-feat-rm-of-bts-seoul-town-road-remix/1474182253?i=1474182258",
+        "playParams": {
+          "id": "1474182258",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Old Town Road (feat. RM of BTS) [Seoul Town Road Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0e/5c/c1/0e5cc189-f545-1dbc-25b3-225dabd74587/mzaf_5638593319015717883.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1479239196": {
+      "id": "1479239196",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Panini (DaBaby Remix) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-09-13",
+        "durationInMillis": 151040,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11906020",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3d/ce/69/3dce69cc-a50b-e2dd-60e2-3a33eb7cd411/886447941119.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3c3b39",
+          "textColor2": "242040",
+          "textColor4": "504c66",
+          "textColor1": "0b0a08",
+          "bgColor": "fefefe",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Montero Lamar Hill, Jonathan Lyndale Kirk, Denzel Baptiste, David Biral, Oladipo Omishore & Kurt Cobain",
+        "url": "https://music.apple.com/us/album/panini-dababy-remix/1479239195?i=1479239196",
+        "playParams": {
+          "id": "1479239196",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Panini (DaBaby Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/91/89/43918979-3234-1956-f55f-834541eb195b/mzaf_2130529334297909255.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X & DaBaby"
+      }
+    },
+    "1539565285": {
+      "id": "1539565285",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "HOLIDAY - Single",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-11-13",
+        "durationInMillis": 154998,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12006375",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/98/00/4d/98004da2-ac76-8db4-e41b-941cac3aa9ac/886448854302.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcb",
+          "textColor2": "1ba9e4",
+          "textColor4": "1687b7",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Montero Lamar Hill, Denzel Baptiste, David Biral, Brytavious Lakeith Chambers, Tyler Brooks & Jocelyn Donald",
+        "url": "https://music.apple.com/us/album/holiday/1539565272?i=1539565285",
+        "playParams": {
+          "id": "1539565285",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "HOLIDAY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9f/16/4a/9f164a77-1d5a-1738-1507-f879da8e379e/mzaf_17616078379057106226.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
+      }
+    },
+    "1559318719": {
+      "id": "1559318719",
+      "type": "songs",
+      "attributes": {
+        "albumName": "MONTERO (Call Me By Your Name) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2021-03-26",
+        "durationInMillis": 137876,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12100532",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/ef/37/8def37cf-f641-1bba-f312-61a9b8d19fbf/886449068029.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4e413c",
+          "textColor2": "362216",
+          "textColor4": "55453b",
+          "textColor1": "2d1d17",
+          "bgColor": "d1d1d1",
+          "hasP3": false
+        },
+        "composerName": "Montero Hill, Denzel Baptiste, Omer Fedi, David Biral & Roy Lenzo",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name/1559318717?i=1559318719",
+        "playParams": {
+          "id": "1559318719",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "MONTERO (Call Me By Your Name)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/6e/cd/99/6ecd9966-bbe2-36b5-35f1-cd8ed6406906/mzaf_3486740843482888093.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "clean",
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1560908105": {
+      "id": "1560908105",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "MONTERO (Call Me By Your Name) - Single",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 137876,
+        "releaseDate": "2021-03-26",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12100531",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/0b/f9/360bf9dd-4298-db13-e41f-e22235afeacb/886449203512.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4e413c",
+          "textColor2": "362216",
+          "textColor4": "55453b",
+          "textColor1": "2d1d17",
+          "bgColor": "d1d1d1",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Montero Hill, Denzel Baptiste, Omer Fedi, David Biral & Roy Lenzo",
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name/1560908103?i=1560908105",
+        "playParams": {
+          "id": "1560908105",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "MONTERO (Call Me By Your Name)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/69/cf/73/69cf735a-e0d8-3fb8-eaa0-a905afdd56ad/mzaf_739119822629734985.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1564291778": {
+      "id": "1564291778",
+      "type": "songs",
+      "attributes": {
+        "albumName": "MONTERO (Call Me By Your Name) - EP",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 137876,
+        "releaseDate": "2021-03-26",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12100531",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/bc/07/c8bc0752-4a89-7e85-348d-6a8d9e59d8be/886449252510.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4e413c",
+          "textColor2": "362216",
+          "textColor4": "55453b",
+          "textColor1": "2d1d17",
+          "bgColor": "d1d1d1",
+          "hasP3": false
+        },
+        "composerName": "Montero Hill, Denzel Baptiste, Omer Fedi, David Biral & Roy Lenzo",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name/1564291776?i=1564291778",
+        "playParams": {
+          "id": "1564291778",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "MONTERO (Call Me By Your Name)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/85/ee/a785ee81-9aa2-1cce-6d66-37ab471c5357/mzaf_8991929851575764175.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1567410789": {
+      "id": "1567410789",
+      "type": "songs",
+      "attributes": {
+        "albumName": "SUN GOES DOWN - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 168276,
+        "releaseDate": "2021-05-21",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12102220",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/59/a5/b859a555-d4c4-8a5a-f83b-4317842e05e8/886449261307.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "262639",
+          "textColor2": "171a36",
+          "textColor4": "32355b",
+          "textColor1": "09060d",
+          "bgColor": "9ba3ec",
+          "hasP3": false
+        },
+        "composerName": "Montero Hill, Denzel Baptiste, David Biral, Omer Fedi, Roy Lenzo, Andrew Luce, Michael Olmo, Keegan Bach & Blake Slatkin",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/sun-goes-down/1567410554?i=1567410789",
+        "playParams": {
+          "id": "1567410789",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "SUN GOES DOWN",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f8/7f/87/f87f87ab-36fb-f709-4c0d-2a1ee8c5e16e/mzaf_8541187244491421186.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X"
+      }
+    },
+    "1576552565": {
+      "id": "1576552565",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "INDUSTRY BABY - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Pop"],
+        "trackNumber": 1,
+        "durationInMillis": 212000,
+        "releaseDate": "2021-07-23",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12104539",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/d7/66/79d7669f-36ff-46fb-16cb-b86fd321ef25/886449403912.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f353d",
+          "textColor2": "2a1616",
+          "textColor4": "4f3e43",
+          "textColor1": "030a0d",
+          "bgColor": "e2e2fa",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jack Harlow, Montero Hill, David Biral, Denzel Baptiste, Nick Lee, Raul Cubina, Kanye West, Mark Williams & Roy Lenzo",
+        "url": "https://music.apple.com/us/album/industry-baby/1576552540?i=1576552565",
+        "playParams": {
+          "id": "1576552565",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "INDUSTRY BABY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/f8/36/b5/f836b5f8-e322-ed9a-f386-787c27aa4a3a/mzaf_11552362537181273943.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Nas X & Jack Harlow"
+      }
+    },
+    "1577414972": {
+      "id": "1577414972",
+      "type": "songs",
+      "attributes": {
+        "albumName": "INDUSTRY BABY - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2021-07-23",
+        "durationInMillis": 212000,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12104540",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f7/16/67/f7166746-6299-5e54-8c7c-9535e941a53e/886449403929.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f353d",
+          "textColor2": "2a1616",
+          "textColor4": "4f3e43",
+          "textColor1": "030a0d",
+          "bgColor": "e2e2fa",
+          "hasP3": false
+        },
+        "composerName": "Jack Harlow, Montero Hill, David Biral, Denzel Baptiste, Nick Lee, Raul Cubina, Kanye West, Mark Williams & Roy Lenzo",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/industry-baby/1577414584?i=1577414972",
+        "playParams": {
+          "id": "1577414972",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "INDUSTRY BABY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/be/9b/35/be9b35f7-e564-fafa-8586-146e2f7b7320/mzaf_14586558128595343849.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "clean",
+        "artistName": "Lil Nas X & Jack Harlow"
+      }
+    },
+    "1582660722": {
+      "id": "1582660722",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "MONTERO",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 137704,
+        "releaseDate": "2021-03-26",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12100531",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/cf/dc/9fcfdc19-7a61-3836-defb-35d817529b25/886449511440.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfd0cf",
+          "textColor2": "fbeacc",
+          "textColor4": "d1d1bc",
+          "textColor1": "f9eae3",
+          "bgColor": "286a80",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Montero Hill, Denzel Baptiste, Omer Fedi, David Biral & Roy Lenzo",
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name/1582660720?i=1582660722",
+        "playParams": {
+          "id": "1582660722",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "MONTERO (Call Me By Your Name)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d6/1e/67/d61e6791-4379-f951-a585-25d0c178e25f/mzaf_11627562505443371511.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
+      }
+    },
+    "1582660724": {
+      "id": "1582660724",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "MONTERO",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Pop"],
+        "trackNumber": 3,
+        "releaseDate": "2021-07-23",
+        "durationInMillis": 212353,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12104539",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/cf/dc/9fcfdc19-7a61-3836-defb-35d817529b25/886449511440.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfd0cf",
+          "textColor2": "fbeacc",
+          "textColor4": "d1d1bc",
+          "textColor1": "f9eae3",
+          "bgColor": "286a80",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jack Harlow, Montero Hill, David Biral, Denzel Baptiste, Nick Lee, Raul Cubina, Kanye West, Mark Williams & Roy Lenzo",
+        "url": "https://music.apple.com/us/album/industry-baby/1582660720?i=1582660724",
+        "playParams": {
+          "id": "1582660724",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "INDUSTRY BABY",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e8/76/00/e8760098-5d33-5a01-0c35-a0deeab4a906/mzaf_9591955302665395306.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X & Jack Harlow",
+        "contentRating": "explicit"
+      }
+    },
+    "1582660725": {
+      "id": "1582660725",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "MONTERO",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2021-09-17",
+        "durationInMillis": 143901,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12105732",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/cf/dc/9fcfdc19-7a61-3836-defb-35d817529b25/886449511440.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfd0cf",
+          "textColor2": "fbeacc",
+          "textColor4": "d1d1bc",
+          "textColor1": "f9eae3",
+          "bgColor": "286a80",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Montero Hill, Omer Fedi, Blake Slatkin, Ryan Tedder & Keegan Bach",
+        "url": "https://music.apple.com/us/album/thats-what-i-want/1582660720?i=1582660725",
+        "playParams": {
+          "id": "1582660725",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "THATS WHAT I WANT",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1a/7f/ff/1a7fff73-8da6-97e3-234a-d12669a1caee/mzaf_10306418428373373164.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
+      }
+    },
+    "1582660727": {
+      "id": "1582660727",
+      "type": "songs",
+      "attributes": {
+        "albumName": "MONTERO",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music", "Pop"],
+        "trackNumber": 6,
+        "releaseDate": "2021-09-17",
+        "durationInMillis": 174164,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12105734",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/cf/dc/9fcfdc19-7a61-3836-defb-35d817529b25/886449511440.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfd0cf",
+          "textColor2": "fbeacc",
+          "textColor4": "d1d1bc",
+          "textColor1": "f9eae3",
+          "bgColor": "286a80",
+          "hasP3": false
+        },
+        "composerName": "Montero Hill, David Biral, Amala Zandile Dlamini, Denzel Baptiste & Roy Lenzo",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/scoop-feat-doja-cat/1582660720?i=1582660727",
+        "playParams": {
+          "id": "1582660727",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "SCOOP (feat. Doja Cat)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/92/f8/c6/92f8c6fd-e1bd-734d-2574-4deed1820ca4/mzaf_1080049585692821358.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
+      }
+    },
+    "1642613664": {
+      "id": "1642613664",
+      "type": "songs",
+      "attributes": {
+        "albumName": "STAR WALKIN' (League of Legends Worlds Anthem) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-09-22",
+        "durationInMillis": 210576,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12208809",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ba/4c/c4/ba4cc4e4-50e5-04f8-b865-389fdf0dfc38/dj.vdbsglhz.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "dcd3b8",
+          "textColor2": "d4ecde",
+          "textColor4": "c3cfbd",
+          "textColor1": "f3f1d8",
+          "bgColor": "805c39",
+          "hasP3": false
+        },
+        "composerName": "Montero Hill, Omer Fedi, Henry Walter & Atia Boggs",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/star-walkin-league-of-legends-worlds-anthem/1642613175?i=1642613664",
+        "playParams": {
+          "id": "1642613664",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/4b/66/6d4b6697-57ec-f34c-a56d-53c7fe48acea/mzaf_14430168494514608993.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit"
+      }
+    }
+  },
+  "albums": {
+    "1460613243": {
+      "id": "1460613243",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2019-05-02",
+        "upc": "886447683781",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/c7/5c/62c75cf3-e6b6-d55c-2b7f-227ba0f375d8/886447683781.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a3837",
+          "textColor2": "1a1a1b",
+          "textColor4": "484848",
+          "textColor1": "090605",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/old-town-road-diplo-remix-single/1460613243",
+        "playParams": {
+          "id": "1460613243",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Old Town Road (Diplo Remix) - Single",
+        "artistName": "Lil Nas X, Billy Ray Cyrus & Diplo",
+        "isComplete": true
+      }
+    },
+    "1468166325": {
+      "id": "1468166325",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2019-06-21",
+        "isMasteredForItunes": false,
+        "upc": "886447788264",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/c3/07d4c33e-b793-d78f-bb1b-52f1e224da88/886447788264.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2c8c4",
+          "textColor2": "d1cacf",
+          "textColor4": "aba7ac",
+          "textColor1": "eef4ec",
+          "bgColor": "131a22",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/7-ep/1468166325",
+        "playParams": {
+          "id": "1468166325",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 8,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "7 - EP",
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "“I want you to make sure you're listening to every single thing,” Lil Nas X tells Apple Music's Zane Lowe of his debut EP <i>7</i>. “You can't just listen and be on your phone the whole time, because you might miss something.” Of course, everyone being on their phones the whole time is how he got here: “Old Town Road” exploded from homemade online curio to part of our day-to-day lives so quickly, it would be easy enough to dismiss the culture-engulfing success as a novelty or one-off fluke. But the boundary-bursting Atlanta rapper has bad news about that narrative.<br />\nOf <i>7</i>'s eight tracks, two of them are indeed “Old Town Road”—the omnipresent remix with Billy Ray Cyrus and the original recipe that famously came together for $30. And one more is called “Rodeo,” complete with exaggerated drawl and a Cardi B verse for good measure. But the other five flee the Old West as fast as they can. Single “Panini” borrows the melody of Nirvana's “In Bloom” for its chorus (Kurt Cobain gets a songwriting credit, but Lil Nas X tells Lowe that he hadn't heard Nirvana before writing the tune); “Bring U Down” and “F9mily (You & Me)” are rock songs, full stop, thanks in no small part to some help from songwriting powerhouse Ryan Tedder and blink-182's Travis Barker. But none of this should be a surprise, given Lil Nas X's ambivalence to the industry hand-wringing over the genre classification of his signature hit. And as far as classifying these new songs—a teaser for a forthcoming full-length LP—he tells Lowe he thinks there's a common thread. “It's all music that you want to bang your head to, I guess.”",
+          "short": "The breakout viral star of 2019 is no one-trick pony."
+        },
+        "isComplete": true
+      }
+    },
+    "1472630241": {
+      "id": "1472630241",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Country", "Music"],
+        "releaseDate": "2019-07-12",
+        "upc": "886447856222",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/59/0b/71590bed-61e4-c947-fe9d-822696ac1ef4/886447856222.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333e33",
+          "textColor2": "363131",
+          "textColor4": "5e5a5a",
+          "textColor1": "000e00",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/old-town-road-remix-feat-billy-ray-cyrus-young-thug/1472630241",
+        "playParams": {
+          "id": "1472630241",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Old Town Road (Remix) [feat. Billy Ray Cyrus, Young Thug & Mason Ramsey] - Single",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1474182253": {
+      "id": "1474182253",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2019-07-24",
+        "isMasteredForItunes": false,
+        "upc": "886447877043",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/9d/4b/da9d4ba7-7efa-f4b5-2a69-70322d33eb3f/886447877043.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3f3544",
+          "textColor2": "360650",
+          "textColor4": "5e3873",
+          "textColor1": "0f0315",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/old-town-road-feat-rm-of-bts-seoul-town-road-remix-single/1474182253",
+        "playParams": {
+          "id": "1474182253",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Old Town Road (feat. RM of BTS) [Seoul Town Road Remix] - Single",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1479239195": {
+      "id": "1479239195",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2019-09-13",
+        "upc": "886447941119",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3d/ce/69/3dce69cc-a50b-e2dd-60e2-3a33eb7cd411/886447941119.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3c3b39",
+          "textColor2": "242040",
+          "textColor4": "504c66",
+          "textColor1": "0b0a08",
+          "bgColor": "fefefe",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/panini-dababy-remix-single/1479239195",
+        "playParams": {
+          "id": "1479239195",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Panini (DaBaby Remix) - Single",
+        "artistName": "Lil Nas X & DaBaby",
+        "isComplete": true
+      }
+    },
+    "1495107244": {
+      "id": "1495107244",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2020-01-27",
+        "isMasteredForItunes": false,
+        "upc": "886448231264",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0a/46/c3/0a46c323-e7fc-5f8f-2661-1ac872bb5827/886448231264.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cacaca",
+          "textColor2": "01ff14",
+          "textColor4": "0cd71b",
+          "textColor1": "efefef",
+          "bgColor": "383838",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/rodeo-single/1495107244",
+        "playParams": {
+          "id": "1495107244",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Rodeo - Single",
+        "artistName": "Lil Nas X & Nas",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1539565272": {
+      "id": "1539565272",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2020-11-13",
+        "isMasteredForItunes": false,
+        "upc": "886448854302",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/98/00/4d/98004da2-ac76-8db4-e41b-941cac3aa9ac/886448854302.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcb",
+          "textColor2": "1ba9e4",
+          "textColor4": "1687b7",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/holiday-single/1539565272",
+        "playParams": {
+          "id": "1539565272",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "HOLIDAY - Single",
+        "contentRating": "explicit",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1539569479": {
+      "id": "1539569479",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2020-11-13",
+        "upc": "886448854319",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/a3/db/53a3db10-07bb-2374-e0c9-a39b45a5e467/886448854319.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcb",
+          "textColor2": "1ba9e4",
+          "textColor4": "1687b7",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/holiday-single/1539569479",
+        "playParams": {
+          "id": "1539569479",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "HOLIDAY - Single",
+        "contentRating": "clean",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1559318717": {
+      "id": "1559318717",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-03-26",
+        "isMasteredForItunes": false,
+        "upc": "886449068029",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/ef/37/8def37cf-f641-1bba-f312-61a9b8d19fbf/886449068029.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4e413c",
+          "textColor2": "362216",
+          "textColor4": "55453b",
+          "textColor1": "2d1d17",
+          "bgColor": "d1d1d1",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name-single/1559318717",
+        "playParams": {
+          "id": "1559318717",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "MONTERO (Call Me By Your Name) - Single",
+        "contentRating": "clean",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1560908103": {
+      "id": "1560908103",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-03-31",
+        "isMasteredForItunes": false,
+        "upc": "886449203512",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/0b/f9/360bf9dd-4298-db13-e41f-e22235afeacb/886449203512.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4e413c",
+          "textColor2": "362216",
+          "textColor4": "55453b",
+          "textColor1": "2d1d17",
+          "bgColor": "d1d1d1",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name-single/1560908103",
+        "playParams": {
+          "id": "1560908103",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 3,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "MONTERO (Call Me By Your Name) - Single",
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1564291776": {
+      "id": "1564291776",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-04-28",
+        "isMasteredForItunes": false,
+        "upc": "886449252510",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/bc/07/c8bc0752-4a89-7e85-348d-6a8d9e59d8be/886449252510.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4e413c",
+          "textColor2": "362216",
+          "textColor4": "55453b",
+          "textColor1": "2d1d17",
+          "bgColor": "d1d1d1",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name-ep/1564291776",
+        "playParams": {
+          "id": "1564291776",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 4,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "MONTERO (Call Me By Your Name) - EP",
+        "contentRating": "explicit",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1567410554": {
+      "id": "1567410554",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-05-21",
+        "isMasteredForItunes": false,
+        "upc": "886449261307",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/59/a5/b859a555-d4c4-8a5a-f83b-4317842e05e8/886449261307.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "262639",
+          "textColor2": "171a36",
+          "textColor4": "32355b",
+          "textColor1": "09060d",
+          "bgColor": "9ba3ec",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/sun-goes-down-single/1567410554",
+        "playParams": {
+          "id": "1567410554",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "SUN GOES DOWN - Single",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1576552540": {
+      "id": "1576552540",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Pop"],
+        "releaseDate": "2021-07-23",
+        "isMasteredForItunes": false,
+        "upc": "886449403912",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/d7/66/79d7669f-36ff-46fb-16cb-b86fd321ef25/886449403912.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f353d",
+          "textColor2": "2a1616",
+          "textColor4": "4f3e43",
+          "textColor1": "030a0d",
+          "bgColor": "e2e2fa",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/industry-baby-single/1576552540",
+        "playParams": {
+          "id": "1576552540",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "INDUSTRY BABY - Single",
+        "artistName": "Lil Nas X & Jack Harlow",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1577414584": {
+      "id": "1577414584",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2021-07-23",
+        "isMasteredForItunes": false,
+        "upc": "886449403929",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f7/16/67/f7166746-6299-5e54-8c7c-9535e941a53e/886449403929.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f353d",
+          "textColor2": "2a1616",
+          "textColor4": "4f3e43",
+          "textColor1": "030a0d",
+          "bgColor": "e2e2fa",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/industry-baby-single/1577414584",
+        "playParams": {
+          "id": "1577414584",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "INDUSTRY BABY - Single",
+        "artistName": "Lil Nas X & Jack Harlow",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1582660720": {
+      "id": "1582660720",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-09-17",
+        "isMasteredForItunes": false,
+        "upc": "886449511440",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/cf/dc/9fcfdc19-7a61-3836-defb-35d817529b25/886449511440.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfd0cf",
+          "textColor2": "fbeacc",
+          "textColor4": "d1d1bc",
+          "textColor1": "f9eae3",
+          "bgColor": "286a80",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/montero/1582660720",
+        "playParams": {
+          "id": "1582660720",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 15,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "MONTERO",
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Lil Nas X is nothing if not a testament to the power of being true to yourself. His breakthrough single, “Old Town Road,” forced the industry to revisit old conversations about the limitations of genre, race, and who is kept out (or locked in) by the definitions we use to talk about music. The Georgia-born singer-rapper responded in kind with a remix and remixes to that remix that rocketed him up the charts and simultaneously highlighted the fickleness of the entire endeavor—did Billy Ray Cyrus suddenly prove his country bona fides any more than the addition of Young Thug proved his trap ones or Diplo his electronic? But that's the magic of Lil Nas X and of his debut album <i>MONTERO</i>: He knows that pop music is whatever the artist creating it wants it to be, an exercise of vulnerable imagination packaged as unyielding, larger-than-life confidence.<br />\n“I feel like with this album, I know what I wanted,” he tells Apple Music's Zane Lowe. “I know what I want. I know where I want to be in life. And I know that's going to take me being more open and bringing it out of myself no matter how much it hurts or feels uncomfortable to say things that I need to say.” But any such ambivalence doesn't explicitly manifest in the songs here, as Lil Nas X roams his interior spaces as openly as he does assorted styles—which span everything from emo and grunge to indie pop and pop punk. On “DEAD RIGHT NOW,” a thunderous track complete with choral flourishes, he recaps the journey to this moment, how it almost didn't happen, and the ways his personal relationships have changed since. “If I didn’t blow up, I would've died tryna be here/If it didn’t go, suicide, wouldn’t be here,” he sings, adding, “Now they all come around like they been here/When you get this rich and famous everybody come up to you singing, 'Hallelujah, how’d you do it?'”<br />\nAll throughout—on songs like “SUN GOES DOWN” or “DONT WANT IT”—the weight of his burdens exists in contrast to the levity of his sound, a particular kind of Black and queer disposition that insists on a joy that is far more profound than any pain. And make no mistake, there is plenty of joy here. On “SCOOP,” he finds an effervescent kindred spirit in Doja Cat, while “DOLLA SIGN SLIME,” which features Megan Thee Stallion, is a trapped-out victory lap. Elsewhere, the dark riffs on the outstanding “LIFE AFTER SALEM” bring him to new creative lands altogether.<br />\nThe album brims with surprises that continuously reveal him anew, offering a peek into the mind of an artist who is unafraid of himself or his impulses, even with the knowledge that he's still a work in progress. “Don't look at me as this perfect hero who's not going to make mistakes and should be the voice for everybody,” he says. “You're the voice for you.” And to that effect, <i>MONTERO</i> is a staggering triumph that suggests not just who Lil Nas X is but the infinite possibilities of who he may be in the future, whether that falls within the scope of our imaginations or not.",
+          "short": "“I feel like with this album, I know what I wanted.”"
+        },
+        "isComplete": true
+      }
+    },
+    "1586182256": {
+      "id": "1586182256",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-09-17",
+        "isMasteredForItunes": false,
+        "upc": "886449537204",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfd0cf",
+          "textColor2": "fbeacc",
+          "textColor4": "d1d1bc",
+          "textColor1": "f9eae3",
+          "bgColor": "286a80",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/montero/1586182256",
+        "playParams": {
+          "id": "1586182256",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 15,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "MONTERO",
+        "artistName": "Lil Nas X",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1589534783": {
+      "id": "1589534783",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-10-09",
+        "isMasteredForItunes": false,
+        "upc": "886449661817",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/66/06/59660666-d487-ef4a-953e-8e28cac105e0/886449661817.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f353d",
+          "textColor2": "2a1616",
+          "textColor4": "4f3e43",
+          "textColor1": "030a0d",
+          "bgColor": "e2e2fa",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/industry-baby-2-0-single/1589534783",
+        "playParams": {
+          "id": "1589534783",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "INDUSTRY BABY 2.0 - Single",
+        "artistName": "Lil Nas X",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1589534928": {
+      "id": "1589534928",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2021-10-09",
+        "isMasteredForItunes": false,
+        "upc": "886449661831",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/f2/df/4df2dfcc-a2a5-de63-9885-cd77efa6d26c/886449661831.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2f353d",
+          "textColor2": "2a1616",
+          "textColor4": "4f3e43",
+          "textColor1": "030a0d",
+          "bgColor": "e2e2fa",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/industry-baby-2-0-single/1589534928",
+        "playParams": {
+          "id": "1589534928",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "INDUSTRY BABY 2.0 - Single",
+        "contentRating": "clean",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1629545449": {
+      "id": "1629545449",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Pop"],
+        "releaseDate": "2022-06-24",
+        "upc": "196589243799",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/50/69/015069c4-c91c-1e26-62e9-6047dd96def3/196589243799.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d2d2f",
+          "textColor2": "19191a",
+          "textColor4": "383838",
+          "textColor1": "0b0b0f",
+          "bgColor": "b4b4b2",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/late-to-da-party-f-ck-bet-single/1629545449",
+        "playParams": {
+          "id": "1629545449",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Late To Da Party (F*CK BET) - Single",
+        "contentRating": "explicit",
+        "artistName": "Lil Nas X & YoungBoy Never Broke Again",
+        "isComplete": true
+      }
+    },
+    "1631209981": {
+      "id": "1631209981",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Pop"],
+        "releaseDate": "2022-06-24",
+        "upc": "196589243805",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9a/8b/6e/9a8b6ed1-1909-5567-a121-d8e5d5b61ad0/196589243805.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d2d2f",
+          "textColor2": "1d1b1e",
+          "textColor4": "3b393b",
+          "textColor1": "0b0b0f",
+          "bgColor": "b4b4b2",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/late-to-da-party-f-ck-bet-single/1631209981",
+        "playParams": {
+          "id": "1631209981",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Late To Da Party (F*CK BET) - Single",
+        "contentRating": "clean",
+        "artistName": "Lil Nas X & YoungBoy Never Broke Again",
+        "isComplete": true
+      }
+    },
+    "1642613175": {
+      "id": "1642613175",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2022-09-22",
+        "upc": "196589435927",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ba/4c/c4/ba4cc4e4-50e5-04f8-b865-389fdf0dfc38/dj.vdbsglhz.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "dcd3b8",
+          "textColor2": "d4ecde",
+          "textColor4": "c3cfbd",
+          "textColor1": "f3f1d8",
+          "bgColor": "805c39",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/star-walkin-league-of-legends-worlds-anthem-single/1642613175",
+        "playParams": {
+          "id": "1642613175",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem) - Single",
+        "contentRating": "explicit",
+        "artistName": "Lil Nas X",
+        "isComplete": true
+      }
+    },
+    "1645947561": {
+      "id": "1645947561",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2022-09-22",
+        "isMasteredForItunes": false,
+        "upc": "196589436092",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/30/4c/3a/304c3ad3-91a8-c075-9708-152c4ea8b786/196589436092.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "dcd3b8",
+          "textColor2": "d4ecde",
+          "textColor4": "c3cfbd",
+          "textColor1": "f3f1d8",
+          "bgColor": "805c39",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/star-walkin-league-of-legends-worlds-anthem-single/1645947561",
+        "playParams": {
+          "id": "1645947561",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem) - Single",
+        "artistName": "Lil Nas X",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    }
+  }
+}

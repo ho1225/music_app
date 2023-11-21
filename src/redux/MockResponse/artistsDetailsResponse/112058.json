@@ -1,0 +1,2311 @@
+{
+  "artists": {
+    "112058": {
+      "id": "112058",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Hip-Hop/Rap"],
+        "name": "50 Cent",
+        "editorialNotes": {
+          "short": "Ebro chats with 50 Cent about his new book, Hustle Harder, Hustle Smarter.",
+          "tagline": "Listen Now"
+        },
+        "artwork": {
+          "width": 2400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/e0/40/f8/e040f81e-0778-2221-ba15-33fca4ff3827/mzl.okdyshbj.jpg/{w}x{h}bb.jpg",
+          "height": 2400,
+          "textColor3": "c4cbcb",
+          "textColor2": "9eb6d2",
+          "textColor4": "7e92a7",
+          "textColor1": "f6ffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/50-cent/112058"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1445172348",
+              "type": "albums"
+            },
+            {
+              "id": "1440841450",
+              "type": "albums"
+            },
+            {
+              "id": "1440767663",
+              "type": "albums"
+            },
+            {
+              "id": "1440761298",
+              "type": "albums"
+            },
+            {
+              "id": "1440879586",
+              "type": "albums"
+            },
+            {
+              "id": "379891919",
+              "type": "albums"
+            },
+            {
+              "id": "1444866555",
+              "type": "albums"
+            },
+            {
+              "id": "1440907378",
+              "type": "albums"
+            },
+            {
+              "id": "1445152944",
+              "type": "albums"
+            },
+            {
+              "id": "1443237261",
+              "type": "albums"
+            },
+            {
+              "id": "1445316124",
+              "type": "albums"
+            },
+            {
+              "id": "1445298203",
+              "type": "albums"
+            },
+            {
+              "id": "1444007100",
+              "type": "albums"
+            },
+            {
+              "id": "1445141503",
+              "type": "albums"
+            },
+            {
+              "id": "1445298240",
+              "type": "albums"
+            },
+            {
+              "id": "1444890963",
+              "type": "albums"
+            },
+            {
+              "id": "1445305143",
+              "type": "albums"
+            },
+            {
+              "id": "1444278779",
+              "type": "albums"
+            },
+            {
+              "id": "1440877068",
+              "type": "albums"
+            },
+            {
+              "id": "1443746079",
+              "type": "albums"
+            },
+            {
+              "id": "1444149872",
+              "type": "albums"
+            },
+            {
+              "id": "1451898618",
+              "type": "albums"
+            },
+            {
+              "id": "1445013695",
+              "type": "albums"
+            },
+            {
+              "id": "1531407217",
+              "type": "albums"
+            },
+            {
+              "id": "1445320372",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": []
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1440841857",
+              "type": "songs"
+            },
+            {
+              "id": "1440842350",
+              "type": "songs"
+            },
+            {
+              "id": "1440841853",
+              "type": "songs"
+            },
+            {
+              "id": "1521889713",
+              "type": "songs"
+            },
+            {
+              "id": "1440769834",
+              "type": "songs"
+            },
+            {
+              "id": "1440799195",
+              "type": "songs"
+            },
+            {
+              "id": "1440818786",
+              "type": "songs"
+            },
+            {
+              "id": "1440842046",
+              "type": "songs"
+            },
+            {
+              "id": "1440767680",
+              "type": "songs"
+            },
+            {
+              "id": "1445172350",
+              "type": "songs"
+            },
+            {
+              "id": "1440804756",
+              "type": "songs"
+            },
+            {
+              "id": "1440799199",
+              "type": "songs"
+            },
+            {
+              "id": "1524127384",
+              "type": "songs"
+            },
+            {
+              "id": "1440767969",
+              "type": "songs"
+            },
+            {
+              "id": "1440841845",
+              "type": "songs"
+            },
+            {
+              "id": "220195395",
+              "type": "songs"
+            },
+            {
+              "id": "1440842036",
+              "type": "songs"
+            },
+            {
+              "id": "1440841600",
+              "type": "songs"
+            },
+            {
+              "id": "1440907550",
+              "type": "songs"
+            },
+            {
+              "id": "1440761587",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "220195395": {
+      "id": "220195395",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Evolution (Bonus Track Edition)",
+        "genreNames": [
+          "R&B/Soul",
+          "Music",
+          "Contemporary R&B",
+          "Rock",
+          "Hip-Hop/Rap",
+          "Rap"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2006-12-05",
+        "durationInMillis": 244760,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USLF20600601",
+        "artwork": {
+          "width": 600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/d3/05/mzi.nzfmzboj.jpg/{w}x{h}bb.jpg",
+          "height": 600,
+          "textColor3": "d9dfd5",
+          "textColor2": "dce5d8",
+          "textColor4": "c0ccc3",
+          "textColor1": "fafcef",
+          "bgColor": "53696c",
+          "hasP3": false
+        },
+        "composerName": "C.P. Harris, L. Daniels, Curtis Jackson & R. Jerkins",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "220195395",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/cant-leave-em-alone-feat-50-cent/220195031?i=220195395",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Can't Leave 'Em Alone (feat. 50 Cent)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fa/3f/b7/fa3fb7b2-1607-cbaa-6f86-a329d8827671/mzaf_1746979149350052203.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Ciara"
+      }
+    },
+    "1440761587": {
+      "id": "1440761587",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Curtis (Bonus Track Version)",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "East Coast Rap",
+          "Gangsta Rap",
+          "Hardcore Rap"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2007-01-01",
+        "durationInMillis": 223720,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM70742700",
+        "artwork": {
+          "width": 900,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/02/69/e00269f5-33f8-7192-090a-44b229fd0fe1/00602517506220.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 892,
+          "textColor3": "b2b2b4",
+          "textColor2": "c3c0c5",
+          "textColor4": "9e9b9f",
+          "textColor1": "dddddf",
+          "bgColor": "07080a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "50 Cent, W. Stanberry & Kirk Robinson",
+        "url": "https://music.apple.com/us/album/i-get-money/1440761298?i=1440761587",
+        "playParams": {
+          "id": "1440761587",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "I Get Money",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/31/06/ad/3106ad0a-d729-1f46-b9f2-0b509f662374/mzaf_533455731269964506.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["269577383"]
+      }
+    },
+    "1440767680": {
+      "id": "1440767680",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Massacre",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "East Coast Rap",
+          "Hardcore Rap"
+        ],
+        "trackNumber": 7,
+        "releaseDate": "2005-01-01",
+        "durationInMillis": 209107,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10500072",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/f8/9e/8df89e37-d1b7-9395-ca42-f83d18af8791/06UMGIM13448.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "323233",
+          "textColor2": "2c2d2c",
+          "textColor4": "525353",
+          "textColor1": "030404",
+          "bgColor": "eeeef0",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "50 Cent & Scott Storch",
+        "playParams": {
+          "id": "1440767680",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/candy-shop-feat-olivia/1440767663?i=1440767680",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Candy Shop (feat. Olivia)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ed/82/50/ed825094-900e-5678-b640-c77c74cd5b14/mzaf_7654063378047423216.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "50 Cent",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["76121117", "48504172"]
+      }
+    },
+    "1440767969": {
+      "id": "1440767969",
+      "type": "songs",
+      "attributes": {
+        "albumName": "The Massacre",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "East Coast Rap",
+          "Hardcore Rap"
+        ],
+        "trackNumber": 14,
+        "releaseDate": "2005-01-01",
+        "durationInMillis": 237707,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10500279",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/f8/9e/8df89e37-d1b7-9395-ca42-f83d18af8791/06UMGIM13448.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "323233",
+          "textColor2": "2c2d2c",
+          "textColor4": "525353",
+          "textColor1": "030404",
+          "bgColor": "eeeef0",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Scott Storch & 50 Cent",
+        "url": "https://music.apple.com/us/album/just-a-lil-bit/1440767663?i=1440767969",
+        "playParams": {
+          "id": "1440767969",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Just a Lil Bit",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/28/ff/3528ff6f-f851-b082-dc8a-f5699bc85969/mzaf_4671481423540063735.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["76121163", "48504255"]
+      }
+    },
+    "1440769834": {
+      "id": "1440769834",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "All About You (Deluxe Edition)",
+        "genreNames": [
+          "R&B/Soul",
+          "Music",
+          "Hip-Hop/Rap",
+          "Rap",
+          "Contemporary R&B",
+          "Soul"
+        ],
+        "trackNumber": 3,
+        "releaseDate": "2010-01-01",
+        "durationInMillis": 228453,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71023043",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/da/e3/4edae341-488b-a5c0-bcd3-0b047508124e/10UMGIM24508.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "333333",
+          "textColor2": "191919",
+          "textColor4": "444444",
+          "textColor1": "040404",
+          "bgColor": "efefef",
+          "hasP3": false
+        },
+        "composerName": "Jeremih, Mick Schultz & 50 Cent",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440769834",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/down-on-me-feat-50-cent/1440769376?i=1440769834",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Down On Me (feat. 50 Cent)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a4/b8/a9/a4b8a986-ce3d-9bc2-92a8-0bc2cbf87753/mzaf_14567857435869161429.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jeremih"
+      },
+      "meta": {
+        "formerIds": ["393430576"]
+      }
+    },
+    "1440799195": {
+      "id": "1440799195",
+      "type": "songs",
+      "attributes": {
+        "albumName": "The Documentary",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "West Coast Rap",
+          "Hardcore Rap",
+          "Rock"
+        ],
+        "trackNumber": 4,
+        "durationInMillis": 206400,
+        "releaseDate": "2005-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10401121",
+        "artwork": {
+          "width": 1447,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/c8/a7/53c8a79b-ee31-dcf3-9880-fdb3f498794b/00602498641439.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1435,
+          "textColor3": "2f3032",
+          "textColor2": "500c0e",
+          "textColor4": "6f3a3c",
+          "textColor1": "000001",
+          "bgColor": "eff2f7",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "J. Taylor, 50 Cent, Andre Lyon & Marcello Valenzano",
+        "url": "https://music.apple.com/us/album/hate-it-or-love-it-feat-50-cent/1440799117?i=1440799195",
+        "playParams": {
+          "id": "1440799195",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Hate It Or Love It (feat. 50 Cent)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/e6/17/0fe6173d-1c4b-6d9b-380e-454a74f70df3/mzaf_7876162755315206741.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "The Game"
+      },
+      "meta": {
+        "formerIds": ["41022121", "41639568"]
+      }
+    },
+    "1440799199": {
+      "id": "1440799199",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Documentary",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "West Coast Rap",
+          "Hardcore Rap",
+          "Rock"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2004-11-23",
+        "durationInMillis": 235533,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10400834",
+        "artwork": {
+          "width": 1447,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/c8/a7/53c8a79b-ee31-dcf3-9880-fdb3f498794b/00602498641439.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1435,
+          "textColor3": "2f3032",
+          "textColor2": "500c0e",
+          "textColor4": "6f3a3c",
+          "textColor1": "000001",
+          "bgColor": "eff2f7",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "J. Taylor, 50 Cent, Andre Young & Mike Elizondo",
+        "playParams": {
+          "id": "1440799199",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/how-we-do-feat-50-cent/1440799117?i=1440799199",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "How We Do (feat. 50 Cent)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/e2/0e/85e20e31-2258-b330-2b95-e5a38887e790/mzaf_6214472235008100668.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "The Game",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["41639584", "41022140"]
+      }
+    },
+    "1440804756": {
+      "id": "1440804756",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Get Rich or Die Tryin' (Music from and Inspired By the Motion Picture)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music", "Soundtrack"],
+        "trackNumber": 17,
+        "durationInMillis": 251547,
+        "releaseDate": "2005-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM70504512",
+        "artwork": {
+          "width": 1423,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/97/fc/c297fcfd-237d-c6a6-9e24-46eb2962f805/00602498866030.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1411,
+          "textColor3": "2f292e",
+          "textColor2": "160d14",
+          "textColor4": "342d34",
+          "textColor1": "0f080d",
+          "bgColor": "aeaeb6",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "50 Cent, Josephine Armstead, Nickolas Ashford & Valerie Simpson",
+        "playParams": {
+          "id": "1440804756",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/best-friend/1440803874?i=1440804756",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Best Friend",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8a/90/51/8a90513e-be89-b109-bb4f-40f5e5422224/mzaf_9381308480134417935.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["89685394", "84035516"]
+      }
+    },
+    "1440818786": {
+      "id": "1440818786",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Finally Rich (Deluxe Version)",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap"
+        ],
+        "trackNumber": 5,
+        "durationInMillis": 280173,
+        "releaseDate": "2012-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71214714",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/91/5f/df915f26-bb16-dfad-1066-ccfc62f75782/12UMGIM59941.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "b6b6b6",
+          "textColor2": "c6c6c6",
+          "textColor4": "9f9f9f",
+          "textColor1": "e3e3e3",
+          "bgColor": "060606",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "K. Cozart, T. Pittman, 50 Cent & C.J.Thomaz",
+        "playParams": {
+          "id": "1440818786",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/hate-bein-sober-feat-50-cent-wiz-khalifa/1440818106?i=1440818786",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Hate Bein' Sober (feat. 50 Cent & Wiz Khalifa)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6e/a0/26/6ea02681-77a8-4b82-8753-4b466be2c48a/mzaf_17360423403986526295.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Chief Keef"
+      },
+      "meta": {
+        "formerIds": ["578036594"]
+      }
+    },
+    "1440841600": {
+      "id": "1440841600",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "durationInMillis": 179467,
+        "releaseDate": "2003-02-06",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USIR10300024",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6cfc9",
+          "textColor2": "f3ebd0",
+          "textColor4": "e4c4ad",
+          "textColor1": "f6faf2",
+          "bgColor": "a72525",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "50 Cent & Robert Tewlow",
+        "url": "https://music.apple.com/us/album/what-up-gangsta/1440841450?i=1440841600",
+        "playParams": {
+          "id": "1440841600",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "What Up Gangsta",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c8/87/15/c887153d-1286-609d-d011-5e6f55d538d3/mzaf_10290031351897160519.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["1079632664", "1077557529"]
+      }
+    },
+    "1440841845": {
+      "id": "1440841845",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2003-02-06",
+        "durationInMillis": 288880,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USIR10300026",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6cfc9",
+          "textColor2": "f3ebd0",
+          "textColor4": "e4c4ad",
+          "textColor1": "f6faf2",
+          "bgColor": "a72525",
+          "hasP3": false
+        },
+        "composerName": "50 Cent, Marshall Mathers, Luis Resto & Mike Elizondo",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/patiently-waiting-feat-eminem/1440841450?i=1440841845",
+        "playParams": {
+          "id": "1440841845",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Patiently Waiting (feat. Eminem)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/97/c3/24/97c32474-7eb0-a34e-01df-52e3aa2cb0ef/mzaf_11717285147717014718.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["1079632665", "1077557530"]
+      }
+    },
+    "1440841853": {
+      "id": "1440841853",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2003-02-06",
+        "durationInMillis": 256227,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USIR10300018",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6cfc9",
+          "textColor2": "f3ebd0",
+          "textColor4": "e4c4ad",
+          "textColor1": "f6faf2",
+          "bgColor": "a72525",
+          "hasP3": false
+        },
+        "composerName": "50 Cent, Darrell Branch, Luis Resto, Keni St.Lewis & Freddie Perren",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440841853",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/many-men-wish-death/1440841450?i=1440841853",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Many Men (Wish Death)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d4/83/dd/d483dd13-2ee1-5584-a1e2-540e2ee1e164/mzaf_2032672062404298789.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["1079632667", "1077558101"]
+      }
+    },
+    "1440841857": {
+      "id": "1440841857",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2003-01-07",
+        "durationInMillis": 193467,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USIR10300033",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6cfc9",
+          "textColor2": "f3ebd0",
+          "textColor4": "e4c4ad",
+          "textColor1": "f6faf2",
+          "bgColor": "a72525",
+          "hasP3": false
+        },
+        "composerName": "50 Cent, Andre R. Young & Mike Elizondo",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440841857",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/in-da-club/1440841450?i=1440841857",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "In da Club",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6f/25/3f/6f253f3b-e420-2c15-67f8-fc3ece970eca/mzaf_15108868704803348203.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "50 Cent",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1079632668", "1077558102"]
+      }
+    },
+    "1440842036": {
+      "id": "1440842036",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 8,
+        "durationInMillis": 196640,
+        "releaseDate": "2003-02-06",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USIR10300013",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6cfc9",
+          "textColor2": "f3ebd0",
+          "textColor4": "e4c4ad",
+          "textColor1": "f6faf2",
+          "bgColor": "a72525",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "50 Cent, Andre R. Young, Mike Elizondo & Theron \"Neff-U\" Feemster",
+        "playParams": {
+          "id": "1440842036",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/if-i-cant/1440841450?i=1440842036",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "If I Can't",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/49/f1/24/49f124cb-29ff-180a-3934-11dfbabfeb55/mzaf_1373135095144989147.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["1077558106", "1079632679"]
+      }
+    },
+    "1440842046": {
+      "id": "1440842046",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2003-02-06",
+        "durationInMillis": 249467,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USIR10300020",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6cfc9",
+          "textColor2": "f3ebd0",
+          "textColor4": "e4c4ad",
+          "textColor1": "f6faf2",
+          "bgColor": "a72525",
+          "hasP3": false
+        },
+        "composerName": "50 Cent, Denaun Porter & Brandon \"Dirtybird\" Parrott",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/p-i-m-p/1440841450?i=1440842046",
+        "playParams": {
+          "id": "1440842046",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "P.I.M.P.",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e1/a6/04/e1a6042c-a7e6-54e1-1d2c-2d3b436acf6f/mzaf_17569589881783538303.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["1079632682", "1077558111"]
+      }
+    },
+    "1440842350": {
+      "id": "1440842350",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 14,
+        "releaseDate": "2003-02-06",
+        "durationInMillis": 224427,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USIR10300002",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6cfc9",
+          "textColor2": "f3ebd0",
+          "textColor4": "e4c4ad",
+          "textColor1": "f6faf2",
+          "bgColor": "a72525",
+          "hasP3": false
+        },
+        "composerName": "50 Cent, Jimmy Cameron & Vella Maria Cameron",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440842350",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/21-questions-feat-nate-dogg/1440841450?i=1440842350",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "21 Questions (feat. Nate Dogg)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3a/31/b4/3a31b4b6-1a7f-bbb5-17f8-aa89149a7dba/mzaf_13781264644197175205.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["1077558114", "1079633143"]
+      }
+    },
+    "1440907550": {
+      "id": "1440907550",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "East Coast Rap",
+          "Gangsta Rap"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2003-01-01",
+        "durationInMillis": 193467,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10300034",
+        "artwork": {
+          "width": 1413,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1413,
+          "textColor3": "e7cec9",
+          "textColor2": "f6ebd4",
+          "textColor4": "e7c4b2",
+          "textColor1": "f6f7f1",
+          "bgColor": "a92928",
+          "hasP3": false
+        },
+        "composerName": "50 Cent, Andre R. Young & Mike Elizondo",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440907550",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/in-da-club/1440907378?i=1440907550",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "In da Club",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/15/89/7e/15897ea5-b0a0-4c1f-3f64-559533df42b1/mzaf_5454882482583606655.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "50 Cent",
+        "contentRating": "clean"
+      },
+      "meta": {
+        "formerIds": ["480544725", "363878"]
+      }
+    },
+    "1445172350": {
+      "id": "1445172350",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "I'm the Man (feat. Sonny Digital) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 235703,
+        "releaseDate": "2015-12-04",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USV6R1600001",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/ed/df/6aeddf70-f577-98c8-f573-3dbe403a35ce/00799932456961.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bdbdbd",
+          "textColor2": "d0d0d0",
+          "textColor4": "a9a9a9",
+          "textColor1": "e9e9e9",
+          "bgColor": "0e0e0e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Curtis Jackson, Sonny Corey Uwaezuoke, Joshua Lance Harbin & Kendall Smith",
+        "url": "https://music.apple.com/us/album/im-the-man-feat-sonny-digital/1445172348?i=1445172350",
+        "playParams": {
+          "id": "1445172350",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "I'm the Man (feat. Sonny Digital)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/4a/45/4b4a4585-fcf5-847e-0e70-bd767ddf61bd/mzaf_2818683756445025280.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "50 Cent"
+      },
+      "meta": {
+        "formerIds": ["1081110678", "1081029297"]
+      }
+    },
+    "1521889713": {
+      "id": "1521889713",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Shoot For The Stars Aim For The Moon",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 10,
+        "releaseDate": "2020-07-03",
+        "durationInMillis": 201600,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72013367",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/ed/39/1ced39e0-c34d-52b0-021c-ff967f21f5bf/20UMGIM55833.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcb",
+          "textColor2": "dddddd",
+          "textColor4": "b0b0b0",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "composerName": "Pop Smoke, 808Melo, John Lucas, Adam Hashim, Jess Jackson, 50 Cent & Roddy Ricch",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/the-woo-feat-50-cent-roddy-ricch/1521889004?i=1521889713",
+        "playParams": {
+          "id": "1521889713",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "The Woo (feat. 50 Cent & Roddy Ricch)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/64/50/55/64505557-f916-7672-b327-dfdb6f6ecb77/mzaf_17853629301738145890.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Pop Smoke"
+      }
+    },
+    "1524127384": {
+      "id": "1524127384",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 10,
+        "releaseDate": "2020-07-03",
+        "durationInMillis": 201600,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72013367",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/50/40/c5/5040c591-5f95-296b-6da2-b5e456bbedb9/20UMGIM61787.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcb",
+          "textColor2": "d3d3d3",
+          "textColor4": "a9a9a9",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "composerName": "Pop Smoke, 808Melo, John Lucas, Adam Hashim, Jess Jackson, 50 Cent & Roddy Ricch",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/the-woo-feat-50-cent-roddy-ricch/1524127369?i=1524127384",
+        "playParams": {
+          "id": "1524127384",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "The Woo (feat. 50 Cent & Roddy Ricch)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8a/e8/52/8ae852ef-9eb7-3957-0f1e-592a984c01af/mzaf_5732190291512765090.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Pop Smoke"
+      }
+    }
+  },
+  "albums": {
+    "379891919": {
+      "id": "379891919",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2006 Th3rd Eye Music",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Hardcore Rap",
+          "East Coast Rap"
+        ],
+        "releaseDate": "2002-11-01",
+        "upc": "686506217724",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/03/04/020304ba-a083-4a31-bca6-86e4a090c926/mzi.lgnpqpvy.tif/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "bfbaba",
+          "textColor2": "e8d9cc",
+          "textColor4": "bcb0a7",
+          "textColor1": "ebe4e4",
+          "bgColor": "0e0f11",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "379891919",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/gods-plan-collectors-edition/379891919",
+        "recordLabel": "BCD Music Group",
+        "isCompilation": false,
+        "trackCount": 15,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "God's Plan (Collectors Edition)",
+        "artistName": "50 Cent & G-Unit",
+        "isComplete": true
+      }
+    },
+    "1440761298": {
+      "id": "1440761298",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2007 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "East Coast Rap",
+          "Gangsta Rap",
+          "Hardcore Rap"
+        ],
+        "releaseDate": "2007-09-11",
+        "isMasteredForItunes": false,
+        "upc": "00602517506220",
+        "artwork": {
+          "width": 900,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/02/69/e00269f5-33f8-7192-090a-44b229fd0fe1/00602517506220.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 892,
+          "textColor3": "b2b2b4",
+          "textColor2": "c3c0c5",
+          "textColor4": "9e9b9f",
+          "textColor1": "dddddf",
+          "bgColor": "07080a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/curtis-bonus-track-version/1440761298",
+        "playParams": {
+          "id": "1440761298",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "trackCount": 18,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Curtis (Bonus Track Version)",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "editorialNotes": {
+          "standard": "The tense, blocky beats we've come to know from <i>Get Rich or Die Tryin'</i> and <i>The Massacre</i> have only become tenser and blockier on <i>Curtis</i>. 50 Cent has achieved riches beyond anyone's wildest dreams, and his dominant lyrical theme remains his own massive success, yet there is something tortured and restless in the rhythms of \"Man Down\" and \"Straight to the Bank\" that suggests a man banging his head against the walls of a cage. Beneath its million-dollar bravado, perhaps <i>Curtis</i> is a concept album about its author's confinement in a self-imposed psychological cell? Regardless of your personal interpretation, 50's third album fully represents everything the rapper stands for. The grimy sonics of \"I Get Money\" and \"Ayo Technology\" offer disorienting thrills, but the album's best tracks come towards the end. 50 hits his stride on the Mary J. Blige duet \"All of Me,\" while \"Curtis 187\" begins to resemble something the RZA might have devised.  The current of terrific frustration — confirmed by the close-up portrait on the album's cover — suggests that wealth has done little to resolve this man's inner demons."
+        },
+        "isComplete": true
+      }
+    },
+    "1440767663": {
+      "id": "1440767663",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2004 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "East Coast Rap",
+          "Hardcore Rap"
+        ],
+        "releaseDate": "2005-03-03",
+        "upc": "00602498804087",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/f8/9e/8df89e37-d1b7-9395-ca42-f83d18af8791/06UMGIM13448.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "323233",
+          "textColor2": "2c2d2c",
+          "textColor4": "525353",
+          "textColor1": "030404",
+          "bgColor": "eeeef0",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-massacre/1440767663",
+        "playParams": {
+          "id": "1440767663",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 22,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Massacre",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "editorialNotes": {
+          "standard": "After <i>Get Rich or Die Tryin’</i>, 50 Cent was invincible. He’d made good on all the hype he’d earned by way of an extensive mixtape discography and released one of the most impactful debut hip-hop albums in history. So <i>The Massacre</i>—his follow-up to <i>Get Rich</i>—was the product of a man who’d suddenly gotten everything he wanted. He utilized all of the tools at his disposal—most specifically the talents and curatorial insights of Eminem and Dr. Dre—to make a bigger sequel, and the music has a sheen we see exemplified on <i>The Massacre</i>’s cover: The domineering Jamaica, Queens, street bully who continuously backed challengers off his corner is very much still here, except now he seems even stronger.<br />\nTo introduce <i>The Massacre</i>, he released upbeat singles like “Disco Inferno,” “Candy Shop,” and “Just a Lil Bit,” understandably entranced by the crossover success of “In da Club.” But songs like “In My Hood” and “Gunz Come Out” are likely to go down as some of the hardest songs in his catalog. Which is not to mention “Piggy Bank,” where 50 calls out crosstown rivals Fat Joe, Jadakiss, Shyne, and Nas by name. And then there are ultra-smooth inclusions like “Ryder Music” and “God Gave Me Style.” 50 had it all on <i>The Massacre</i>, and he didn’t spare any of it in constructing the project’s 22 tracks. If we were to believe that “Many Men” wished death upon him as he claimed on <i>Get Rich or Die Tryin’</i>, then <i>The Massacre</i> was sweet revenge realized, 50 assuring everyone that he planned to live well for years to come.",
+          "short": "Revisit the underrated follow-up to Get Rich or Die Tryin’ 15 years later."
+        },
+        "isComplete": true
+      }
+    },
+    "1440841450": {
+      "id": "1440841450",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "East Coast Rap",
+          "Gangsta Rap",
+          "Hardcore Rap"
+        ],
+        "releaseDate": "2003-02-06",
+        "isMasteredForItunes": true,
+        "upc": "00602547742070",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/a6/c9/51a6c989-f81d-42b3-c94c-e889a7c07885/06UMGIM15592.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e6cfc9",
+          "textColor2": "f3ebd0",
+          "textColor4": "e4c4ad",
+          "textColor1": "f6faf2",
+          "bgColor": "a72525",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/get-rich-or-die-tryin-bonus-track-version/1440841450",
+        "playParams": {
+          "id": "1440841450",
+          "kind": "album"
+        },
+        "recordLabel": "Shady Records",
+        "isCompilation": false,
+        "trackCount": 19,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "editorialNotes": {
+          "name": "50 Cent",
+          "standard": "On the iconic cover of <i>Get Rich or Die Tryin’</i>, 50 Cent essentially looks like a hood superhero: He’s shirtless with pristinely chiseled muscles adorning his tatted torso, with matching gun holsters emblazoned with “50” in the style of the Gucci logo around his shoulders. But if anything, the album was an origin story for one of rap’s all-time great supervillains, and the lead-up to its release felt straight out of a comic book or a movie. 50 learned the ropes of songwriting under the mentorship of Run-DMC’s Jam Master Jay, landed a deal with Columbia Records, and built a buzz with the clever, trolling single “How to Rob” before being hit with nine bullets outside of his grandmother’s home in South Jamaica, Queens. \n\nAfter recovering from the attack, he began a legendary mixtape run with his G-Unit crew that reworked the hit rap and R&B records of the time, maintaining those songs’ melodies while creating his own hilarious, street-savvy choruses. It was a brilliant marketing strategy that put him at the center of a bidding war between record labels—a bona fide, unapologetic gangsta rapper at a time when the radio was run by acts like Ludacris and Nelly who cloaked their street content with fun, nonthreatening melodies. Dr. Dre and Eminem came out on top, signing 50 in a joint venture of their respective companies Aftermath Entertainment and Shady Records. Appearances on the soundtrack for Eminem’s film <i>8 Mile</i> showcased 50’s ominous tone, dark sense of humor, and penchant for sticky sing-along hooks—a perfect match for Em and Dre’s empire.\n\nWhen it came time for 50’s debut studio album, his powers were on full display and his resources were abundant. “In da Club” was an inescapable party starter that topped the Billboard Hot 100 charts, and “Many Men (Wish Death)” revisits 50’s nearly fatal shooting while triumphantly boasting his survival (“These pussy n***as puttin’ money on my head?/Go and get your refund, motherfucker, I ain’t dead,” he declares). And like any supervillain, he had a rival: Ja Rule, a chart conqueror in his own right whose street feuds with 50 made him the target of the haunting “Back Down.” \n\n50’s mentors come through with standout contributions as well. On “Patiently Waiting,” Eminem delivers a string of complex flows and rhyme schemes while heaping praise on his new signee (“Take some B.I.G. and some Pac and you mix them up in a pot/Sprinkle a little Big L on top, what the fuck do you got?” he says). \n\nThe two superstars certainly brought their best while supporting their neophyte, but they never steal the show; <i>Get Rich or Die Tryin’</i> is unmistakably 50’s moment. He confidently sticks to his own style while rapping alongside Em instead of trying too hard to keep up, adds his own hook to the romantic “21 Questions” despite having the rap chorus GOAT Nate Dogg on hand, and shows his own eye for talent with cameos by his G-Unit crew (Lloyd Banks, Young Buck, and Tony Yayo). Not bad for someone who was counted out a few years earlier. “They say I walk around like I got an S on my chest/Well, that’s a semiauto in a vest on my chest,” he says on the marching, anthemic opening cut “What Up Gangsta.” Before Thanos was on the big screen, there was 50 Cent.",
+          "short": "Hooks and dark humor fueled an instant-classic debut."
+        },
+        "isComplete": true
+      }
+    },
+    "1440877068": {
+      "id": "1440877068",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2017 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "East Coast Rap",
+          "Rap",
+          "Gangsta Rap"
+        ],
+        "releaseDate": "2017-03-31",
+        "upc": "00602557467031",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/05/99/52/05995244-97d5-3f3d-7c7d-638aa87e68c3/17UMGIM08624.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a2a8b2",
+          "textColor2": "b3bece",
+          "textColor4": "959ba7",
+          "textColor1": "c3cfdb",
+          "bgColor": "1e0c0c",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1440877068",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/best-of-50-cent/1440877068",
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Best of 50 Cent",
+        "contentRating": "clean",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1440879586": {
+      "id": "1440879586",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2017 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Rap",
+          "East Coast Rap",
+          "Hardcore Rap",
+          "Gangsta Rap"
+        ],
+        "releaseDate": "2017-03-31",
+        "upc": "00602557467024",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ef/03/ac/ef03ac6f-6e39-fdca-19ba-c6dceb8cd337/17UMGIM08601.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "98a2b0",
+          "textColor2": "b3c0cd",
+          "textColor4": "939ba5",
+          "textColor1": "bac9db",
+          "bgColor": "120808",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1440879586",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/best-of-50-cent/1440879586",
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Best of 50 Cent",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "editorialNotes": {
+          "short": "Party like it’s your birthday—Fiddy’s biggest hits are here."
+        },
+        "isComplete": true
+      }
+    },
+    "1440907378": {
+      "id": "1440907378",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2003 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "East Coast Rap",
+          "Gangsta Rap"
+        ],
+        "releaseDate": "2003-02-06",
+        "isMasteredForItunes": false,
+        "upc": "00606949354527",
+        "artwork": {
+          "width": 1413,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1413,
+          "textColor3": "e7cec9",
+          "textColor2": "f6ebd4",
+          "textColor4": "e7c4b2",
+          "textColor1": "f6f7f1",
+          "bgColor": "a92928",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1440907378",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/get-rich-or-die-tryin-bonus-track-version/1440907378",
+        "recordLabel": "Shady Records",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Get Rich or Die Tryin' (Bonus Track Version)",
+        "artistName": "50 Cent",
+        "contentRating": "clean",
+        "editorialNotes": {
+          "name": "50 Cent",
+          "standard": "On the iconic cover of <i>Get Rich or Die Tryin’</i>, 50 Cent essentially looks like a hood superhero: He’s shirtless with pristinely chiseled muscles adorning his tatted torso, with matching gun holsters emblazoned with “50” in the style of the Gucci logo around his shoulders. But if anything, the album was an origin story for one of rap’s all-time great supervillains, and the lead-up to its release felt straight out of a comic book or a movie. 50 learned the ropes of songwriting under the mentorship of Run-DMC’s Jam Master Jay, landed a deal with Columbia Records, and built a buzz with the clever, trolling single “How to Rob” before being hit with nine bullets outside of his grandmother’s home in South Jamaica, Queens. \n\nAfter recovering from the attack, he began a legendary mixtape run with his G-Unit crew that reworked the hit rap and R&B records of the time, maintaining those songs’ melodies while creating his own hilarious, street-savvy choruses. It was a brilliant marketing strategy that put him at the center of a bidding war between record labels—a bona fide, unapologetic gangsta rapper at a time when the radio was run by acts like Ludacris and Nelly who cloaked their street content with fun, nonthreatening melodies. Dr. Dre and Eminem came out on top, signing 50 in a joint venture of their respective companies Aftermath Entertainment and Shady Records. Appearances on the soundtrack for Eminem’s film <i>8 Mile</i> showcased 50’s ominous tone, dark sense of humor, and penchant for sticky sing-along hooks—a perfect match for Em and Dre’s empire.\n\nWhen it came time for 50’s debut studio album, his powers were on full display and his resources were abundant. “In da Club” was an inescapable party starter that topped the Billboard Hot 100 charts, and “Many Men (Wish Death)” revisits 50’s nearly fatal shooting while triumphantly boasting his survival (“These pussy n***as puttin’ money on my head?/Go and get your refund, motherfucker, I ain’t dead,” he declares). And like any supervillain, he had a rival: Ja Rule, a chart conqueror in his own right whose street feuds with 50 made him the target of the haunting “Back Down.” \n\n50’s mentors come through with standout contributions as well. On “Patiently Waiting,” Eminem delivers a string of complex flows and rhyme schemes while heaping praise on his new signee (“Take some B.I.G. and some Pac and you mix them up in a pot/Sprinkle a little Big L on top, what the fuck do you got?” he says). \n\nThe two superstars certainly brought their best while supporting their neophyte, but they never steal the show; <i>Get Rich or Die Tryin’</i> is unmistakably 50’s moment. He confidently sticks to his own style while rapping alongside Em instead of trying too hard to keep up, adds his own hook to the romantic “21 Questions” despite having the rap chorus GOAT Nate Dogg on hand, and shows his own eye for talent with cameos by his G-Unit crew (Lloyd Banks, Young Buck, and Tony Yayo). Not bad for someone who was counted out a few years earlier. “They say I walk around like I got an S on my chest/Well, that’s a semiauto in a vest on my chest,” he says on the marching, anthemic opening cut “What Up Gangsta.” Before Thanos was on the big screen, there was 50 Cent.",
+          "short": "Hooks and dark humor fueled an instant-classic debut."
+        },
+        "isComplete": true
+      }
+    },
+    "1443237261": {
+      "id": "1443237261",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2009 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "Gangsta Rap",
+          "East Coast Rap"
+        ],
+        "releaseDate": "2009-11-09",
+        "upc": "00602527276182",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/5d/a7/c85da711-9ff3-7c41-7f9d-e665b688384e/00602527276182.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "98b7c3",
+          "textColor2": "d8b291",
+          "textColor4": "b49b82",
+          "textColor1": "b5d5e2",
+          "bgColor": "223e49",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/before-i-self-destruct-bonus-track-version/1443237261",
+        "playParams": {
+          "id": "1443237261",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "trackCount": 18,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Before I Self Destruct (Bonus Track Version)",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1443746079": {
+      "id": "1443746079",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2007 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "East Coast Rap",
+          "Hardcore Rap",
+          "Gangsta Rap"
+        ],
+        "releaseDate": "2007-09-11",
+        "isMasteredForItunes": false,
+        "upc": "00602517506206",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/db/23/3c/db233c66-cbe7-3658-4d4e-43aeed5a20d8/00602517506206.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "bab9ba",
+          "textColor2": "d0cdcf",
+          "textColor4": "a8a6a7",
+          "textColor1": "e7e5e6",
+          "bgColor": "07080a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/curtis-bonus-track-version/1443746079",
+        "playParams": {
+          "id": "1443746079",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Curtis (Bonus Track Version)",
+        "contentRating": "clean",
+        "artistName": "50 Cent",
+        "editorialNotes": {
+          "standard": "The tense, blocky beats we've come to know from <i>Get Rich or Die Tryin'</i> and <i>The Massacre</i> have only become tenser and blockier on <i>Curtis</i>. 50 Cent has achieved riches beyond anyone's wildest dreams, and his dominant lyrical theme remains his own massive success, yet there is something tortured and restless in the rhythms of \"Man Down\" and \"Straight to the Bank\" that suggests a man banging his head against the walls of a cage. Beneath its million-dollar bravado, perhaps <i>Curtis</i> is a concept album about its author's confinement in a self-imposed psychological cell? Regardless of your personal interpretation, 50's third album fully represents everything the rapper stands for. The grimy sonics of \"I Get Money\" and \"Ayo Technology\" offer disorienting thrills, but the album's best tracks come towards the end. 50 hits his stride on the Mary J. Blige duet \"All of Me,\" while \"Curtis 187\" begins to resemble something the RZA might have devised.  The current of terrific frustration — confirmed by the close-up portrait on the album's cover — suggests that wealth has done little to resolve this man's inner demons."
+        },
+        "isComplete": true
+      }
+    },
+    "1444007100": {
+      "id": "1444007100",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2005 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "East Coast Rap",
+          "Hardcore Rap"
+        ],
+        "releaseDate": "2005-03-03",
+        "isMasteredForItunes": false,
+        "upc": "00602557651904",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b6/50/07/b650079b-15db-74fb-5395-ff7ef7c5a45e/17UMGIM93593.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333534",
+          "textColor2": "2f3636",
+          "textColor4": "595e5e",
+          "textColor1": "000202",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1444007100",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/the-massacre/1444007100",
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 22,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Massacre",
+        "artistName": "50 Cent",
+        "contentRating": "clean",
+        "editorialNotes": {
+          "standard": "After <i>Get Rich or Die Tryin’</i>, 50 Cent was invincible. He’d made good on all the hype he’d earned by way of an extensive mixtape discography and released one of the most impactful debut hip-hop albums in history. So <i>The Massacre</i>—his follow-up to <i>Get Rich</i>—was the product of a man who’d suddenly gotten everything he wanted. He utilized all of the tools at his disposal—most specifically the talents and curatorial insights of Eminem and Dr. Dre—to make a bigger sequel, and the music has a sheen we see exemplified on <i>The Massacre</i>’s cover: The domineering Jamaica, Queens, street bully who continuously backed challengers off his corner is very much still here, except now he seems even stronger.<br />\nTo introduce <i>The Massacre</i>, he released upbeat singles like “Disco Inferno,” “Candy Shop,” and “Just a Lil Bit,” understandably entranced by the crossover success of “In da Club.” But songs like “In My Hood” and “Gunz Come Out” are likely to go down as some of the hardest songs in his catalog. Which is not to mention “Piggy Bank,” where 50 calls out crosstown rivals Fat Joe, Jadakiss, Shyne, and Nas by name. And then there are ultra-smooth inclusions like “Ryder Music” and “God Gave Me Style.” 50 had it all on <i>The Massacre</i>, and he didn’t spare any of it in constructing the project’s 22 tracks. If we were to believe that “Many Men” wished death upon him as he claimed on <i>Get Rich or Die Tryin’</i>, then <i>The Massacre</i> was sweet revenge realized, 50 assuring everyone that he planned to live well for years to come.",
+          "short": "Revisit the underrated follow-up to Get Rich or Die Tryin’ 15 years later."
+        },
+        "isComplete": true
+      }
+    },
+    "1444149872": {
+      "id": "1444149872",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 G Unit Records, Inc.",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Rap",
+          "Hardcore Rap",
+          "Gangsta Rap",
+          "East Coast Rap"
+        ],
+        "releaseDate": "2014-06-03",
+        "isMasteredForItunes": false,
+        "upc": "00864904000036",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f5/78/d7/f578d7cb-f8cf-fa47-f80b-923da0d1910e/00864904000036.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cecdcd",
+          "textColor2": "d1a48f",
+          "textColor4": "a98474",
+          "textColor1": "ffffff",
+          "bgColor": "0b090a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/animal-ambition-an-untamed-desire-to-win/1444149872",
+        "playParams": {
+          "id": "1444149872",
+          "kind": "album"
+        },
+        "recordLabel": "G-UNIT RECORDS (GNR)",
+        "trackCount": 11,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Animal Ambition: An Untamed Desire to Win",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "editorialNotes": {
+          "standard": "\"Get rich, or die trying.\" 50 Cent introduced this credo to the world and then pulled it off, surviving multiple gunshot wounds on his way to accumulating millions. Having been loaded for more than a decade, 50 now waxes like Gatsby on the opening verse for <i>Animal Ambition</i>, rapping about the trappings of wealth over a dusky soul beat. He's less contemplative on tracks like \"Pilot\" and \"Irregular Heartbeat,\" which sport compelling boom-bap beats over which he snarls and boasts, spinning street yarns as if he were still making his way there. Meanwhile, the zealous synth stabs and Trey Sonz guest verse on \"Smoke\" remind fans that 50 has always known his way around da club as well as the corner."
+        },
+        "isComplete": true
+      }
+    },
+    "1444278779": {
+      "id": "1444278779",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2011 Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2011-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00602527927688",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/36/77/bf/3677bffd-cb67-496c-5f5b-6804c548115d/00602527927688.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cbcbcb",
+          "textColor2": "fb0000",
+          "textColor4": "c90000",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/up-feat-50-cent-single/1444278779",
+        "playParams": {
+          "id": "1444278779",
+          "kind": "album"
+        },
+        "recordLabel": "Interscope",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Up! (feat. 50 Cent) - Single",
+        "contentRating": "clean",
+        "artistName": "LoveRance",
+        "isComplete": true
+      }
+    },
+    "1444866555": {
+      "id": "1444866555",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2012-01-01",
+        "upc": "00602537227846",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/3c/8f/793c8f7e-9de6-ae98-bf8f-58a3403b7dfa/00602537227846.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c9c9cb",
+          "textColor2": "40f9fc",
+          "textColor4": "33c7c9",
+          "textColor1": "fcfcfe",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1444866555",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/my-life-feat-eminem-adam-levine-single/1444866555",
+        "recordLabel": "Aftermath/Shady",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "My Life (feat. Eminem & Adam Levine) - Single",
+        "artistName": "50 Cent",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1444890963": {
+      "id": "1444890963",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2012-01-01",
+        "isMasteredForItunes": true,
+        "upc": "00602537118601",
+        "artwork": {
+          "width": 1501,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0a/0d/de/0a0dde83-95c4-dbdf-5cb7-1790953e6586/00602537118601.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1501,
+          "textColor3": "b7bcc5",
+          "textColor2": "a8b7c7",
+          "textColor4": "8995a5",
+          "textColor1": "e3e8ef",
+          "bgColor": "0a0d20",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/new-day-feat-dr-dre-alicia-keys-single/1444890963",
+        "playParams": {
+          "id": "1444890963",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "New Day (feat. Dr. Dre & Alicia Keys) - Single",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1445013695": {
+      "id": "1445013695",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2012-01-01",
+        "isMasteredForItunes": true,
+        "upc": "00602537218509",
+        "artwork": {
+          "width": 1600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6b/8a/da/6b8ada39-8af5-0cee-0838-acf88a9319d5/00602537218509.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1600,
+          "textColor3": "dad7d2",
+          "textColor2": "e9c74b",
+          "textColor4": "c8aa43",
+          "textColor1": "ffffff",
+          "bgColor": "473823",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/first-date-feat-too-%24hort-single/1445013695",
+        "playParams": {
+          "id": "1445013695",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "First Date (feat. Too $hort) - Single",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1445141503": {
+      "id": "1445141503",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 G Unit Records, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap"],
+        "releaseDate": "2016-05-11",
+        "upc": "00799932457029",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/eb/69/ddeb69f3-eb76-4beb-0c4f-99507155af39/00799932457029.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b5b6bb",
+          "textColor2": "d9cccb",
+          "textColor4": "b3a9a8",
+          "textColor1": "dcdde3",
+          "bgColor": "1d1b1c",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445141503",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/no-romeo-no-juliet-feat-chris-brown-single/1445141503",
+        "recordLabel": "G-UNIT RECORDS (GNR)",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "No Romeo No Juliet (feat. Chris Brown) - Single",
+        "contentRating": "clean",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1445152944": {
+      "id": "1445152944",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 G Unit Records, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap"],
+        "releaseDate": "2016-02-12",
+        "isMasteredForItunes": false,
+        "upc": "00799932456978",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/53/57/70/53577090-591d-6c0e-35e9-c8aba4fe4a9d/00799932456978.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bdbdbd",
+          "textColor2": "d0d0d0",
+          "textColor4": "a9a9a9",
+          "textColor1": "e8e8e8",
+          "bgColor": "0e0e0e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/im-the-man-feat-sonny-digital-single/1445152944",
+        "playParams": {
+          "id": "1445152944",
+          "kind": "album"
+        },
+        "recordLabel": "G-UNIT RECORDS (GNR)",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "I'm the Man (feat. Sonny Digital) - Single",
+        "contentRating": "clean",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1445172348": {
+      "id": "1445172348",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 G Unit Records, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap"],
+        "releaseDate": "2016-02-12",
+        "isMasteredForItunes": false,
+        "upc": "00799932456961",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/ed/df/6aeddf70-f577-98c8-f573-3dbe403a35ce/00799932456961.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bdbdbd",
+          "textColor2": "d0d0d0",
+          "textColor4": "a9a9a9",
+          "textColor1": "e9e9e9",
+          "bgColor": "0e0e0e",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445172348",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/im-the-man-feat-sonny-digital-single/1445172348",
+        "recordLabel": "G-UNIT RECORDS (GNR)",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "I'm the Man (feat. Sonny Digital) - Single",
+        "artistName": "50 Cent",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1445298203": {
+      "id": "1445298203",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 G Unit Records, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music", "R&B/Soul", "Rap"],
+        "releaseDate": "2015-06-19",
+        "upc": "00850661006169",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/ef/29/93ef29c5-b6c6-86fd-7747-80937cdd1f33/00850661006169.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "4c4243",
+          "textColor2": "492421",
+          "textColor4": "6b4842",
+          "textColor1": "231c23",
+          "bgColor": "f4dbc5",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445298203",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/lotto-feat-50-cent-single/1445298203",
+        "recordLabel": "G-UNIT RECORDS (GNR)",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Lotto (feat. 50 Cent) - Single",
+        "contentRating": "explicit",
+        "artistName": "Rotimi",
+        "isComplete": true
+      }
+    },
+    "1445298240": {
+      "id": "1445298240",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Rock",
+          "Gangsta Rap",
+          "East Coast Rap",
+          "Hardcore Rap"
+        ],
+        "releaseDate": "2003-08-12",
+        "isMasteredForItunes": false,
+        "upc": "00602557561791",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/33/58/0c/33580c87-82b1-20d6-a79e-649d9497e0f3/00602557561791.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bfc9bf",
+          "textColor2": "c2d6d2",
+          "textColor4": "9caca8",
+          "textColor1": "edfaef",
+          "bgColor": "050800",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/p-i-m-p-single/1445298240",
+        "playParams": {
+          "id": "1445298240",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "trackCount": 3,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "P.I.M.P. - Single",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1445305143": {
+      "id": "1445305143",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rock", "Rap"],
+        "releaseDate": "2012-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00602537227860",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/10/24/f0/1024f075-9137-cac6-1ec6-780489272e41/00602537227860.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "33c7c9",
+          "textColor2": "17d9ec",
+          "textColor4": "12adbc",
+          "textColor1": "40f9fc",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445305143",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/my-life-feat-eminem-adam-levine-single/1445305143",
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "My Life (feat. Eminem & Adam Levine) - Single",
+        "artistName": "50 Cent",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1445316124": {
+      "id": "1445316124",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 G Unit Records, Inc.",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Rap",
+          "Gangsta Rap",
+          "East Coast Rap",
+          "Hardcore Rap"
+        ],
+        "releaseDate": "2014-06-03",
+        "isMasteredForItunes": false,
+        "upc": "00855817005577",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/40/3a/23/403a23a4-037f-f766-bfda-a87710ad5ef0/00855817005577.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "d0d0d0",
+          "textColor2": "d7d7d7",
+          "textColor4": "b1b1b0",
+          "textColor1": "ffffff",
+          "bgColor": "191917",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/animal-ambition-an-untamed-desire-to-win-deluxe-edition/1445316124",
+        "playParams": {
+          "id": "1445316124",
+          "kind": "album"
+        },
+        "recordLabel": "G-UNIT RECORDS (GNR)",
+        "trackCount": 27,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Animal Ambition: An Untamed Desire to Win (Deluxe Edition)",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "editorialNotes": {
+          "standard": "<i>Animal Ambition: An Untamed Desire to Win (Deluxe Edition)</i> is 50 Cent’s answer to his most famous assertion: <i>Get Rich or Die Tryin’<i>, the name of his 2003 debut. As a rapper, entrepreneur, and actor, 50 built an empire, and <i>Animal Ambition</i> is both a victory lap and a how-to guide. On the album, he gloats spectacularly, but he also believes in his fans to achieve the level of fame and notoriety he found through unrelenting determination, a knack for stadium-ready hooks, hypnotizing tales from the streets of New York, and unmatched charisma.\n\nThe album was planned as a two-part series, to be followed by <i>Street King Immortal</i>, but that album never materialized. The MC put it all on the table with <i>Animal Ambition</i>, a project that from title to concept leaves little to the imagination. The album is 50’s memoir and his magnum opus, the thing he leaves for the next generation to understand him. It’s an attempt to demonstrate how he got so successful, why being rich is the best thing on Earth, and how, with enough determination, his fans might one day be like him.\n\n50 does a clever thing with the record, though. Using Notorious B.I.G.’s lament of “Damn, n****s wanna stick me for my paper” on his 1994 track “Warning,” 50 follows in the footsteps of New York’s rap king, asking why the haters multiply as the bank account adds zeroes. On the ScHoolboy Q–assisted “Flip On You,” which is exclusive to the deluxe edition, 50 lays out his entire artistic philosophy, rapping, “Got a bunch of enemies, I count my friends on one hand/Ghetto philosophy, watch me, I got a hundred scams/Like we could make a few dollars, that there a hundred grams.” Even after a decade at the top of the rap game, 50 can’t stay away from a good deal when he sees one.\n</i></i>",
+          "short": "The New York superstar takes a victory lap on his 2014 album.\n"
+        },
+        "isComplete": true
+      }
+    },
+    "1445320372": {
+      "id": "1445320372",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2011 A&M Records",
+        "genreNames": ["Pop", "Music", "Rock"],
+        "releaseDate": "2011-01-01",
+        "upc": "00602527782966",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1275,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6c/e8/8c/6ce88c5e-61ca-a005-2168-f3cf4f49320e/00602527782966.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1275,
+          "textColor3": "c8cfcd",
+          "textColor2": "d1ecf1",
+          "textColor4": "a9c4c8",
+          "textColor1": "f8faf7",
+          "bgColor": "082327",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/right-there-the-remixes-feat-50-cent/1445320372",
+        "playParams": {
+          "id": "1445320372",
+          "kind": "album"
+        },
+        "recordLabel": "Nicole Scherzinger Solo",
+        "isCompilation": false,
+        "trackCount": 11,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Right There (The Remixes) [feat. 50 Cent]",
+        "artistName": "Nicole Scherzinger",
+        "isComplete": true
+      }
+    },
+    "1451898618": {
+      "id": "1451898618",
+      "type": "albums",
+      "attributes": {
+        "copyright": "A G-Unit/Interscope Records release; ℗ 2005 UMG Recordings, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2005-11-06",
+        "upc": "00602577029868",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/55/eb/4c55eb9b-d4c0-fbf9-d896-8a3b1d221e41/00602577029868.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b6babd",
+          "textColor2": "f61c25",
+          "textColor4": "c5171f",
+          "textColor1": "e3e8eb",
+          "bgColor": "020205",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1451898618",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/window-shopper-single/1451898618",
+        "recordLabel": "G-Unit Records",
+        "trackCount": 3,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Window Shopper - Single",
+        "artistName": "50 Cent",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1531407217": {
+      "id": "1531407217",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Interscope Records Release; ℗ 2009 UMG Recordings, Inc.",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "East Coast Rap",
+          "Gangsta Rap"
+        ],
+        "releaseDate": "2009-11-01",
+        "upc": "00602435138794",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/90/36/b4903654-91f0-98a1-7b7d-d00159cfda1f/20UMGIM71623.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d2d1ce",
+          "textColor2": "6cb8d5",
+          "textColor4": "5d9ab0",
+          "textColor1": "fffefb",
+          "bgColor": "201f1b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/baby-by-me/1531407217",
+        "playParams": {
+          "id": "1531407217",
+          "kind": "album"
+        },
+        "recordLabel": "Interscope",
+        "isCompilation": false,
+        "trackCount": 8,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Baby By Me",
+        "contentRating": "explicit",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    }
+  }
+}

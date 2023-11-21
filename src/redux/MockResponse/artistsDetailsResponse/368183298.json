@@ -1,0 +1,2311 @@
+{
+  "artists": {
+    "368183298": {
+      "id": "368183298",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Hip-Hop/Rap"],
+        "name": "Kendrick Lamar",
+        "artwork": {
+          "width": 3840,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/ab/50/ef/ab50ef3b-c936-44f0-7b01-bb113a133547/mza_5527770582281912184.png/{w}x{h}bb.jpg",
+          "height": 3840,
+          "textColor3": "3c3733",
+          "textColor2": "1c0e08",
+          "textColor4": "473b35",
+          "textColor1": "0e0905",
+          "bgColor": "f4eeeb",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/kendrick-lamar/368183298"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1623854804",
+              "type": "albums"
+            },
+            {
+              "id": "1440881047",
+              "type": "albums"
+            },
+            {
+              "id": "1440818890",
+              "type": "albums"
+            },
+            {
+              "id": "1440828886",
+              "type": "albums"
+            },
+            {
+              "id": "1626195790",
+              "type": "albums"
+            },
+            {
+              "id": "1440906927",
+              "type": "albums"
+            },
+            {
+              "id": "1475039105",
+              "type": "albums"
+            },
+            {
+              "id": "1471264092",
+              "type": "albums"
+            },
+            {
+              "id": "1171563506",
+              "type": "albums"
+            },
+            {
+              "id": "1440844834",
+              "type": "albums"
+            },
+            {
+              "id": "1445299645",
+              "type": "albums"
+            },
+            {
+              "id": "1445055473",
+              "type": "albums"
+            },
+            {
+              "id": "1403517283",
+              "type": "albums"
+            },
+            {
+              "id": "1440821622",
+              "type": "albums"
+            },
+            {
+              "id": "1440881722",
+              "type": "albums"
+            },
+            {
+              "id": "1440903005",
+              "type": "albums"
+            },
+            {
+              "id": "1471263898",
+              "type": "albums"
+            },
+            {
+              "id": "1624162611",
+              "type": "albums"
+            },
+            {
+              "id": "1444852281",
+              "type": "albums"
+            },
+            {
+              "id": "1440860389",
+              "type": "albums"
+            },
+            {
+              "id": "1440871877",
+              "type": "albums"
+            },
+            {
+              "id": "1626194593",
+              "type": "albums"
+            },
+            {
+              "id": "1440907513",
+              "type": "albums"
+            },
+            {
+              "id": "1444322138",
+              "type": "albums"
+            },
+            {
+              "id": "1445311373",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1440881684",
+              "type": "songs"
+            },
+            {
+              "id": "1440881708",
+              "type": "songs"
+            },
+            {
+              "id": "1440881357",
+              "type": "songs"
+            },
+            {
+              "id": "1440906939",
+              "type": "songs"
+            },
+            {
+              "id": "1440881570",
+              "type": "songs"
+            },
+            {
+              "id": "1440818969",
+              "type": "songs"
+            },
+            {
+              "id": "1440907112",
+              "type": "songs"
+            },
+            {
+              "id": "1440881367",
+              "type": "songs"
+            },
+            {
+              "id": "1437592180",
+              "type": "songs"
+            },
+            {
+              "id": "1440829463",
+              "type": "songs"
+            },
+            {
+              "id": "1450690206",
+              "type": "songs"
+            },
+            {
+              "id": "1440907186",
+              "type": "songs"
+            },
+            {
+              "id": "1440818972",
+              "type": "songs"
+            },
+            {
+              "id": "1440881578",
+              "type": "songs"
+            },
+            {
+              "id": "1440818977",
+              "type": "songs"
+            },
+            {
+              "id": "1440863661",
+              "type": "songs"
+            },
+            {
+              "id": "1416330941",
+              "type": "songs"
+            },
+            {
+              "id": "1581180951",
+              "type": "songs"
+            },
+            {
+              "id": "1440818959",
+              "type": "songs"
+            },
+            {
+              "id": "1316706682",
+              "type": "songs"
+            }
+          ]
+        },
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1690887530",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "1316706682": {
+      "id": "1316706682",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Victory Lap",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "durationInMillis": 245810,
+        "releaseDate": "2018-02-13",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21705190",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/ce/64/d2ce6475-9674-0957-b7fe-15adf2ffff37/075679884732.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cdcccc",
+          "textColor2": "e3793b",
+          "textColor4": "b86230",
+          "textColor1": "feffff",
+          "bgColor": "0c0303",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Alexandria Dopson, Axel Morgan, Ermias Asghedom, John Groover, Kendrick Duckworth, Lamar Edwards, Larrance Dopson & Michael Cox, Jr.",
+        "url": "https://music.apple.com/us/album/dedication-feat-kendrick-lamar/1316706552?i=1316706682",
+        "playParams": {
+          "id": "1316706682",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Dedication (feat. Kendrick Lamar)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a7/19/3c/a7193c2c-d123-7916-2dbe-8ebae6c28e52/mzaf_14751136154034593652.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Nipsey Hussle",
+        "contentRating": "explicit"
+      }
+    },
+    "1416330941": {
+      "id": "1416330941",
+      "type": "songs",
+      "attributes": {
+        "albumName": "The World Is Yours",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2017-09-26",
+        "durationInMillis": 191938,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71708973",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/97/db/5f97db87-ebdc-8fa8-6748-091933e54d09/18UMGIM10611.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "609db8",
+          "textColor2": "61bbe0",
+          "textColor4": "5199b7",
+          "textColor1": "73bfe1",
+          "bgColor": "131514",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Rich The Kid, Ben Jayne & Milton Delano Martin",
+        "url": "https://music.apple.com/us/album/new-freezer-feat-kendrick-lamar/1416330512?i=1416330941",
+        "playParams": {
+          "id": "1416330941",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "New Freezer (feat. Kendrick Lamar)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b2/e3/66/b2e3662c-fe4b-4cf4-8aed-c06df2306643/mzaf_6962838918197422585.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Rich The Kid"
+      }
+    },
+    "1437592180": {
+      "id": "1437592180",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Tha Carter V",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 8,
+        "releaseDate": "2018-09-28",
+        "durationInMillis": 324189,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11802109",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/21/69/f7/2169f7b5-ae60-4bb8-2329-49c8f1f5f24b/18UMGIM63096.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c8c0be",
+          "textColor2": "ecd0d3",
+          "textColor4": "bca6a9",
+          "textColor1": "faf0ee",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Lil Wayne, Marco Rodriguez & Angel Aponte",
+        "url": "https://music.apple.com/us/album/mona-lisa-feat-kendrick-lamar/1437591818?i=1437592180",
+        "playParams": {
+          "id": "1437592180",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Mona Lisa (feat. Kendrick Lamar)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/76/f2/c1/76f2c11e-9ee6-5a9e-53f7-23b862f46689/mzaf_7828597921692569264.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Wayne"
+      }
+    },
+    "1440818959": {
+      "id": "1440818959",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "good kid, m.A.A.d city (Deluxe Version)",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 310758,
+        "releaseDate": "2012-01-01",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71210774",
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3c3b41",
+          "textColor2": "132a36",
+          "textColor4": "3e515a",
+          "textColor1": "100e16",
+          "bgColor": "ececec",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Sounwave, Robin Hannibal, Ronni Vindahl & Liv Lykke",
+        "url": "https://music.apple.com/us/album/bitch-dont-kill-my-vibe/1440818890?i=1440818959",
+        "playParams": {
+          "id": "1440818959",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Bitch, Don’t Kill My Vibe",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/6b/e0/186be0b5-add3-b304-a431-827285740e13/mzaf_1438736939689729071.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["622711057"]
+      }
+    },
+    "1440818969": {
+      "id": "1440818969",
+      "type": "songs",
+      "attributes": {
+        "albumName": "good kid, m.A.A.d city (Deluxe Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2012-01-01",
+        "durationInMillis": 386905,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71210785",
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3c3b41",
+          "textColor2": "132a36",
+          "textColor4": "3e515a",
+          "textColor1": "100e16",
+          "bgColor": "ececec",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, D. Natche, Johnny McKinzie, V. Garance, A. Legrand & Alex Scally",
+        "url": "https://music.apple.com/us/album/money-trees-feat-jay-rock/1440818890?i=1440818969",
+        "playParams": {
+          "id": "1440818969",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Money Trees (feat. Jay Rock)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ea/0c/2e/ea0c2e08-8e20-07f8-8184-c20699da5e2d/mzaf_8749001506776919871.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar"
+      },
+      "meta": {
+        "formerIds": ["622711060"]
+      }
+    },
+    "1440818972": {
+      "id": "1440818972",
+      "type": "songs",
+      "attributes": {
+        "albumName": "good kid, m.A.A.d city (Deluxe Version)",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2012-01-01",
+        "durationInMillis": 300166,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71211004",
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3c3b41",
+          "textColor2": "132a36",
+          "textColor4": "3e515a",
+          "textColor1": "100e16",
+          "bgColor": "ececec",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, E. Molina, Drake, J. Harris, Janet Jackson & T. Lewis",
+        "url": "https://music.apple.com/us/album/poetic-justice-feat-drake/1440818890?i=1440818972",
+        "playParams": {
+          "id": "1440818972",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Poetic Justice (feat. Drake)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/05/9d/44/059d4453-226b-a779-b21f-68ef0a9e847a/mzaf_169989440886316414.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar"
+      },
+      "meta": {
+        "formerIds": ["622711061"]
+      }
+    },
+    "1440818977": {
+      "id": "1440818977",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "good kid, m.A.A.d city (Deluxe Version)",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "trackNumber": 8,
+        "releaseDate": "2012-01-01",
+        "durationInMillis": 350172,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71210784",
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3c3b41",
+          "textColor2": "132a36",
+          "textColor4": "3e515a",
+          "textColor1": "100e16",
+          "bgColor": "ececec",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Sounwave, Ricci Riera, Axel Morgan & A. Tyler",
+        "url": "https://music.apple.com/us/album/m-a-a-d-city-feat-mc-eiht/1440818890?i=1440818977",
+        "playParams": {
+          "id": "1440818977",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "m.A.A.d city (feat. MC Eiht)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/86/74/d3/8674d3fc-ca9f-04cf-6953-fc9afb7353f9/mzaf_14832615606023258602.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar"
+      },
+      "meta": {
+        "formerIds": ["622711066"]
+      }
+    },
+    "1440829463": {
+      "id": "1440829463",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "To Pimp a Butterfly",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 7,
+        "releaseDate": "2015-03-15",
+        "durationInMillis": 219337,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71502498",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "2a2929",
+          "textColor2": "1e1e1d",
+          "textColor4": "3d3c3b",
+          "textColor1": "070605",
+          "bgColor": "b7b5b6",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, P. Williams & Sounwave",
+        "url": "https://music.apple.com/us/album/alright/1440828886?i=1440829463",
+        "playParams": {
+          "id": "1440829463",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Alright",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/a2/24/73a224a8-9aa7-5a7c-e369-c06aee28da80/mzaf_17455711799408457102.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar"
+      },
+      "meta": {
+        "formerIds": ["974189346", "974112196"]
+      }
+    },
+    "1440863661": {
+      "id": "1440863661",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Oxymoron (Deluxe Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music", "West Coast Rap", "Rap"],
+        "trackNumber": 3,
+        "releaseDate": "2013-06-11",
+        "durationInMillis": 299949,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71307354",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/16/16/ba/1616bad0-b4b1-ca82-37b4-da3d47053f06/14UMGIM01057.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cfcfcf",
+          "textColor2": "dedede",
+          "textColor4": "b9b9b9",
+          "textColor1": "f9f9f9",
+          "bgColor": "262626",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Q. Hanley, Ricci Riera, Axel Morgan & G. Bunn",
+        "url": "https://music.apple.com/us/album/collard-greens-feat-kendrick-lamar/1440863327?i=1440863661",
+        "playParams": {
+          "id": "1440863661",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Collard Greens (feat. Kendrick Lamar)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/27/eb/82/27eb82a0-b8c1-8ccb-edbb-f71ba4a4eae8/mzaf_822111359310254215.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "ScHoolboy Q"
+      },
+      "meta": {
+        "formerIds": ["799676143", "806687947"]
+      }
+    },
+    "1440881357": {
+      "id": "1440881357",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "DAMN.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "durationInMillis": 185947,
+        "releaseDate": "2017-04-14",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71703079",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4c4245",
+          "textColor2": "341e27",
+          "textColor4": "58464e",
+          "textColor1": "24191d",
+          "bgColor": "ebe7e8",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar & Mike WiLL Made-It",
+        "url": "https://music.apple.com/us/album/dna/1440881047?i=1440881357",
+        "playParams": {
+          "id": "1440881357",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "DNA.",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/74/02/13740204-f0e8-c290-8178-e7d3e701e3a7/mzaf_11660309240942567292.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1223592492", "1223619879"]
+      }
+    },
+    "1440881367": {
+      "id": "1440881367",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "DAMN.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 208733,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71703083",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4c4245",
+          "textColor2": "341e27",
+          "textColor4": "58464e",
+          "textColor1": "24191d",
+          "bgColor": "ebe7e8",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Sounwave, Juvenile, Mannie Fresh, James Blake & Ricci Riera",
+        "url": "https://music.apple.com/us/album/element/1440881047?i=1440881367",
+        "playParams": {
+          "id": "1440881367",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "ELEMENT.",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/17/aa/6b/17aa6b48-658d-3981-8f23-1d7c88f22869/mzaf_10221025360869307977.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar"
+      },
+      "meta": {
+        "formerIds": ["1223592494", "1223620263"]
+      }
+    },
+    "1440881570": {
+      "id": "1440881570",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "DAMN.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 6,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 227360,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71703086",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4c4245",
+          "textColor2": "341e27",
+          "textColor4": "58464e",
+          "textColor1": "24191d",
+          "bgColor": "ebe7e8",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, D. Natche, Sounwave, Anthony Tiffith, Terrace Martin, Rihanna, Bruno Mars, Philip Lawrence & Christopher Brown",
+        "url": "https://music.apple.com/us/album/loyalty-feat-rihanna/1440881047?i=1440881570",
+        "playParams": {
+          "id": "1440881570",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "LOYALTY. (FEAT. RIHANNA.)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/19/20/a1192021-f643-c050-9860-9660def702da/mzaf_18359708896692248745.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar"
+      },
+      "meta": {
+        "formerIds": ["1223620313", "1223592496"]
+      }
+    },
+    "1440881578": {
+      "id": "1440881578",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "DAMN.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 7,
+        "durationInMillis": 275253,
+        "releaseDate": "2017-04-14",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71703084",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4c4245",
+          "textColor2": "341e27",
+          "textColor4": "58464e",
+          "textColor1": "24191d",
+          "bgColor": "ebe7e8",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Steve Lacy & Anna Wise",
+        "url": "https://music.apple.com/us/album/pride/1440881047?i=1440881578",
+        "playParams": {
+          "id": "1440881578",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "PRIDE.",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/17/ea/5e/17ea5e48-3f72-51e5-0e76-93693c841b71/mzaf_2554532050661995933.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1223620713", "1223592497"]
+      }
+    },
+    "1440881684": {
+      "id": "1440881684",
+      "type": "songs",
+      "attributes": {
+        "albumName": "DAMN.",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 8,
+        "releaseDate": "2017-03-30",
+        "durationInMillis": 177000,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71703085",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4c4245",
+          "textColor2": "341e27",
+          "textColor4": "58464e",
+          "textColor1": "24191d",
+          "bgColor": "ebe7e8",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, A. Hogan, Mike WiLL Made-It & Anthony Tiffith",
+        "url": "https://music.apple.com/us/album/humble/1440881047?i=1440881684",
+        "playParams": {
+          "id": "1440881684",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "HUMBLE.",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/0d/44/8c0d446c-880d-ff14-20f8-12c4e5f019c1/mzaf_2396850990950895944.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1223620714", "1223592498"]
+      }
+    },
+    "1440881708": {
+      "id": "1440881708",
+      "type": "songs",
+      "attributes": {
+        "albumName": "DAMN.",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 10,
+        "durationInMillis": 213400,
+        "releaseDate": "2017-04-14",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71703088",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4c4245",
+          "textColor2": "341e27",
+          "textColor4": "58464e",
+          "textColor1": "24191d",
+          "bgColor": "ebe7e8",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Zacari, Sounwave, Anthony Tiffith, Greg Kurstin & Teddy Walton",
+        "url": "https://music.apple.com/us/album/love-feat-zacari/1440881047?i=1440881708",
+        "playParams": {
+          "id": "1440881708",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "LOVE. (FEAT. Zacari)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ec/b7/f8/ecb7f876-78a9-9ed2-e973-5057a9681be8/mzaf_1887705772129393489.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1223620813", "1223592501"]
+      }
+    },
+    "1440906939": {
+      "id": "1440906939",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Black Panther: The Album",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "durationInMillis": 232190,
+        "releaseDate": "2018-01-04",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71713947",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7c/f9/0f7cf9a6-651f-53ae-e374-6be14630bfae/18UMGIM00001.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c3c1bc",
+          "textColor2": "ebebd0",
+          "textColor4": "bcbca6",
+          "textColor1": "f4f1ec",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, SZA, Sounwave, Al Shux & Anthony Tiffith",
+        "url": "https://music.apple.com/us/album/all-the-stars/1440906927?i=1440906939",
+        "playParams": {
+          "id": "1440906939",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "All The Stars",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/c3/d3/53/c3d3530a-220a-c0b0-96f0-66a4809a5924/mzaf_4394966006770881674.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar, SZA"
+      },
+      "meta": {
+        "formerIds": ["1331042471", "1331258586"]
+      }
+    },
+    "1440907112": {
+      "id": "1440907112",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Black Panther: The Album",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "2018-01-12",
+        "durationInMillis": 225274,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71714093",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7c/f9/0f7cf9a6-651f-53ae-e374-6be14630bfae/18UMGIM00001.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c3c1bc",
+          "textColor2": "ebebd0",
+          "textColor4": "bcbca6",
+          "textColor1": "f4f1ec",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, James Blake, Teddy Walton, Johnny McKinzie, Future, S. Gloade, Sounwave, Mike WiLL Made-It, Antwon Thompson Hicks & Anthony Tiffith",
+        "url": "https://music.apple.com/us/album/kings-dead/1440906927?i=1440907112",
+        "playParams": {
+          "id": "1440907112",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "King's Dead",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/9a/90/c3/9a90c3f0-e8f8-3ac4-8d3a-39ba0abf623d/mzaf_2345532029269587655.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Jay Rock, Kendrick Lamar, Future, James Blake"
+      },
+      "meta": {
+        "formerIds": ["1331043072", "1331258743"]
+      }
+    },
+    "1440907186": {
+      "id": "1440907186",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Black Panther: The Album",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 14,
+        "durationInMillis": 211421,
+        "releaseDate": "2018-02-02",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71800001",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7c/f9/0f7cf9a6-651f-53ae-e374-6be14630bfae/18UMGIM00001.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c3c1bc",
+          "textColor2": "ebebd0",
+          "textColor4": "bcbca6",
+          "textColor1": "f4f1ec",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Anthony Tiffith, Frank Dukes, The Weeknd & Doc McKinney",
+        "url": "https://music.apple.com/us/album/pray-for-me/1440906927?i=1440907186",
+        "playParams": {
+          "id": "1440907186",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Pray For Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/3c/7b/33/3c7b3339-ba02-b22f-4d6d-4786d4a8f9a7/mzaf_7275149075853847787.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "The Weeknd, Kendrick Lamar"
+      },
+      "meta": {
+        "formerIds": ["1331258748", "1331043091"]
+      }
+    },
+    "1450690206": {
+      "id": "1450690206",
+      "type": "songs",
+      "attributes": {
+        "albumName": "LONG.LIVE.A$AP (Deluxe Edition)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 7,
+        "releaseDate": "2012-10-24",
+        "durationInMillis": 233787,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USRC11201220",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/4e/c2/654ec2c7-e3c9-c3a4-e1aa-bd52853f7668/886443810112.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cececd",
+          "textColor2": "dedcda",
+          "textColor4": "b8b7b4",
+          "textColor1": "f9f9f9",
+          "bgColor": "20201e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Rakim Mayers, Noah \"40\" Shebib, Sean Garrett, Aubrey Drake Graham & Tauheed Epps",
+        "url": "https://music.apple.com/us/album/f-kin-problems-feat-drake-2-chainz-kendrick-lamar/1450690198?i=1450690206",
+        "playParams": {
+          "id": "1450690206",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/94/fc/ca94fc74-6b4a-5396-8b10-ee20cf2a7cb4/mzaf_10734017187235856808.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "A$AP Rocky",
+        "contentRating": "explicit"
+      }
+    },
+    "1581180951": {
+      "id": "1581180951",
+      "type": "songs",
+      "attributes": {
+        "albumName": "family ties - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2021-08-27",
+        "durationInMillis": 252070,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12105949",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/77/d5/8877d57f-71a3-0671-b838-16ea1e5f870b/886449507214.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "383632",
+          "textColor2": "353129",
+          "textColor4": "58534b",
+          "textColor1": "0d0d0a",
+          "bgColor": "e5dbd2",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Hykeem Carter, Ronald LaTour, Jasper Harris, Tobias Dekker, Roshwita Larisha Bacha, Dominik Patrzek & Colin Franken",
+        "url": "https://music.apple.com/us/album/family-ties/1581180940?i=1581180951",
+        "playParams": {
+          "id": "1581180951",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "family ties",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/66/52/f6/6652f6b3-fadd-30ba-5992-f1c17d4b70dd/mzaf_2982686272743278497.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Baby Keem & Kendrick Lamar"
+      }
+    }
+  },
+  "albums": {
+    "1171563506": {
+      "id": "1171563506",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Top Dawg Entertainment / Kendrick Lamar",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2010-09-14",
+        "upc": "888915295939",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/e6/e9/b9e6e9e7-6802-cf32-1be7-f668df1ee20d/888915295939_cover.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cbcbcb",
+          "textColor2": "cbcbcb",
+          "textColor4": "a4a4a4",
+          "textColor1": "fcfcfc",
+          "bgColor": "090909",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/overly-dedicated/1171563506",
+        "playParams": {
+          "id": "1171563506",
+          "kind": "album"
+        },
+        "recordLabel": "Top Dawg Entertainment / Kendrick Lamar",
+        "isCompilation": false,
+        "trackCount": 12,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Overly Dedicated",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1403517283": {
+      "id": "1403517283",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Aftermath/Interscope (Top Dawg Entertainment)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "West Coast Rap"],
+        "releaseDate": "2017-04-14",
+        "isMasteredForItunes": false,
+        "upc": "00602567261193",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/a5/ad/b0a5ad8b-ff44-082b-e5af-b4563e358b47/00602567261193.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cecece",
+          "textColor2": "c5c5c5",
+          "textColor4": "a1a1a1",
+          "textColor1": "fdfdfd",
+          "bgColor": "131313",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/damn-collectors-edition/1403517283",
+        "playParams": {
+          "id": "1403517283",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "DAMN. COLLECTORS EDITION.",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "short": "A masterwork—made new with a tracklist reversal."
+        },
+        "isComplete": true
+      }
+    },
+    "1440818890": {
+      "id": "1440818890",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 Aftermath/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "releaseDate": "2012-10-22",
+        "upc": "00602537362769",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3c3b41",
+          "textColor2": "132a36",
+          "textColor4": "3e515a",
+          "textColor1": "100e16",
+          "bgColor": "ececec",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/good-kid-m-a-a-d-city-deluxe-version/1440818890",
+        "playParams": {
+          "id": "1440818890",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "good kid, m.A.A.d city (Deluxe Version)",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "West Coast hip-hop elders like Snoop and Dre have virtually anointed Kendrick Lamar to carry on the legacy of gangsta rap. His second studio album <i>good kid, M.A.A.d city</i>, conceptual enough to be a rock opera, certainly uplifts the genre with its near-biblical themes: religion vs. violence and monogamy vs. lust. Verbally nimble, Lamar experiments with a variety of different lyrical styles, from the Bone Thugz-type of delivery on “Swimming Pools (Drank)” to the more straightforward orthodox G-funk flow on “m.A.A.d. City feat. MC Eiht.” Like prog rock, Lamar’s tracks have songs within songs—sudden tempo changes with alter egos and embedded interludes, such as unscripted recordings of his parents asking for their car back and neighborhood homies planning their latest conquest. These snippets pepper the album providing an anthropological glimpse into his life in Compton. The deluxe version of <i>good kid, m.A.A.d. city</i> features five bonus tracks.",
+          "short": "Ride along with the newly anointed king of West Coast hip-hop."
+        },
+        "isComplete": true
+      }
+    },
+    "1440821622": {
+      "id": "1440821622",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 Aftermath/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "West Coast Rap",
+          "Gangsta Rap",
+          "Hardcore Rap",
+          "Rap"
+        ],
+        "releaseDate": "2013-01-01",
+        "upc": "00602537362790",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/d2/5d/86d25d08-2db3-b7f1-d688-96bc78719c28/12UMGIM52989.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "4a4f42",
+          "textColor2": "2c3424",
+          "textColor4": "52584b",
+          "textColor1": "232819",
+          "bgColor": "e7e9e8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/good-kid-m-a-a-d-city-deluxe-version/1440821622",
+        "playParams": {
+          "id": "1440821622",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 13,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "good kid, m.A.A.d city (Deluxe Version)",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Already known as a hip-hop prodigy, Kendrick Lamar dropped a massively ambitious epic with 2012’s <i> good kid, m.A.A.d city</i>, a gripping album-length tale about a young man struggling to grow up on the streets of Compton. Taking us on a dramatic journey that’s both hauntingly poignant and furiously intense, Lamar flexes his virtuoso mic skills on bangers like “Backseat Freestyle,” but it’s introspective cuts like “Swimming Pools (Drank)” that truly give the album its emotionally raw power.  ",
+          "short": "An ambitious concept album from the mind of a hip-hop prodigy."
+        },
+        "isComplete": true
+      }
+    },
+    "1440828886": {
+      "id": "1440828886",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Aftermath/Interscope (Top Dawg Entertainment)",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "West Coast Rap",
+          "Gangsta Rap",
+          "Rap"
+        ],
+        "releaseDate": "2015-03-15",
+        "isMasteredForItunes": true,
+        "upc": "00602547276636",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "2a2929",
+          "textColor2": "1e1e1d",
+          "textColor4": "3d3c3b",
+          "textColor1": "070605",
+          "bgColor": "b7b5b6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/to-pimp-a-butterfly/1440828886",
+        "playParams": {
+          "id": "1440828886",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 16,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "To Pimp a Butterfly",
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar",
+        "editorialNotes": {
+          "standard": "Following 2012’s electrifying <i>good kid, m.A.A.d city</i>, the supremely gifted, Compton-bred rapper delivers another uncompromising and deeply affecting listening experience. Packed with jazzy, dreamlike production and staggering lyrical work, <i>To Pimp a Butterfly</i> finds Kendrick Lamar grappling with the weight of his newfound fame—as a representative of his community and as a young black man. Through the funky menace of “King Kunta,” Lamar makes blistering reference to the protagonist of Alex Haley’s <i>Roots</i>, while the feverish standout, “The Blacker the Berry,” sees him attack black-on-black crime with singular precision and ferocity.",
+          "short": "A whirlwind of jazzy, dreamlike production and staggering lyrical dynamite."
+        },
+        "isComplete": true
+      }
+    },
+    "1440844834": {
+      "id": "1440844834",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 Aftermath/Interscope (Top Dawg Entertainment)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "Rock", "West Coast Rap"],
+        "releaseDate": "2016-03-04",
+        "upc": "00602547851635",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/89/2e/93892e3d-6471-64eb-ee80-c42b95b53d29/16UMGIM10770.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d9d9cc",
+          "textColor2": "dbd8c3",
+          "textColor4": "bdba9c",
+          "textColor1": "ffffff",
+          "bgColor": "424300",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/untitled-unmastered/1440844834",
+        "playParams": {
+          "id": "1440844834",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 8,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "untitled unmastered.",
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar",
+        "editorialNotes": {
+          "standard": "Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you something about the Compton MC’s provocative, multi-layered genius. Take the contrast of the collection's ultra-generic title and its attention-grabbing, out-of-left-field release. Take the retro-futuristic, Funkadelic-inspired grooves that simmer under tracks like “untitled 02” and “untitled 06.” These are only the beginning of the album's  hypnotic, nuanced nod to hip-hop’s deep roots and unstoppable political and expressive currency. Songs like “untitled 03” and “untitled 05”—with layered references, wild-eyed jazz solos, and cutting insight—continue Lamar's winning streak.",
+          "short": "Eight tracks from the brilliant Compton MC."
+        },
+        "isComplete": true
+      }
+    },
+    "1440860389": {
+      "id": "1440860389",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 Aftermath/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Rap",
+          "Hardcore Rap",
+          "Gangsta Rap",
+          "West Coast Rap"
+        ],
+        "releaseDate": "2012-10-22",
+        "upc": "00602537362783",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "4a4f42",
+          "textColor2": "2c3424",
+          "textColor4": "52584b",
+          "textColor1": "232819",
+          "bgColor": "e7e9e8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/good-kid-m-a-a-d-city-deluxe-version/1440860389",
+        "playParams": {
+          "id": "1440860389",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 13,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "good kid, m.A.A.d city (Deluxe Version)",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "clean",
+        "editorialNotes": {
+          "standard": "Hailing from the streets of Compton, Calif., Kendrick Lamar crowns himself king on the narrative-driven debut <i>good kid, m.A.A.d city</i>; the tale of a well-intentioned adolescent struggling with the pressures of his environment. From the spacious “Bitch, Don’t Kill My Vibe,” rhythmically chaotic “Backseat Freestyle,” hypnotic “Swimming Pools (Drank),” and heart-breaking introspective “Sing About Me, I’m Dying of Thirst,” each song is grounded by the uniquely impressive and sometimes painfully relatable lyrics of Lamar. As the triumphant closer “Compton” plays with west coast pioneer Dr. Dre featured, it becomes clear that a torch is being passed to a new hip-hop great. This deluxe version contains six bonus tracks."
+        },
+        "isComplete": true
+      }
+    },
+    "1440871877": {
+      "id": "1440871877",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Aftermath/Interscope (Top Dawg Entertainment)",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "releaseDate": "2015-03-15",
+        "upc": "00602547276643",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "2a2929",
+          "textColor2": "1e1e1d",
+          "textColor4": "3d3c3b",
+          "textColor1": "070605",
+          "bgColor": "b7b5b6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/to-pimp-a-butterfly/1440871877",
+        "playParams": {
+          "id": "1440871877",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 16,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "To Pimp a Butterfly",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1440881047": {
+      "id": "1440881047",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Aftermath/Interscope (Top Dawg Entertainment)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "West Coast Rap"],
+        "releaseDate": "2017-04-14",
+        "upc": "00602557608717",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/c9/bb/86c9bb30-fe3d-442e-33c1-c106c4d23705/17UMGIM88776.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4c4245",
+          "textColor2": "341e27",
+          "textColor4": "58464e",
+          "textColor1": "24191d",
+          "bgColor": "ebe7e8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/damn/1440881047",
+        "playParams": {
+          "id": "1440881047",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "DAMN.",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "In the two years since <i>To Pimp a Butterfly</i>, we’ve hung on Kendrick Lamar's every word—whether he’s destroying rivals on a cameo, performing the #blacklivesmatter anthem <i>on top of a police car</i> at the BET Awards, or hanging out with Obama. So when <i>DAMN.</i> opens with a seemingly innocuous line—\"So I was taking a walk the other day…”—we're all ears. The gunshot that abruptly ends the track is a signal: <i>DAMN.</i> is a grab-you-by-the-throat declaration that’s as blunt, complex, and unflinching as the name suggests. If <i>Butterfly</i> was jazz-inflected, soul-funk vibrance, <i>DAMN.</i> is visceral, spare, and straight to the point, whether he’s boasting about \"royalty inside my DNA” on the trunk-rattling \"DNA.\" or lamenting an anonymous, violent death on the soul-infused “FEAR.” No topic is too big to tackle, and the songs are as bold as their all-caps names: “PRIDE.” “LOYALTY.” “LOVE.” \"LUST.” “GOD.” When he repeats the opening line to close the album, that simple walk has become a profound journey—further proof that no one commands the conversation like Kendrick Lamar.",
+          "short": "Lamar’s fourth LP is a brilliant, brutally honest masterpiece."
+        },
+        "isComplete": true
+      }
+    },
+    "1440881722": {
+      "id": "1440881722",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Aftermath/Interscope (Top Dawg Entertainment)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "West Coast Rap"],
+        "releaseDate": "2017-04-14",
+        "isMasteredForItunes": false,
+        "upc": "00602557608724",
+        "artwork": {
+          "width": 6000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ab/16/ef/ab16efe9-e7f1-66ec-021c-5592a23f0f9e/17UMGIM88793.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 6000,
+          "textColor3": "4c4245",
+          "textColor2": "341e27",
+          "textColor4": "58464e",
+          "textColor1": "24191d",
+          "bgColor": "ebe7e8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/damn/1440881722",
+        "playParams": {
+          "id": "1440881722",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "DAMN.",
+        "contentRating": "clean",
+        "artistName": "Kendrick Lamar",
+        "editorialNotes": {
+          "short": "Lamar's fourth LP is a brilliant, brutally honest masterpiece"
+        },
+        "isComplete": true
+      }
+    },
+    "1440903005": {
+      "id": "1440903005",
+      "type": "albums",
+      "attributes": {
+        "copyright": "Top Dawg Ent./Aftermath/Interscope Records; ℗ 2018 Aftermath Records",
+        "genreNames": [
+          "Soundtrack",
+          "Music",
+          "Hip-Hop/Rap",
+          "Rap",
+          "R&B/Soul",
+          "Contemporary R&B",
+          "Soundtrack"
+        ],
+        "releaseDate": "2018-02-09",
+        "isMasteredForItunes": true,
+        "upc": "00602567350224",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/16/55/4d165549-3d11-86dc-fcbf-be7fe0bcadfb/18UMGIM00002.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4bfbc",
+          "textColor2": "f6edd7",
+          "textColor4": "c4beac",
+          "textColor1": "f5efeb",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/black-panther-the-album/1440903005",
+        "playParams": {
+          "id": "1440903005",
+          "kind": "album"
+        },
+        "recordLabel": "Black Panther (TDE/DMG) PS",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Black Panther: The Album",
+        "contentRating": "clean",
+        "artistName": "Kendrick Lamar",
+        "isComplete": true
+      }
+    },
+    "1440906927": {
+      "id": "1440906927",
+      "type": "albums",
+      "attributes": {
+        "copyright": "Top Dawg Ent./Aftermath/Interscope Records; ℗ 2018 Aftermath Records",
+        "genreNames": [
+          "Soundtrack",
+          "Music",
+          "Hip-Hop/Rap",
+          "Rap",
+          "Soundtrack",
+          "R&B/Soul",
+          "Contemporary R&B"
+        ],
+        "releaseDate": "2018-02-09",
+        "isMasteredForItunes": true,
+        "upc": "00602567350248",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7c/f9/0f7cf9a6-651f-53ae-e374-6be14630bfae/18UMGIM00001.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c3c1bc",
+          "textColor2": "ebebd0",
+          "textColor4": "bcbca6",
+          "textColor1": "f4f1ec",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/black-panther-the-album/1440906927",
+        "playParams": {
+          "id": "1440906927",
+          "kind": "album"
+        },
+        "recordLabel": "Black Panther (TDE/DMG) PS",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Black Panther: The Album",
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar",
+        "editorialNotes": {
+          "standard": "Kendrick Lamar, TDE CEO Anthony “Top Dawg” Tiffith, and director Ryan Coogler put their heads together for this album of music from and inspired by <i>Black Panther</i>. Along with TDE stars SZA, ScHoolBoy Q, and Jay Rock, the trio pulled artists from across the hip-hop spectrum. Future, 2 Chainz, Travis Scott, and Vince Staples mingle with Sacramento spitter Mozzy and Bay Area crew SOB X RBE. The Weeknd, Jorja Smith, and Khalid represent R&B’s shining guard. And Kendrick destroys the five songs he’s featured on. Marrying sound and vision, a movement and a movie, <i>Black Panther</i> taps into Kendrick’s and T’Challa’s revolutionary spirit.",
+          "short": "Top Dawg Entertainment and Marvel form a dynamic duo."
+        },
+        "isComplete": true
+      }
+    },
+    "1440907513": {
+      "id": "1440907513",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Aftermath/Interscope (Top Dawg Entertainment)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "West Coast Rap", "Rap"],
+        "releaseDate": "2017-12-08",
+        "upc": "00602567261216",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/94/28/36/94283609-93bb-db1c-e997-44e82c157e90/00602567261216.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "dadada",
+          "textColor2": "e1e1e1",
+          "textColor4": "c4c4c4",
+          "textColor1": "fdfdfd",
+          "bgColor": "4f4f4f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/damn-collectors-edition/1440907513",
+        "playParams": {
+          "id": "1440907513",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "DAMN. COLLECTORS EDITION.",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1444322138": {
+      "id": "1444322138",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 Eardruma Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2014-06-17",
+        "isMasteredForItunes": true,
+        "upc": "00602537909599",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fc/d2/28/fcd228cd-dfc8-23ab-d2c5-5b9410a64191/00602537909599.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "373939",
+          "textColor2": "131f2f",
+          "textColor4": "424c58",
+          "textColor1": "050708",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/buy-the-world-feat-lil-wayne-kendrick-lamar-future-single/1444322138",
+        "playParams": {
+          "id": "1444322138",
+          "kind": "album"
+        },
+        "recordLabel": "Mike WiLL Made-It",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Buy the World (feat. Lil Wayne, Kendrick Lamar & Future) - Single",
+        "artistName": "Mike WiLL Made-It",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1444852281": {
+      "id": "1444852281",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2015-03-10",
+        "upc": "00602547276940",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e8/d1/a4/e8d1a4a9-5395-2f0f-fad1-21dea22af538/00602547276940.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3b3a40",
+          "textColor2": "162d37",
+          "textColor4": "40535b",
+          "textColor1": "100e16",
+          "bgColor": "eaeaea",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/county-building-blues-single/1444852281",
+        "playParams": {
+          "id": "1444852281",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "County Building Blues - Single",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1445055473": {
+      "id": "1445055473",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2014-01-01",
+        "upc": "00602537744022",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/06/54/fc065472-03b2-3a28-0e0c-f1ad7859e656/00602537744022.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "edbfc6",
+          "textColor2": "eaa7ac",
+          "textColor4": "dd888e",
+          "textColor1": "ffedf2",
+          "bgColor": "a70b18",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/radioactive-feat-kendrick-lamar-single/1445055473",
+        "playParams": {
+          "id": "1445055473",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Radioactive (feat. Kendrick Lamar) - Single",
+        "contentRating": "explicit",
+        "artistName": "Imagine Dragons",
+        "isComplete": true
+      }
+    },
+    "1445299645": {
+      "id": "1445299645",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 Aftermath/Interscope (Top Dawg Entertainment)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap"],
+        "releaseDate": "2016-03-23",
+        "isMasteredForItunes": false,
+        "upc": "00602547885258",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/58/85/94/588594aa-58e0-0fa0-8152-1772bef62ba2/00602547885258.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d7d6c5",
+          "textColor2": "e9e7d6",
+          "textColor4": "c7c6ab",
+          "textColor1": "fcfbf6",
+          "bgColor": "424300",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/untitled-07-l-levitate-single/1445299645",
+        "playParams": {
+          "id": "1445299645",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "untitled 07 l levitate - Single",
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar",
+        "isComplete": true
+      }
+    },
+    "1445311373": {
+      "id": "1445311373",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 KIDinaKORNER/Interscope Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2014-01-01",
+        "upc": "00602537745944",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e9/b6/7b/e9b67b1c-d0af-8c96-33dd-ebcad281dfac/00602537745944.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "e3babd",
+          "textColor2": "e7e4e5",
+          "textColor4": "dab8bc",
+          "textColor1": "f2e5e6",
+          "bgColor": "a70b18",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/radioactive-feat-kendrick-lamar-single/1445311373",
+        "playParams": {
+          "id": "1445311373",
+          "kind": "album"
+        },
+        "recordLabel": "Kid Ina Korner / Interscope",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Radioactive (feat. Kendrick Lamar) - Single",
+        "artistName": "Imagine Dragons",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1471263898": {
+      "id": "1471263898",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Aftermath/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "West Coast Rap",
+          "Hardcore Rap"
+        ],
+        "releaseDate": "2012-01-01",
+        "upc": "00602537165957",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/30/10/9f30103e-73e4-4d7c-02a4-ade3da9ce53b/12UMGIM52989.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "4a4f42",
+          "textColor2": "2c3424",
+          "textColor4": "52584b",
+          "textColor1": "232819",
+          "bgColor": "e7e9e8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/good-kid-m-a-a-d-city/1471263898",
+        "playParams": {
+          "id": "1471263898",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 12,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "good kid, m.A.A.d city",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "West Coast hip-hop elders like Snoop and Dre have virtually anointed Kendrick Lamar to carry on the legacy of gangsta rap. His second studio album <i>good kid, M.A.A.d city</i>, conceptual enough to be a rock opera, certainly uplifts the genre with its near-biblical themes: religion vs. violence and monogamy vs. lust. Verbally nimble, Lamar experiments with a variety of different lyrical styles, from the Bone Thugz-type of delivery on “Swimming Pools (Drank)” to the more straightforward orthodox G-funk flow on “m.A.A.d. City feat. MC Eiht.” Like prog rock, Lamar’s tracks have songs within songs—sudden tempo changes with alter egos and embedded interludes, such as unscripted recordings of his parents asking for their car back and neighborhood homies planning their latest conquest. These snippets pepper the album providing an anthropological glimpse into his life in Compton. \n"
+        },
+        "isComplete": true
+      }
+    },
+    "1471264092": {
+      "id": "1471264092",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Aftermath/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "West Coast Rap",
+          "Hardcore Rap",
+          "Gangsta Rap",
+          "Rap"
+        ],
+        "releaseDate": "2012-01-01",
+        "upc": "00602537165971",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/9e/6a/ac9e6ad5-27a5-baef-0e33-795b2f42c3cf/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3c3b41",
+          "textColor2": "132a36",
+          "textColor4": "3e515a",
+          "textColor1": "100e16",
+          "bgColor": "ececec",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/good-kid-m-a-a-d-city-deluxe/1471264092",
+        "playParams": {
+          "id": "1471264092",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 17,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar",
+        "isComplete": true
+      }
+    },
+    "1475039105": {
+      "id": "1475039105",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2011 Top Dawg Entertainment / Section.80",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "West Coast Rap"],
+        "releaseDate": "2011-07-02",
+        "isMasteredForItunes": false,
+        "upc": "888915968772",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/d3/37/d7d33750-6d28-6e73-4913-7139ebd80906/888915968772_cover.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "acad7b",
+          "textColor2": "c3c899",
+          "textColor4": "a0a680",
+          "textColor1": "d2d193",
+          "bgColor": "16201e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/section-80/1475039105",
+        "playParams": {
+          "id": "1475039105",
+          "kind": "album"
+        },
+        "recordLabel": "Top Dawg Entertainment / Section.80",
+        "isCompilation": false,
+        "trackCount": 15,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Section.80",
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar",
+        "editorialNotes": {
+          "standard": "The rapper formerly known as K-Dot had built a buzz prior to his 2011 breakthrough album, but the Compton native still had everything to prove: In spite of a coveted co-sign from Dr. Dre, he was barely out of the shadow of his Top Dawg Entertainment labelmate Jay Rock, on whose tour Lamar still regularly served as hype-man. Los Angeles’ old guard of gangsta rap greats was waning; the hottest trend in L.A. rap around the time Lamar was forming his Black Hippy super-group (alongside Jay Rock, Ab-Soul, and ScHoolboy Q) was the jerkin’ movement, a fun but frivolous dance craze. Los Angeles hip-hop needed a new hero, and Lamar stepped up to the plate. <br />\nBut <i>Section.80</i> was far from a bid for mainstream attention. Over jazzy beats suited for contemplative spells, Lamar raps like he’s searching, bar by bar, for answers to America’s biggest questions, turning a critical eye on his own reality and the systems that reinforce it. The title itself combines Section 8 housing, the low-income developments in which Lamar was raised, with the decade of Lamar’s birth; he thus fashioned himself an ambassador for a generation raised under Ronald Reagan and the crack epidemic. “You know why we crack babies? Because we born in the ’80s,” Lamar spits on lead single “A.D.H.D.,” a generational study as sharp as it is catchy. Ultimately, though, <i>Section.80</i> channels that unrest into a quest for enlightenment; on the knocking “HiiiPower,” Lamar conjures visions of Martin Luther King, Jr. and Malcolm X. and urges listeners to “build your own pyramids, write your own hieroglyphs.” Upon the album's release, some listeners thought this stuff was too radical for Lamar to ever fully break into the mainstream; but the maverick was on the threshold of something even bigger.",
+          "short": "A Compton underdog makes his first bid for greatness—on his own terms."
+        },
+        "isComplete": true
+      }
+    },
+    "1623854804": {
+      "id": "1623854804",
+      "type": "albums",
+      "attributes": {
+        "copyright": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records; ℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-05-13",
+        "isMasteredForItunes": true,
+        "upc": "00602445969333",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/a1/a9/72a1a9a0-6c42-a37f-aad4-7e8772365c6d/22UMGIM52376.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b59570",
+          "textColor2": "d0ae85",
+          "textColor4": "ac916e",
+          "textColor1": "dcb388",
+          "bgColor": "1a1d14",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/mr-morale-the-big-steppers/1623854804",
+        "playParams": {
+          "id": "1623854804",
+          "kind": "album"
+        },
+        "recordLabel": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Mr. Morale & The Big Steppers",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "When Kendrick Lamar popped up on two tracks from Baby Keem’s <i>The Melodic Blue</i> (“range brothers” and “family ties”), it felt like one of hip-hop’s prophets had descended a mountain to deliver scripture. His verses were stellar, to be sure, but it also just felt like way too much time had passed since we’d heard his voice. He’d helmed 2018’s <i>Black Panther</i> compilation/soundtrack, but his last proper release was 2017’s <i>DAMN.</i> That kind of scarcity in hip-hop can only serve to deify an artist as beloved as Lamar. But if the Compton MC is broadcasting anything across his fifth proper album <i>Mr. Morale & The Big Steppers</i>, it’s that he’s only human.\n\nThe project is split into two parts, each comprising nine songs, all of which serve to illuminate Lamar’s continually evolving worldview. Central to Lamar’s thesis is accountability. The MC has painstakingly itemized his shortcomings, assessing his relationships with money (“United in Grief”), white women (“Worldwide Steppers”), his father (“Father Time”), the limits of his loyalty (“Rich Spirit”), love in the context of heteronormative relationships (“We Cry Together,” “Purple Hearts”), motivation (“Count Me Out”), responsibility (“Crown”), gender (“Auntie Diaries”), and generational trauma (“Mother I Sober”). It’s a dense and heavy listen. But just as sure as Kendrick Lamar is human like the rest of us, he’s also a Pulitzer Prize winner, one of the most thoughtful MCs alive, and someone whose honesty across <i>Mr. Morale & The Big Steppers</i> could help us understand why any of us are the way we are.",
+          "short": "King Kendrick's two-part masterwork is here. Hear it in Spatial Audio."
+        },
+        "isComplete": false
+      }
+    },
+    "1624162611": {
+      "id": "1624162611",
+      "type": "albums",
+      "attributes": {
+        "copyright": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records; ℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-05-13",
+        "upc": "00602445969760",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6b/17/e6/6b17e679-70e0-e00e-93e1-5af4d25ee8c8/22UMGIM52376.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b59570",
+          "textColor2": "d0ae85",
+          "textColor4": "ac916e",
+          "textColor1": "dcb388",
+          "bgColor": "1a1d14",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/mr-morale-the-big-steppers/1624162611",
+        "playParams": {
+          "id": "1624162611",
+          "kind": "album"
+        },
+        "recordLabel": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Mr. Morale & The Big Steppers",
+        "contentRating": "clean",
+        "artistName": "Kendrick Lamar",
+        "editorialNotes": {
+          "standard": "When Kendrick Lamar popped up on two tracks from Baby Keem’s <i>The Melodic Blue</i> (“range brothers” and “family ties”), it felt like one of hip-hop’s prophets had descended a mountain to deliver scripture. His verses were stellar, to be sure, but it also just felt like way too much time had passed since we’d heard his voice. He’d helmed 2018’s <i>Black Panther</i> compilation/soundtrack, but his last proper release was 2017’s <i>DAMN.</i> That kind of scarcity in hip-hop can only serve to deify an artist as beloved as Lamar. But if the Compton MC is broadcasting anything across his fifth proper album <i>Mr. Morale & The Big Steppers</i>, it’s that he’s only human.\n\nThe project is split into two parts, each comprising nine songs, all of which serve to illuminate Lamar’s continually evolving worldview. Central to Lamar’s thesis is accountability. The MC has painstakingly itemized his shortcomings, assessing his relationships with money (“United in Grief”), white women (“Worldwide Steppers”), his father (“Father Time”), the limits of his loyalty (“Rich Spirit”), love in the context of heteronormative relationships (“We Cry Together,” “Purple Hearts”), motivation (“Count Me Out”), responsibility (“Crown”), gender (“Auntie Diaries”), and generational trauma (“Mother I Sober”). It’s a dense and heavy listen. But just as sure as Kendrick Lamar is human like the rest of us, he’s also a Pulitzer Prize winner, one of the most thoughtful MCs alive, and someone whose honesty across <i>Mr. Morale & The Big Steppers</i> could help us understand why any of us are the way we are.",
+          "short": "King Kendrick's two-part masterwork is here. Hear it in Spatial Audio."
+        },
+        "isComplete": false
+      }
+    },
+    "1626194593": {
+      "id": "1626194593",
+      "type": "albums",
+      "attributes": {
+        "copyright": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records; ℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-05-13",
+        "isMasteredForItunes": true,
+        "upc": "00602448038678",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/eb/44/c9/eb44c9e1-401e-b118-6254-7b9a10888c39/22UMGIM52376.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b59570",
+          "textColor2": "d0ae85",
+          "textColor4": "ac916e",
+          "textColor1": "dcb388",
+          "bgColor": "1a1d14",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/mr-morale-the-big-steppers/1626194593",
+        "playParams": {
+          "id": "1626194593",
+          "kind": "album"
+        },
+        "recordLabel": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 19,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Mr. Morale & The Big Steppers",
+        "contentRating": "clean",
+        "artistName": "Kendrick Lamar",
+        "isComplete": true
+      }
+    },
+    "1626195790": {
+      "id": "1626195790",
+      "type": "albums",
+      "attributes": {
+        "copyright": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records; ℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-05-13",
+        "upc": "00602448038692",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f6/65/b5/f665b52b-8d6d-b94d-cc2c-db826e35304e/22UMGIM52376.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b59570",
+          "textColor2": "d0ae85",
+          "textColor4": "ac916e",
+          "textColor1": "dcb388",
+          "bgColor": "1a1d14",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/mr-morale-the-big-steppers/1626195790",
+        "playParams": {
+          "id": "1626195790",
+          "kind": "album"
+        },
+        "recordLabel": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 19,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Mr. Morale & The Big Steppers",
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "When Kendrick Lamar popped up on two tracks from Baby Keem’s <i>The Melodic Blue</i> (“range brothers” and “family ties”), it felt like one of hip-hop’s prophets had descended a mountain to deliver scripture. His verses were stellar, to be sure, but it also just felt like way too much time had passed since we’d heard his voice. He’d helmed 2018’s <i>Black Panther</i> compilation/soundtrack, but his last proper release was 2017’s <i>DAMN.</i> That kind of scarcity in hip-hop can only serve to deify an artist as beloved as Lamar. But if the Compton MC is broadcasting anything across his fifth proper album <i>Mr. Morale & The Big Steppers</i>, it’s that he’s only human.\n\nThe project is split into two parts, each comprising nine songs, all of which serve to illuminate Lamar’s continually evolving worldview. Central to Lamar’s thesis is accountability. The MC has painstakingly itemized his shortcomings, assessing his relationships with money (“United in Grief”), white women (“Worldwide Steppers”), his father (“Father Time”), the limits of his loyalty (“Rich Spirit”), love in the context of heteronormative relationships (“We Cry Together,” “Purple Hearts”), motivation (“Count Me Out”), responsibility (“Crown”), gender (“Auntie Diaries”), and generational trauma (“Mother I Sober”). It’s a dense and heavy listen. But just as sure as Kendrick Lamar is human like the rest of us, he’s also a Pulitzer Prize winner, one of the most thoughtful MCs alive, and someone whose honesty across <i>Mr. Morale & The Big Steppers</i> could help us understand why any of us are the way we are.",
+          "short": "Hear Kendrick's two-part masterwork, now with “The Heart Part 5,” in Spatial."
+        },
+        "isComplete": true
+      }
+    },
+    "1690887530": {
+      "id": "1690887530",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Baby Keem, LLC and pgLang LLC, under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2023-05-30",
+        "upc": "196871200134",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/20/02/b2200215-8de5-d34a-d38c-9de3392ebb26/196871200134.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b0c9f0",
+          "textColor2": "b4cffb",
+          "textColor4": "98b1f1",
+          "textColor1": "d2edf9",
+          "bgColor": "2837cc",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-hillbillies-single/1690887530",
+        "playParams": {
+          "id": "1690887530",
+          "kind": "album"
+        },
+        "recordLabel": "pgLang/Columbia",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "The Hillbillies - Single",
+        "artistName": "Baby Keem & Kendrick Lamar",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    }
+  }
+}

@@ -1,0 +1,1469 @@
+{
+  "artists": {
+    "532997": {
+      "id": "532997",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Rock"],
+        "name": "Mazzy Star",
+        "artwork": {
+          "width": 2500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/d4/ba/1f/d4ba1fd7-435c-0db8-faf3-84c1da715c78/mzl.hbxnhehg.jpg/{w}x{h}bb.jpg",
+          "height": 2500,
+          "textColor3": "353236",
+          "textColor2": "321f14",
+          "textColor4": "51443f",
+          "textColor1": "0f0808",
+          "bgColor": "cedbea",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/mazzy-star/532997"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1440848808",
+              "type": "albums"
+            },
+            {
+              "id": "724609718",
+              "type": "albums"
+            },
+            {
+              "id": "724675215",
+              "type": "albums"
+            },
+            {
+              "id": "676488437",
+              "type": "albums"
+            },
+            {
+              "id": "1368616930",
+              "type": "albums"
+            },
+            {
+              "id": "715728420",
+              "type": "albums"
+            },
+            {
+              "id": "873431918",
+              "type": "albums"
+            },
+            {
+              "id": "690380442",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1440848810",
+              "type": "songs"
+            },
+            {
+              "id": "724610555",
+              "type": "songs"
+            },
+            {
+              "id": "1440848824",
+              "type": "songs"
+            },
+            {
+              "id": "1368617355",
+              "type": "songs"
+            },
+            {
+              "id": "1440848818",
+              "type": "songs"
+            },
+            {
+              "id": "1440848815",
+              "type": "songs"
+            },
+            {
+              "id": "724675638",
+              "type": "songs"
+            },
+            {
+              "id": "724610254",
+              "type": "songs"
+            },
+            {
+              "id": "1440848813",
+              "type": "songs"
+            },
+            {
+              "id": "724610543",
+              "type": "songs"
+            },
+            {
+              "id": "1440848814",
+              "type": "songs"
+            },
+            {
+              "id": "724675845",
+              "type": "songs"
+            },
+            {
+              "id": "724610274",
+              "type": "songs"
+            },
+            {
+              "id": "1440848819",
+              "type": "songs"
+            },
+            {
+              "id": "1440848825",
+              "type": "songs"
+            },
+            {
+              "id": "1440848823",
+              "type": "songs"
+            },
+            {
+              "id": "676488440",
+              "type": "songs"
+            },
+            {
+              "id": "1440848820",
+              "type": "songs"
+            },
+            {
+              "id": "724675689",
+              "type": "songs"
+            },
+            {
+              "id": "676488443",
+              "type": "songs"
+            }
+          ]
+        },
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": []
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "676488440": {
+      "id": "676488440",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Seasons of Your Day",
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Rock",
+          "Adult Alternative",
+          "Psychedelic"
+        ],
+        "trackNumber": 1,
+        "releaseDate": "2013-09-24",
+        "durationInMillis": 314753,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USA2P1306994",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/1c/fa/ba1cfa42-68b5-0d99-5230-4a44720e6d79/887158442087_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "ac7eb2",
+          "textColor2": "c589d2",
+          "textColor4": "9e6faa",
+          "textColor1": "d69bdc",
+          "bgColor": "05090a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/in-the-kingdom/676488437?i=676488440",
+        "playParams": {
+          "id": "676488440",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "In the Kingdom",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/f7/63/faf763f8-7285-0669-4e17-404430f3fb3a/mzaf_6323953205057228500.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "676488443": {
+      "id": "676488443",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Seasons of Your Day",
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Rock",
+          "Adult Alternative",
+          "Psychedelic"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2013-08-20",
+        "durationInMillis": 323173,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USA2P1306995",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/1c/fa/ba1cfa42-68b5-0d99-5230-4a44720e6d79/887158442087_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "ac7eb2",
+          "textColor2": "c589d2",
+          "textColor4": "9e6faa",
+          "textColor1": "d69bdc",
+          "bgColor": "05090a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/california/676488437?i=676488443",
+        "playParams": {
+          "id": "676488443",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "California",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/7a/ed/8c7aed5d-796f-31d4-797b-8d182265fb93/mzaf_10848012628340736111.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "724610254": {
+      "id": "724610254",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Among My Swan",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Psychedelic",
+          "Alternative"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 297893,
+        "releaseDate": "1996-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USCA29600652",
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/b0/7b/c8b07b78-7610-5969-0d34-57dd520d70b1/00724382722458.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "b7bccf",
+          "textColor2": "d4def0",
+          "textColor4": "afb7c6",
+          "textColor1": "dee4fc",
+          "bgColor": "1a1e1d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/flowers-in-december/724609718?i=724610254",
+        "playParams": {
+          "id": "724610254",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Flowers in December",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a4/28/4c/a4284c91-aa1d-4e06-c784-79d96bb0ed49/mzaf_162134046372536980.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "724610274": {
+      "id": "724610274",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Among My Swan",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Psychedelic",
+          "Alternative"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "1996-01-01",
+        "durationInMillis": 238160,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USCA29601035",
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/b0/7b/c8b07b78-7610-5969-0d34-57dd520d70b1/00724382722458.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "b7bccf",
+          "textColor2": "d4def0",
+          "textColor4": "afb7c6",
+          "textColor1": "dee4fc",
+          "bgColor": "1a1e1d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/cry-cry/724609718?i=724610274",
+        "playParams": {
+          "id": "724610274",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Cry, Cry",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/af/6c/d5/af6cd565-39b0-435a-1644-cc28fd2c16d7/mzaf_11429532943559656921.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "724610543": {
+      "id": "724610543",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Among My Swan",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Psychedelic",
+          "Alternative"
+        ],
+        "trackNumber": 9,
+        "releaseDate": "1996-01-01",
+        "durationInMillis": 291040,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USCA29601039",
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/b0/7b/c8b07b78-7610-5969-0d34-57dd520d70b1/00724382722458.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "b7bccf",
+          "textColor2": "d4def0",
+          "textColor4": "afb7c6",
+          "textColor1": "dee4fc",
+          "bgColor": "1a1e1d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/roseblood/724609718?i=724610543",
+        "playParams": {
+          "id": "724610543",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Roseblood",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/44/87/b24487f9-9498-d73a-b267-b041f1968a3a/mzaf_3143433150238145440.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "724610555": {
+      "id": "724610555",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Among My Swan",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Psychedelic",
+          "Alternative"
+        ],
+        "trackNumber": 12,
+        "releaseDate": "1996-01-01",
+        "durationInMillis": 287893,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USCA29600651",
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/b0/7b/c8b07b78-7610-5969-0d34-57dd520d70b1/00724382722458.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "b7bccf",
+          "textColor2": "d4def0",
+          "textColor4": "afb7c6",
+          "textColor1": "dee4fc",
+          "bgColor": "1a1e1d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/look-on-down-from-the-bridge/724609718?i=724610555",
+        "playParams": {
+          "id": "724610555",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Look On Down from the Bridge",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/60/5e/a5/605ea51c-c3f6-9fbb-c73d-b3b7c9f0b5b5/mzaf_16526961744374134968.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "724675638": {
+      "id": "724675638",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "She Hangs Brightly",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Alternative",
+          "Psychedelic"
+        ],
+        "trackNumber": 1,
+        "durationInMillis": 196227,
+        "releaseDate": "1990-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USCA29000609",
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ff/7a/e0/ff7ae040-2a0c-c2b6-e9b2-320eba204491/00077779650859.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "c3cac7",
+          "textColor2": "e3f0f6",
+          "textColor4": "bdc6cb",
+          "textColor1": "eaf5f1",
+          "bgColor": "281c1e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/halah/724675215?i=724675638",
+        "playParams": {
+          "id": "724675638",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Halah",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/05/31/98/053198e4-5fd9-c50e-d344-cccab0d94ffb/mzaf_11667356349242057028.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "724675689": {
+      "id": "724675689",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "She Hangs Brightly",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Alternative",
+          "Psychedelic"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "1990-01-01",
+        "durationInMillis": 215440,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USCA29000610",
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ff/7a/e0/ff7ae040-2a0c-c2b6-e9b2-320eba204491/00077779650859.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "c3cac7",
+          "textColor2": "e3f0f6",
+          "textColor4": "bdc6cb",
+          "textColor1": "eaf5f1",
+          "bgColor": "281c1e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Peter Blegvad & Anthony Moore",
+        "url": "https://music.apple.com/us/album/blue-flower/724675215?i=724675689",
+        "playParams": {
+          "id": "724675689",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Blue Flower",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a9/ce/43/a9ce4314-11cf-f0fd-48bd-92f6f74bfb6c/mzaf_5810595958380196020.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "724675845": {
+      "id": "724675845",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "She Hangs Brightly",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Alternative",
+          "Psychedelic"
+        ],
+        "trackNumber": 7,
+        "durationInMillis": 197333,
+        "releaseDate": "1990-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USCA29000615",
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ff/7a/e0/ff7ae040-2a0c-c2b6-e9b2-320eba204491/00077779650859.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "c3cac7",
+          "textColor2": "e3f0f6",
+          "textColor4": "bdc6cb",
+          "textColor1": "eaf5f1",
+          "bgColor": "281c1e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/be-my-angel/724675215?i=724675845",
+        "playParams": {
+          "id": "724675845",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Be My Angel",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5b/8d/14/5b8d149b-c5e4-4873-039d-163f96f73c3f/mzaf_2921066609826484383.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "1368617355": {
+      "id": "1368617355",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Still - EP",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 255358,
+        "releaseDate": "2018-06-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QMLD61402347",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b6/bf/20/b6bf2009-b64b-98cc-a3af-ea1dbc3af18b/881034116246_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "b58c58",
+          "textColor2": "ce9e78",
+          "textColor4": "a57e60",
+          "textColor1": "e2af6e",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/quiet-the-winter-harbor/1368616930?i=1368617355",
+        "playParams": {
+          "id": "1368617355",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Quiet, The Winter Harbor",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/e1/d7/63e1d760-cba1-33ea-bdbf-87502abebc10/mzaf_8242800589192179999.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      }
+    },
+    "1440848810": {
+      "id": "1440848810",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 295600,
+        "releaseDate": "1993-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300105",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/fade-into-you/1440848808?i=1440848810",
+        "playParams": {
+          "id": "1440848810",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Fade into You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/77/f1/da/77f1da2c-fd38-448a-47be-f413091fa468/mzaf_3115820856283806663.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1075992280", "1072948063"]
+      }
+    },
+    "1440848813": {
+      "id": "1440848813",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "1993-01-01",
+        "durationInMillis": 272067,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300468",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/bells-ring/1440848808?i=1440848813",
+        "playParams": {
+          "id": "1440848813",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Bells Ring",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ef/0e/79/ef0e79a5-4baa-145a-9f92-62ecd03242c9/mzaf_6092276212208504340.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1075992371", "1072948066"]
+      }
+    },
+    "1440848814": {
+      "id": "1440848814",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 3,
+        "durationInMillis": 362067,
+        "releaseDate": "1993-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300469",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/mary-of-silence/1440848808?i=1440848814",
+        "playParams": {
+          "id": "1440848814",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Mary of Silence",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/38/f8/24/38f824c2-f8f5-0a23-f793-4d9c0a595603/mzaf_1655084424907728938.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1072948067", "1075992372"]
+      }
+    },
+    "1440848815": {
+      "id": "1440848815",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 4,
+        "durationInMillis": 264467,
+        "releaseDate": "1993-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300470",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Arthur Lee",
+        "url": "https://music.apple.com/us/album/five-string-serenade/1440848808?i=1440848815",
+        "playParams": {
+          "id": "1440848815",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Five String Serenade",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/16/78/db/1678db5f-89ae-83f5-ce19-af0cd0547570/mzaf_12777425662414437730.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1075992373", "1072948068"]
+      }
+    },
+    "1440848818": {
+      "id": "1440848818",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "1993-01-01",
+        "durationInMillis": 310733,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300471",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/blue-light/1440848808?i=1440848818",
+        "playParams": {
+          "id": "1440848818",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Blue Light",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/02/b9/6e/02b96e45-cdce-23c6-5a1e-8d9d855b30c7/mzaf_3766970509644839564.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1075992374", "1072948071"]
+      }
+    },
+    "1440848819": {
+      "id": "1440848819",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 6,
+        "releaseDate": "1993-01-01",
+        "durationInMillis": 265000,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300472",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/shes-my-baby/1440848808?i=1440848819",
+        "playParams": {
+          "id": "1440848819",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "She's My Baby",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/60/7c/0a/607c0aa6-6169-6de4-30ed-8831db206957/mzaf_1764582776729159439.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1075992375", "1072948072"]
+      }
+    },
+    "1440848820": {
+      "id": "1440848820",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 7,
+        "durationInMillis": 222133,
+        "releaseDate": "1993-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300473",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/unreflected/1440848808?i=1440848820",
+        "playParams": {
+          "id": "1440848820",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Unreflected",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a4/b6/2e/a4b62e50-a1ef-0508-8edc-7b9f2fac7e52/mzaf_8075396420958524873.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1075992376", "1072948073"]
+      }
+    },
+    "1440848823": {
+      "id": "1440848823",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 8,
+        "durationInMillis": 331600,
+        "releaseDate": "1993-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300474",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/wasted/1440848808?i=1440848823",
+        "playParams": {
+          "id": "1440848823",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Wasted",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/85/b2/a9/85b2a9ef-1d46-a879-61c0-263bba2b05bb/mzaf_12062401886694546630.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1072948074", "1075992377"]
+      }
+    },
+    "1440848824": {
+      "id": "1440848824",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "1993-01-01",
+        "durationInMillis": 336760,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300475",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/into-dust/1440848808?i=1440848824",
+        "playParams": {
+          "id": "1440848824",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Into Dust",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/00/75/f1/0075f129-ea7e-aecd-41a7-3368c1ea90ea/mzaf_11008623961297325984.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1075992378", "1072948075"]
+      }
+    },
+    "1440848825": {
+      "id": "1440848825",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Tonight That I Might See",
+        "genreNames": ["Rock", "Music"],
+        "trackNumber": 10,
+        "releaseDate": "1993-01-01",
+        "durationInMillis": 440107,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USCA29300476",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Hope Sandoval & David Roback",
+        "url": "https://music.apple.com/us/album/so-tonight-that-i-might-see/1440848808?i=1440848825",
+        "playParams": {
+          "id": "1440848825",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "So Tonight That I Might See",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e5/9e/d8/e59ed8cf-01f6-21ab-88d1-475a80551efa/mzaf_17512626500119056652.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mazzy Star"
+      },
+      "meta": {
+        "formerIds": ["1075992379", "1072948076"]
+      }
+    }
+  },
+  "albums": {
+    "676488437": {
+      "id": "676488437",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 Rhymes of an Hour Records",
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Rock",
+          "Adult Alternative",
+          "Psychedelic"
+        ],
+        "releaseDate": "2013-09-24",
+        "upc": "887158442087",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/1c/fa/ba1cfa42-68b5-0d99-5230-4a44720e6d79/887158442087_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "ac7eb2",
+          "textColor2": "c589d2",
+          "textColor4": "9e6faa",
+          "textColor1": "d69bdc",
+          "bgColor": "05090a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/seasons-of-your-day/676488437",
+        "playParams": {
+          "id": "676488437",
+          "kind": "album"
+        },
+        "recordLabel": "Rhymes of an Hour Records",
+        "isCompilation": false,
+        "trackCount": 10,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Seasons of Your Day",
+        "artistName": "Mazzy Star",
+        "editorialNotes": {
+          "standard": "Seventeen years after Mazzy Star's last album, <i>Among My Swan</i>, guitarist David Roback and singer Hope Sandoval return with <i>Seasons of Your Day</i>, an album that revisits and revitalizes their psychedelic dream-pop with a heavy acoustic presence. Recorded over 15 years in California, London, and Norway, it fulfills a fan’s notion of what Mazzy Star should be. The late U.K. folk guitar legend Bert Jansch appears on the bluesy “Spoon” as Sandoval emerges from the shadows. A church organ meets up with a low-key band for “In the Kingdom.” But it’s with the droning acoustic guitars and higher reverb count adorning “California” that vintage Mazzy Star falls into place. With all the duos and groups that have recently explored this contemplative style, it’s easy to forget that Mazzy Star (and Roback's earlier group, Opal) were among the first to make this type of black-light music, borrowing from the Velvet Underground’s quietest moments and mixing them with a Laurel Canyon mysticism. However, songs here like “I’ve Gotta Stop,” “Common Burn,\" and “Sparrow” should remind everyone who does it best."
+        },
+        "isComplete": true
+      }
+    },
+    "690380442": {
+      "id": "690380442",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 Rhymes of an Hour Records",
+        "genreNames": ["Alternative", "Music", "Rock", "Psychedelic"],
+        "releaseDate": "2013-08-20",
+        "upc": "887158547522",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/ae/0f/1f/ae0f1fbe-c12a-da75-5861-cf891d62a0c3/887158547522_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "9a999f",
+          "textColor2": "d29df0",
+          "textColor4": "a87ec1",
+          "textColor1": "c0bfc6",
+          "bgColor": "030305",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/california-single/690380442",
+        "playParams": {
+          "id": "690380442",
+          "kind": "album"
+        },
+        "recordLabel": "Rhymes of an Hour Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "California - Single",
+        "artistName": "Mazzy Star",
+        "isComplete": true
+      }
+    },
+    "715728420": {
+      "id": "715728420",
+      "type": "albums",
+      "attributes": {
+        "copyright": "This Compilation ℗ 2009 Capitol Records, LLC",
+        "genreNames": ["Alternative", "Music", "Rock", "Psychedelic"],
+        "releaseDate": "2009-01-01",
+        "isMasteredForItunes": false,
+        "upc": "05099996652954",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/4d/aa/9d/4daa9d81-9f87-2b9f-ed3a-1120859dab63/05099996652954.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "b8b7bd",
+          "textColor2": "d3d7e2",
+          "textColor4": "aaaeb8",
+          "textColor1": "e5e2e8",
+          "bgColor": "070b10",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/deep-cuts-ep/715728420",
+        "playParams": {
+          "id": "715728420",
+          "kind": "album"
+        },
+        "recordLabel": "Capitol Records",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Deep Cuts - EP",
+        "artistName": "Mazzy Star",
+        "isComplete": true
+      }
+    },
+    "724609718": {
+      "id": "724609718",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 1996 Capitol Records Inc.",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Psychedelic",
+          "Alternative"
+        ],
+        "releaseDate": "1996-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00724382722458",
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/b0/7b/c8b07b78-7610-5969-0d34-57dd520d70b1/00724382722458.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "b7bccf",
+          "textColor2": "d4def0",
+          "textColor4": "afb7c6",
+          "textColor1": "dee4fc",
+          "bgColor": "1a1e1d",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/among-my-swan/724609718",
+        "playParams": {
+          "id": "724609718",
+          "kind": "album"
+        },
+        "recordLabel": "Capitol Records",
+        "isCompilation": false,
+        "trackCount": 12,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Among My Swan",
+        "artistName": "Mazzy Star",
+        "isComplete": true
+      }
+    },
+    "724675215": {
+      "id": "724675215",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 1990 Capitol Records Inc.",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Adult Alternative",
+          "Alternative",
+          "Psychedelic"
+        ],
+        "releaseDate": "1990-01-01",
+        "upc": "00077779650859",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1401,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ff/7a/e0/ff7ae040-2a0c-c2b6-e9b2-320eba204491/00077779650859.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1401,
+          "textColor3": "c3cac7",
+          "textColor2": "e3f0f6",
+          "textColor4": "bdc6cb",
+          "textColor1": "eaf5f1",
+          "bgColor": "281c1e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/she-hangs-brightly/724675215",
+        "playParams": {
+          "id": "724675215",
+          "kind": "album"
+        },
+        "recordLabel": "Capitol Records",
+        "isCompilation": false,
+        "trackCount": 11,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "She Hangs Brightly",
+        "artistName": "Mazzy Star",
+        "isComplete": true
+      }
+    },
+    "873431918": {
+      "id": "873431918",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 Rhymes of an Hour Records",
+        "genreNames": ["Alternative", "Music", "Rock", "Psychedelic"],
+        "releaseDate": "2014-05-20",
+        "isMasteredForItunes": false,
+        "upc": "887158709616",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/43/f9/7f/43f97f3b-9700-adf9-3842-84ec455b8f48/887158709616_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "423b34",
+          "textColor2": "2d2218",
+          "textColor4": "4a4037",
+          "textColor1": "241c16",
+          "bgColor": "bdb9b0",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/im-less-here-single/873431918",
+        "playParams": {
+          "id": "873431918",
+          "kind": "album"
+        },
+        "recordLabel": "Rhymes of an Hour Records",
+        "isCompilation": false,
+        "trackCount": 2,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "I'm Less Here - Single",
+        "artistName": "Mazzy Star",
+        "isComplete": true
+      }
+    },
+    "1368616930": {
+      "id": "1368616930",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Rhymes of an Hour Records",
+        "genreNames": ["Alternative", "Music", "Rock", "Psychedelic"],
+        "releaseDate": "2018-06-01",
+        "isMasteredForItunes": false,
+        "upc": "881034116246",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b6/bf/20/b6bf2009-b64b-98cc-a3af-ea1dbc3af18b/881034116246_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "b58c58",
+          "textColor2": "ce9e78",
+          "textColor4": "a57e60",
+          "textColor1": "e2af6e",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/still-ep/1368616930",
+        "playParams": {
+          "id": "1368616930",
+          "kind": "album"
+        },
+        "recordLabel": "Rhymes of an Hour Records",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Still - EP",
+        "artistName": "Mazzy Star",
+        "isComplete": true
+      }
+    },
+    "1440848808": {
+      "id": "1440848808",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 Capitol Records, LLC",
+        "genreNames": [
+          "Rock",
+          "Music",
+          "Psychedelic",
+          "Adult Alternative",
+          "Alternative"
+        ],
+        "releaseDate": "1993-10-05",
+        "isMasteredForItunes": true,
+        "upc": "00602547742247",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/03/ea/0f03ead1-d1eb-27fd-0734-b257b515692f/13UABIM59278.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "af72ad",
+          "textColor2": "e38cac",
+          "textColor4": "b8708a",
+          "textColor1": "d88ed8",
+          "bgColor": "0d0103",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/so-tonight-that-i-might-see/1440848808",
+        "playParams": {
+          "id": "1440848808",
+          "kind": "album"
+        },
+        "recordLabel": "Capitol Records",
+        "isCompilation": false,
+        "trackCount": 10,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "So Tonight That I Might See",
+        "artistName": "Mazzy Star",
+        "editorialNotes": {
+          "standard": "Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot like Mazzy Star’s second album. Tambourines roll at tumbleweed tempos, a lap steel gently weeps, and Hope Sandoval sings with the fluid grace of a waking dream. The title track is a psychedelic swirl of feedback and gentle murmurs, and “Mary of Silence” goes even deeper into Doors-inspired drone rock. On “Fade into You,” Sandoval’s weary voice falls across acoustic strumming like velvet curtains brushing an empty dance floor.",
+          "short": "Gentle psychedelia evoking lonely roads and empty juke joints."
+        },
+        "isComplete": true
+      }
+    }
+  }
+}

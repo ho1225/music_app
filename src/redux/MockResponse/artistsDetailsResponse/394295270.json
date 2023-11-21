@@ -1,0 +1,2047 @@
+{
+  "artists": {
+    "394295270": {
+      "id": "394295270",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Pop"],
+        "name": "Elley Duhé",
+        "artwork": {
+          "width": 1819,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/8a/3b/d98a3bbc-85cd-b2eb-5afe-df93bc7d8ece/pr_source.png/{w}x{h}bb.jpg",
+          "height": 1819,
+          "textColor3": "d4c7c6",
+          "textColor2": "f1e4e4",
+          "textColor4": "d2c2bd",
+          "textColor1": "f4ebf0",
+          "bgColor": "553821",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/elley-duh%C3%A9/394295270"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1421950069",
+              "type": "albums"
+            },
+            {
+              "id": "1439350327",
+              "type": "albums"
+            },
+            {
+              "id": "1436215752",
+              "type": "albums"
+            },
+            {
+              "id": "1436234326",
+              "type": "albums"
+            },
+            {
+              "id": "1708481872",
+              "type": "albums"
+            },
+            {
+              "id": "1708482309",
+              "type": "albums"
+            },
+            {
+              "id": "1689520076",
+              "type": "albums"
+            },
+            {
+              "id": "1647926168",
+              "type": "albums"
+            },
+            {
+              "id": "1646951323",
+              "type": "albums"
+            },
+            {
+              "id": "1657049435",
+              "type": "albums"
+            },
+            {
+              "id": "1624798996",
+              "type": "albums"
+            },
+            {
+              "id": "1713022550",
+              "type": "albums"
+            },
+            {
+              "id": "1657551847",
+              "type": "albums"
+            },
+            {
+              "id": "1432510369",
+              "type": "albums"
+            },
+            {
+              "id": "1653512078",
+              "type": "albums"
+            },
+            {
+              "id": "1660550464",
+              "type": "albums"
+            },
+            {
+              "id": "1687598487",
+              "type": "albums"
+            },
+            {
+              "id": "1655901377",
+              "type": "albums"
+            },
+            {
+              "id": "1648477090",
+              "type": "albums"
+            },
+            {
+              "id": "1698088916",
+              "type": "albums"
+            },
+            {
+              "id": "1386496713",
+              "type": "albums"
+            },
+            {
+              "id": "1648110683",
+              "type": "albums"
+            },
+            {
+              "id": "1652930101",
+              "type": "albums"
+            },
+            {
+              "id": "1682397521",
+              "type": "albums"
+            },
+            {
+              "id": "1169268219",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1708482309",
+              "type": "albums"
+            }
+          ]
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1492152237",
+              "type": "songs"
+            },
+            {
+              "id": "1419563248",
+              "type": "songs"
+            },
+            {
+              "id": "1410095410",
+              "type": "songs"
+            },
+            {
+              "id": "1632534359",
+              "type": "songs"
+            },
+            {
+              "id": "1656001879",
+              "type": "songs"
+            },
+            {
+              "id": "1650706469",
+              "type": "songs"
+            },
+            {
+              "id": "1447457302",
+              "type": "songs"
+            },
+            {
+              "id": "1543107048",
+              "type": "songs"
+            },
+            {
+              "id": "1483998056",
+              "type": "songs"
+            },
+            {
+              "id": "1214426102",
+              "type": "songs"
+            },
+            {
+              "id": "1679861663",
+              "type": "songs"
+            },
+            {
+              "id": "1651499782",
+              "type": "songs"
+            },
+            {
+              "id": "1434740109",
+              "type": "songs"
+            },
+            {
+              "id": "1655399058",
+              "type": "songs"
+            },
+            {
+              "id": "1445923210",
+              "type": "songs"
+            },
+            {
+              "id": "1257270196",
+              "type": "songs"
+            },
+            {
+              "id": "1496383400",
+              "type": "songs"
+            },
+            {
+              "id": "1436234346",
+              "type": "songs"
+            },
+            {
+              "id": "1421951214",
+              "type": "songs"
+            },
+            {
+              "id": "1436215753",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "albums": {
+    "1169268219": {
+      "id": "1169268219",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 A Creative Music Group, Inc.",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2016-10-28",
+        "upc": "808391016422",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/54/ad/11/54ad1149-9db0-95ea-4fdc-d393a8bcb58d/Tarro_ElleyDuhe_millenium.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "544e47",
+          "textColor2": "402f1b",
+          "textColor4": "665948",
+          "textColor1": "2a2219",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/millennium-single/1169268219",
+        "playParams": {
+          "id": "1169268219",
+          "kind": "album"
+        },
+        "recordLabel": "A Creative Music Group, Inc.",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Millennium - Single",
+        "artistName": "Tarro & Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1386496713": {
+      "id": "1386496713",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Not Fit For Society/RCA Records",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2018-05-25",
+        "isMasteredForItunes": false,
+        "upc": "886447102435",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/70/01/cc70013d-9d7c-3931-8b44-edfa6154d5d3/886447102435.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cdc8b6",
+          "textColor2": "f4d9d2",
+          "textColor4": "cbb6b2",
+          "textColor1": "f6f0d7",
+          "bgColor": "2b2a32",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/aint-no-feeling-single/1386496713",
+        "playParams": {
+          "id": "1386496713",
+          "kind": "album"
+        },
+        "recordLabel": "Not Fit For Society/RCA Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "AIN'T NO FEELING - Single",
+        "artistName": "Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1421950069": {
+      "id": "1421950069",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Not Fit For Society/RCA Records",
+        "genreNames": ["Pop", "Music", "Rock"],
+        "releaseDate": "2018-08-10",
+        "upc": "886447178874",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/97/42/63/974263ff-d97d-8a26-7e68-46beda7e60d0/886447178874.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c8a189",
+          "textColor2": "f1af87",
+          "textColor4": "c2906f",
+          "textColor1": "f9c5a7",
+          "bgColor": "04130f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/dragon-mentality-ep/1421950069",
+        "playParams": {
+          "id": "1421950069",
+          "kind": "album"
+        },
+        "recordLabel": "Not Fit For Society/RCA Records",
+        "isCompilation": false,
+        "trackCount": 6,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "DRAGON MENTALITY - EP",
+        "artistName": "Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1432510369": {
+      "id": "1432510369",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 bimyou",
+        "genreNames": ["Electronic", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2018-08-23",
+        "isMasteredForItunes": false,
+        "upc": "5054526570009",
+        "artwork": {
+          "width": 2500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e5/2c/e5/e52ce53d-d140-6c10-d27d-4f32c1b04310/5054526570009_1.jpg/{w}x{h}bb.jpg",
+          "height": 2500,
+          "textColor3": "f4c5c2",
+          "textColor2": "fff2f5",
+          "textColor4": "f4c1c3",
+          "textColor1": "fff7f3",
+          "bgColor": "cb0000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/strawberries-feat-elley-duh%C3%A9-trinidad-james-kodie-shane/1432510369",
+        "playParams": {
+          "id": "1432510369",
+          "kind": "album"
+        },
+        "recordLabel": "bimyou",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Strawberries (feat. Elley Duhé, Trinidad James & Kodie Shane) - Single",
+        "artistName": "Kito",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1436215752": {
+      "id": "1436215752",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Darkroom/Geffen Records",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2018-09-21",
+        "isMasteredForItunes": false,
+        "upc": "00602577065828",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/88/6a/85/886a854f-fdec-90d4-be41-dc94469a6b4d/00602577065828.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5d74cf",
+          "textColor2": "fd5863",
+          "textColor4": "cf4b55",
+          "textColor1": "6f8cfb",
+          "bgColor": "17181c",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1436215752",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/tie-me-down-feat-elley-duh%C3%A9-remixes-ep/1436215752",
+        "recordLabel": "Darkroom",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Tie Me Down (feat. Elley Duhé) [Remixes] - EP",
+        "artistName": "Gryffin",
+        "isComplete": true
+      }
+    },
+    "1436234326": {
+      "id": "1436234326",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Interscope Records",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2018-09-21",
+        "isMasteredForItunes": false,
+        "upc": "00602577095092",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/e4/bb/2ee4bba5-8252-7db5-c3f9-20c276f3668c/00602577095092.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "484c3b",
+          "textColor2": "1b2624",
+          "textColor4": "474f40",
+          "textColor1": "1b231e",
+          "bgColor": "fbf2b1",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/happy-now-feat-elley-duh%C3%A9-remixes/1436234326",
+        "playParams": {
+          "id": "1436234326",
+          "kind": "album"
+        },
+        "recordLabel": "UMGRI Interscope",
+        "trackCount": 5,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Happy Now (feat. Elley Duhé) [Remixes]",
+        "artistName": "Zedd",
+        "isComplete": true
+      }
+    },
+    "1439350327": {
+      "id": "1439350327",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 A Creative Music Group, Inc./RCA Records",
+        "genreNames": ["Pop", "Music", "Rock"],
+        "releaseDate": "2018-10-26",
+        "upc": "886447381076",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/92/14/e9/9214e997-e919-709e-03e9-716b6482017b/886447381076.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c8a189",
+          "textColor2": "f1af87",
+          "textColor4": "c2906f",
+          "textColor1": "f9c5a7",
+          "bgColor": "04130f",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1439350327",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/dragon-mentality/1439350327",
+        "recordLabel": "Not Fit For Society/RCA Records",
+        "trackCount": 7,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "DRAGON MENTALITY",
+        "artistName": "Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1624798996": {
+      "id": "1624798996",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Not Fit For Society, Inc.",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2022-06-24",
+        "upc": "810110320055",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 5000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/06/0f/02/060f02d7-cc7f-6388-d99a-0296c4dd662b/5000x5000-810110320055-0-0.jpg/{w}x{h}bb.jpg",
+          "height": 5000,
+          "textColor3": "b85872",
+          "textColor2": "f25c8f",
+          "textColor4": "c24c74",
+          "textColor1": "e66b8c",
+          "bgColor": "01080b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/pieces-single/1624798996",
+        "playParams": {
+          "id": "1624798996",
+          "kind": "album"
+        },
+        "recordLabel": "Not Fit For Society, Inc.",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "PIECES - Single",
+        "artistName": "Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1646951323": {
+      "id": "1646951323",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Island Records / Cross Records release; ℗ 2022 Secondo Piano SRL, under exclusive license to Universal Music Operations Limited",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-12-02",
+        "upc": "00602448627537",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/45/4c/56/454c567c-d957-af95-33d5-b21b31fbbb8b/22UM1IM06183.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "402000",
+          "textColor4": "664c33",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1646951323",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/bad-memories-feat-elley-duh%C3%A9-fast-boy-david-guetta/1646951323",
+        "recordLabel": "Universal-Island Records Ltd.",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Bad Memories (feat. Elley Duhé & FAST BOY) [David Guetta Remix] - Single",
+        "artistName": "Meduza & James Carter",
+        "isComplete": true
+      }
+    },
+    "1647926168": {
+      "id": "1647926168",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Atlantic Records UK release., ℗ 2022 Warner Music UK Limited.",
+        "genreNames": ["Electronic", "Music"],
+        "releaseDate": "2022-10-21",
+        "upc": "5054197392733",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d3/e9/37/d3e937ba-174c-979a-e1c9-d961fe05e812/5054197392733.jpg/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "9fc0bb",
+          "textColor2": "8fa6e2",
+          "textColor4": "7487b7",
+          "textColor1": "c5ede6",
+          "bgColor": "0a090f",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1647926168",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/dont-leave-me-lonely-single/1647926168",
+        "recordLabel": "Atlantic Records UK",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": [
+          "atmos",
+          "hi-res-lossless",
+          "lossless",
+          "lossy-stereo",
+          "spatial"
+        ],
+        "isSingle": true,
+        "name": "Don't Leave Me Lonely - Single",
+        "artistName": "Clean Bandit & Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1648110683": {
+      "id": "1648110683",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Island Records / Cross Records release; ℗ 2022 Secondo Piano SRL, under exclusive license to Universal Music Operations Limited",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-10-21",
+        "upc": "00602448664600",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/b3/57/66b35776-3173-19be-ce25-8f13874d28c2/22UM1IM09505.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "402000",
+          "textColor4": "664c33",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1648110683",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/bad-memories-feat-elley-duh%C3%A9-fast-boy-korolova-remix-single/1648110683",
+        "recordLabel": "Universal-Island Records Ltd.",
+        "isCompilation": false,
+        "trackCount": 2,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Bad Memories (feat. Elley Duhé & FAST BOY) [Korolova Remix] - Single",
+        "artistName": "Meduza & James Carter",
+        "isComplete": true
+      }
+    },
+    "1648477090": {
+      "id": "1648477090",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Island Records / Cross Records release; ℗ 2022 Secondo Piano SRL, under exclusive license to Universal Music Operations Limited",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-10-14",
+        "isMasteredForItunes": true,
+        "upc": "00602448720542",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5a/05/28/5a052859-66b7-a105-fdf6-8c799c477f77/22UM1IM14176.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "402000",
+          "textColor4": "664c33",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1648477090",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/bad-memories-feat-elley-duh%C3%A9-fast-boy-felix-jaehn-remix/1648477090",
+        "recordLabel": "Universal-Island Records Ltd.",
+        "isCompilation": false,
+        "trackCount": 2,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Bad Memories (feat. Elley Duhé & FAST BOY) [Felix Jaehn Remix] - Single",
+        "artistName": "Meduza, James Carter & Felix Jaehn",
+        "isComplete": true
+      }
+    },
+    "1652930101": {
+      "id": "1652930101",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Island Records / Cross Records release; ℗ 2022 Secondo Piano SRL, under exclusive license to Universal Music Operations Limited",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-11-11",
+        "isMasteredForItunes": true,
+        "upc": "00602448604712",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/88/5a/91/885a91f9-ee03-666b-52dc-75d4dba79aa0/22UM1IM03874.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "402000",
+          "textColor4": "664c33",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/bad-memories-feat-elley-duh%C3%A9-fast-boy-meduza-odizzea/1652930101",
+        "playParams": {
+          "id": "1652930101",
+          "kind": "album"
+        },
+        "recordLabel": "Universal-Island Records Ltd.",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Bad Memories (feat. Elley Duhé & FAST BOY) [Meduza ODIZZEA Remix] - Single",
+        "artistName": "Meduza & James Carter",
+        "isComplete": true
+      }
+    },
+    "1653512078": {
+      "id": "1653512078",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Atlantic Records UK release., ℗ 2022 Warner Music UK Limited.",
+        "genreNames": ["Electronic", "Music"],
+        "releaseDate": "2022-11-11",
+        "isMasteredForItunes": false,
+        "upc": "5054197448072",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/ec/7a/78ec7a7d-7aae-9116-9f16-f6f5b7d5ee69/5054197448072.jpg/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "9fc0bb",
+          "textColor2": "8fa6e2",
+          "textColor4": "7487b7",
+          "textColor1": "c5ede6",
+          "bgColor": "0a090f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/dont-leave-me-lonely-punctual-remix-single/1653512078",
+        "playParams": {
+          "id": "1653512078",
+          "kind": "album"
+        },
+        "recordLabel": "Atlantic Records UK",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Don't Leave Me Lonely (Punctual Remix) - Single",
+        "artistName": "Clean Bandit & Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1655901377": {
+      "id": "1655901377",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Atlantic Records UK release., ℗ 2022 Warner Music UK Limited.",
+        "genreNames": ["Electronic", "Music"],
+        "releaseDate": "2022-12-02",
+        "upc": "5054197468131",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/95/06/e2/9506e2b5-3cea-89f6-2fdf-d57b125c4e0f/5054197468131.jpg/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "9fc0bb",
+          "textColor2": "8fa6e2",
+          "textColor4": "7487b7",
+          "textColor1": "c5ede6",
+          "bgColor": "0a090f",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1655901377",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/dont-leave-me-lonely-feat-elley-duh%C3%A9-acoustic-single/1655901377",
+        "recordLabel": "Atlantic Records UK",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Don't Leave Me Lonely (feat. Elley Duhé) [Acoustic] - Single",
+        "artistName": "Clean Bandit",
+        "isComplete": true
+      }
+    },
+    "1657049435": {
+      "id": "1657049435",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Atlantic Records UK release., ℗ 2022 Warner Music UK Limited.",
+        "genreNames": ["Electronic", "Music"],
+        "releaseDate": "2022-12-16",
+        "isMasteredForItunes": false,
+        "upc": "5054197468261",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/9d/2e/4f9d2e51-827b-1f43-2395-00e2de2a516a/5054197468261.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "9dbcb7",
+          "textColor2": "8adfd2",
+          "textColor4": "6fb2a8",
+          "textColor1": "c5ece5",
+          "bgColor": "000002",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/dont-leave-me-lonely-feat-elley-duh%C3%A9-felix-jaehn-happy/1657049435",
+        "playParams": {
+          "id": "1657049435",
+          "kind": "album"
+        },
+        "recordLabel": "Atlantic Records UK",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Don't Leave Me Lonely (feat. Elley Duhé) [Felix Jaehn Happy Rave Mix] - Single",
+        "artistName": "Clean Bandit",
+        "isComplete": true
+      }
+    },
+    "1657551847": {
+      "id": "1657551847",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Island Records / Cross Records release; ℗ 2022 Secondo Piano SRL, under exclusive license to Universal Music Operations Limited",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-12-16",
+        "upc": "00602455027719",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/17/3c/1f173cd4-2408-df28-6096-709a67ae998d/22UM1IM37712.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "402000",
+          "textColor4": "664c33",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1657551847",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/bad-memories-hotlap-remix-feat-elley-duh%C3%A9-fast-boy-single/1657551847",
+        "recordLabel": "Universal-Island Records Ltd.",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Bad Memories (HotLap Remix) [feat. Elley Duhé & FAST BOY] - Single",
+        "artistName": "Meduza, James Carter & HotLap",
+        "isComplete": true
+      }
+    },
+    "1660550464": {
+      "id": "1660550464",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Island Records / Cross Records release; ℗ 2022 Secondo Piano SRL, under exclusive license to Universal Music Operations Limited",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-01-06",
+        "isMasteredForItunes": true,
+        "upc": "00602448832047",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/84/ec/50/84ec50af-4734-58d6-9ffc-1749f6163e58/22UM1IM20957.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "402000",
+          "textColor4": "664c33",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/bad-memories-feat-elley-duh%C3%A9-fast-boy-acoustic-single/1660550464",
+        "playParams": {
+          "id": "1660550464",
+          "kind": "album"
+        },
+        "recordLabel": "Universal-Island Records Ltd.",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Bad Memories (feat. Elley Duhé & FAST BOY) [Acoustic] - Single",
+        "artistName": "Meduza & James Carter",
+        "isComplete": true
+      }
+    },
+    "1682397521": {
+      "id": "1682397521",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Darkroom/Interscope Records",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-04-21",
+        "isMasteredForItunes": true,
+        "upc": "00602455709837",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/6e/0c/d76e0c87-f6dc-b282-a753-c6fb7f20c919/23UMGIM41882.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "1f271b",
+          "textColor2": "0c2004",
+          "textColor4": "27381f",
+          "textColor1": "020a00",
+          "bgColor": "95998b",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1682397521",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/forever-lizzy-jane-remix-feat-elley-duh%C3%A9-single/1682397521",
+        "recordLabel": "Darkroom/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Forever (Lizzy Jane Remix) [feat. Elley Duhé] - Single",
+        "artistName": "Gryffin",
+        "isComplete": true
+      }
+    },
+    "1687598487": {
+      "id": "1687598487",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Darkroom/Interscope Records",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-04-28",
+        "upc": "00602455748713",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/6e/b1/606eb1bf-f7cb-7949-877e-2a40609a6e2a/23UMGIM44777.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "dbd2db",
+          "textColor2": "e1b6fe",
+          "textColor4": "c5a2dd",
+          "textColor1": "fef3fb",
+          "bgColor": "53515b",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1687598487",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/forever-young-bombs-remix-feat-elley-duh%C3%A9-single/1687598487",
+        "recordLabel": "Darkroom/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Forever (Young Bombs Remix) [feat. Elley Duhé] - Single",
+        "artistName": "Gryffin",
+        "isComplete": true
+      }
+    },
+    "1689520076": {
+      "id": "1689520076",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Not Fit For Society, Inc./Good Luck Have Fun Records",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-06-02",
+        "upc": "840350874971",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 5000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/72/34/77723458-0b5f-2e07-41e5-10138f7b50ba/5000x5000-840350874971-0-0.jpg/{w}x{h}bb.jpg",
+          "height": 5000,
+          "textColor3": "efd9d6",
+          "textColor2": "ffd5bc",
+          "textColor4": "efb7a2",
+          "textColor1": "fffffd",
+          "bgColor": "b0433d",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1689520076",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/money-on-the-dash-with-diplo-single/1689520076",
+        "recordLabel": "Not Fit For Society, Inc./Good Luck Have Fun Records",
+        "isCompilation": false,
+        "trackCount": 3,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "MONEY ON THE DASH (with Diplo) - Single",
+        "artistName": "Elley Duhé, Whethan & Diplo",
+        "isComplete": true
+      }
+    },
+    "1698088916": {
+      "id": "1698088916",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Not Fit For Society, Inc.",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2023-08-11",
+        "upc": "840389812128",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 5000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/db/b4/19dbb417-54c9-1155-8022-d8ecda3dd7e4/5000x5000-840389812128-0-0.jpg/{w}x{h}bb.jpg",
+          "height": 5000,
+          "textColor3": "3f3c39",
+          "textColor2": "121212",
+          "textColor4": "3f3c39",
+          "textColor1": "121212",
+          "bgColor": "f1e8d7",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1698088916",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/delirium-single/1698088916",
+        "recordLabel": "Not Fit For Society, Inc.",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "DELIRIUM - Single",
+        "artistName": "Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1708481872": {
+      "id": "1708481872",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Not Fit For Society, Inc.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-10-13",
+        "isMasteredForItunes": false,
+        "upc": "840389871460",
+        "artwork": {
+          "width": 5000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cd/dd/36/cddd3629-a000-8255-7463-f57a1a4fdd9b/5000x5000-840389871460-0-0.jpg/{w}x{h}bb.jpg",
+          "height": 5000,
+          "textColor3": "b29d7b",
+          "textColor2": "02a5e8",
+          "textColor4": "078ac3",
+          "textColor1": "d7bd8d",
+          "bgColor": "1d1d30",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/midnight-oil-single/1708481872",
+        "playParams": {
+          "id": "1708481872",
+          "kind": "album"
+        },
+        "recordLabel": "Not Fit For Society, Inc.",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "MIDNIGHT OIL - Single",
+        "artistName": "Elley Duhé & Whethan",
+        "isComplete": true
+      }
+    },
+    "1708482309": {
+      "id": "1708482309",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Not Fit For Society, Inc.",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2023-10-27",
+        "isMasteredForItunes": false,
+        "upc": "840389871446",
+        "artwork": {
+          "width": 5000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4a/6e/f4/4a6ef491-f36b-4b85-901b-527b373c60ee/5000x5000-840389871446-0-0.jpg/{w}x{h}bb.jpg",
+          "height": 5000,
+          "textColor3": "b29d7b",
+          "textColor2": "02a5e8",
+          "textColor4": "078ac3",
+          "textColor1": "d7bd8d",
+          "bgColor": "1d1d30",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/phoenix/1708482309",
+        "playParams": {
+          "id": "1708482309",
+          "kind": "album"
+        },
+        "recordLabel": "Not Fit For Society, Inc.",
+        "isCompilation": false,
+        "trackCount": 15,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "PHOENIX",
+        "artistName": "Elley Duhé",
+        "isComplete": true
+      }
+    },
+    "1713022550": {
+      "id": "1713022550",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Not Fit For Society, Inc.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-10-23",
+        "upc": "840405713392",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 5000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/14/97/86149722-de34-d09c-f96f-1ea101c2ba87/5000x5000-840405713392-0-0.jpg/{w}x{h}bb.jpg",
+          "height": 5000,
+          "textColor3": "ad9a77",
+          "textColor2": "00a3e8",
+          "textColor4": "0588c3",
+          "textColor1": "d2ba89",
+          "bgColor": "1b1e2f",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1713022550",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/midnight-oil-sped-up-single/1713022550",
+        "recordLabel": "Not Fit For Society, Inc.",
+        "isCompilation": false,
+        "trackCount": 2,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "MIDNIGHT OIL (Sped Up) - Single",
+        "artistName": "Elley Duhé & Whethan",
+        "isComplete": true
+      }
+    }
+  },
+  "songs": {
+    "1214426102": {
+      "id": "1214426102",
+      "type": "songs",
+      "attributes": {
+        "albumName": "immortal - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2016-12-09",
+        "durationInMillis": 201440,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USLD91600138",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/be/6d/56be6dc1-1fd1-8ffa-e05b-5dd7ace002d9/886446419282.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "bdc2c2",
+          "textColor2": "e5dccf",
+          "textColor4": "bebab1",
+          "textColor1": "e3e6e5",
+          "bgColor": "253439",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Joseph M. Hill, Jr. & Taji Ausar",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/immortal/1214426092?i=1214426102",
+        "playParams": {
+          "id": "1214426102",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "immortal",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c5/5b/26/c55b26c1-0949-f89f-6b72-1b94413931df/mzaf_5600175078069400157.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elley Duhé",
+        "contentRating": "explicit"
+      }
+    },
+    "1257270196": {
+      "id": "1257270196",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Fly - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2017-07-14",
+        "durationInMillis": 192119,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USRC11701058",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ee/da/d5/eedad51b-a57a-f1cf-1d32-4e21f166f27f/886446538006.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "524948",
+          "textColor2": "242a36",
+          "textColor4": "4e5058",
+          "textColor1": "292222",
+          "bgColor": "f8e7e0",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Marcello Valenzano, Andre Lyon, Ray Fraser & Robert James",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/fly/1257270193?i=1257270196",
+        "playParams": {
+          "id": "1257270196",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Fly",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/ef/ab/83efabcf-a315-c979-2bb3-4f2ba1ed97cb/mzaf_7146743106184717522.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elley Duhé"
+      }
+    },
+    "1410095410": {
+      "id": "1410095410",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Happy Now - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-07-18",
+        "durationInMillis": 207030,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71808663",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f7/84/04f7849c-7922-d90d-2c54-fc2b0b1628e3/00602567745303.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "494523",
+          "textColor2": "1b2624",
+          "textColor4": "484827",
+          "textColor1": "1b231e",
+          "bgColor": "ffd135",
+          "hasP3": false
+        },
+        "composerName": "Zedd, Sarah Aarons, Linus Wiklund & Jonnali Parmenius",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/happy-now/1410095395?i=1410095410",
+        "playParams": {
+          "id": "1410095410",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Happy Now",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ad/78/64/ad786459-36e0-2b3c-d9a1-e41298eb24ee/mzaf_13374370919980331240.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Zedd & Elley Duhé"
+      }
+    },
+    "1419563248": {
+      "id": "1419563248",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Tie Me Down - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-08-03",
+        "durationInMillis": 218296,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71810504",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/d6/95/e4d695a3-8e01-4cd5-9b63-67d2abbffa38/00602567380719.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b6a4ab",
+          "textColor2": "dfb89d",
+          "textColor4": "b79883",
+          "textColor1": "dec7ce",
+          "bgColor": "17181c",
+          "hasP3": false
+        },
+        "composerName": "Aron Noah Forbes, Gryffin, Jussi Ilmari Karvinen p/k/a 'Jussifer', Nate Cyphert & Sarah Aarons",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1419563248",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/tie-me-down/1419563235?i=1419563248",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Tie Me Down",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/b5/ce/9db5ceb8-2d07-00c4-5e5c-a1260f1bf9ee/mzaf_11694063449895215125.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gryffin & Elley Duhé"
+      }
+    },
+    "1421951214": {
+      "id": "1421951214",
+      "type": "songs",
+      "attributes": {
+        "albumName": "DRAGON MENTALITY - EP",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 144359,
+        "releaseDate": "2018-06-22",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USRC11802481",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/97/42/63/974263ff-d97d-8a26-7e68-46beda7e60d0/886447178874.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c8a189",
+          "textColor2": "f1af87",
+          "textColor4": "c2906f",
+          "textColor1": "f9c5a7",
+          "bgColor": "04130f",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé & mike riley",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1421951214",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/lost-my-mind/1421950069?i=1421951214",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "LOST MY MIND",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/19/31/4d193115-f77a-b4f9-9175-9eaea7e949ff/mzaf_12916642137476031203.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Elley Duhé"
+      }
+    },
+    "1434740109": {
+      "id": "1434740109",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Happy Now (Acoustic) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 152000,
+        "releaseDate": "2018-09-07",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71813233",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/48/f6/bb48f6f1-f84e-7bcf-2063-d3299d603d51/00602577026409.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "494523",
+          "textColor2": "1b2624",
+          "textColor4": "484827",
+          "textColor1": "1b231e",
+          "bgColor": "ffd135",
+          "hasP3": false
+        },
+        "composerName": "Zedd, Sarah Aarons, Linus Wiklund & Jonnali Parmenius",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1434740109",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/happy-now-acoustic/1434739734?i=1434740109",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Happy Now (Acoustic)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/25/b1/b9/25b1b96a-41ce-08c0-9f6c-ff573000d1af/mzaf_18159672697375956243.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Zedd, Elley Duhé & Arkadi"
+      }
+    },
+    "1436215753": {
+      "id": "1436215753",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Tie Me Down (feat. Elley Duhé) [Remixes] - EP",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-09-21",
+        "durationInMillis": 251515,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71813663",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/88/6a/85/886a854f-fdec-90d4-be41-dc94469a6b4d/00602577065828.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5d74cf",
+          "textColor2": "fd5863",
+          "textColor4": "cf4b55",
+          "textColor1": "6f8cfb",
+          "bgColor": "17181c",
+          "hasP3": false
+        },
+        "composerName": "Aron Noah Forbes, Gryffin, Jussi Ilmari Karvinen p/k/a 'Jussifer', Nate Cyphert & Sarah Aarons",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/tie-me-down-feat-elley-duh%C3%A9-blanke-remix/1436215752?i=1436215753",
+        "playParams": {
+          "id": "1436215753",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Tie Me Down (feat. Elley Duhé) [Blanke Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a3/64/4e/a3644e26-aac7-8840-7f1d-cff77d3eafff/mzaf_3922531378846842236.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gryffin"
+      }
+    },
+    "1436234346": {
+      "id": "1436234346",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Happy Now (feat. Elley Duhé) [Remixes]",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2018-09-21",
+        "durationInMillis": 228148,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71814231",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/e4/bb/2ee4bba5-8252-7db5-c3f9-20c276f3668c/00602577095092.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "484c3b",
+          "textColor2": "1b2624",
+          "textColor4": "474f40",
+          "textColor1": "1b231e",
+          "bgColor": "fbf2b1",
+          "hasP3": false
+        },
+        "composerName": "Zedd, Sarah Aarons, Linus Wiklund & Jonnali Parmenius",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1436234346",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/happy-now-feat-elley-duh%C3%A9-beauz-remix/1436234326?i=1436234346",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Happy Now (feat. Elley Duhé) [BEAUZ Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8a/1e/92/8a1e922d-cfd7-fb71-71a7-b88681dbc769/mzaf_13607397113186040237.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Zedd"
+      }
+    },
+    "1445923210": {
+      "id": "1445923210",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Gravity, Pt. 1 - EP",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 3,
+        "durationInMillis": 218296,
+        "releaseDate": "2018-08-03",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71810504",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f0/f1/b9/f0f1b940-240f-e579-22a7-1874b974b021/00602577299056.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b19298",
+          "textColor2": "dda4a7",
+          "textColor4": "b5878b",
+          "textColor1": "d7b2b7",
+          "bgColor": "17141b",
+          "hasP3": false
+        },
+        "composerName": "Aron Noah Forbes, Daniel Griffith, Jussi Ilmari Karvinen p/k/a 'Jussifer', Nate Cyphert & Sarah Aarons",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/tie-me-down/1445923192?i=1445923210",
+        "playParams": {
+          "id": "1445923210",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Tie Me Down",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/91/f1/8d91f1e7-e81e-b485-107a-1b5122b98460/mzaf_16582171610706420960.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gryffin & Elley Duhé"
+      }
+    },
+    "1447457302": {
+      "id": "1447457302",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Tie Me Down (Steve Aoki Remix) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-12-19",
+        "durationInMillis": 189818,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71821107",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/64/19/1e6419ee-07f5-6aed-e4c5-d8c0c94dbb8f/00602577421907.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d0d0d1",
+          "textColor2": "d5d3d1",
+          "textColor4": "afaeac",
+          "textColor1": "fefefe",
+          "bgColor": "17181c",
+          "hasP3": false
+        },
+        "composerName": "Aron Noah Forbes, Daniel Griffith, Jussi Ilmari Karvinen p/k/a 'Jussifer', Nate Cyphert & Sarah Aarons",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/tie-me-down-steve-aoki-remix/1447457301?i=1447457302",
+        "playParams": {
+          "id": "1447457302",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Tie Me Down (Steve Aoki Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a3/82/db/a382dbec-0248-36f9-06aa-1143a8433cb3/mzaf_1477934254911610289.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gryffin & Elley Duhé"
+      }
+    },
+    "1483998056": {
+      "id": "1483998056",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Gravity",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 4,
+        "durationInMillis": 218240,
+        "releaseDate": "2018-08-03",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71810504",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/37/c8/3b/37c83bdc-31e1-b473-5d8c-e547b9e5cb8f/19UMGIM89771.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c1b9d1",
+          "textColor2": "cac1fb",
+          "textColor4": "a69ece",
+          "textColor1": "ece3fe",
+          "bgColor": "17141b",
+          "hasP3": false
+        },
+        "composerName": "Aron Noah Forbes, Gryffin, Jussi Ilmari Karvinen p/k/a 'Jussifer', Nate Cyphert & Sarah Aarons",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/tie-me-down/1483997865?i=1483998056",
+        "playParams": {
+          "id": "1483998056",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Tie Me Down",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/02/cb/8502cb44-e735-a7f1-acb5-28dbcc2d26e6/mzaf_12570416010008125208.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gryffin & Elley Duhé"
+      }
+    },
+    "1492152237": {
+      "id": "1492152237",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "MIDDLE OF THE NIGHT - Single",
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 184448,
+        "releaseDate": "2020-01-10",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USRC11903813",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/03/cb/6403cb43-d892-4663-d759-5093b5ed610c/886448203087.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d2cfcf",
+          "textColor2": "e2c579",
+          "textColor4": "bba164",
+          "textColor1": "ffffff",
+          "bgColor": "1f1110",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Andrew Wells, Sam Roman & SAM ROMANS",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1492152237",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/middle-of-the-night/1492152228?i=1492152237",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "MIDDLE OF THE NIGHT",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/2b/bd/d0/2bbdd03b-2079-452b-9e54-3000ad9db011/mzaf_10814947559187448634.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elley Duhé"
+      }
+    },
+    "1496383400": {
+      "id": "1496383400",
+      "type": "songs",
+      "attributes": {
+        "albumName": "LOVE ME HARD - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-01-31",
+        "durationInMillis": 218630,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USRC12000343",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7b/53/ee/7b53eeca-606c-b685-2f3c-f1ed62d7c1db/886448262039.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "232323",
+          "textColor2": "191919",
+          "textColor4": "373737",
+          "textColor1": "000000",
+          "bgColor": "b1b1b1",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Andrew Wells & Sam Roman",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1496383400",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/love-me-hard/1496383399?i=1496383400",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "LOVE ME HARD",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/f4/2b/ebf42bf5-f878-5db9-f9cd-c2aa90e6dd2d/mzaf_3966824485156902370.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Elley Duhé"
+      }
+    },
+    "1543107048": {
+      "id": "1543107048",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Gravity (Deluxe)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 4,
+        "durationInMillis": 218240,
+        "releaseDate": "2019-10-24",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71810504",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/5e/1a/785e1acf-9cd1-c088-79dc-55ab0f50f9d3/20UM1IM11387.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bcc2ca",
+          "textColor2": "c9ccf1",
+          "textColor4": "a4a7c7",
+          "textColor1": "e6eef6",
+          "bgColor": "11161c",
+          "hasP3": false
+        },
+        "composerName": "Aron Noah Forbes, Gryffin, Jussi Ilmari Karvinen p/k/a 'Jussifer', Nate Cyphert & Sarah Aarons",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1543107048",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/tie-me-down/1543106757?i=1543107048",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Tie Me Down",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e1/6c/c3/e16cc33c-20f1-d5cf-4c3e-542ac9871d93/mzaf_8913518159279932764.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gryffin & Elley Duhé"
+      }
+    },
+    "1632534359": {
+      "id": "1632534359",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Bad Memories (feat. Elley Duhé & FAST BOY) - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 147629,
+        "releaseDate": "2022-07-22",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBUM72203666",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/c7/60/15c76064-413c-4501-9f3f-ae1664e8a6eb/22UMGIM58565.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "402000",
+          "textColor4": "664c33",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Luca De Gregorio, Mattia Vitale, Simone Giani, James Carter, Lucas Hain, Felix Hain, Darren Patrick Flynn, Elley Frances Duhe & Chris Mears",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1632534359",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/bad-memories-feat-elley-duh%C3%A9-fast-boy/1632534353?i=1632534359",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Bad Memories (feat. Elley Duhé & FAST BOY)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a5/5a/ee/a55aeeeb-cc7a-49fc-74cd-e83a12c35698/mzaf_1986369836437471151.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Meduza & James Carter"
+      }
+    },
+    "1650706469": {
+      "id": "1650706469",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Forever (feat. Elley Duhé) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-10-28",
+        "durationInMillis": 187385,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72220206",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/05/c1/31/05c1319a-acf4-4df4-ce47-04598e34855b/22UM1IM18758.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "1f1e1d",
+          "textColor2": "1a1b1b",
+          "textColor4": "343333",
+          "textColor1": "000100",
+          "bgColor": "9d9394",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Johan Lindbrandt, Patrick Joseph Martin, Leah Pringle & Daniel Griffith",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1650706469",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/forever-feat-elley-duh%C3%A9/1650706468?i=1650706469",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Forever (feat. Elley Duhé)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/58/4f/37/584f37be-8af6-eff1-545b-f603db9bdb04/mzaf_6165539401802233169.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gryffin"
+      }
+    },
+    "1651499782": {
+      "id": "1651499782",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Alive",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2022-10-28",
+        "durationInMillis": 187385,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72220206",
+        "artwork": {
+          "width": 3840,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/ee/16/09ee169b-1f5e-1c35-d05c-02945774794d/22UM1IM18761.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3840,
+          "textColor3": "d34b5c",
+          "textColor2": "fa3b1b",
+          "textColor4": "cf341d",
+          "textColor1": "ff596a",
+          "bgColor": "231826",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Johan Lindbrandt, Patrick Joseph Martin, Leah Pringle & Gryffin",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/forever-feat-elley-duh%C3%A9/1651498809?i=1651499782",
+        "playParams": {
+          "id": "1651499782",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Forever (feat. Elley Duhé)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bc/2e/e8/bc2ee813-ec97-0048-e359-827a9fb6ef23/mzaf_5697443369807276155.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gryffin"
+      }
+    },
+    "1655399058": {
+      "id": "1655399058",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Back To You - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 157252,
+        "releaseDate": "2022-12-08",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "BEHP42200024",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/9f/94/cf9f942f-5338-2e0f-c1de-6023e48f736e/196589692825.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "97aba7",
+          "textColor2": "b7c9d1",
+          "textColor4": "93aab2",
+          "textColor1": "bbcbc3",
+          "bgColor": "042c37",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Felix de Laet, Joacim Persson, Nicklas Lif & Jonas Vesa",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1655399058",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/back-to-you/1655398754?i=1655399058",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Back To You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/17/30/fb/1730fb57-0f67-f0ea-ebb7-ad1e35acfc9a/mzaf_13424045436865561525.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies, Elley Duhé & X Ambassadors"
+      }
+    },
+    "1656001879": {
+      "id": "1656001879",
+      "type": "songs",
+      "attributes": {
+        "albumName": "MONEY ON THE DASH - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 145667,
+        "releaseDate": "2023-01-19",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZLBC2201770",
+        "artwork": {
+          "width": 5000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7a/e7/50/7ae750d0-6ea4-a536-cfed-ddfd716cf83e/5000x5000-810110328259-0-0.jpg/{w}x{h}bb.jpg",
+          "height": 5000,
+          "textColor3": "ccbb69",
+          "textColor2": "fa7865",
+          "textColor4": "cb6354",
+          "textColor1": "fce67f",
+          "bgColor": "0e0e10",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/money-on-the-dash/1656001878?i=1656001879",
+        "playParams": {
+          "id": "1656001879",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "MONEY ON THE DASH",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/af/6b/ba/af6bbabb-5b63-8dd9-2fc7-8997cff1de04/mzaf_2840213246232621710.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Elley Duhé & Whethan"
+      }
+    },
+    "1679861663": {
+      "id": "1679861663",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Lost My Mind (Wake Up) - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 147673,
+        "releaseDate": "2023-04-06",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAR12300134",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c5/59/1d/c5591d9e-28f4-df31-8891-8d33b876d127/196871021678.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "313131",
+          "textColor2": "202020",
+          "textColor4": "4b4b4b",
+          "textColor1": "000000",
+          "bgColor": "f6f6f6",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Levi Gültekin & mike riley",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/lost-my-mind-wake-up/1679861659?i=1679861663",
+        "playParams": {
+          "id": "1679861663",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Lost My Mind (Wake Up)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a4/c4/41/a4c441ae-5f03-4e52-7768-52700f5db711/mzaf_3145007301107841824.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "BUNT. & Elley Duhé"
+      }
+    }
+  }
+}

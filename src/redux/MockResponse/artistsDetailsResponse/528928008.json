@@ -1,0 +1,2496 @@
+{
+      "artists": {
+        "528928008": {
+          "id": "528928008",
+          "type": "artists",
+          "attributes": {
+            "genreNames": [
+              "Alternative"
+            ],
+            "name": "Glass Animals",
+            "artwork": {
+              "width": 3044,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/06/b3/09/06b30967-8ba7-2206-79d4-e2011f18d599/pr_source.png/{w}x{h}bb.jpg",
+              "height": 3044,
+              "textColor3": "b8b2c5",
+              "textColor2": "dbdad6",
+              "textColor4": "b4b0b0",
+              "textColor1": "e1dcf0",
+              "bgColor": "180a1a",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/artist/glass-animals/528928008"
+          },
+          "relationships": {
+            "albums": {
+              "data": [
+                {
+                  "id": "1508562310",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440840097",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440850428",
+                  "type": "albums"
+                },
+                {
+                  "id": "1440817571",
+                  "type": "albums"
+                },
+                {
+                  "id": "1584173516",
+                  "type": "albums"
+                },
+                {
+                  "id": "1445160090",
+                  "type": "albums"
+                },
+                {
+                  "id": "1681997782",
+                  "type": "albums"
+                },
+                {
+                  "id": "1547466905",
+                  "type": "albums"
+                },
+                {
+                  "id": "1445283981",
+                  "type": "albums"
+                },
+                {
+                  "id": "1540160816",
+                  "type": "albums"
+                },
+                {
+                  "id": "1443163058",
+                  "type": "albums"
+                },
+                {
+                  "id": "1606901541",
+                  "type": "albums"
+                },
+                {
+                  "id": "1542674172",
+                  "type": "albums"
+                },
+                {
+                  "id": "1686518532",
+                  "type": "albums"
+                },
+                {
+                  "id": "1606896970",
+                  "type": "albums"
+                },
+                {
+                  "id": "1444877267",
+                  "type": "albums"
+                },
+                {
+                  "id": "1680740657",
+                  "type": "albums"
+                },
+                {
+                  "id": "1695111385",
+                  "type": "albums"
+                },
+                {
+                  "id": "1616167410",
+                  "type": "albums"
+                },
+                {
+                  "id": "1445295164",
+                  "type": "albums"
+                },
+                {
+                  "id": "1444869620",
+                  "type": "albums"
+                },
+                {
+                  "id": "1618350085",
+                  "type": "albums"
+                },
+                {
+                  "id": "1445313903",
+                  "type": "albums"
+                },
+                {
+                  "id": "1445286003",
+                  "type": "albums"
+                },
+                {
+                  "id": "1507145543",
+                  "type": "albums"
+                }
+              ]
+            }
+          },
+          "views": {
+            "top-songs": {
+              "attributes": {
+                "title": "Top Songs"
+              },
+              "data": [
+                {
+                  "id": "1508562516",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440817896",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840432",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840442",
+                  "type": "songs"
+                },
+                {
+                  "id": "1686519894",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840433",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840099",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840435",
+                  "type": "songs"
+                },
+                {
+                  "id": "1508562313",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840444",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440850555",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440850562",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440817887",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440818278",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840446",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840561",
+                  "type": "songs"
+                },
+                {
+                  "id": "1440840437",
+                  "type": "songs"
+                },
+                {
+                  "id": "1508562312",
+                  "type": "songs"
+                },
+                {
+                  "id": "1486352207",
+                  "type": "songs"
+                },
+                {
+                  "id": "1508562320",
+                  "type": "songs"
+                }
+              ]
+            },
+            "latest-release": {
+              "attributes": {
+                "title": "Latest Release"
+              },
+              "data": [
+                {
+                  "id": "1686518532",
+                  "type": "albums"
+                }
+              ]
+            }
+          },
+          "meta": {
+            "views": {
+              "order": [
+                "latest-release",
+                "top-songs"
+              ]
+            }
+          }
+        }
+      },
+      "albums": {
+        "1440817571": {
+          "id": "1440817571",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2014 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Electronic",
+              "Rock",
+              "Adult Alternative",
+              "Indie Rock"
+            ],
+            "releaseDate": "2014-06-05",
+            "upc": "00602537776962",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/46/47/fd464715-c290-3060-8346-346746c411ee/00602537776962.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "c88926",
+              "textColor2": "e9a335",
+              "textColor4": "bf8834",
+              "textColor1": "f5a524",
+              "bgColor": "171b2f",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/zaba/1440817571",
+            "playParams": {
+              "id": "1440817571",
+              "kind": "album"
+            },
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 11,
+            "isPrerelease": false,
+            "audioTraits": [
+              "hi-res-lossless",
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Zaba",
+            "artistName": "Glass Animals",
+            "contentRating": "explicit",
+            "editorialNotes": {
+              "name": "Zaba",
+              "standard": "Though they hail from the UK, Glass Animals thrive in hot, humid environs. The Oxford outfit’s 2014 debut feels like a late-night rainforest cruise into uncharted territory, powered by tropical grooves and ayahuasca-induced weirdness. Even as he guides you through the drum-circle ceremony of “Walla Walla” and jungle rumble of “Pools,” singer David Bayley remains a smooth tour operator, countering the percussive propulsion with a cool, melodic sensibility that’s equal parts James Blake and Thom Yorke.",
+              "short": "The adventurous indie pop crew take us on a tropical Art&B odyssey."
+            },
+            "isComplete": true
+          }
+        },
+        "1440840097": {
+          "id": "1440840097",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2016 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Rock",
+              "Indie Rock",
+              "Electronic"
+            ],
+            "releaseDate": "2016-08-26",
+            "upc": "00602547950895",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1440840097",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/how-to-be-a-human-being/1440840097",
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 11,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "How to Be a Human Being",
+            "contentRating": "explicit",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1440850428": {
+          "id": "1440850428",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Rock",
+              "Indie Rock",
+              "Electronic"
+            ],
+            "releaseDate": "2014-06-06",
+            "upc": "00602547514844",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/61/c6/4761c669-69e2-4568-78c6-f78e6f12aa53/00602547514844.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "c88926",
+              "textColor2": "e9a335",
+              "textColor4": "bf8834",
+              "textColor1": "f5a524",
+              "bgColor": "171b2f",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/zaba-deluxe/1440850428",
+            "playParams": {
+              "id": "1440850428",
+              "kind": "album"
+            },
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 15,
+            "isPrerelease": false,
+            "audioTraits": [
+              "hi-res-lossless",
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "ZABA (Deluxe)",
+            "artistName": "Glass Animals",
+            "contentRating": "explicit",
+            "editorialNotes": {
+              "name": "Zaba",
+              "standard": "Though they hail from the UK, Glass Animals thrive in hot, humid environs. The Oxford outfit’s 2014 debut feels like a late-night rainforest cruise into uncharted territory, powered by tropical grooves and ayahuasca-induced weirdness. Even as he guides you through the drum-circle ceremony of “Walla Walla” and jungle rumble of “Pools,” singer David Bayley remains a smooth tour operator, countering the percussive propulsion with a cool, melodic sensibility that’s equal parts James Blake and Thom Yorke.",
+              "short": "The adventurous indie pop crew take us on a tropical Art&B odyssey."
+            },
+            "isComplete": true
+          }
+        },
+        "1443163058": {
+          "id": "1443163058",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2015 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Rock"
+            ],
+            "releaseDate": "2015-02-17",
+            "upc": "00602547231376",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ab/b6/f2/abb6f2b9-7c33-6ef9-8afd-382ad78e3e90/00602547231376.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "d59b58",
+              "textColor2": "e7b463",
+              "textColor4": "c2a160",
+              "textColor1": "feae59",
+              "bgColor": "2f5256",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/remixes/1443163058",
+            "playParams": {
+              "id": "1443163058",
+              "kind": "album"
+            },
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 12,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Remixes",
+            "artistName": "Glass Animals",
+            "contentRating": "explicit",
+            "editorialNotes": {
+              "short": "The British indie rock voyagers get remixed by the likes of Kwes, Kingdom and more. "
+            },
+            "isComplete": true
+          }
+        },
+        "1444869620": {
+          "id": "1444869620",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2016 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "releaseDate": "2016-05-18",
+            "isMasteredForItunes": true,
+            "upc": "00602557152487",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9e/53/79/9e537972-2631-4601-a227-46e0fbfd80b8/00602557152487.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "2f2218",
+              "textColor2": "181f1b",
+              "textColor4": "423028",
+              "textColor1": "010d06",
+              "bgColor": "e7755c",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/life-itself-roosevelt-remix-single/1444869620",
+            "playParams": {
+              "id": "1444869620",
+              "kind": "album"
+            },
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 1,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": true,
+            "name": "Life Itself (Roosevelt Remix) - Single",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1444877267": {
+          "id": "1444877267",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2014 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Rock"
+            ],
+            "releaseDate": "2014-04-04",
+            "upc": "00602537783212",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a5/5d/20/a55d2051-e238-b21b-35d3-cb6279bfbb61/00602537783212.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "cf7f1c",
+              "textColor2": "f39240",
+              "textColor4": "d0753c",
+              "textColor1": "f19f19",
+              "bgColor": "440028",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1444877267",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/gooey-ep/1444877267",
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 5,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Gooey - EP",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1445160090": {
+          "id": "1445160090",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2014 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Rock"
+            ],
+            "releaseDate": "2014-01-01",
+            "upc": "00602537958474",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/2c/88/c22c880f-49df-ed47-03cb-de4e749e5b19/00602537958474.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "cb8a31",
+              "textColor2": "e79b44",
+              "textColor4": "c28444",
+              "textColor1": "f1a22d",
+              "bgColor": "312a42",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/pools-ep/1445160090",
+            "playParams": {
+              "id": "1445160090",
+              "kind": "album"
+            },
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 5,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Pools - EP",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1445283981": {
+          "id": "1445283981",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2013 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Rock"
+            ],
+            "releaseDate": "2013-01-01",
+            "isMasteredForItunes": false,
+            "upc": "00602537614271",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/43/40/c2/4340c26b-dccf-8b5f-6c88-7b8bcfabd5dd/00602537614271.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "6bc99e",
+              "textColor2": "84f570",
+              "textColor4": "71c962",
+              "textColor1": "7cf4bb",
+              "bgColor": "271c2c",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/glass-animals-ep/1445283981",
+            "playParams": {
+              "id": "1445283981",
+              "kind": "album"
+            },
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 4,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Glass Animals - EP",
+            "contentRating": "explicit",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1445286003": {
+          "id": "1445286003",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2017 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Rock"
+            ],
+            "releaseDate": "2017-03-31",
+            "upc": "00602557607901",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/82/e6/6582e6c7-4a6f-ddfb-6886-f31fc2270d0a/00602557607901.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "373530",
+              "textColor2": "42243c",
+              "textColor4": "664c5a",
+              "textColor1": "070707",
+              "bgColor": "f8eed5",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/pork-soda-radio-edit-single/1445286003",
+            "playParams": {
+              "id": "1445286003",
+              "kind": "album"
+            },
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 1,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": true,
+            "name": "Pork Soda (Radio Edit) - Single",
+            "contentRating": "clean",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1445295164": {
+          "id": "1445295164",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2017 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Rock"
+            ],
+            "releaseDate": "2017-06-09",
+            "isMasteredForItunes": false,
+            "upc": "00602557749717",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/6b/a4/376ba443-780a-907c-eb63-5f1e1caa9e54/00602557749717.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "584520",
+              "textColor2": "36270e",
+              "textColor4": "5d4b29",
+              "textColor1": "301f03",
+              "bgColor": "f7dd92",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/agnes-radio-edit-single/1445295164",
+            "playParams": {
+              "id": "1445295164",
+              "kind": "album"
+            },
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 1,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": true,
+            "name": "Agnes (Radio Edit) - Single",
+            "contentRating": "clean",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1445313903": {
+          "id": "1445313903",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2014 Wolf Tone Limited",
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "releaseDate": "2014-01-01",
+            "isMasteredForItunes": true,
+            "upc": "00602547077790",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/58/2c/00/582c00d9-9237-a4be-ac69-9dd11c97186f/00602547077790.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "ca881c",
+              "textColor2": "db834d",
+              "textColor4": "b56e46",
+              "textColor1": "f5a419",
+              "bgColor": "1e1a2b",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1445313903",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/hazey-ep/1445313903",
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 4,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Hazey - EP",
+            "contentRating": "explicit",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1507145543": {
+          "id": "1507145543",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2020 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2020-04-17",
+            "upc": "00602507111366",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/6d/ef/936def7c-bfcb-47b1-70ea-cf19934245dd/20UMGIM24433.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "355a64",
+              "textColor2": "2b324c",
+              "textColor4": "4f5b6f",
+              "textColor1": "0b313e",
+              "bgColor": "dffeff",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/heart-shaped-box-quarantine-covers-ep-1/1507145543",
+            "playParams": {
+              "id": "1507145543",
+              "kind": "album"
+            },
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 1,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": true,
+            "name": "Heart-Shaped Box (Quarantine Covers Ep. 1)",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1508562310": {
+          "id": "1508562310",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2020 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music",
+              "Rock"
+            ],
+            "releaseDate": "2020-08-07",
+            "upc": "00602508741197",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "32223a",
+              "textColor2": "33003d",
+              "textColor4": "52225f",
+              "textColor1": "0c000f",
+              "bgColor": "ccabe7",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/dreamland/1508562310",
+            "playParams": {
+              "id": "1508562310",
+              "kind": "album"
+            },
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 16,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "Dreamland",
+            "artistName": "Glass Animals",
+            "contentRating": "explicit",
+            "editorialNotes": {
+              "standard": "In July 2018, Glass Animals drummer Joe Seaward was riding his bicycle in Dublin when he was hit by a truck and nearly died. After spending weeks in the hospital unable to speak or move, he learned how to walk, talk, and read again while his body healed. For his bandmates, the experience was excruciating and profound, the kind that made frontman Dave Bayley “zoom out” and ask existential questions about trauma, art, and mortality. “I started thinking back to stories from my childhood in Texas before my family moved to England,” he tells Apple Music. The experience wasn’t necessarily pleasant. “Your brain goes to weird places.”<br />\nBayley doesn’t particularly enjoy writing about himself, but wound up circling his own memories for the band’s introspective third album—specifically, those emotionally charged moments when innocence is lost. Strung together by interludes ripped from his family’s home videos and production inspired by early-aughts hip-hop (the soundtrack of his youth), <i>Dreamland</i> is a deeply personal account of Bayley’s journey into adulthood that chases an ever-looming question: “How did I get here?” Below, the London-based musician opens up about the stories behind a few standout songs.<br />\n<b>Space Ghost Coast to Coast</b>\n“I’ve tried to tell this story somewhat vaguely because I hate the idea of revealing someone's identity, and this person in particular has rebuilt themselves, which is an incredible thing. This song is about a very good friend I had growing up, back in those formative years when I was first discovering hip-hop—Eminem, Busta Rhymes, Missy Elliott, all of whom I tried to channel in the production—and also discovering myself. We went to camp together, we got into trouble together, but we were both always nervous and shy about everything. There was gentleness to it all. When my family moved to England, we fell out of touch, and a couple of years later I found out that he’d brought a gun to school and tried to do a shooting. He got caught on the way in, no one died, but it affected me. It didn't add up in my head. He was the person I watched cartoons with and played kickball with... I couldn’t understand it. It was the first time I really understood how much things can change, that people you love can do things that you won't understand. It was a breaking of innocence.”<br />  \n<b>It's All So Incredibly Loud</b>\n“This song is about saying something that you know is going to really hurt somebody—something they'll never forgive you for and that will probably make them hate you—and the three seconds right after you say those words. That silence that feels like the loudest fucking thing ever. I began with a particular moment in mind, but then I just started thinking back on all the times I've been...well, maybe not a dick, but close. All the times I've hurt somebody, and sitting with what that felt like. It’s quite abstract compared to the rest of the songs on the record because I wanted it to apply to a lot of situations.”<br /> \n<b>Domestic Bliss</b>\n“This song was sparked by one of my very first memories—the first where I can trace the whole sequence of events. I was maybe six. I went to my friend’s house after school one day, and it was a weird place. There were dogs in cages, wild cats in cages; I didn't really understand it. We weren’t allowed in the house—we always played in this woodsy area nearby—but sometimes there’d be loud shouting from inside. My friend would turn to me and be like, 'Oh god, she's going to come out crying.' And his mom would come out of the house in tears with blood on her nose and things like that. I remember it hitting me, just that it was so bad. And then we'd all get back in the truck and she'd take me home. I guess the song is about the helplessness you feel in situations like that. When you know it’s bad but also that you’re too young to really get it.”<br /> \n<b>Heat Waves</b>\n“It began with a personal experience that everyone has had: A friend starts dating someone and slowly, they change the way they dress. And then the way they talk. And then everything. Eventually it gets to the point where you’re like, ‘Who is that? Where did my friend go?’ Well, this song is about realizing that it’s happened to you, that it's <i>you</i> that's changed. You've become someone that you aren't. I was trying to figure out whether it’s a good thing or a bad thing, but ultimately I think it's about hitting a wall—a point where you can't change anymore or you’ll lose the foundation of who you are. You’ll become an attachment for this other person. It’s happened to me and I’ve seen it happen to so many friends. And there’s a moment when you see your reflection and you're like, ‘Oh, fuck.’ All of the lyrics play into that—mirages, hallucinations, things like that.”<br />  \n<b>Helium</b>\n“This is the only song that gets at any resolution and isn’t groundbreaking. It basically says that we have to accept that we're all doing the best we can. We're doing it on top of tattered foundations with all these rocky cracks—because it’s never perfect, right?—but we’re trying. We build what we can, we make a life, we do our best. And that’s just fine. By this point in the writing process, I had become more comfortable being confused about everything. I had stopped searching for answers or wishing I’d done everything differently. It was a relief to get to that point. There are plenty of times when you look back and realize you got it wrong, but you have to forgive yourself, because you’ve probably, hopefully, become a better person for it. People spend so much time trying to be a kid forever or go back to their youth, but the whole reason these memories even matter to us is because of the wisdom we’ve gained from them. Even if we could go back, we probably wouldn’t, because they’ve made us who we are.”",
+              "short": "The UK psych-pop band turns a brush with tragedy into introspection."
+            },
+            "isComplete": true
+          }
+        },
+        "1540160816": {
+          "id": "1540160816",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2020 UMG Recordings, Inc. FP",
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "releaseDate": "2020-11-20",
+            "isMasteredForItunes": false,
+            "upc": "00602435528373",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/b5/9b/c0b59b5d-ec7f-03ac-2d70-61b72908c7ce/21UMGIM98779.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "484b89",
+              "textColor2": "49291b",
+              "textColor4": "645448",
+              "textColor1": "271e6c",
+              "bgColor": "d0ffff",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/adulthood-ep/1540160816",
+            "playParams": {
+              "id": "1540160816",
+              "kind": "album"
+            },
+            "recordLabel": "UME - Global Clearing House",
+            "isCompilation": false,
+            "trackCount": 5,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "ADULTHOOD - EP",
+            "contentRating": "explicit",
+            "artistName": "Glass Animals",
+            "isComplete": false
+          }
+        },
+        "1542674172": {
+          "id": "1542674172",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2020 UMG Recordings, Inc. FP",
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "releaseDate": "2020-12-04",
+            "upc": "00602435605470",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6f/db/62/6fdb62cd-4b48-0194-a7f3-cefe22f3ae68/21UMGIM98132.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "68388d",
+              "textColor2": "272f63",
+              "textColor4": "4f5781",
+              "textColor1": "470872",
+              "bgColor": "f0f8fa",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/adolescence-ep/1542674172",
+            "playParams": {
+              "id": "1542674172",
+              "kind": "album"
+            },
+            "recordLabel": "UME - Global Clearing House",
+            "isCompilation": false,
+            "trackCount": 4,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "ADOLESCENCE - EP",
+            "artistName": "Glass Animals",
+            "contentRating": "explicit",
+            "isComplete": false
+          }
+        },
+        "1547466905": {
+          "id": "1547466905",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2021 UMG Recordings, Inc. FP",
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "releaseDate": "2021-01-08",
+            "upc": "00602435706504",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/76/fa/f876fa30-e39f-68cc-9eb4-04ea9fee0045/21UMGIM96931.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "2d3d43",
+              "textColor2": "090c16",
+              "textColor4": "343c43",
+              "textColor1": "010d16",
+              "bgColor": "ddfcf6",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/childhood-ep/1547466905",
+            "playParams": {
+              "id": "1547466905",
+              "kind": "album"
+            },
+            "recordLabel": "UME - Global Clearing House",
+            "isCompilation": false,
+            "trackCount": 6,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": false,
+            "name": "CHILDHOOD - EP",
+            "artistName": "Glass Animals",
+            "contentRating": "explicit",
+            "isComplete": false
+          }
+        },
+        "1584173516": {
+          "id": "1584173516",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2021 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2021-09-10",
+            "isMasteredForItunes": true,
+            "upc": "00602438831937",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/2e/2e/442e2e48-677d-592a-5f5a-145c67236e75/21UMGIM85445.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "32223a",
+              "textColor2": "33003d",
+              "textColor4": "52225f",
+              "textColor1": "0c000f",
+              "bgColor": "ccabe7",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1584173516",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/dreamland-bonus-levels-2-0/1584173516",
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 17,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Dreamland (+ Bonus Levels 2.0)",
+            "contentRating": "clean",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1606896970": {
+          "id": "1606896970",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2022 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2021-03-21",
+            "upc": "00602445496167",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/17/dd/3f/17dd3f56-3361-9446-1bd2-23c1c751aac8/21UMGIM02724.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "1c2b32",
+              "textColor2": "171124",
+              "textColor4": "242c42",
+              "textColor1": "0d0f11",
+              "bgColor": "5998b9",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/heat-waves-expansion-pack/1606896970",
+            "playParams": {
+              "id": "1606896970",
+              "kind": "album"
+            },
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 9,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Heat Waves (Expansion Pack)",
+            "contentRating": "clean",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1606901541": {
+          "id": "1606901541",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2022 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2021-03-21",
+            "isMasteredForItunes": true,
+            "upc": "00602445496129",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/53/ec/7e53ecbb-faca-a037-eeda-f8067d00bd73/21UMGIM02724.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "1c2b32",
+              "textColor2": "171124",
+              "textColor4": "242c42",
+              "textColor1": "0d0f11",
+              "bgColor": "5998b9",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/heat-waves-expansion-pack/1606901541",
+            "playParams": {
+              "id": "1606901541",
+              "kind": "album"
+            },
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 9,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Heat Waves (Expansion Pack)",
+            "contentRating": "explicit",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1616167410": {
+          "id": "1616167410",
+          "type": "albums",
+          "attributes": {
+            "copyright": "A Polydor Records Release; ℗ 2022 Universal Music Operations Limited",
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "releaseDate": "2022-04-01",
+            "upc": "00602445788668",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/63/bd/3463bd3f-f46c-26d3-ee52-f14541e6451c/22UMGIM33853.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "38352a",
+              "textColor2": "1c2f28",
+              "textColor4": "445040",
+              "textColor1": "0e0d0d",
+              "bgColor": "e1d6a0",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/my-love-dave-glass-animals-remix-single/1616167410",
+            "playParams": {
+              "id": "1616167410",
+              "kind": "album"
+            },
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 1,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": true,
+            "name": "My Love (Dave Glass Animals Remix) - Single",
+            "artistName": "Florence + the Machine & Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1618350085": {
+          "id": "1618350085",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2022 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2022-04-22",
+            "upc": "00602445629718",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/8b/92/6d8b928b-7db0-aab1-6d9c-4274d3489617/21UM1IM43142.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "07272e",
+              "textColor2": "161313",
+              "textColor4": "183137",
+              "textColor1": "010607",
+              "bgColor": "1fa9c9",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/i-dont-wanna-talk-i-just-wanna-dance-single/1618350085",
+            "playParams": {
+              "id": "1618350085",
+              "kind": "album"
+            },
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 1,
+            "isPrerelease": false,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "isSingle": true,
+            "name": "I Don't Wanna Talk (I Just Wanna Dance) - Single",
+            "artistName": "Glass Animals & Albert Hammond Jr",
+            "contentRating": "clean",
+            "isComplete": true
+          }
+        },
+        "1680740657": {
+          "id": "1680740657",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2022 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2020-08-07",
+            "isMasteredForItunes": false,
+            "upc": "00602448381897",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/b5/53/00b553e2-fbd4-1def-92aa-1d1635697bbb/22UMGIM84423.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "0d3031",
+              "textColor2": "01080a",
+              "textColor4": "0e312f",
+              "textColor1": "00070b",
+              "bgColor": "44d5c6",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/dreamland-real-life-edition/1680740657",
+            "playParams": {
+              "id": "1680740657",
+              "kind": "album"
+            },
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 40,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Dreamland (Real Life Edition)",
+            "contentRating": "explicit",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1681997782": {
+          "id": "1681997782",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2021 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2021-09-09",
+            "upc": "00602438819850",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/cd/3e/2ccd3e81-d1d5-e535-06df-b59bfeeaba2e/20UMGIM67087.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "32223a",
+              "textColor2": "33003d",
+              "textColor4": "52225f",
+              "textColor1": "0c000f",
+              "bgColor": "ccabe7",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1681997782",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/dreamland-bonus-levels/1681997782",
+            "recordLabel": "Polydor Records",
+            "isCompilation": false,
+            "trackCount": 29,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Dreamland (+ Bonus Levels)",
+            "contentRating": "explicit",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1686518532": {
+          "id": "1686518532",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2022 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Pop",
+              "Music"
+            ],
+            "releaseDate": "2022-08-05",
+            "upc": "00602455755476",
+            "isMasteredForItunes": true,
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/b1/42/50b142aa-5462-d3a8-2d36-e3c0df02ac3c/22UMGIM84423.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "0d3031",
+              "textColor2": "01080a",
+              "textColor4": "0e312f",
+              "textColor1": "00070b",
+              "bgColor": "44d5c6",
+              "hasP3": false
+            },
+            "url": "https://music.apple.com/us/album/dreamland-real-life-edition/1686518532",
+            "playParams": {
+              "id": "1686518532",
+              "kind": "album"
+            },
+            "recordLabel": "UMC (Universal Music Catalogue)",
+            "isCompilation": false,
+            "trackCount": 40,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Dreamland (Real Life Edition)",
+            "contentRating": "explicit",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        },
+        "1695111385": {
+          "id": "1695111385",
+          "type": "albums",
+          "attributes": {
+            "copyright": "℗ 2012 Wolf Tone Records, a division of Universal Music Operations Limited",
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "releaseDate": "2012-05-28",
+            "upc": "00602458205855",
+            "isMasteredForItunes": false,
+            "artwork": {
+              "width": 4000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/85/e1/dd85e195-85d3-1cf0-626b-6d29303f9ce9/23UMGIM74254.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 4000,
+              "textColor3": "c16b00",
+              "textColor2": "e26e03",
+              "textColor4": "b85b03",
+              "textColor1": "ee8200",
+              "bgColor": "0f0f03",
+              "hasP3": false
+            },
+            "playParams": {
+              "id": "1695111385",
+              "kind": "album"
+            },
+            "url": "https://music.apple.com/us/album/leaflings-ep/1695111385",
+            "recordLabel": "Wolf Tone",
+            "isCompilation": false,
+            "trackCount": 4,
+            "isPrerelease": false,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "isSingle": false,
+            "name": "Leaflings - EP",
+            "artistName": "Glass Animals",
+            "isComplete": true
+          }
+        }
+      },
+      "songs": {
+        "1440817887": {
+          "id": "1440817887",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Zaba",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Electronic",
+              "Rock",
+              "Adult Alternative",
+              "Indie Rock"
+            ],
+            "trackNumber": 2,
+            "durationInMillis": 248920,
+            "releaseDate": "2013-06-30",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM71303835",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/46/47/fd464715-c290-3060-8346-346746c411ee/00602537776962.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "c88926",
+              "textColor2": "e9a335",
+              "textColor4": "bf8834",
+              "textColor1": "f5a524",
+              "bgColor": "171b2f",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/black-mambo/1440817571?i=1440817887",
+            "playParams": {
+              "id": "1440817887",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "hi-res-lossless",
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Black Mambo",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/1f/51/cf1f514f-a5f4-0851-9026-89d475801d81/mzaf_17410397742120088051.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "860687887",
+              "857291919"
+            ]
+          }
+        },
+        "1440817896": {
+          "id": "1440817896",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Zaba",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Electronic",
+              "Rock",
+              "Adult Alternative",
+              "Indie Rock"
+            ],
+            "trackNumber": 4,
+            "releaseDate": "2014-01-01",
+            "durationInMillis": 289307,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM71400655",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/46/47/fd464715-c290-3060-8346-346746c411ee/00602537776962.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "c88926",
+              "textColor2": "e9a335",
+              "textColor4": "bf8834",
+              "textColor1": "f5a524",
+              "bgColor": "171b2f",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/gooey/1440817571?i=1440817896",
+            "playParams": {
+              "id": "1440817896",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "hi-res-lossless",
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Gooey",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/bf/78/74bf78f5-3dbe-2cc5-787d-61f9c9de5e47/mzaf_334253568175412901.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "857291921",
+              "860687890"
+            ]
+          }
+        },
+        "1440818278": {
+          "id": "1440818278",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Zaba",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music",
+              "Electronic",
+              "Rock",
+              "Adult Alternative",
+              "Indie Rock"
+            ],
+            "trackNumber": 8,
+            "releaseDate": "2014-01-01",
+            "durationInMillis": 254640,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1400014",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/46/47/fd464715-c290-3060-8346-346746c411ee/00602537776962.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "c88926",
+              "textColor2": "e9a335",
+              "textColor4": "bf8834",
+              "textColor1": "f5a524",
+              "bgColor": "171b2f",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Dave Bayley",
+            "url": "https://music.apple.com/us/album/toes/1440817571?i=1440818278",
+            "playParams": {
+              "id": "1440818278",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "hi-res-lossless",
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Toes",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/2d/1b/0c2d1b64-7026-2998-95da-86d1283f34ad/mzaf_6515781582415639889.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "860687895",
+              "857291926"
+            ]
+          }
+        },
+        "1440840099": {
+          "id": "1440840099",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 1,
+            "releaseDate": "2016-05-16",
+            "durationInMillis": 281407,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600018",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley & Ustad Tafu",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/life-itself/1440840097?i=1440840099",
+            "playParams": {
+              "id": "1440840099",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Life Itself",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/49/96/f6/4996f692-566f-e4c3-5e3d-65ca712c6558/mzaf_6964139869315852814.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1116868323",
+              "1119848485"
+            ]
+          }
+        },
+        "1440840432": {
+          "id": "1440840432",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 2,
+            "releaseDate": "2016-05-18",
+            "durationInMillis": 230693,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600029",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/youth/1440840097?i=1440840432",
+            "playParams": {
+              "id": "1440840432",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Youth",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9d/93/92/9d939285-532d-5abd-aba9-05642780b6a9/mzaf_17039234469579529794.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1116868327",
+              "1119848488"
+            ]
+          }
+        },
+        "1440840433": {
+          "id": "1440840433",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 3,
+            "releaseDate": "2016-08-22",
+            "durationInMillis": 243509,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600026",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Dave Bayley & Ben McFadden",
+            "url": "https://music.apple.com/us/album/season-2-episode-3/1440840097?i=1440840433",
+            "playParams": {
+              "id": "1440840433",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Season 2 Episode 3",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/82/e2/9a82e2eb-9e4b-a2ec-dd65-3428c011cf5a/mzaf_16025560414604767434.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1119848489",
+              "1116868328"
+            ]
+          }
+        },
+        "1440840435": {
+          "id": "1440840435",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 4,
+            "durationInMillis": 253831,
+            "releaseDate": "2016-08-26",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600025",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/pork-soda/1440840097?i=1440840435",
+            "playParams": {
+              "id": "1440840435",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Pork Soda",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/f6/a0/f6f6a0ef-7532-1896-b050-8f9c7100fa3b/mzaf_15852923829156721594.plus.aac.ep.m4a"
+              }
+            ],
+            "contentRating": "explicit",
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1119848490",
+              "1116868329"
+            ]
+          }
+        },
+        "1440840437": {
+          "id": "1440840437",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 6,
+            "durationInMillis": 196570,
+            "releaseDate": "2016-08-26",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600022",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1440840437",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/cane-shuga/1440840097?i=1440840437",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Cane Shuga",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1d/21/05/1d2105ca-6edd-f704-797f-963619896410/mzaf_4346478456544737610.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1119848493",
+              "1116868367"
+            ]
+          }
+        },
+        "1440840442": {
+          "id": "1440840442",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 8,
+            "durationInMillis": 320654,
+            "releaseDate": "2016-08-26",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600028",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1440840442",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/the-other-side-of-paradise/1440840097?i=1440840442",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "The Other Side of Paradise",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/21/5e/9f/215e9f7c-7c3e-b544-6450-02b470c9acd4/mzaf_523271451539799897.plus.aac.ep.m4a"
+              }
+            ],
+            "contentRating": "explicit",
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1119848495",
+              "1116868376"
+            ]
+          }
+        },
+        "1440840444": {
+          "id": "1440840444",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 9,
+            "durationInMillis": 229718,
+            "releaseDate": "2016-08-26",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600027",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1440840444",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/take-a-slice/1440840097?i=1440840444",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Take a Slice",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d0/e6/82/d0e68293-f5f6-7487-b614-da60b23cfed9/mzaf_13318100578381898267.plus.aac.ep.m4a"
+              }
+            ],
+            "contentRating": "explicit",
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1116868377",
+              "1119848496"
+            ]
+          }
+        },
+        "1440840446": {
+          "id": "1440840446",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 10,
+            "durationInMillis": 262540,
+            "releaseDate": "2016-08-26",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600024",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/poplar-st/1440840097?i=1440840446",
+            "playParams": {
+              "id": "1440840446",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Poplar St.",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/1e/3f/4f1e3fcd-891a-661d-14a8-eec12e572fe1/mzaf_1360873385202111668.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1116868379",
+              "1119848497"
+            ]
+          }
+        },
+        "1440840561": {
+          "id": "1440840561",
+          "type": "songs",
+          "attributes": {
+            "albumName": "How to Be a Human Being",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 11,
+            "releaseDate": "2016-08-26",
+            "durationInMillis": 271673,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GB2DY1600021",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9b/1f/1b9b1f9c-19ba-b985-3e79-59581f6e88fa/16UMGIM28974.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "3e2307",
+              "textColor2": "1d1104",
+              "textColor4": "44270a",
+              "textColor1": "160b01",
+              "bgColor": "df8320",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/agnes/1440840097?i=1440840561",
+            "playParams": {
+              "id": "1440840561",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Agnes",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/5b/92/ba5b923c-9c89-ae16-4479-0d2312f4fab4/mzaf_6782817691748394028.plus.aac.ep.m4a"
+              }
+            ],
+            "contentRating": "explicit",
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1116868386",
+              "1119848498"
+            ]
+          }
+        },
+        "1440850555": {
+          "id": "1440850555",
+          "type": "songs",
+          "attributes": {
+            "albumName": "ZABA (Deluxe)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 2,
+            "releaseDate": "2013-06-30",
+            "durationInMillis": 248920,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM71303835",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/61/c6/4761c669-69e2-4568-78c6-f78e6f12aa53/00602547514844.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "c88926",
+              "textColor2": "e9a335",
+              "textColor4": "bf8834",
+              "textColor1": "f5a524",
+              "bgColor": "171b2f",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1440850555",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/black-mambo/1440850428?i=1440850555",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "hi-res-lossless",
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Black Mambo",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3c/4b/7f/3c4b7f0e-b753-6de0-e2cc-5d2d26f8c9e0/mzaf_9687912569892303555.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1029400619",
+              "1030168699"
+            ]
+          }
+        },
+        "1440850562": {
+          "id": "1440850562",
+          "type": "songs",
+          "attributes": {
+            "albumName": "ZABA (Deluxe)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 4,
+            "durationInMillis": 289307,
+            "releaseDate": "2014-01-01",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM71400655",
+            "artwork": {
+              "width": 1500,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/61/c6/4761c669-69e2-4568-78c6-f78e6f12aa53/00602547514844.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 1500,
+              "textColor3": "c88926",
+              "textColor2": "e9a335",
+              "textColor4": "bf8834",
+              "textColor1": "f5a524",
+              "bgColor": "171b2f",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/gooey/1440850428?i=1440850562",
+            "playParams": {
+              "id": "1440850562",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "hi-res-lossless",
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Gooey",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e7/eb/78/e7eb78f3-7bf5-6828-6caf-f2f7c539ac48/mzaf_11540365638170246113.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          },
+          "meta": {
+            "formerIds": [
+              "1029400621",
+              "1030168701"
+            ]
+          }
+        },
+        "1486352207": {
+          "id": "1486352207",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Tokyo Drifting - Single",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 1,
+            "releaseDate": "2019-11-13",
+            "durationInMillis": 217693,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM71905642",
+            "artwork": {
+              "width": 3190,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/aa/b1/36/aab1360c-ac5c-7b00-78e1-f1fbf7dae92b/19UM1IM00305.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3190,
+              "textColor3": "0e262d",
+              "textColor2": "0c0506",
+              "textColor4": "0e272d",
+              "textColor1": "0c0406",
+              "bgColor": "16afca",
+              "hasP3": false
+            },
+            "composerName": "Denzel Curry, Dave Bayley & Caiphus Semenya",
+            "audioLocale": "en-US",
+            "url": "https://music.apple.com/us/album/tokyo-drifting/1486352198?i=1486352207",
+            "playParams": {
+              "id": "1486352207",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Tokyo Drifting",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/20/65/81/2065813b-80aa-26fc-ed8d-12f76dec33b7/mzaf_17472356906373535993.plus.aac.ep.m4a"
+              }
+            ],
+            "contentRating": "explicit",
+            "artistName": "Glass Animals & Denzel Curry"
+          }
+        },
+        "1508562312": {
+          "id": "1508562312",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Dreamland",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 1,
+            "releaseDate": "2020-05-01",
+            "durationInMillis": 203492,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM72000427",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "32223a",
+              "textColor2": "33003d",
+              "textColor4": "52225f",
+              "textColor1": "0c000f",
+              "bgColor": "ccabe7",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Dave Bayley",
+            "url": "https://music.apple.com/us/album/dreamland/1508562310?i=1508562312",
+            "playParams": {
+              "id": "1508562312",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Dreamland",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b7/7d/87/b77d87e9-77a1-686c-9ef8-61bec3f794e7/mzaf_4001181042828663975.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          }
+        },
+        "1508562313": {
+          "id": "1508562313",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Dreamland",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 2,
+            "durationInMillis": 200584,
+            "releaseDate": "2020-08-07",
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM72000428",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "32223a",
+              "textColor2": "33003d",
+              "textColor4": "52225f",
+              "textColor1": "0c000f",
+              "bgColor": "ccabe7",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Brittany Hazzard, Dave Bayley & Paul Epworth",
+            "url": "https://music.apple.com/us/album/tangerine/1508562310?i=1508562313",
+            "playParams": {
+              "id": "1508562313",
+              "kind": "song"
+            },
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Tangerine",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/31/f6/7c/31f67c0b-5152-8b91-e071-c20d8cdf6153/mzaf_8285249053138529032.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          }
+        },
+        "1508562320": {
+          "id": "1508562320",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Dreamland",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 6,
+            "releaseDate": "2020-08-07",
+            "durationInMillis": 187384,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM72000432",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "32223a",
+              "textColor2": "33003d",
+              "textColor4": "52225f",
+              "textColor1": "0c000f",
+              "bgColor": "ccabe7",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1508562320",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/space-ghost-coast-to-coast/1508562310?i=1508562320",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Space Ghost Coast To Coast",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/6b/71/22/6b712206-68dd-2ff9-7d14-f7e4a5df7ed3/mzaf_118832239482403539.plus.aac.ep.m4a"
+              }
+            ],
+            "contentRating": "explicit",
+            "artistName": "Glass Animals"
+          }
+        },
+        "1508562516": {
+          "id": "1508562516",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Dreamland",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 14,
+            "releaseDate": "2020-06-28",
+            "durationInMillis": 238805,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM72000433",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "32223a",
+              "textColor2": "33003d",
+              "textColor4": "52225f",
+              "textColor1": "0c000f",
+              "bgColor": "ccabe7",
+              "hasP3": false
+            },
+            "composerName": "Dave Bayley",
+            "audioLocale": "en-US",
+            "playParams": {
+              "id": "1508562516",
+              "kind": "song"
+            },
+            "url": "https://music.apple.com/us/album/heat-waves/1508562310?i=1508562516",
+            "discNumber": 1,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "atmos",
+              "lossless",
+              "lossy-stereo",
+              "spatial"
+            ],
+            "name": "Heat Waves",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ce/6d/4b/ce6d4b56-3896-6cf5-6094-010155978d7a/mzaf_9174559801312013404.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals"
+          }
+        },
+        "1686519894": {
+          "id": "1686519894",
+          "type": "songs",
+          "attributes": {
+            "albumName": "Dreamland (Real Life Edition)",
+            "hasTimeSyncedLyrics": true,
+            "genreNames": [
+              "Alternative",
+              "Music"
+            ],
+            "trackNumber": 3,
+            "releaseDate": "2021-03-25",
+            "durationInMillis": 175302,
+            "isVocalAttenuationAllowed": true,
+            "isMasteredForItunes": true,
+            "isrc": "GBUM72101299",
+            "artwork": {
+              "width": 3000,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/b1/42/50b142aa-5462-d3a8-2d36-e3c0df02ac3c/22UMGIM84423.rgb.jpg/{w}x{h}bb.jpg",
+              "height": 3000,
+              "textColor3": "0d3031",
+              "textColor2": "01080a",
+              "textColor4": "0e312f",
+              "textColor1": "00070b",
+              "bgColor": "44d5c6",
+              "hasP3": false
+            },
+            "audioLocale": "en-US",
+            "composerName": "Dave Bayley & iann dior",
+            "url": "https://music.apple.com/us/album/heat-waves-with-iann-dior/1686518532?i=1686519894",
+            "playParams": {
+              "id": "1686519894",
+              "kind": "song"
+            },
+            "discNumber": 3,
+            "hasCredits": false,
+            "isAppleDigitalMaster": true,
+            "hasLyrics": true,
+            "audioTraits": [
+              "lossless",
+              "lossy-stereo"
+            ],
+            "name": "Heat Waves (with iann dior)",
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a7/02/47/a70247fd-2077-ab81-60d2-ae21a2e66c77/mzaf_13258600738419958100.plus.aac.ep.m4a"
+              }
+            ],
+            "artistName": "Glass Animals & iann dior"
+          }
+        }
+      }
+    }

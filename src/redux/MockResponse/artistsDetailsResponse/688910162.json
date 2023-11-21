@@ -1,0 +1,1805 @@
+{
+  "artists": {
+    "688910162": {
+      "id": "688910162",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Alternative"],
+        "name": "Jaymes Young",
+        "artwork": {
+          "width": 800,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/03/82/aa038276-b55a-3702-a91f-7ded47452f1d/pr_source.png/{w}x{h}bb.jpg",
+          "height": 800,
+          "textColor3": "b0b4c1",
+          "textColor2": "eba583",
+          "textColor4": "be876a",
+          "textColor1": "daddef",
+          "bgColor": "0b110a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/jaymes-young/688910162"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1227451760",
+              "type": "albums"
+            },
+            {
+              "id": "913785874",
+              "type": "albums"
+            },
+            {
+              "id": "695027538",
+              "type": "albums"
+            },
+            {
+              "id": "1606809076",
+              "type": "albums"
+            },
+            {
+              "id": "1670298209",
+              "type": "albums"
+            },
+            {
+              "id": "1654060455",
+              "type": "albums"
+            },
+            {
+              "id": "1372936088",
+              "type": "albums"
+            },
+            {
+              "id": "1476323124",
+              "type": "albums"
+            },
+            {
+              "id": "1533049903",
+              "type": "albums"
+            },
+            {
+              "id": "1445301180",
+              "type": "albums"
+            },
+            {
+              "id": "1339748307",
+              "type": "albums"
+            },
+            {
+              "id": "1322116891",
+              "type": "albums"
+            },
+            {
+              "id": "1506182666",
+              "type": "albums"
+            },
+            {
+              "id": "1351520112",
+              "type": "albums"
+            },
+            {
+              "id": "1598697805",
+              "type": "albums"
+            },
+            {
+              "id": "1479089786",
+              "type": "albums"
+            },
+            {
+              "id": "1282505899",
+              "type": "albums"
+            },
+            {
+              "id": "1501742250",
+              "type": "albums"
+            },
+            {
+              "id": "1716814421",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1606809771",
+              "type": "songs"
+            },
+            {
+              "id": "1227451772",
+              "type": "songs"
+            },
+            {
+              "id": "913785875",
+              "type": "songs"
+            },
+            {
+              "id": "913785876",
+              "type": "songs"
+            },
+            {
+              "id": "1227451766",
+              "type": "songs"
+            },
+            {
+              "id": "1227451768",
+              "type": "songs"
+            },
+            {
+              "id": "695027544",
+              "type": "songs"
+            },
+            {
+              "id": "913785878",
+              "type": "songs"
+            },
+            {
+              "id": "1065050052",
+              "type": "songs"
+            },
+            {
+              "id": "1227451762",
+              "type": "songs"
+            },
+            {
+              "id": "695027543",
+              "type": "songs"
+            },
+            {
+              "id": "1469578176",
+              "type": "songs"
+            },
+            {
+              "id": "1351520115",
+              "type": "songs"
+            },
+            {
+              "id": "1227451764",
+              "type": "songs"
+            },
+            {
+              "id": "913785879",
+              "type": "songs"
+            },
+            {
+              "id": "1606809758",
+              "type": "songs"
+            },
+            {
+              "id": "1227451763",
+              "type": "songs"
+            },
+            {
+              "id": "1227451771",
+              "type": "songs"
+            },
+            {
+              "id": "1282506133",
+              "type": "songs"
+            },
+            {
+              "id": "695027541",
+              "type": "songs"
+            }
+          ]
+        },
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1716814421",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "695027541": {
+      "id": "695027541",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Dark Star - EP",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "trackNumber": 1,
+        "durationInMillis": 237021,
+        "releaseDate": "2013-08-20",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21302831",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/94/fc/df94fc24-79de-910a-e268-386ae9e41d48/075679948489.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "ceccc9",
+          "textColor2": "f3f1ed",
+          "textColor4": "ceccc9",
+          "textColor1": "f3f1ed",
+          "bgColor": "3b3b39",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jaymes Young",
+        "playParams": {
+          "id": "695027541",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/dark-star/695027538?i=695027541",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Dark Star",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/14/1a/e0141a5a-c25d-7883-faea-267dca92557d/mzaf_6452423285885343990.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "695027543": {
+      "id": "695027543",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Dark Star - EP",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "trackNumber": 3,
+        "durationInMillis": 199322,
+        "releaseDate": "2013-08-20",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21302833",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/94/fc/df94fc24-79de-910a-e268-386ae9e41d48/075679948489.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "ceccc9",
+          "textColor2": "f3f1ed",
+          "textColor4": "ceccc9",
+          "textColor1": "f3f1ed",
+          "bgColor": "3b3b39",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "695027543",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/one-last-time/695027538?i=695027543",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "One Last Time",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c4/7e/c8/c47ec850-84c7-5da6-68b4-611a0fe65d70/mzaf_9441879120858381594.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "695027544": {
+      "id": "695027544",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Dark Star - EP",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "trackNumber": 4,
+        "releaseDate": "2013-09-10",
+        "durationInMillis": 225203,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21302834",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/94/fc/df94fc24-79de-910a-e268-386ae9e41d48/075679948489.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "ceccc9",
+          "textColor2": "f3f1ed",
+          "textColor4": "ceccc9",
+          "textColor1": "f3f1ed",
+          "bgColor": "3b3b39",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/moondust/695027538?i=695027544",
+        "playParams": {
+          "id": "695027544",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Moondust",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c6/b6/84/c6b68452-6112-d8ae-107d-3a8d4badb6ae/mzaf_8938145941193796262.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "913785875": {
+      "id": "913785875",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Habits of My Heart - EP",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2014-09-28",
+        "durationInMillis": 210639,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21403994",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/14/d1/ab14d117-3023-fa0f-f10e-7cd12e5af17c/075679935144.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d2d2d2",
+          "textColor2": "f4f4f4",
+          "textColor4": "cacaca",
+          "textColor1": "fdfdfd",
+          "bgColor": "262626",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young & Sufjan Stevens",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/habits-of-my-heart/913785874?i=913785875",
+        "playParams": {
+          "id": "913785875",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Habits of My Heart",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3a/01/a9/3a01a939-2589-fcac-4181-56c0cf589ab5/mzaf_7795069938655981045.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "913785876": {
+      "id": "913785876",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Habits of My Heart - EP",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2014-09-28",
+        "durationInMillis": 248554,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21403995",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/14/d1/ab14d117-3023-fa0f-f10e-7cd12e5af17c/075679935144.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d2d2d2",
+          "textColor2": "f4f4f4",
+          "textColor4": "cacaca",
+          "textColor1": "fdfdfd",
+          "bgColor": "262626",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jaymes Young",
+        "url": "https://music.apple.com/us/album/ill-be-good/913785874?i=913785876",
+        "playParams": {
+          "id": "913785876",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "I'll Be Good",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b4/d0/45/b4d04553-d814-4359-9512-b9c463c15a67/mzaf_12405347344999175415.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "913785878": {
+      "id": "913785878",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Habits of My Heart - EP",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2014-09-28",
+        "durationInMillis": 268735,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21403997",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/14/d1/ab14d117-3023-fa0f-f10e-7cd12e5af17c/075679935144.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d2d2d2",
+          "textColor2": "f4f4f4",
+          "textColor4": "cacaca",
+          "textColor1": "fdfdfd",
+          "bgColor": "262626",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jaymes Young",
+        "url": "https://music.apple.com/us/album/come-back-for-me/913785874?i=913785878",
+        "playParams": {
+          "id": "913785878",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Come Back For Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/48/ba/b4/48bab4b9-52f7-7b02-2107-2e38a2d629d3/mzaf_14684639147946810362.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "913785879": {
+      "id": "913785879",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Habits of My Heart - EP",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2014-09-28",
+        "durationInMillis": 216720,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21403998",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/14/d1/ab14d117-3023-fa0f-f10e-7cd12e5af17c/075679935144.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d2d2d2",
+          "textColor2": "f4f4f4",
+          "textColor4": "cacaca",
+          "textColor1": "fdfdfd",
+          "bgColor": "262626",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/moondust-stripped/913785874?i=913785879",
+        "playParams": {
+          "id": "913785879",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Moondust (Stripped)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/84/37/ba/8437ba00-a97b-d73d-7b71-dcde40f4a694/mzaf_16401326211871954838.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1065050052": {
+      "id": "1065050052",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Alone Together",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 9,
+        "durationInMillis": 232817,
+        "releaseDate": "2016-04-08",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21504046",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f1/33/d8/f133d8d9-b4f8-1d5f-38f9-aa1789e554d9/075679916013.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "3d3837",
+          "textColor2": "16181a",
+          "textColor4": "424445",
+          "textColor1": "100909",
+          "bgColor": "f2f2f2",
+          "hasP3": false
+        },
+        "composerName": "Christian “Leggy” Langdon, Jaymes Young, Michael Keenan Leary & Myles Mills",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1065050052",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/hit-me-harder-feat-jaymes-young/1065049769?i=1065050052",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Hit Me Harder (feat. Jaymes Young)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9a/32/78/9a32783f-038c-38e2-04bf-ebbb4d5a3efe/mzaf_8904406427996857666.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Skizzy Mars"
+      }
+    },
+    "1227451762": {
+      "id": "1227451762",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 2,
+        "durationInMillis": 204344,
+        "releaseDate": "2017-04-07",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21700632",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "bdbdbd",
+          "textColor2": "cdcdcd",
+          "textColor4": "ababab",
+          "textColor1": "e4e4e4",
+          "bgColor": "242424",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jaymes Young",
+        "url": "https://music.apple.com/us/album/stoned-on-you/1227451760?i=1227451762",
+        "playParams": {
+          "id": "1227451762",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Stoned on You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bb/5f/e9/bb5fe943-d6f5-2119-a577-c7917ad7b6ce/mzaf_17610829594385436625.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1227451763": {
+      "id": "1227451763",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2017-06-23",
+        "durationInMillis": 248165,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21700932",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "bdbdbd",
+          "textColor2": "cdcdcd",
+          "textColor4": "ababab",
+          "textColor1": "e4e4e4",
+          "bgColor": "242424",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/dont-you-know/1227451760?i=1227451763",
+        "playParams": {
+          "id": "1227451763",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Don't You Know",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6e/2c/4c/6e2c4c9a-5413-197f-2582-48ba1590b457/mzaf_3125509201472749944.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1227451764": {
+      "id": "1227451764",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2017-06-23",
+        "durationInMillis": 216584,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21700623",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "bdbdbd",
+          "textColor2": "cdcdcd",
+          "textColor4": "ababab",
+          "textColor1": "e4e4e4",
+          "bgColor": "242424",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/stone/1227451760?i=1227451764",
+        "playParams": {
+          "id": "1227451764",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Stone",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/ef/e3/8defe31d-518a-2cf6-e3b2-746dcf70c3d8/mzaf_4108283993617565267.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1227451766": {
+      "id": "1227451766",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 6,
+        "releaseDate": "2017-06-23",
+        "durationInMillis": 217405,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21700933",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "bdbdbd",
+          "textColor2": "cdcdcd",
+          "textColor4": "ababab",
+          "textColor1": "e4e4e4",
+          "bgColor": "242424",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1227451766",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/feel-something/1227451760?i=1227451766",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Feel Something",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c4/c0/d9/c4c0d9f2-f2c3-0b03-d77c-43c045ecd525/mzaf_2423803078657450533.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1227451768": {
+      "id": "1227451768",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 8,
+        "releaseDate": "2015-05-26",
+        "durationInMillis": 242320,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21700935",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "bdbdbd",
+          "textColor2": "cdcdcd",
+          "textColor4": "ababab",
+          "textColor1": "e4e4e4",
+          "bgColor": "242424",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young & Phoebe Ryan",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1227451768",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/we-wont-feat-phoebe-ryan/1227451760?i=1227451768",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "We Won't (feat. Phoebe Ryan)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b8/b7/88/b8b7885a-352d-7e09-a379-b9f4464b6ee9/mzaf_14331538079174847336.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1227451771": {
+      "id": "1227451771",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2014-09-28",
+        "durationInMillis": 248554,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21403995",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "bdbdbd",
+          "textColor2": "cdcdcd",
+          "textColor4": "ababab",
+          "textColor1": "e4e4e4",
+          "bgColor": "242424",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1227451771",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/ill-be-good/1227451760?i=1227451771",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "I'll Be Good",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e1/8f/0d/e18f0d51-d8ae-175f-05df-fa8830d49833/mzaf_9127225395350522674.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1227451772": {
+      "id": "1227451772",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 12,
+        "releaseDate": "2017-06-23",
+        "durationInMillis": 237655,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21700938",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "bdbdbd",
+          "textColor2": "cdcdcd",
+          "textColor4": "ababab",
+          "textColor1": "e4e4e4",
+          "bgColor": "242424",
+          "hasP3": false
+        },
+        "composerName": "Billboard & Jaymes Young",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/infinity/1227451760?i=1227451772",
+        "playParams": {
+          "id": "1227451772",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Infinity",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5c/66/e3/5c66e329-8639-20f5-5e26-e7d6202a0c82/mzaf_4781457347075253041.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1282506133": {
+      "id": "1282506133",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Northern Lights - Single",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2017-09-22",
+        "durationInMillis": 237034,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21703858",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/8b/17/ab8b171f-808d-5f96-09d8-de8d2e588784/075679886408.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cfcfcf",
+          "textColor2": "eeeeee",
+          "textColor4": "cacaca",
+          "textColor1": "f5f5f5",
+          "bgColor": "3a3a3a",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1282506133",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/northern-lights/1282505899?i=1282506133",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Northern Lights",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b3/29/68/b3296843-4e4c-d61c-26c3-12fcb0d753fa/mzaf_15046454481532281426.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1351520115": {
+      "id": "1351520115",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "What Is Love - Single",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-03-02",
+        "durationInMillis": 208673,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21800488",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/d8/a4/62d8a4aa-2b07-b9b6-fb6e-7de202b1842a/075679878106.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cfcfcf",
+          "textColor2": "efefef",
+          "textColor4": "cbcbcb",
+          "textColor1": "f5f5f5",
+          "bgColor": "393939",
+          "hasP3": false
+        },
+        "composerName": "Dee Dee Halligan & Junior Torello",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1351520115",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/what-is-love/1351520112?i=1351520115",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "What Is Love",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3b/86/5e/3b865e73-98d4-6a80-63e3-a075be8168c3/mzaf_13692196138447060747.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1469578176": {
+      "id": "1469578176",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Netzwerk",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 11,
+        "durationInMillis": 237695,
+        "releaseDate": "2014-07-28",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "DEUM71500510",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/28/0f/d8280f2a-4f7c-cf2f-dc08-56b45bc60307/15UMGIM38105.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "373531",
+          "textColor2": "39271a",
+          "textColor4": "584b41",
+          "textColor1": "100a07",
+          "bgColor": "d5dedb",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Tobias Rieser, Adrian Held & Will Heard",
+        "playParams": {
+          "id": "1469578176",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/sun-dont-shine-feat-jaymes-young/1469577110?i=1469578176",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Sun Don't Shine (feat. Jaymes Young)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/12/21/7e/12217e55-d994-fd6b-4ad4-3ff779edf896/mzaf_13111991129267354160.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Klangkarussell"
+      }
+    },
+    "1606809758": {
+      "id": "1606809758",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something (Deluxe)",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 12,
+        "releaseDate": "2017-06-23",
+        "durationInMillis": 237720,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21700859",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/49/ec/6549ec2c-8e7f-7fc8-701f-199d6f0697dc/075679758781.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c0c0be",
+          "textColor2": "d2b8a9",
+          "textColor4": "b09a8e",
+          "textColor1": "e7e7e4",
+          "bgColor": "252525",
+          "hasP3": false
+        },
+        "composerName": "Billboard & Jaymes Young",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/infinity/1606809076?i=1606809758",
+        "playParams": {
+          "id": "1606809758",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Infinity",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/74/7d/9c/747d9c34-13f6-20d6-9381-bc9c12c4c64c/mzaf_616268238098530992.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    },
+    "1606809771": {
+      "id": "1606809771",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feel Something (Deluxe)",
+        "genreNames": ["Alternative", "Music", "Singer/Songwriter"],
+        "trackNumber": 14,
+        "durationInMillis": 228443,
+        "releaseDate": "2017-06-23",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21903715",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/49/ec/6549ec2c-8e7f-7fc8-701f-199d6f0697dc/075679758781.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c0c0be",
+          "textColor2": "d2b8a9",
+          "textColor4": "b09a8e",
+          "textColor1": "e7e7e4",
+          "bgColor": "252525",
+          "hasP3": false
+        },
+        "composerName": "Jaymes Young",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1606809771",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/happiest-year/1606809076?i=1606809771",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Happiest Year",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a7/f3/e8/a7f3e8c8-7848-e414-0d31-f96919daafb5/mzaf_6321719888256883006.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Jaymes Young"
+      }
+    }
+  },
+  "albums": {
+    "695027538": {
+      "id": "695027538",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2013-09-10",
+        "isMasteredForItunes": false,
+        "upc": "075679948489",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/94/fc/df94fc24-79de-910a-e268-386ae9e41d48/075679948489.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "ceccc9",
+          "textColor2": "f3f1ed",
+          "textColor4": "ceccc9",
+          "textColor1": "f3f1ed",
+          "bgColor": "3b3b39",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/dark-star-ep/695027538",
+        "playParams": {
+          "id": "695027538",
+          "kind": "album"
+        },
+        "recordLabel": "Atlantic Records",
+        "trackCount": 5,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Dark Star - EP",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "913785874": {
+      "id": "913785874",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2014-09-28",
+        "upc": "075679935144",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/14/d1/ab14d117-3023-fa0f-f10e-7cd12e5af17c/075679935144.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d2d2d2",
+          "textColor2": "f4f4f4",
+          "textColor4": "cacaca",
+          "textColor1": "fdfdfd",
+          "bgColor": "262626",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/habits-of-my-heart-ep/913785874",
+        "playParams": {
+          "id": "913785874",
+          "kind": "album"
+        },
+        "recordLabel": "Atlantic Records",
+        "trackCount": 5,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Habits of My Heart - EP",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1227451760": {
+      "id": "1227451760",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music", "Electronic", "Rock"],
+        "releaseDate": "2017-06-23",
+        "upc": "075679900180",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "bdbdbd",
+          "textColor2": "cdcdcd",
+          "textColor4": "ababab",
+          "textColor1": "e4e4e4",
+          "bgColor": "242424",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/feel-something/1227451760",
+        "playParams": {
+          "id": "1227451760",
+          "kind": "album"
+        },
+        "recordLabel": "Atlantic Records",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Feel Something",
+        "artistName": "Jaymes Young",
+        "editorialNotes": {
+          "standard": "Jaymes Young’s heartfelt, confessional pop songs trace the highs and lows of young love. And his long-awaited debut album is an emotional rollercoaster. “Don’t You Know” uses gritty electric guitar and galloping drums to drive home the torture of one-sided feelings (“Don’t you know that I’m going mad?” he belts with frantic urgency, “Don’t you know I want you so bad?”), while “We Won’t,” a dreamy synth-pop duet with Phoebe Ryan, makes peace with calling it quits.",
+          "short": "Heartfelt, confessional pop songs about young love."
+        },
+        "isComplete": true
+      }
+    },
+    "1282505899": {
+      "id": "1282505899",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2017-09-22",
+        "isMasteredForItunes": false,
+        "upc": "075679886408",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/8b/17/ab8b171f-808d-5f96-09d8-de8d2e588784/075679886408.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cfcfcf",
+          "textColor2": "eeeeee",
+          "textColor4": "cacaca",
+          "textColor1": "f5f5f5",
+          "bgColor": "3a3a3a",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1282505899",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/northern-lights-single/1282505899",
+        "recordLabel": "Please Rewind/Atlantic",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Northern Lights - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1322116891": {
+      "id": "1322116891",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2017-12-15",
+        "isMasteredForItunes": false,
+        "upc": "075679879677",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6e/b3/ee/6eb3ee80-47df-247e-2a39-06639692bf56/075679879677.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cfcfcf",
+          "textColor2": "efefef",
+          "textColor4": "cbcbcb",
+          "textColor1": "f5f5f5",
+          "bgColor": "393939",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1322116891",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/parachute-single/1322116891",
+        "recordLabel": "Please Rewind/Atlantic",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Parachute - Single",
+        "contentRating": "explicit",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1339748307": {
+      "id": "1339748307",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2018-02-02",
+        "isMasteredForItunes": false,
+        "upc": "075679878038",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/9c/d5/9e9cd52b-e055-4ae9-5e2b-6f9783e8f153/075679878038.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cfcfcf",
+          "textColor2": "efefef",
+          "textColor4": "cbcbcb",
+          "textColor1": "f5f5f5",
+          "bgColor": "393939",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1339748307",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/fragments-single/1339748307",
+        "recordLabel": "Please Rewind/Atlantic",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Fragments - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1351520112": {
+      "id": "1351520112",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music", "Rock"],
+        "releaseDate": "2018-03-02",
+        "isMasteredForItunes": false,
+        "upc": "075679878106",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/d8/a4/62d8a4aa-2b07-b9b6-fb6e-7de202b1842a/075679878106.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cfcfcf",
+          "textColor2": "efefef",
+          "textColor4": "cbcbcb",
+          "textColor1": "f5f5f5",
+          "bgColor": "393939",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1351520112",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/what-is-love-single/1351520112",
+        "recordLabel": "Please Rewind/Atlantic",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "What Is Love - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1372936088": {
+      "id": "1372936088",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Rise Records",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2018-04-27",
+        "isMasteredForItunes": false,
+        "upc": "4050538397024",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/df/26/f5/df26f54a-d0f0-da1c-2ea3-034deb32c6ce/4050538397024.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "333333",
+          "textColor2": "1b1b1b",
+          "textColor4": "484848",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/same-soul-feat-jaymes-young-marian-hill-remix-single/1372936088",
+        "playParams": {
+          "id": "1372936088",
+          "kind": "album"
+        },
+        "recordLabel": "Rise Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Same Soul (feat. Jaymes Young) [Marian Hill Remix] - Single",
+        "artistName": "PVRIS",
+        "isComplete": true
+      }
+    },
+    "1445301180": {
+      "id": "1445301180",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Klangkarussell, under exclusive license to Virgin Records, a division of Universal Music GmbH",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "releaseDate": "2015-03-24",
+        "upc": "00602547309990",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1476,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/52/35/4b5235f0-691e-a5f7-8df2-c760bcdde0f0/00602547309990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1476,
+          "textColor3": "2e2e25",
+          "textColor2": "1f2300",
+          "textColor4": "3e4119",
+          "textColor1": "0c0b0f",
+          "bgColor": "babb7e",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1445301180",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/sun-dont-shine-extended-mix-feat-jaymes-young-single/1445301180",
+        "recordLabel": "Virgin",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Sun Don't Shine (Extended Mix) [feat. Jaymes Young] - Single",
+        "artistName": "Klangkarussell",
+        "isComplete": true
+      }
+    },
+    "1476323124": {
+      "id": "1476323124",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2019-11-15",
+        "upc": "075679838452",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/20/50/d8/2050d8e3-5f54-69dc-0e11-16a6778a4e05/075679838452.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d2cacc",
+          "textColor2": "d2d6dc",
+          "textColor4": "b1b1b5",
+          "textColor1": "fbf6fa",
+          "bgColor": "2d1b17",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1476323124",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/no-good-for-you-feat-jaymes-young-single/1476323124",
+        "recordLabel": "Please Rewind/Atlantic",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "No Good For You (feat. Jaymes Young) - Single",
+        "artistName": "Keenan",
+        "isComplete": true
+      }
+    },
+    "1479089786": {
+      "id": "1479089786",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2019-09-27",
+        "isMasteredForItunes": false,
+        "upc": "075679836571",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a4/1b/f3/a41bf3cf-3914-aff1-3b04-64d24cbee8eb/075679836571.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "44453c",
+          "textColor2": "292929",
+          "textColor4": "525249",
+          "textColor1": "171818",
+          "bgColor": "f9f8cc",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1479089786",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/paradox-single/1479089786",
+        "recordLabel": "Please Rewind/Atlantic",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Paradox - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1501742250": {
+      "id": "1501742250",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2020-03-13",
+        "isMasteredForItunes": false,
+        "upc": "075679821324",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/8f/fe/238ffecf-3772-ab23-bb88-67af9f3c1fa5/075679821324.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "ac8330",
+          "textColor2": "dd9668",
+          "textColor4": "b37a55",
+          "textColor1": "d5a139",
+          "bgColor": "0c0c0c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/happiest-year-sam-feldt-remix-single/1501742250",
+        "playParams": {
+          "id": "1501742250",
+          "kind": "album"
+        },
+        "recordLabel": "Please Rewind/Atlantic",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Happiest Year (Sam Feldt Remix) - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1506182666": {
+      "id": "1506182666",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2020-04-17",
+        "isMasteredForItunes": false,
+        "upc": "075679818515",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/25/31/9c/25319ca2-1087-a687-20c4-c58d7b4eee7d/075679818515.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "b9b0a4",
+          "textColor2": "d2c7b6",
+          "textColor4": "afa596",
+          "textColor1": "dfd5c8",
+          "bgColor": "221f18",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/happiest-year-prince-fox-remix-single/1506182666",
+        "playParams": {
+          "id": "1506182666",
+          "kind": "album"
+        },
+        "recordLabel": "Please Rewind/Atlantic",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Happiest Year (Prince Fox Remix) - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1533049903": {
+      "id": "1533049903",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2020-10-09",
+        "isMasteredForItunes": false,
+        "upc": "075679800916",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/44/2d/3e442d89-23cb-d15a-c143-17501ea74b24/075679800916.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "b9bbba",
+          "textColor2": "cacdcc",
+          "textColor4": "a8aaab",
+          "textColor1": "e0e2df",
+          "bgColor": "202028",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1533049903",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/spaces-single/1533049903",
+        "recordLabel": "Please Rewind/Atlantic",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Spaces - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1598697805": {
+      "id": "1598697805",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Please Rewind/Atlantic Recording Corporation",
+        "genreNames": ["Electronic", "Music", "Alternative"],
+        "releaseDate": "2021-12-10",
+        "upc": "075679761583",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/bb/f5/31bbf521-c916-edc5-66ed-d021118fae27/075679761583.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "ca6a3d",
+          "textColor2": "df7a4f",
+          "textColor4": "bf623f",
+          "textColor1": "ed834c",
+          "bgColor": "3d0202",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1598697805",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/infinity-pretty-young-remix-single/1598697805",
+        "recordLabel": "Please Rewind/Atlantic",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Infinity (PRETTY YOUNG Remix) - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1606809076": {
+      "id": "1606809076",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Please Rewind / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "genreNames": ["Alternative", "Music", "Rock", "Electronic"],
+        "releaseDate": "2017-06-23",
+        "upc": "075679758781",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/49/ec/6549ec2c-8e7f-7fc8-701f-199d6f0697dc/075679758781.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c0c0be",
+          "textColor2": "d2b8a9",
+          "textColor4": "b09a8e",
+          "textColor1": "e7e7e4",
+          "bgColor": "252525",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1606809076",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/feel-something-deluxe/1606809076",
+        "recordLabel": "Please Rewind/Atlantic",
+        "trackCount": 18,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Feel Something (Deluxe)",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    },
+    "1654060455": {
+      "id": "1654060455",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022",
+        "genreNames": ["Alternative", "Music", "Pop"],
+        "releaseDate": "2022-11-11",
+        "isMasteredForItunes": false,
+        "upc": "075679707024",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/56/b9/e356b928-25e1-1c05-96f7-be37199bc991/075679707024.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cccccc",
+          "textColor2": "e1e1e1",
+          "textColor4": "bebdbd",
+          "textColor1": "f4f4f4",
+          "bgColor": "302e2f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/infinity-sped-up-version-single/1654060455",
+        "playParams": {
+          "id": "1654060455",
+          "kind": "album"
+        },
+        "recordLabel": "P2022",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Infinity (Sped Up Version) - Single",
+        "artistName": "Jaymes Young & sped up nightcore",
+        "isComplete": true
+      }
+    },
+    "1670298209": {
+      "id": "1670298209",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Warner Music Group - X5 Music Group",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2022-11-10",
+        "isMasteredForItunes": false,
+        "upc": "5059460176607",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/d6/19/74d619ee-7299-50a6-b36f-716a8e756da1/5059460176607.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "b3a18d",
+          "textColor2": "d9b898",
+          "textColor4": "b0957c",
+          "textColor1": "dcc6ad",
+          "bgColor": "0c0c0c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/thank-you-for-the-happiest-year-of-my-life-ep/1670298209",
+        "playParams": {
+          "id": "1670298209",
+          "kind": "album"
+        },
+        "recordLabel": "Warner Music Group - X5 Music Group",
+        "trackCount": 5,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Thank You for the Happiest Year of My Life - EP",
+        "artistName": "Jaymes Young",
+        "isComplete": false
+      }
+    },
+    "1716814421": {
+      "id": "1716814421",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2023-11-20",
+        "upc": "075679662415",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/05/f1/4305f195-a6e6-6d9d-c46a-320fd00a2251/075679662415.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c0c0be",
+          "textColor2": "d2b9a6",
+          "textColor4": "b09b8c",
+          "textColor1": "e7e7e4",
+          "bgColor": "252525",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/ill-be-good-slowed-down-version-single/1716814421",
+        "playParams": {
+          "id": "1716814421",
+          "kind": "album"
+        },
+        "recordLabel": "slowed down audioss",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "I'll Be Good (Slowed Down Version) - Single",
+        "artistName": "Jaymes Young",
+        "isComplete": true
+      }
+    }
+  }
+}

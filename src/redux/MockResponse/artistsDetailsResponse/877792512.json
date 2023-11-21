@@ -1,0 +1,2037 @@
+{
+  "artists": {
+    "877792512": {
+      "id": "877792512",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Dance"],
+        "name": "Lost Frequencies",
+        "artwork": {
+          "width": 2662,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/41/dd/36/41dd360d-34a4-1ddb-dea0-76bc35b349ac/9b9905af-5b0a-403f-a55f-7d1c69d69d85_ami-identity-78fa7d2ed5554241cf8bdd780d53444f-2023-11-09T15-16-36.287Z_cropped.png/{w}x{h}bb.jpg",
+          "height": 2662,
+          "textColor3": "272421",
+          "textColor2": "211813",
+          "textColor4": "3e362f",
+          "textColor1": "040101",
+          "bgColor": "b1b09e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/lost-frequencies/877792512"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1160375550",
+              "type": "albums"
+            },
+            {
+              "id": "962888181",
+              "type": "albums"
+            },
+            {
+              "id": "1709508139",
+              "type": "albums"
+            },
+            {
+              "id": "1479706246",
+              "type": "albums"
+            },
+            {
+              "id": "1525467379",
+              "type": "albums"
+            },
+            {
+              "id": "1644465607",
+              "type": "albums"
+            },
+            {
+              "id": "1250180839",
+              "type": "albums"
+            },
+            {
+              "id": "1397342743",
+              "type": "albums"
+            },
+            {
+              "id": "1547346175",
+              "type": "albums"
+            },
+            {
+              "id": "1526589152",
+              "type": "albums"
+            },
+            {
+              "id": "1699824347",
+              "type": "albums"
+            },
+            {
+              "id": "1688772853",
+              "type": "albums"
+            },
+            {
+              "id": "1577278003",
+              "type": "albums"
+            },
+            {
+              "id": "1522888372",
+              "type": "albums"
+            },
+            {
+              "id": "1683063510",
+              "type": "albums"
+            },
+            {
+              "id": "1709940198",
+              "type": "albums"
+            },
+            {
+              "id": "1441125016",
+              "type": "albums"
+            },
+            {
+              "id": "1309824800",
+              "type": "albums"
+            },
+            {
+              "id": "1531120313",
+              "type": "albums"
+            },
+            {
+              "id": "1603828949",
+              "type": "albums"
+            },
+            {
+              "id": "1490603017",
+              "type": "albums"
+            },
+            {
+              "id": "1015474594",
+              "type": "albums"
+            },
+            {
+              "id": "1280602948",
+              "type": "albums"
+            },
+            {
+              "id": "1700695867",
+              "type": "albums"
+            },
+            {
+              "id": "1483121373",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1709508139",
+              "type": "albums"
+            }
+          ]
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1576395046",
+              "type": "songs"
+            },
+            {
+              "id": "961274523",
+              "type": "songs"
+            },
+            {
+              "id": "996714137",
+              "type": "songs"
+            },
+            {
+              "id": "1301548101",
+              "type": "songs"
+            },
+            {
+              "id": "1250180845",
+              "type": "songs"
+            },
+            {
+              "id": "1113081957",
+              "type": "songs"
+            },
+            {
+              "id": "1160376072",
+              "type": "songs"
+            },
+            {
+              "id": "1373816640",
+              "type": "songs"
+            },
+            {
+              "id": "1160376029",
+              "type": "songs"
+            },
+            {
+              "id": "1552918352",
+              "type": "songs"
+            },
+            {
+              "id": "1160376025",
+              "type": "songs"
+            },
+            {
+              "id": "1160376023",
+              "type": "songs"
+            },
+            {
+              "id": "962888193",
+              "type": "songs"
+            },
+            {
+              "id": "1068616571",
+              "type": "songs"
+            },
+            {
+              "id": "1622823100",
+              "type": "songs"
+            },
+            {
+              "id": "1655399058",
+              "type": "songs"
+            },
+            {
+              "id": "962888198",
+              "type": "songs"
+            },
+            {
+              "id": "1479706254",
+              "type": "songs"
+            },
+            {
+              "id": "989459382",
+              "type": "songs"
+            },
+            {
+              "id": "1432179690",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "albums": {
+    "962888181": {
+      "id": "962888181",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Armada Music B.V. under exclusive license to Ultra Records, LLC",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "releaseDate": "2015-02-09",
+        "upc": "0617465598357",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/d4/35/2bd435a6-c245-11f8-b7d5-0e518bdf286e/mzm.yxxkizcd.png/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "ebbc57",
+          "textColor2": "fdcd6b",
+          "textColor4": "ebb067",
+          "textColor1": "fedc56",
+          "bgColor": "a23b58",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/are-you-with-me-remixes/962888181",
+        "playParams": {
+          "id": "962888181",
+          "kind": "album"
+        },
+        "recordLabel": "Ultra Records",
+        "trackCount": 7,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Are You With Me (Remixes)",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1015474594": {
+      "id": "1015474594",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Armada Music B.V. under exclusive license to Ultra Records, LLC",
+        "genreNames": ["House", "Music", "Dance", "Electronic"],
+        "releaseDate": "2015-07-03",
+        "upc": "0617465639456",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/60/8b/9c/608b9cd9-75ac-904b-10b6-b0b664b19ba5/0617465639456.png/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "053521",
+          "textColor2": "010908",
+          "textColor4": "063522",
+          "textColor1": "000907",
+          "bgColor": "18e58c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/are-you-with-me-remixes-pt-3/1015474594",
+        "playParams": {
+          "id": "1015474594",
+          "kind": "album"
+        },
+        "recordLabel": "Ultra Records",
+        "trackCount": 11,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Are You With Me (Remixes, Pt. 3)",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1160375550": {
+      "id": "1160375550",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 Lost & Cie under exclusive license to Armada Music B.V. / Ultra Records, LLC",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "releaseDate": "2016-10-21",
+        "isMasteredForItunes": false,
+        "upc": "0617465821356",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e4/56/91/e45691a5-017b-b0c9-c652-05a3bad0687f/0617465821356.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5a4e53",
+          "textColor2": "482422",
+          "textColor4": "694c4a",
+          "textColor1": "36262d",
+          "bgColor": "eeedeb",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/less-is-more/1160375550",
+        "playParams": {
+          "id": "1160375550",
+          "kind": "album"
+        },
+        "recordLabel": "Ultra Records",
+        "trackCount": 16,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Less Is More",
+        "artistName": "Lost Frequencies",
+        "editorialNotes": {
+          "short": "Turning acoustic serenades into liquid-smooth EDM-pop."
+        },
+        "isComplete": true
+      }
+    },
+    "1250180839": {
+      "id": "1250180839",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Lost & Cie under exclusive license to Armada Music B.V. / Ultra Records, LLC",
+        "genreNames": ["House", "Music", "Dance", "Electronic"],
+        "releaseDate": "2017-07-14",
+        "upc": "0617465883354",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/3a/52/883a52e0-d708-ff03-fe00-eaba629ffb37/0617465883354.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2bfb1",
+          "textColor2": "e8d0ac",
+          "textColor4": "bdad91",
+          "textColor1": "eee7d5",
+          "bgColor": "132122",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/less-is-more-deluxe/1250180839",
+        "playParams": {
+          "id": "1250180839",
+          "kind": "album"
+        },
+        "recordLabel": "Ultra Records",
+        "trackCount": 34,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Less Is More (Deluxe)",
+        "artistName": "Lost Frequencies",
+        "editorialNotes": {
+          "short": "An expanded version with new remixes and a song with Netsky."
+        },
+        "isComplete": true
+      }
+    },
+    "1280602948": {
+      "id": "1280602948",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Lost & Cie under exclusive license to Armada Music B.V. / Ultra Records, LLC",
+        "genreNames": ["House", "Music", "Dance", "Electronic"],
+        "releaseDate": "2017-09-29",
+        "upc": "0617465902154",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e3/34/dc/e334dc43-e474-77dd-c155-cb2cf417cef6/0617465902154.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bebdc0",
+          "textColor2": "d2b329",
+          "textColor4": "ac9226",
+          "textColor1": "e8e8ea",
+          "bgColor": "141118",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/here-with-you-remixes-ep/1280602948",
+        "playParams": {
+          "id": "1280602948",
+          "kind": "album"
+        },
+        "recordLabel": "Ultra Records",
+        "trackCount": 6,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Here with You (Remixes) - EP",
+        "artistName": "Lost Frequencies & Netsky",
+        "isComplete": true
+      }
+    },
+    "1309824800": {
+      "id": "1309824800",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Armada Music B.V.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2017-11-15",
+        "isMasteredForItunes": false,
+        "upc": "8718522179532",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/64/47/f3644777-bee7-07e7-409c-2e9237dc6fea/8718522179532.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "182c2b",
+          "textColor2": "1f2232",
+          "textColor4": "314854",
+          "textColor1": "000000",
+          "bgColor": "7bdedb",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/armada-invites/1309824800",
+        "playParams": {
+          "id": "1309824800",
+          "kind": "album"
+        },
+        "recordLabel": "ARVA",
+        "trackCount": 13,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Armada Invites",
+        "artistName": "Lost Frequencies",
+        "isComplete": false
+      }
+    },
+    "1397342743": {
+      "id": "1397342743",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Lost & Cie under exclusive license to Armada Music B.V.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2018-06-15",
+        "isMasteredForItunes": false,
+        "upc": "8718522209376",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/63/ca/9c63cab2-d405-d4ac-0de2-5bff2bf14fe9/8718522209376.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "4b3437",
+          "textColor2": "31191d",
+          "textColor4": "503c3f",
+          "textColor1": "2b0e13",
+          "bgColor": "cccac8",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/melody-feat-james-blunt-remixes-pt-1-ep/1397342743",
+        "playParams": {
+          "id": "1397342743",
+          "kind": "album"
+        },
+        "recordLabel": "Found Frequencies",
+        "trackCount": 6,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Melody (feat. James Blunt) [Remixes, Pt. 1] - EP",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1441125016": {
+      "id": "1441125016",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 Armada Music B.V.",
+        "genreNames": ["Dance", "Music", "House", "Electronic"],
+        "releaseDate": "2018-11-23",
+        "isMasteredForItunes": false,
+        "upc": "8718522228223",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/34/4c/17/344c179b-0b97-d01a-9c4e-b62d685dfc29/8718522228223.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "dbdbdb",
+          "textColor2": "f5f5f5",
+          "textColor4": "d4d4d4",
+          "textColor1": "fefefe",
+          "bgColor": "515151",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/lost-frequencies-presents-found-frequencies-dj-mix/1441125016",
+        "playParams": {
+          "id": "1441125016",
+          "kind": "album"
+        },
+        "recordLabel": "Armada Music Bundles",
+        "trackCount": 15,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Lost Frequencies Presents Found Frequencies (DJ Mix)",
+        "artistName": "Lost Frequencies",
+        "editorialNotes": {
+          "short": "Good times roll on the Belgian DJ’s vibrant and melodic house mix."
+        },
+        "isComplete": false
+      }
+    },
+    "1479706246": {
+      "id": "1479706246",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Found Frequencies / Armada Music B.V.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2019-10-04",
+        "isMasteredForItunes": false,
+        "upc": "8718522270642",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/66/d4/2866d4ad-bbea-c320-4e1f-0b5a9bbf58b0/8718522270642.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2a2927",
+          "textColor2": "401e13",
+          "textColor4": "5d4137",
+          "textColor1": "000000",
+          "bgColor": "d3cfc6",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/alive-and-feeling-fine/1479706246",
+        "playParams": {
+          "id": "1479706246",
+          "kind": "album"
+        },
+        "recordLabel": "Found Frequencies",
+        "trackCount": 23,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Alive and Feeling Fine",
+        "artistName": "Lost Frequencies",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "short": "An adrenaline rush of vocal house and glossy Top 40 remixes. "
+        },
+        "isComplete": false
+      }
+    },
+    "1483121373": {
+      "id": "1483121373",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Found Frequencies / Armada Music B.V.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2019-11-01",
+        "isMasteredForItunes": false,
+        "upc": "8718522270345",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e1/04/12/e10412bd-da0c-b3d2-0422-c451e1a1b386/8718522270345.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "31b3c5",
+          "textColor2": "18b5e2",
+          "textColor4": "1593b7",
+          "textColor1": "3bdcf2",
+          "bgColor": "080e0e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/found-frequencies-compilation-dj-mix/1483121373",
+        "playParams": {
+          "id": "1483121373",
+          "kind": "album"
+        },
+        "recordLabel": "Found Frequencies",
+        "trackCount": 7,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Found Frequencies Compilation (DJ Mix)",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1490603017": {
+      "id": "1490603017",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Found Frequencies / Armada Music B.V.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2020-01-10",
+        "isMasteredForItunes": false,
+        "upc": "8718522283093",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/d7/31/f4d7313b-5583-e72e-bb72-13b7cd0aa3b0/8718522283093.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "413a33",
+          "textColor2": "3b2a26",
+          "textColor4": "604c45",
+          "textColor1": "141411",
+          "bgColor": "f3d2bf",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/sun-is-shining-remixes-ep/1490603017",
+        "playParams": {
+          "id": "1490603017",
+          "kind": "album"
+        },
+        "recordLabel": "Found Frequencies",
+        "trackCount": 4,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Sun Is Shining (Remixes) - EP",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1522888372": {
+      "id": "1522888372",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Found Frequencies / Armada Music B.V.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2020-07-31",
+        "isMasteredForItunes": false,
+        "upc": "8718522307416",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/8f/ce/568fce46-01f7-874d-faed-903a20d36f5e/8718522307416.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d2c373",
+          "textColor2": "fed653",
+          "textColor4": "d2bf51",
+          "textColor1": "ffdc7e",
+          "bgColor": "21644b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/cup-of-beats-ep/1522888372",
+        "playParams": {
+          "id": "1522888372",
+          "kind": "album"
+        },
+        "recordLabel": "Found Frequencies",
+        "trackCount": 6,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Cup of Beats - EP",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1525467379": {
+      "id": "1525467379",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["House", "Music", "Dance"],
+        "releaseDate": "2020-08-05",
+        "upc": "5056381804503",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/21/15/01/21150197-395f-9ae4-4276-d70e693fff3d/mza_12554983279273263405.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "79aec1",
+          "textColor2": "65ceef",
+          "textColor4": "50a5c0",
+          "textColor1": "97daf0",
+          "bgColor": "000008",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/tomorrowland-around-the-world-2020-lost-frequencies-dj-mix/1525467379",
+        "playParams": {
+          "id": "1525467379",
+          "kind": "album"
+        },
+        "trackCount": 9,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Tomorrowland Around The World 2020: Lost Frequencies (DJ Mix)",
+        "artistName": "Lost Frequencies",
+        "editorialNotes": {
+          "standard": "The Belgian DJ brings the 🔥 to the virtual fest. Are you with him?",
+          "short": "The Belgian DJ brings the 🔥 to the virtual fest. Are you with him?"
+        },
+        "isComplete": false
+      }
+    },
+    "1526589152": {
+      "id": "1526589152",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Found Frequencies / Armada Music B.V.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2020-07-31",
+        "isMasteredForItunes": false,
+        "upc": "8718522307423",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/0e/74/7d0e7464-5636-7f28-8b29-167778a22094/8718522307423.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d2c373",
+          "textColor2": "fed653",
+          "textColor4": "d2bf51",
+          "textColor1": "ffdc7e",
+          "bgColor": "21644b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/cup-of-beats/1526589152",
+        "playParams": {
+          "id": "1526589152",
+          "kind": "album"
+        },
+        "recordLabel": "Found Frequencies",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Cup of Beats",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1531120313": {
+      "id": "1531120313",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 Found Frequencies / Armada Music B.V.",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2020-09-25",
+        "isMasteredForItunes": false,
+        "upc": "8718522315046",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/37/34/87373450-ced9-5b49-8bc8-a91181dab346/8718522315046.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d2c26a",
+          "textColor2": "fed44c",
+          "textColor4": "d2bd4b",
+          "textColor1": "ffda71",
+          "bgColor": "20634a",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/cup-of-beats-deluxe/1531120313",
+        "playParams": {
+          "id": "1531120313",
+          "kind": "album"
+        },
+        "recordLabel": "Found Frequencies",
+        "trackCount": 10,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Cup of Beats (Deluxe)",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1547346175": {
+      "id": "1547346175",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["House", "Music", "Dance"],
+        "releaseDate": "2021-01-15",
+        "upc": "5056381808402",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/04/2a/af/042aaf82-49af-3f6f-b19d-e3f1735de3b0/mza_8357099435036629045.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cc9000",
+          "textColor2": "eb8600",
+          "textColor4": "bc6b00",
+          "textColor1": "ffb400",
+          "bgColor": "010101",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/tomorrowland-31-12-2020-lost-frequencies-dj-mix/1547346175",
+        "playParams": {
+          "id": "1547346175",
+          "kind": "album"
+        },
+        "trackCount": 15,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Tomorrowland 31.12.2020: Lost Frequencies (DJ Mix)",
+        "artistName": "Lost Frequencies",
+        "isComplete": false
+      }
+    },
+    "1577278003": {
+      "id": "1577278003",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["House", "Music", "Dance"],
+        "releaseDate": "2021-07-16",
+        "isMasteredForItunes": false,
+        "upc": "5056381813857",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/e0/5c/0e/e05c0eb0-884f-ae0d-5960-3928857d9fac/mza_16296850986449821505.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "ccba98",
+          "textColor2": "efc8a4",
+          "textColor4": "c0a184",
+          "textColor1": "ffe9be",
+          "bgColor": "030301",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/tomorrowland-around-the-world-2021-lost-frequencies-dj-mix/1577278003",
+        "playParams": {
+          "id": "1577278003",
+          "kind": "album"
+        },
+        "trackCount": 10,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Tomorrowland Around The World 2021: Lost Frequencies (DJ Mix)",
+        "artistName": "Lost Frequencies",
+        "isComplete": false
+      }
+    },
+    "1603828949": {
+      "id": "1603828949",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021, Lost & Cie Music SPRL, exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-01-06",
+        "isMasteredForItunes": false,
+        "upc": "886449795642",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/5d/37/0d5d37b6-544b-1855-dae0-18225a417c69/886449795642.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "442219",
+          "textColor2": "240d03",
+          "textColor4": "4d2a1a",
+          "textColor1": "190301",
+          "bgColor": "f09e79",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/where-are-you-now-kungs-remix-single/1603828949",
+        "playParams": {
+          "id": "1603828949",
+          "kind": "album"
+        },
+        "recordLabel": "Epic Amsterdam",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Where Are You Now (Kungs Remix) - Single",
+        "artistName": "Lost Frequencies, Calum Scott & Kungs",
+        "isComplete": true
+      }
+    },
+    "1644465607": {
+      "id": "1644465607",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "releaseDate": "2022-09-16",
+        "upc": "5056381884932",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 2048,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b1/43/8e/b1438ef3-2a49-f134-6392-643bb1197a4c/405b0881-9705-4e06-9176-6eb712161de4.png/{w}x{h}bb.jpg",
+          "height": 2048,
+          "textColor3": "b1a190",
+          "textColor2": "ccc4a5",
+          "textColor4": "a8a187",
+          "textColor1": "d6c4b0",
+          "bgColor": "1b1611",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/tomorrowland-2022-lost-frequencies-at-the-library/1644465607",
+        "playParams": {
+          "id": "1644465607",
+          "kind": "album"
+        },
+        "trackCount": 26,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Tomorrowland 2022: Lost Frequencies at The Library, Weekend 2 (DJ Mix)",
+        "artistName": "Lost Frequencies",
+        "isComplete": false
+      }
+    },
+    "1683063510": {
+      "id": "1683063510",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["Dance", "Music", "Trance"],
+        "releaseDate": "2023-03-23",
+        "upc": "5056381865405",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8d/18/36/8d18367d-a566-2ff2-f8c8-029e4c520dbe/c9985588-207e-4a0c-a7b0-75cffcfca55d.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c3a085",
+          "textColor2": "dfa27d",
+          "textColor4": "b68467",
+          "textColor1": "f1c4a2",
+          "bgColor": "0f0d10",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/tomorrowland-winter-2023-lost-frequencies-at-mainstage/1683063510",
+        "playParams": {
+          "id": "1683063510",
+          "kind": "album"
+        },
+        "trackCount": 20,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Tomorrowland Winter 2023: Lost Frequencies at Mainstage (DJ Mix)",
+        "artistName": "Lost Frequencies",
+        "isComplete": false
+      }
+    },
+    "1688772853": {
+      "id": "1688772853",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-06-09",
+        "upc": "196871163484",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/43/1b/13431b37-0e7b-29ed-53fa-5a7b59092b75/196871163484.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d271e",
+          "textColor2": "311a0d",
+          "textColor4": "493925",
+          "textColor1": "0d0403",
+          "bgColor": "adb689",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/the-feeling-single/1688772853",
+        "playParams": {
+          "id": "1688772853",
+          "kind": "album"
+        },
+        "recordLabel": "Epic Amsterdam",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "The Feeling - Single",
+        "artistName": "Lost Frequencies",
+        "isComplete": true
+      }
+    },
+    "1699824347": {
+      "id": "1699824347",
+      "type": "albums",
+      "attributes": {
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "releaseDate": "2023-07-21",
+        "upc": "5059449389417",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/2b/e2/ca2be2ea-6da9-9b26-3d98-6f9561a17df6/3cee30e3-11c3-49f8-b0eb-f11491bb81b6.png/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c2b866",
+          "textColor2": "e9d172",
+          "textColor4": "bba75b",
+          "textColor1": "f3e680",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/tomorrowland-2023-lost-frequencies-at-the-library/1699824347",
+        "playParams": {
+          "id": "1699824347",
+          "kind": "album"
+        },
+        "trackCount": 17,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "Tomorrowland 2023: Lost Frequencies at The Library, Weekend 1 (DJ Mix)",
+        "artistName": "Lost Frequencies",
+        "contentRating": "explicit",
+        "isComplete": false
+      }
+    },
+    "1700695867": {
+      "id": "1700695867",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-09-01",
+        "upc": "196871356190",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/89/8c/bf/898cbfe9-ef4a-241b-4a81-99e9ba43977d/196871356190.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2e363e",
+          "textColor2": "242c35",
+          "textColor4": "454f57",
+          "textColor1": "080d15",
+          "bgColor": "c8dbe2",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/dive-single/1700695867",
+        "playParams": {
+          "id": "1700695867",
+          "kind": "album"
+        },
+        "recordLabel": "Epic Amsterdam",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Dive - Single",
+        "artistName": "Lost Frequencies & Tom Gregory",
+        "isComplete": true
+      }
+    },
+    "1709508139": {
+      "id": "1709508139",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-11-10",
+        "upc": "196871502351",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/25/48/0c25481a-ef33-7d59-bad1-21eb61265d34/196871502351.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "313538",
+          "textColor2": "2f2e2c",
+          "textColor4": "4f504e",
+          "textColor1": "090d11",
+          "bgColor": "d0d6d4",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/all-stand-together/1709508139",
+        "playParams": {
+          "id": "1709508139",
+          "kind": "album"
+        },
+        "recordLabel": "Epic Amsterdam",
+        "trackCount": 11,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": false,
+        "name": "All Stand Together",
+        "artistName": "Lost Frequencies",
+        "editorialNotes": {
+          "short": "Electro vibes power the hitmaker's hard-to-beat set."
+        },
+        "isComplete": true
+      }
+    },
+    "1709940198": {
+      "id": "1709940198",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2023-10-13",
+        "upc": "196871513661",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/55/86/b95586cd-64ff-d0ae-7565-25a69cbd37e1/196871513661.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "beaa3b",
+          "textColor2": "a867ff",
+          "textColor4": "8a55d2",
+          "textColor1": "ead141",
+          "bgColor": "0f1223",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/dive-deluxe-mix-single/1709940198",
+        "playParams": {
+          "id": "1709940198",
+          "kind": "album"
+        },
+        "recordLabel": "Epic Amsterdam",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Dive (Deluxe Mix) - Single",
+        "artistName": "Lost Frequencies & Tom Gregory",
+        "isComplete": true
+      }
+    }
+  },
+  "songs": {
+    "961274523": {
+      "id": "961274523",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Are You With Me (Radio Edit) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 1,
+        "durationInMillis": 138843,
+        "releaseDate": "2014-10-03",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711403495",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/16/32/29163275-a1ff-e76e-5998-0a05aa285329/dj.rbwogrnk.png/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "e6c8d1",
+          "textColor2": "ffda67",
+          "textColor4": "edba64",
+          "textColor1": "f6ebee",
+          "bgColor": "a73e5c",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/are-you-with-me-radio-edit/961274516?i=961274523",
+        "playParams": {
+          "id": "961274523",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Are You With Me (Radio Edit)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/59/7c/56597cc2-98dc-9e0a-43b5-d1837c8bd59a/mzaf_3721190247755799686.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "962888193": {
+      "id": "962888193",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Are You With Me (Remixes)",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 3,
+        "releaseDate": "2014-11-14",
+        "durationInMillis": 234477,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711500301",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/d4/35/2bd435a6-c245-11f8-b7d5-0e518bdf286e/mzm.yxxkizcd.png/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "ebbc57",
+          "textColor2": "fdcd6b",
+          "textColor4": "ebb067",
+          "textColor1": "fedc56",
+          "bgColor": "a23b58",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/are-you-with-me-kungs-remix/962888181?i=962888193",
+        "playParams": {
+          "id": "962888193",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Are You With Me (Kungs Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/9a/19/f99a1912-6d48-5c69-cdcd-096b10169d08/mzaf_2716115710008347922.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "962888198": {
+      "id": "962888198",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Are You With Me (Remixes)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 6,
+        "releaseDate": "2015-02-09",
+        "durationInMillis": 282745,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711500297",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/d4/35/2bd435a6-c245-11f8-b7d5-0e518bdf286e/mzm.yxxkizcd.png/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "ebbc57",
+          "textColor2": "fdcd6b",
+          "textColor4": "ebb067",
+          "textColor1": "fedc56",
+          "bgColor": "a23b58",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/are-you-with-me-dimaro-remix/962888181?i=962888198",
+        "playParams": {
+          "id": "962888198",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Are You With Me (DIMARO Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c0/9a/69/c09a693c-6d0e-70d1-3875-2d9e66ff0d63/mzaf_13710387090790852427.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "989459382": {
+      "id": "989459382",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Are You with Me (Dash Berlin Radio Edit) - Single",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 1,
+        "durationInMillis": 168095,
+        "releaseDate": "2015-05-12",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711502567",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/90/89/05/90890522-67fa-5250-60bd-5c037f5b65ad/0617465621857.png/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "dad9e5",
+          "textColor2": "f0dfb8",
+          "textColor4": "cec0ad",
+          "textColor1": "ffffff",
+          "bgColor": "474682",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/are-you-with-me-dash-berlin-radio-edit/989458948?i=989459382",
+        "playParams": {
+          "id": "989459382",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Are You with Me (Dash Berlin Radio Edit)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/4d/94/4a4d94cc-d028-ff3d-5495-554934906680/mzaf_17489836439716160077.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "996714137": {
+      "id": "996714137",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Reality (feat. Janieck Devy) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 1,
+        "releaseDate": "2015-05-11",
+        "durationInMillis": 158474,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711502765",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/0f/68/d60f6816-7e65-c6ad-39e4-844d5e374879/0617465626951.png/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "533a2e",
+          "textColor2": "571b28",
+          "textColor4": "794235",
+          "textColor1": "281220",
+          "bgColor": "fedb67",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/reality-feat-janieck-devy/996714131?i=996714137",
+        "playParams": {
+          "id": "996714137",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Reality (feat. Janieck Devy)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/01/cd/7b/01cd7b2e-4385-171f-9d33-36bcdc62d860/mzaf_12745627102039858724.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1068616571": {
+      "id": "1068616571",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Are You with Me / Reality (Christmas Remixes) - Single",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 1,
+        "durationInMillis": 138853,
+        "releaseDate": "2014-08-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711507994",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/56/1a/3f/561a3f0c-7547-d637-06a6-9dd233443758/0617465681752.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "f2cfcf",
+          "textColor2": "ffffff",
+          "textColor4": "f2cfcf",
+          "textColor1": "ffffff",
+          "bgColor": "c11013",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/are-you-with-me-christmas-mix/1068615188?i=1068616571",
+        "playParams": {
+          "id": "1068616571",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo"],
+        "name": "Are You with Me (Christmas Mix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/c5/16/1ec5167f-b77d-2f2d-cd0d-dbef1dbe339c/mzaf_7247890553432392262.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1113081957": {
+      "id": "1113081957",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Beautiful Life (feat. Sandro Cavazza) - Single",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 1,
+        "releaseDate": "2016-05-19",
+        "durationInMillis": 161464,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711603019",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/fc/a4/81fca4f8-6ce7-0630-3761-15066ed03252/dj.ngiaaqqw.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3c363c",
+          "textColor2": "222942",
+          "textColor4": "4a5161",
+          "textColor1": "0f0713",
+          "bgColor": "eef2e1",
+          "hasP3": false
+        },
+        "audioLocale": "zxx",
+        "url": "https://music.apple.com/us/album/beautiful-life-feat-sandro-cavazza/1113081653?i=1113081957",
+        "playParams": {
+          "id": "1113081957",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossy-stereo"],
+        "name": "Beautiful Life (feat. Sandro Cavazza)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/86/ad/9386ad96-2e25-3e41-fc4e-ff6c3f4e7f8e/mzaf_9831971291025866172.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1160376023": {
+      "id": "1160376023",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Less Is More",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 2,
+        "releaseDate": "2016-10-21",
+        "durationInMillis": 188147,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "BEK011600187",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e4/56/91/e45691a5-017b-b0c9-c652-05a3bad0687f/0617465821356.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5a4e53",
+          "textColor2": "482422",
+          "textColor4": "694c4a",
+          "textColor1": "36262d",
+          "bgColor": "eeedeb",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/what-is-love-2016/1160375550?i=1160376023",
+        "playParams": {
+          "id": "1160376023",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "What Is Love 2016",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1d/b2/96/1db29624-521d-66a6-593b-28700a4a8a3c/mzaf_13980516815883896005.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1160376025": {
+      "id": "1160376025",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Less Is More",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 3,
+        "durationInMillis": 161464,
+        "releaseDate": "2016-10-21",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711603019",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e4/56/91/e45691a5-017b-b0c9-c652-05a3bad0687f/0617465821356.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5a4e53",
+          "textColor2": "482422",
+          "textColor4": "694c4a",
+          "textColor1": "36262d",
+          "bgColor": "eeedeb",
+          "hasP3": false
+        },
+        "audioLocale": "zxx",
+        "url": "https://music.apple.com/us/album/beautiful-life-feat-sandro-cavazza/1160375550?i=1160376025",
+        "playParams": {
+          "id": "1160376025",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Beautiful Life (feat. Sandro Cavazza)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/9d/6d/dd9d6db8-d7d0-9df0-3266-8002e35d31c4/mzaf_4952063002837200511.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1160376029": {
+      "id": "1160376029",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Less Is More",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 5,
+        "durationInMillis": 158474,
+        "releaseDate": "2016-10-21",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711502765",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e4/56/91/e45691a5-017b-b0c9-c652-05a3bad0687f/0617465821356.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5a4e53",
+          "textColor2": "482422",
+          "textColor4": "694c4a",
+          "textColor1": "36262d",
+          "bgColor": "eeedeb",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/reality-feat-janieck-devy/1160375550?i=1160376029",
+        "playParams": {
+          "id": "1160376029",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Reality (feat. Janieck Devy)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1c/f9/b9/1cf9b970-bc5b-e415-1daf-193d36fd3fe6/mzaf_8924329911932707912.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1160376072": {
+      "id": "1160376072",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Less Is More",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 12,
+        "durationInMillis": 138013,
+        "releaseDate": "2016-10-21",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711403495",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e4/56/91/e45691a5-017b-b0c9-c652-05a3bad0687f/0617465821356.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "5a4e53",
+          "textColor2": "482422",
+          "textColor4": "694c4a",
+          "textColor1": "36262d",
+          "bgColor": "eeedeb",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/are-you-with-me-radio-edit/1160375550?i=1160376072",
+        "playParams": {
+          "id": "1160376072",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Are You with Me (Radio Edit)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/65/0c/fb/650cfb77-ad46-1ffc-0cbe-16b7db521a58/mzaf_8987445763809948155.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1250180845": {
+      "id": "1250180845",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Less Is More (Deluxe)",
+        "genreNames": ["House", "Music", "Dance", "Electronic"],
+        "trackNumber": 1,
+        "durationInMillis": 159545,
+        "releaseDate": "2016-10-21",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711705510",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/3a/52/883a52e0-d708-ff03-fe00-eaba629ffb37/0617465883354.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c2bfb1",
+          "textColor2": "e8d0ac",
+          "textColor4": "bdad91",
+          "textColor1": "eee7d5",
+          "bgColor": "132122",
+          "hasP3": false
+        },
+        "composerName": "Tobias Kuhn, Boris Daenen & Felix de Laet",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/here-with-you/1250180839?i=1250180845",
+        "playParams": {
+          "id": "1250180845",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Here with You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b1/12/6d/b1126d96-0087-b07d-4604-da3e17bf7c2a/mzaf_4491436298523168574.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies & Netsky"
+      }
+    },
+    "1301548101": {
+      "id": "1301548101",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Crazy - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 153391,
+        "releaseDate": "2017-11-24",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711711933",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/4c/c8/d54cc866-e5b1-0d2e-d87d-0b8e6bda1440/8718522179648.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "564244",
+          "textColor2": "2e1b22",
+          "textColor4": "55454b",
+          "textColor1": "2f1618",
+          "bgColor": "f1f1f1",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Felix de Laet, Allan Eshuijs, Martijn van Sonderen, Gia Koka & David Benjamin",
+        "url": "https://music.apple.com/us/album/crazy/1301548099?i=1301548101",
+        "playParams": {
+          "id": "1301548101",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Crazy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/47/0c/d4/470cd4d4-0ac5-cd9b-4036-7fe4f5c808e4/mzaf_8453985970084482691.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies & Zonderling"
+      }
+    },
+    "1373816640": {
+      "id": "1373816640",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Melody (feat. James Blunt) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-04-27",
+        "durationInMillis": 149009,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711804296",
+        "artwork": {
+          "width": 2048,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/72/79/2e7279af-824b-98f9-8286-2a0ed31bb154/8718522200496.png/{w}x{h}bb.jpg",
+          "height": 2048,
+          "textColor3": "513b3f",
+          "textColor2": "42181d",
+          "textColor4": "5d3b3f",
+          "textColor1": "32171d",
+          "bgColor": "cac9c7",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Steve Mac, Ammar Malik & Felix de Laet",
+        "url": "https://music.apple.com/us/album/melody-feat-james-blunt/1373816624?i=1373816640",
+        "playParams": {
+          "id": "1373816640",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Melody (feat. James Blunt)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/68/c1/d4/68c1d435-c1a4-c744-156a-45e830efcdc2/mzaf_3568623947970668767.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1432179690": {
+      "id": "1432179690",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Like I Love You (feat. The NGHBRS) - Single",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 1,
+        "durationInMillis": 190174,
+        "releaseDate": "2018-01-04",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711809899",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/c9/05/59c90598-462a-75c0-daf2-1a085f4d9b8f/8718522218903.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3e3a34",
+          "textColor2": "25231f",
+          "textColor4": "46433e",
+          "textColor1": "1b1713",
+          "bgColor": "cdc4bb",
+          "hasP3": false
+        },
+        "composerName": "Hannah Wilson, Griffin Fornell & Felix de Laet",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/like-i-love-you-feat-the-nghbrs/1432179675?i=1432179690",
+        "playParams": {
+          "id": "1432179690",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Like I Love You (feat. The NGHBRS)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/da/2a/f8da2a18-c50d-50e1-a47a-fb039b6486ca/mzaf_3950473130635003939.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1479706254": {
+      "id": "1479706254",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Alive and Feeling Fine",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 4,
+        "durationInMillis": 183183,
+        "releaseDate": "2019-10-04",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "NLF711909044",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/66/d4/2866d4ad-bbea-c320-4e1f-0b5a9bbf58b0/8718522270642.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2a2927",
+          "textColor2": "401e13",
+          "textColor4": "5d4137",
+          "textColor1": "000000",
+          "bgColor": "d3cfc6",
+          "hasP3": false
+        },
+        "composerName": "Felix de Laet & WillIam Simister",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/beat-of-my-heart-feat-love-harder/1479706246?i=1479706254",
+        "playParams": {
+          "id": "1479706254",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Beat of My Heart (feat. Love Harder)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/cb/a3/8f/cba38f6d-9294-a122-2a38-c07d725f46bb/mzaf_511697649597010961.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1552918352": {
+      "id": "1552918352",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Rise - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2021-02-19",
+        "durationInMillis": 193018,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "BEHP42100024",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/12/da/69/12da697e-0f20-ec52-c9ff-ffb27a5bd0fe/886449086832.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "01d3ec",
+          "textColor2": "d8d4df",
+          "textColor4": "aeb1d3",
+          "textColor1": "00ffff",
+          "bgColor": "0825a5",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Felix de Laet, Martijn van Sonderen, Jeffrey Goldford, Jonas D. Kröper & Yoshi L H Breen",
+        "url": "https://music.apple.com/us/album/rise/1552918349?i=1552918352",
+        "playParams": {
+          "id": "1552918352",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Rise",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/de/d9/f3/ded9f3c4-a0fb-06c3-6320-8f21308cb8f1/mzaf_11493049589762687593.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies"
+      }
+    },
+    "1576395046": {
+      "id": "1576395046",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Where Are You Now - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2021-07-30",
+        "durationInMillis": 148197,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "BEHP42100067",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/79/2a/25792aaa-fe16-c718-27fa-c3b1781780fb/886449449668.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "4b2819",
+          "textColor2": "411d05",
+          "textColor4": "64361c",
+          "textColor1": "220b01",
+          "bgColor": "f19c77",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Felix de Laet, Michael Patrick Kelly, Joacim Bo Persson, Sebastian Arman & Dag Lundberg",
+        "url": "https://music.apple.com/us/album/where-are-you-now/1576395044?i=1576395046",
+        "playParams": {
+          "id": "1576395046",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Where Are You Now",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b1/ba/25/b1ba25ec-d3e8-761c-4348-ffc19a3fed66/mzaf_12705105647668566848.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies & Calum Scott"
+      }
+    },
+    "1622823100": {
+      "id": "1622823100",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Questions - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-06-03",
+        "durationInMillis": 177157,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "BEHP42200001",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bf/60/6b/bf606b3f-8dea-9953-e225-04b843f817d8/196589162120.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbced0",
+          "textColor2": "a0bff6",
+          "textColor4": "829bca",
+          "textColor1": "fafefd",
+          "bgColor": "0d0d1b",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "James Arthur, Felix de Laet, Peter Rycroft & Dan Smith",
+        "url": "https://music.apple.com/us/album/questions/1622822936?i=1622823100",
+        "playParams": {
+          "id": "1622823100",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Questions",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1a/fb/49/1afb49f6-2ad2-6b89-8de0-b9b85d880ce8/mzaf_12750414525382561085.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies & James Arthur"
+      }
+    },
+    "1655399058": {
+      "id": "1655399058",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Back To You - Single",
+        "genreNames": ["Dance", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 157252,
+        "releaseDate": "2022-12-08",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "BEHP42200024",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/9f/94/cf9f942f-5338-2e0f-c1de-6023e48f736e/196589692825.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "97aba7",
+          "textColor2": "b7c9d1",
+          "textColor4": "93aab2",
+          "textColor1": "bbcbc3",
+          "bgColor": "042c37",
+          "hasP3": false
+        },
+        "composerName": "Elley Duhé, Felix de Laet, Joacim Persson, Nicklas Lif & Jonas Vesa",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/back-to-you/1655398754?i=1655399058",
+        "playParams": {
+          "id": "1655399058",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Back To You",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/17/30/fb/1730fb57-0f67-f0ea-ebb7-ad1e35acfc9a/mzaf_13424045436865561525.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lost Frequencies, Elley Duhé & X Ambassadors"
+      }
+    }
+  }
+}

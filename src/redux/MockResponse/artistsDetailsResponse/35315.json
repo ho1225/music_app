@@ -1,0 +1,2119 @@
+{
+  "artists": {
+    "35315": {
+      "id": "35315",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Hip-Hop/Rap"],
+        "name": "Dr. Dre",
+        "artwork": {
+          "width": 2400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/58/80/e9/5880e97c-f19f-5d5d-5d9f-229ef3fa8071/mza_6418309645502471883.png/{w}x{h}bb.jpg",
+          "height": 2400,
+          "textColor3": "343633",
+          "textColor2": "323434",
+          "textColor4": "585959",
+          "textColor1": "050704",
+          "bgColor": "f0f0ee",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/dr-dre/35315"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1440782221",
+              "type": "albums"
+            },
+            {
+              "id": "1445296975",
+              "type": "albums"
+            },
+            {
+              "id": "1668460963",
+              "type": "albums"
+            },
+            {
+              "id": "1440839174",
+              "type": "albums"
+            },
+            {
+              "id": "1444156266",
+              "type": "albums"
+            },
+            {
+              "id": "1440869002",
+              "type": "albums"
+            },
+            {
+              "id": "1444890963",
+              "type": "albums"
+            },
+            {
+              "id": "1442929075",
+              "type": "albums"
+            },
+            {
+              "id": "870662039",
+              "type": "albums"
+            },
+            {
+              "id": "1526095540",
+              "type": "albums"
+            },
+            {
+              "id": "1445049702",
+              "type": "albums"
+            },
+            {
+              "id": "1608441685",
+              "type": "albums"
+            },
+            {
+              "id": "1608441920",
+              "type": "albums"
+            },
+            {
+              "id": "1608440296",
+              "type": "albums"
+            },
+            {
+              "id": "1445283586",
+              "type": "albums"
+            },
+            {
+              "id": "1608438844",
+              "type": "albums"
+            },
+            {
+              "id": "1445287695",
+              "type": "albums"
+            },
+            {
+              "id": "1608438087",
+              "type": "albums"
+            },
+            {
+              "id": "1608439691",
+              "type": "albums"
+            },
+            {
+              "id": "1445277805",
+              "type": "albums"
+            },
+            {
+              "id": "1046051141",
+              "type": "albums"
+            },
+            {
+              "id": "1481494904",
+              "type": "albums"
+            },
+            {
+              "id": "1481495264",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": []
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1440783376",
+              "type": "songs"
+            },
+            {
+              "id": "1440782870",
+              "type": "songs"
+            },
+            {
+              "id": "1440764598",
+              "type": "songs"
+            },
+            {
+              "id": "1440783384",
+              "type": "songs"
+            },
+            {
+              "id": "1668461604",
+              "type": "songs"
+            },
+            {
+              "id": "1440908981",
+              "type": "songs"
+            },
+            {
+              "id": "1440819191",
+              "type": "songs"
+            },
+            {
+              "id": "1440783165",
+              "type": "songs"
+            },
+            {
+              "id": "1440782886",
+              "type": "songs"
+            },
+            {
+              "id": "1445296983",
+              "type": "songs"
+            },
+            {
+              "id": "1440784906",
+              "type": "songs"
+            },
+            {
+              "id": "1668461348",
+              "type": "songs"
+            },
+            {
+              "id": "1519112502",
+              "type": "songs"
+            },
+            {
+              "id": "1668461354",
+              "type": "songs"
+            },
+            {
+              "id": "1440867041",
+              "type": "songs"
+            },
+            {
+              "id": "1440841433",
+              "type": "songs"
+            },
+            {
+              "id": "1440782620",
+              "type": "songs"
+            },
+            {
+              "id": "1440799313",
+              "type": "songs"
+            },
+            {
+              "id": "1440819150",
+              "type": "songs"
+            },
+            {
+              "id": "1440782612",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "albums": {
+    "870662039": {
+      "id": "870662039",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 1999 Antra Records LLC, under license to Essential Media Group LLC",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap"],
+        "releaseDate": "2014-04-29",
+        "isMasteredForItunes": false,
+        "upc": "894232253828",
+        "artwork": {
+          "width": 1501,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/75/b7/1c/75b71c59-3a07-b341-0e86-5912ad08bb08/894232253828.jpg/{w}x{h}bb.jpg",
+          "height": 1501,
+          "textColor3": "ccd8cc",
+          "textColor2": "fcf302",
+          "textColor4": "cacf02",
+          "textColor1": "ffffff",
+          "bgColor": "043f04",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "870662039",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/ask-yourself-a-question-hos-a-housewife-remix-feat/870662039",
+        "recordLabel": "Essential 12\" Classics",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Ask Yourself a Question / Ho's a Housewife (Remix) [feat. Dr. Dre & Hittman] - EP",
+        "artistName": "Kurupt",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1046051141": {
+      "id": "1046051141",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Blood Money & Entertainment One U.S., LP",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2015-10-09",
+        "isMasteredForItunes": false,
+        "upc": "634164033828",
+        "artwork": {
+          "width": 1412,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/78/3a/a1/783aa1ae-cfd0-1c9b-857f-c308a808f01f/DontTrip_Clean.jpg/{w}x{h}bb.jpg",
+          "height": 1412,
+          "textColor3": "2f2e2e",
+          "textColor2": "1f1f1f",
+          "textColor4": "424241",
+          "textColor1": "070707",
+          "bgColor": "cfceca",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/dont-trip-feat-ice-cube-dr-dre-will-i-am-single/1046051141",
+        "playParams": {
+          "id": "1046051141",
+          "kind": "album"
+        },
+        "recordLabel": "eOne Music",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Don't Trip (feat. Ice Cube, Dr. Dre, will.i.am) - Single",
+        "contentRating": "clean",
+        "artistName": "The Game",
+        "isComplete": true
+      }
+    },
+    "1440782221": {
+      "id": "1440782221",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2008 Aftermath Entertainment/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "R&B/Soul",
+          "Gangsta Rap",
+          "West Coast Rap"
+        ],
+        "releaseDate": "1999-11-16",
+        "isMasteredForItunes": false,
+        "upc": "00602517641266",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1440782221",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/2001/1440782221",
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 23,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "2001",
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "On nearly every song on his 1999 album, <i>2001</i>, Dr. Dre finds new ways to make an argument for his own importance in hip-hop. There are ways he has changed since his early days—and very important ways he hasn’t. For those who doubt him, he and his collaborators have no shortage of choice words. A multi-Platinum smash, the record served as a reintroduction to the N.W.A and Death Row legend after several years without a major musical statement. Its most ubiquitous tracks are larger-than-life exercises in self-mythologizing, grounded by the hardest beats Dre and his team could cook up and verses from guests both young and hungry and seasoned and formidable. \n\nIn his opening verse on the album’s lead single, “Still D.R.E.,” Dre raps that his genre-defining 1993 debut, <i>The Chronic</i>, was his most recent record, overlooking 1996’s oft-dismissed <i>Dr. Dre Presents... The Aftermath</i>. The song perfectly represents the ethos of <i>2001</i>: Dre reframing his narrative by any means necessary. In this case, it’s with the help of his most celebrated collaborator (Snoop Dogg), rapping verses written by the most bulletproof hip-hop talent of the moment (JAY-Z). Dre attempted to populate every track on <i>2001</i> with heavy hitters in this way, combining artists from different regions and sensibilities to make tracks that felt both timeless and modern enough to capture the zeitgeist. \n\nOne of Dre’s most crucial weapons on <i>2001</i> was Eminem, the older rapper’s recent Aftermath Entertainment signee. Em steals the show on three of the album’s tracks, including the hit “Forgot About Dre,” on which he pledges his allegiance to his mentor on the strangely infectious, virtuosic hook. The production evidences Dre’s updated, Y2K approach to his formative G-funk style of the early '90s, integrating more space and a more uncanny, of-the-moment synth template.\n\nFew <i>2001</i> tracks, though, perfectly embody the album’s winning combination of pop prowess, playfulness, and seamy atmosphere as well as the posse cut “The Next Episode,” with its epic orchestral sample and enduring treat of a non sequitur a cappella tag (“Smoke weed every day”). The song is emblematic of <i>2001</i>’s brand of bombast—all kingmaking, violence, sex, and dark humor, the ingredients that made the LP one of the turn of the millennium’s greatest smoked-out hip-hop fever dreams. \n",
+          "short": "A thrilling blockbuster comeback from one of rap’s comeback experts.\n"
+        },
+        "isComplete": true
+      }
+    },
+    "1440839174": {
+      "id": "1440839174",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Aftermath/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Hardcore Rap",
+          "Rap",
+          "Rock",
+          "Gangsta Rap",
+          "West Coast Rap"
+        ],
+        "releaseDate": "2015-08-07",
+        "upc": "00602547530653",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a7/6d/29/a76d2910-0272-4911-52ea-a7e2ece38f0f/00602547530653.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cccccd",
+          "textColor2": "7ac4e4",
+          "textColor4": "629db8",
+          "textColor1": "ffffff",
+          "bgColor": "020307",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1440839174",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/compton/1440839174",
+        "recordLabel": "Dr. Dre LP3 PS",
+        "isCompilation": false,
+        "trackCount": 16,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Compton",
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "In 2015, Dr. Dre shocked a skeptical music world by dropping <i>Compton</i>, the long-awaited follow-up to 1999 chart monster <i>2001</i> that many expectant fans had come to believe was apocryphal. Loosely pegged to the release of the N.W.A biopic, <i>Straight Outta Compton</i>, the album found the West Coast rap founding father fully embracing his legacy as an auteur—an expert curator who knows his role and plays it to stylish, hard-boiled perfection.\n\nDr. Dre has often compared his albums to films, and <i>Compton</i> sounds more cinematic than anything in his discography; with its all-star ensemble cast, it feels perfect for the age of Marvel movies that it surfaced into. Every beat sounds expensive and high stakes, often changing shape with the entrance of a new voice—either a legacy act, reigning royalty, or a protégé on the rise. Dre did not return just to cash in on nostalgia; he thoughtfully pits the greatest minds of his generation and the next couple—Ice Cube, Snoop Dogg, Xzibit, Eminem—against a panoply of new talent from his home city, as a challenge to all parties to be on top of their game.\n\nAs a rapper, Dre works to demonstrate the extent to which he can evolve with the times and play off of his collaborators. In “Genocide,” he goes toe-to-toe with his city’s star hip-hop talent, Kendrick Lamar, rapping in high, hoarse, and energized tones to complement Lamar’s own idiosyncratic, range-switching style. Elsewhere, then-newcomer Anderson .Paak assumes the Nate Dogg-like role of G-funk crooner but adds his own sense of urgency and eccentricity—see his inspired, unhinged interplay with Dre on “All In a Day’s Work.”\n\n<i>Compton</i>’s beats reflect a pangenerational viewpoint as well. There are dustier, sample-driven moments like “It’s All On Me” and satisfying throwback G-funk tracks like the Snoop Dogg collab “Satisfaction.” But there are also more curious variations on the theme—the lightly drunken neo-soul groove of  “Animals”—and wild detours like the glitchy pseudo-trap in the second half of \"Medicine Man.\" The album might be called <i>Compton</i>, but there’s a global quality about this music, reflective of so much hip-hop that came in the decade and a half during which Dre was largely absent from the pop music sphere as a soloist.\n",
+          "short": "West Coast hip-hop’s grand architect addresses his legacy.\n"
+        },
+        "isComplete": true
+      }
+    },
+    "1440869002": {
+      "id": "1440869002",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 1999 Aftermath Entertainment/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "West Coast Rap", "Gangsta Rap"],
+        "releaseDate": "1999-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00606949057121",
+        "artwork": {
+          "width": 1444,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/d4/d9/07d4d90d-704e-c10e-2203-2b18318a2064/00606949057121.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1434,
+          "textColor3": "cbcccc",
+          "textColor2": "84c76a",
+          "textColor4": "69a055",
+          "textColor1": "feffff",
+          "bgColor": "000403",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1440869002",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/2001-instrumental/1440869002",
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 20,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "2001 (Instrumental)",
+        "artistName": "Dr. Dre",
+        "editorialNotes": {
+          "standard": "Listening to the instrumental version of  1999’s <i>2001</i>, Dr. Dre’s triumphant return to rap after years out of the public eye, emphasizes how substantially the rapper-producer revitalized his classic production sound for his grand comeback. The beats on the LP recall the swaggering G-funk stylings of the 1992 <i>tour de force</i> <i>The Chronic</i>, Snoop Dogg’s <i>Doggystyle</i> of 1993, and other classic Dre production turns. But instead of sunshine and hydraulic cars, <i>2001</i>’s leaner and eerier beats evoke darker scenes. The record sustains a noir affect, employing more futuristic synth sounds and a dense, colorful compendium of samples.\n\nEven more than Dre’s slick <i>Chronic</i> productions—with their wheedling synth leads and soulful flourishes—<i>2001</i>’s beats thrive on space. The production here, handled almost entirely by Dre and Mel-Man, is open enough to make room for the more verbose and chaotic flows of younger rappers like Xzibit and Eminem. Album opener “The Watcher” introduces us to this world, with subterranean horn synths functioning as sparse bass punctuation, targeting the trunk-rattling frequencies. Scott Storch’s beat for “Still D.R.E.” is inimitable—all stark piano plinks, with bass, kick, and subtle string surges providing emphasis. \n\nThe album also contains some of the most creative sampling of Dre’s career, finding the producer and Mel-Man going off on crate-digger tangents. Many standout moments—like the wiry, seductive guitar line in “Xxplosive”—feel spiritually of a piece with Dre’s early work. Other highlights like “What’s The Difference” feel less intuitive but even more exciting, deriving a singular, slightly kitschy sense of drama from catchy oompah horns pulled from a French crooner record (Charles Aznavour's \"Parce que tu crois\"). The record’s towering sampling achievement, perhaps, is the use of the mystical orchestral swells and skeletal surf guitar motifs in “The Next Episode.” The clip is borrowed from “The Edge,” a 1967 track by David McCallum, produced and arranged by crate-digger favorite David Axelrod. \n",
+          "short": "Highlighting some of Dr. Dre’s most varied and resourceful productions.\n"
+        },
+        "isComplete": true
+      }
+    },
+    "1442929075": {
+      "id": "1442929075",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Aftermath/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Rock",
+          "West Coast Rap",
+          "Rap",
+          "Gangsta Rap",
+          "Hardcore Rap"
+        ],
+        "releaseDate": "2015-08-09",
+        "upc": "00602547530684",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/51/4f/b0514fda-a9ca-d08b-1e89-eca02d9e792f/00602547530684.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "83abc0",
+          "textColor2": "7ac1e5",
+          "textColor4": "629fc0",
+          "textColor1": "a4d0e6",
+          "bgColor": "001a2b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/compton/1442929075",
+        "playParams": {
+          "id": "1442929075",
+          "kind": "album"
+        },
+        "recordLabel": "Dr. Dre LP3 PS",
+        "isCompilation": false,
+        "trackCount": 16,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Compton",
+        "contentRating": "clean",
+        "artistName": "Dr. Dre",
+        "editorialNotes": {
+          "short": "Check out 16 songs of all-new music by Dr. Dre."
+        },
+        "isComplete": true
+      }
+    },
+    "1444156266": {
+      "id": "1444156266",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2008 Aftermath Entertainment/Interscope Records",
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "West Coast Rap",
+          "R&B/Soul",
+          "Gangsta Rap",
+          "Rock"
+        ],
+        "releaseDate": "1999-11-16",
+        "isMasteredForItunes": false,
+        "upc": "00602517641228",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/27/6b/4c/276b4c69-99cb-6209-2fd8-3edd17ccfd06/00602517641228.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "ccceca",
+          "textColor2": "94cc6c",
+          "textColor4": "79a659",
+          "textColor1": "fdfffa",
+          "bgColor": "0b0c0e",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1444156266",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/2001/1444156266",
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 23,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "2001",
+        "artistName": "Dr. Dre",
+        "contentRating": "clean",
+        "editorialNotes": {
+          "standard": "After the messy dissolution of Death Row records Dr. Dre found himself adrift in an unfamiliar world. By the mid ‘90s the once formidable west coast hip-hop scene was fragmented and weakened by years of overindulgence. By the time <i>The Chronic 2001</i> emerged at the beginning of the new millennium many still doubted that Dre was capable of creating anything that could rival the sheer majesty of his work with Death Row. The brashly titled and unapologetically confrontational <i>Chronic 2001</i> laid those doubts to rest with a series of radio-ready singles that blended the crisp G-Funk of Dre’s past with a newfound sense of symphonic grandeur. But the real gems here are a series of guest laden albums cuts — “The Watcher” and “Some L.A. N***az are the finest of these — that find a veritable who’s who of Golden Era Los Angeles rap royalty spitting fire over some of Dre’s sparest, fiercest beats. Though <i>The Chronic 2001</i> is marred by a handful of dismal and unimaginative sex raps that reprise all of the venom, but none of the joyous humor of <i>Chronic</i> classics like “Bitches Ain’t Shit,” <i> Chronic 2001</i> is otherwise the equal of its illustrious predecessor in almost every respect; a true hip-hop classic from one of the greatest producers to ever approach the boards."
+        },
+        "isComplete": true
+      }
+    },
+    "1444890963": {
+      "id": "1444890963",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2012-01-01",
+        "isMasteredForItunes": true,
+        "upc": "00602537118601",
+        "artwork": {
+          "width": 1501,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0a/0d/de/0a0dde83-95c4-dbdf-5cb7-1790953e6586/00602537118601.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1501,
+          "textColor3": "b7bcc5",
+          "textColor2": "a8b7c7",
+          "textColor4": "8995a5",
+          "textColor1": "e3e8ef",
+          "bgColor": "0a0d20",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/new-day-feat-dr-dre-alicia-keys-single/1444890963",
+        "playParams": {
+          "id": "1444890963",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "New Day (feat. Dr. Dre & Alicia Keys) - Single",
+        "artistName": "50 Cent",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1445049702": {
+      "id": "1445049702",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2009 Aftermath Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2009-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00602527308197",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d3/64/0d/d3640dc0-8d2e-4e8a-8054-3719d918ef7f/00602527308197.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c1beb6",
+          "textColor2": "becebb",
+          "textColor4": "9ca999",
+          "textColor1": "ebe8e0",
+          "bgColor": "181510",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/hell-breaks-loose-feat-dr-dre-single/1445049702",
+        "playParams": {
+          "id": "1445049702",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Hell Breaks Loose (feat. Dr. Dre) - Single",
+        "artistName": "Eminem",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1445277805": {
+      "id": "1445277805",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "Hardcore Rap"],
+        "releaseDate": "2010-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00602527609003",
+        "artwork": {
+          "width": 900,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/04/2b/a3042b27-59a9-06d4-995b-8d542a6401ce/00602527609003.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 900,
+          "textColor3": "b2cea0",
+          "textColor2": "afdb90",
+          "textColor4": "8fb674",
+          "textColor1": "dbfac6",
+          "bgColor": "112106",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/i-need-a-doctor-feat-eminem-skylar-grey-single/1445277805",
+        "playParams": {
+          "id": "1445277805",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "I Need a Doctor (feat. Eminem & Skylar Grey)  - Single",
+        "artistName": "Dr. Dre",
+        "contentRating": "clean",
+        "isComplete": true
+      }
+    },
+    "1445283586": {
+      "id": "1445283586",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Shady Records/Aftermath Records/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Rap", "Rock"],
+        "releaseDate": "2012-01-01",
+        "isMasteredForItunes": false,
+        "upc": "00602527807508",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ef/4d/bd/ef4dbdf0-5dea-722c-15c8-a7f778518d6f/00602527807508.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c8cbd2",
+          "textColor2": "aab6c9",
+          "textColor4": "8a94a7",
+          "textColor1": "f8fbff",
+          "bgColor": "0b0e21",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/new-day-feat-dr-dre-alicia-keys-single/1445283586",
+        "playParams": {
+          "id": "1445283586",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Shady",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "New Day (feat. Dr. Dre & Alicia Keys) - Single",
+        "contentRating": "clean",
+        "artistName": "50 Cent",
+        "isComplete": true
+      }
+    },
+    "1445287695": {
+      "id": "1445287695",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2010-01-01",
+        "upc": "00602527593630",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/64/b7/4364b7f5-c024-c6d9-4e0c-af262bf20f0f/00602527593630.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "bdbdbd",
+          "textColor2": "d5d5d5",
+          "textColor4": "aaaaaa",
+          "textColor1": "ececec",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/kush-feat-snoop-dogg-akon-single/1445287695",
+        "playParams": {
+          "id": "1445287695",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Kush (feat. Snoop Dogg & Akon) - Single",
+        "contentRating": "explicit",
+        "artistName": "Dr. Dre",
+        "isComplete": true
+      }
+    },
+    "1445296975": {
+      "id": "1445296975",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Rap"],
+        "releaseDate": "2011-02-01",
+        "isMasteredForItunes": false,
+        "upc": "00602527608990",
+        "artwork": {
+          "width": 900,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5a/72/e8/5a72e8f5-3d97-ff2b-57f9-bd22d87e37c5/10UMGIM33332.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 900,
+          "textColor3": "b2cea0",
+          "textColor2": "afdb90",
+          "textColor4": "8fb674",
+          "textColor1": "dbfac6",
+          "bgColor": "112106",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/i-need-a-doctor-feat-eminem-skylar-grey-single/1445296975",
+        "playParams": {
+          "id": "1445296975",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "I Need a Doctor (feat. Eminem & Skylar Grey) - Single",
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1481494904": {
+      "id": "1481494904",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Interscope Records Release; ℗ 2019 UMG Recordings, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2019-10-04",
+        "upc": "00602508293078",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4a/ab/f7/4aabf769-03eb-74ed-1bf9-daa91cb94097/19UMGIM79882.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cccccd",
+          "textColor2": "caccd1",
+          "textColor4": "a2a3a8",
+          "textColor1": "ffffff",
+          "bgColor": "010206",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/no-diggity-feat-dr-dre-queen-pen-sam-wilkes-brian-green/1481494904",
+        "playParams": {
+          "id": "1481494904",
+          "kind": "album"
+        },
+        "recordLabel": "Interscope",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "No Diggity (feat. Dr. Dre & Queen Pen) [Sam Wilkes & Brian Green Remix] - Single",
+        "contentRating": "clean",
+        "artistName": "Blackstreet",
+        "isComplete": false
+      }
+    },
+    "1481495264": {
+      "id": "1481495264",
+      "type": "albums",
+      "attributes": {
+        "copyright": "An Interscope Records Release; ℗ 2019 UMG Recordings, Inc.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2019-10-04",
+        "isMasteredForItunes": false,
+        "upc": "00602508293399",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/82/a0/1f/82a01fed-182c-96f5-cfb5-0ad7c95c23d5/19UMGIM79912.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cccccd",
+          "textColor2": "8de38c",
+          "textColor4": "71b671",
+          "textColor1": "ffffff",
+          "bgColor": "010206",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/no-diggity-feat-dr-dre-queen-pen-sam-wilkes-brian-green/1481495264",
+        "playParams": {
+          "id": "1481495264",
+          "kind": "album"
+        },
+        "recordLabel": "Interscope",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "No Diggity (feat. Dr. Dre & Queen Pen) [Sam Wilkes & Brian Green Sample Free Remix] - Single",
+        "contentRating": "clean",
+        "artistName": "Blackstreet",
+        "isComplete": false
+      }
+    },
+    "1526095540": {
+      "id": "1526095540",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2014 Grace Nation. Distributed by Luzonic Entertainment, LLC.",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2014",
+        "upc": "190374801171",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/f5/6b/88f56b00-d921-1da0-d2b4-4faaa79dd4a2/11697ca1-d484-456c-84cf-9d6fcb03ba1c.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b99a33",
+          "textColor2": "e0b823",
+          "textColor4": "b4931c",
+          "textColor1": "e7c140",
+          "bgColor": "010101",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1526095540",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/bang-bang-feat-dr-dre-single/1526095540",
+        "recordLabel": "Luzonic Entertainment, LLC",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Bang Bang (feat. Dr. Dre) - Single",
+        "artistName": "Grace Nation",
+        "isComplete": true
+      }
+    },
+    "1608438087": {
+      "id": "1608438087",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-02-04",
+        "isMasteredForItunes": true,
+        "upc": "00602445448739",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/64/6e/d4/646ed41f-0ba5-f695-d22c-609a5469d63d/22UMGIM02682.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b39d50",
+          "textColor2": "9fafcc",
+          "textColor4": "818ea5",
+          "textColor1": "dec262",
+          "bgColor": "090909",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1608438087",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/the-scenic-route-single/1608438087",
+        "recordLabel": "Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "The Scenic Route - Single",
+        "artistName": "Dr. Dre, Rick Ross & Anderson .Paak",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1608438844": {
+      "id": "1608438844",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-02-04",
+        "isMasteredForItunes": true,
+        "upc": "00602445448760",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/39/af/8b39af0f-6a0c-d828-267f-1c53ac898df9/22UMGIM02686.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b39d50",
+          "textColor2": "9fafcc",
+          "textColor4": "818ea5",
+          "textColor1": "dec262",
+          "bgColor": "090909",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/diamond-mind-single/1608438844",
+        "playParams": {
+          "id": "1608438844",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Diamond Mind - Single",
+        "artistName": "Dr. Dre, Nipsey Hussle & Ty Dolla $ign",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1608439691": {
+      "id": "1608439691",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-02-04",
+        "isMasteredForItunes": true,
+        "upc": "00602445448708",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/bf/5a/73bf5a4e-9041-5e3f-8504-2665f2811ace/22UMGIM02685.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b39d50",
+          "textColor2": "9fafcc",
+          "textColor4": "818ea5",
+          "textColor1": "dec262",
+          "bgColor": "090909",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1608439691",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/eta-single/1608439691",
+        "recordLabel": "Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "ETA - Single",
+        "artistName": "Dr. Dre, Snoop Dogg, Busta Rhymes & Anderson .Paak",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1608440296": {
+      "id": "1608440296",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-02-04",
+        "upc": "00602445448784",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/49/61/5c49619d-8d2e-370b-6e49-40cceb75dd7c/22UMGIM02687.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b39d50",
+          "textColor2": "9fafcc",
+          "textColor4": "818ea5",
+          "textColor1": "dec262",
+          "bgColor": "090909",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1608440296",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/fallin-up-single/1608440296",
+        "recordLabel": "Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Fallin Up - Single",
+        "artistName": "Dr. Dre, Thurz & Cocoa Sarai",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1608441685": {
+      "id": "1608441685",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-02-04",
+        "upc": "00602445448821",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/3f/58/cf3f58c6-f0b5-e459-6bee-82a9bb666926/22UMGIM02684.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b39d50",
+          "textColor2": "9fafcc",
+          "textColor4": "818ea5",
+          "textColor1": "dec262",
+          "bgColor": "090909",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1608441685",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/gospel-single/1608441685",
+        "recordLabel": "Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Gospel - Single",
+        "artistName": "Dr. Dre & Eminem",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1608441920": {
+      "id": "1608441920",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Aftermath/Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2022-02-04",
+        "isMasteredForItunes": true,
+        "upc": "00602445448845",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/3f/57/f53f57ab-18c0-bfb0-3ef2-8e90561fe955/22UMGIM02683.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b39d50",
+          "textColor2": "9fafcc",
+          "textColor4": "818ea5",
+          "textColor1": "dec262",
+          "bgColor": "090909",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/black-privilege-single/1608441920",
+        "playParams": {
+          "id": "1608441920",
+          "kind": "album"
+        },
+        "recordLabel": "Aftermath/Interscope Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Black Privilege - Single",
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1668460963": {
+      "id": "1668460963",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 ARY, Inc., under exclusive license to Interscope Records",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "1992-12-15",
+        "isMasteredForItunes": false,
+        "upc": "00602455222664",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/55/6c/22556ce7-92fb-3a7a-af98-33b0e4bed0d8/23UMGIM07603.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a3b3b",
+          "textColor2": "363121",
+          "textColor4": "5e5a4e",
+          "textColor1": "090a0a",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1668460963",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/the-chronic/1668460963",
+        "recordLabel": "ARY, Inc. under exclusive license to Interscope Records",
+        "isCompilation": false,
+        "trackCount": 16,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "The Chronic",
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "It isn’t long into Dr. Dre’s Death Row Records debut that a then-promising MC named Snoop Doggy Dogg draws a hard line in the sand. “Oh, yeah, PS, fuck Mr. Roarke and Tattoo, AKA Jerry and Eazy,” Snoop says towards the end of “The Chronic (Intro).” “Sincerely yours, these motherfuckin' nuts.” In standing with Dre, newly freed from what the producer and MC saw as an exploitative Ruthless Records deal—one for which he blamed former N.W.A. groupmate Eazy-E and business partner Jerry Heller—Snoop wanted to be crystal clear about where his alliance lay. “I don't love Eazy, I don't love Jerry, I don't love Ruthless Records,” he continued. “Frankly, I don't love nothin' they got to do with.” And this before anyone on the album spits a single bar.\n\nDr. Dre’s <i>The Chronic</i> is a record powered in equal parts by weed, vitriol, and G-funk, a West Coast hip-hop subgenre that Dre founded by way of optimizing some of the funkiest and most innovative sounds of his adolescence and young adulthood. The album contains samples from Parliament, George Clinton, James Brown, Led Zeppelin, Gil Scott-Heron, Bill Withers, and Malcolm McLaren, to name but a few of the universally recognized innovators and geniuses from whom Dre borrowed inspiration. And atop their rejiggered masterpieces? A bevy of then still-bubbling yet incomparably talented MCs who, in that moment, shared an insatiable hunger to make a name for themselves in rap.\n\nAmong them were as-yet-unproven versions of Nate Dogg, Kurupt, Daz Dillinger, Warren G, The Lady of Rage, and, of course, a young Snoop Dogg, who authored so many of the album’s verses—his and other people’s—that he’d wonder, in conversation with fellow onetime Death Row signee Crooked I some decades removed from the album’s creation, “How the fuck was I on damn near every song?” The answer can be found in just about any verse he can be heard spitting on the album. The Dogg simply had what it took. <i>The Chronic</i>, in fact, would set the tone for Death Row Records as an incubator—and more notoriously, the inevitable saboteur—of some of the most memorable talents in Los Angeles street rap history.\n\nAnd street rap is exactly and exclusively what you find herein. The album, named for a high-grade marijuana of its time, contains a multitude of disses for both Eazy-E and Heller—and also Luke Campbell, Tim Dog, and Ice Cube—disseminated within fiercely competitive posse cuts (“Deeez Nuuuts,” “Lyrical Gangbang,” “Stranded on Death Row”), vivid depictions of the lives of young hustlers (“Let Me Ride,” “Nuthin’ But a ‘G’ Thang,” “Rat-Tat-Tat-Tat”), and a handful of ruminations on the perils of street life and also solidarity in the Black community (“Lil’ Ghetto Boy,” “A N***a Witta Gun,” “The Day the N****z Took Over”). All of which is not to mention an undeniably healthy dose of misogyny (“Bitches Ain’t Shit,” etc.). But <i>The Chronic</i> was then, and is still, everything the legendary Death Row Records would become known for—god-tier street rap as orchestrated by the label’s onetime golden goose, the incomparable Dr. Dre.",
+          "short": "The album that made Dre and Snoop superstars set the course for LA rap."
+        },
+        "isComplete": true
+      }
+    }
+  },
+  "songs": {
+    "1440764598": {
+      "id": "1440764598",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Greatest Hits",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "West Coast Rap",
+          "Hardcore Rap",
+          "Gangsta Rap"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "1995-12-28",
+        "durationInMillis": 284907,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUG10702628",
+        "artwork": {
+          "width": 1474,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/aa/07/db/aa07db20-0b14-d09c-ead7-5b9e3680cb76/00602527051840.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1417,
+          "textColor3": "afaf8f",
+          "textColor2": "cdc7a0",
+          "textColor4": "ada383",
+          "textColor1": "d0d6b0",
+          "bgColor": "2d130e",
+          "hasP3": false
+        },
+        "composerName": "Roger Troutman, Dr. Dre, Norman Durham, Mikel Hooks, Ronnie Hudson, Larry Troutman, 2Pac & Woody Cunningham",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440764598",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/california-love-feat-roger-troutman-dr-dre/1440763429?i=1440764598",
+        "discNumber": 2,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "California Love (feat. Roger Troutman & Dr. Dre)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0e/fe/1f/0efe1f41-e3af-8fe4-723e-af1d09149204/mzaf_11079151115145770564.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "2Pac",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["310908515"]
+      }
+    },
+    "1440782612": {
+      "id": "1440782612",
+      "type": "songs",
+      "attributes": {
+        "albumName": "2001",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "1999-11-16",
+        "durationInMillis": 206547,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19915071",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Andre R. Young & Marshall Mathers",
+        "playParams": {
+          "id": "1440782612",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/the-watcher/1440782221?i=1440782612",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "The Watcher",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/d3/c2/fcd3c2f0-e9e4-e6d4-56d6-ebce94cc0b44/mzaf_10753037899066627405.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1135416334", "273658377"]
+      }
+    },
+    "1440782620": {
+      "id": "1440782620",
+      "type": "songs",
+      "attributes": {
+        "albumName": "2001",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "durationInMillis": 205453,
+        "releaseDate": "1999-11-16",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19915067",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "composerName": "Dr. Dre, Andre R. Young, Snoop Dogg, Brian Bailey, B. Bailey & D. Copeland",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/f-k-you-feat-devin-the-dude-snoop-dogg/1440782221?i=1440782620",
+        "playParams": {
+          "id": "1440782620",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "F**k You (feat. Devin The Dude & Snoop Dogg)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/88/88/25/888825c3-26fc-6852-cf5e-deb5209f9e7c/mzaf_6713148284001366674.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Dr. Dre"
+      },
+      "meta": {
+        "formerIds": ["1135416335", "273658378"]
+      }
+    },
+    "1440782870": {
+      "id": "1440782870",
+      "type": "songs",
+      "attributes": {
+        "albumName": "2001",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "1999-10-13",
+        "durationInMillis": 270587,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19905031",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "composerName": "Andre R. Young, Melvin Charles Bradford, Shawn Carter & Scott Storch",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/still-d-r-e-feat-snoop-dogg/1440782221?i=1440782870",
+        "playParams": {
+          "id": "1440782870",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Still D.R.E. (feat. Snoop Dogg)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/46/33/c5/4633c572-2b46-d64c-bc93-01eb340af647/mzaf_11468463915354974758.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["273658379", "1135416403"]
+      }
+    },
+    "1440782886": {
+      "id": "1440782886",
+      "type": "songs",
+      "attributes": {
+        "albumName": "2001",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 6,
+        "durationInMillis": 215200,
+        "releaseDate": "1999-11-16",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19915073",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dr. Dre, Nate Dogg, Isaac Hayes, Andre R. Young, Craig Longmiles, Nathaniel Hale, Ricardo Brown, Jr., Brian Bailey & Craig A. Longmiles",
+        "url": "https://music.apple.com/us/album/xxplosive-feat-hittman-six-two-nate-dogg-kurupt/1440782221?i=1440782886",
+        "playParams": {
+          "id": "1440782886",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Xxplosive (feat. Hittman, Six-Two, Nate Dogg & Kurupt)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e1/d9/35/e1d935a1-5eda-7c07-d1a6-fd333fff9ce5/mzaf_5193950332211462501.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["273658383", "1135416406"]
+      }
+    },
+    "1440783165": {
+      "id": "1440783165",
+      "type": "songs",
+      "attributes": {
+        "albumName": "2001",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 7,
+        "releaseDate": "1999-11-16",
+        "durationInMillis": 244200,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19915074",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "composerName": "Melvin Charles Bradford, Marshall Mathers, Alvin Joiner, Richard Bembry, Charles Aznavour & S. Harris",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/whats-the-difference-feat-eminem-xzibit/1440782221?i=1440783165",
+        "playParams": {
+          "id": "1440783165",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "What's the Difference (feat. Eminem & Xzibit)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/ff/67/86ff676b-de98-1f74-b90a-b882566ab4a0/mzaf_12500684770274751563.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1135416408", "273658384"]
+      }
+    },
+    "1440783376": {
+      "id": "1440783376",
+      "type": "songs",
+      "attributes": {
+        "albumName": "2001",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 10,
+        "durationInMillis": 222293,
+        "releaseDate": "1999-11-16",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19915077",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Andre R. Young, Melvin Bradford & Marshall Mathers",
+        "url": "https://music.apple.com/us/album/forgot-about-dre-feat-eminem/1440782221?i=1440783376",
+        "playParams": {
+          "id": "1440783376",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Forgot About Dre (feat. Eminem)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/44/b0/21/44b021ab-29e1-2c21-aaa8-b5037d3523be/mzaf_15751382214286408462.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Dr. Dre"
+      },
+      "meta": {
+        "formerIds": ["1135416414", "273658392"]
+      }
+    },
+    "1440783384": {
+      "id": "1440783384",
+      "type": "songs",
+      "attributes": {
+        "albumName": "2001",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "1999-11-16",
+        "durationInMillis": 161507,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19915078",
+        "artwork": {
+          "width": 1424,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1414,
+          "textColor3": "cac9ca",
+          "textColor2": "65db65",
+          "textColor4": "51af52",
+          "textColor1": "fcfafb",
+          "bgColor": "030306",
+          "hasP3": false
+        },
+        "composerName": "Dr. Dre, Andre R. Young, Snoop Dogg, Melvin Charles Bradford & Brian Bailey",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440783384",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/the-next-episode-feat-snoop-dogg/1440782221?i=1440783384",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "The Next Episode (feat. Snoop Dogg)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9a/10/d8/9a10d89c-9959-ed56-bb57-abd52a8bbb88/mzaf_16368074934569064927.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["1135416415", "273658396"]
+      }
+    },
+    "1440784906": {
+      "id": "1440784906",
+      "type": "songs",
+      "attributes": {
+        "albumName": "The Best of 2Pac, Pt. 1: Thug",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "West Coast Rap",
+          "Gangsta Rap",
+          "Hardcore Rap"
+        ],
+        "trackNumber": 2,
+        "durationInMillis": 284480,
+        "releaseDate": "1995-12-28",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUG10702628",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/79/fc/8579fcb5-8027-b622-af8a-e01019efed9f/00602517478527.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "b49c65",
+          "textColor2": "dfb85f",
+          "textColor4": "b3944d",
+          "textColor1": "e0c27e",
+          "bgColor": "050706",
+          "hasP3": false
+        },
+        "composerName": "Roger Troutman, Dr. Dre, Norman Durham, Mikel Hooks, Ronnie Hudson, Larry Troutman, 2Pac & Woody Cunningham",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/california-love-feat-roger-troutman-dr-dre/1440784659?i=1440784906",
+        "playParams": {
+          "id": "1440784906",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "California Love (feat. Roger Troutman & Dr. Dre)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/2a/d8/4f2ad8c5-c022-a03a-6fdb-1bc7cb20d99e/mzaf_2365695570754644685.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "2Pac",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["268939799", "342962838"]
+      }
+    },
+    "1440799313": {
+      "id": "1440799313",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Relapse",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap"],
+        "trackNumber": 18,
+        "releaseDate": "2009-01-01",
+        "durationInMillis": 297520,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUM70964942",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/ef/cc/39efccd4-3b2a-776d-cead-812d7406e8dd/00602527057460.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c4c5bd",
+          "textColor2": "edb55a",
+          "textColor4": "c0944b",
+          "textColor1": "f3f3e8",
+          "bgColor": "0a1010",
+          "hasP3": false
+        },
+        "composerName": "Marshall Mathers, 50 Cent, A. Young, D. Parker, Mark Batson, Erik Coomes, T. Lawrence & J. Renard",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440799313",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/crack-a-bottle/1440798879?i=1440799313",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Crack a Bottle",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/e9/1a/a0e91a00-49c9-6b44-05d5-8ede15ea4f96/mzaf_2576906961021252657.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem, Dr. Dre & 50 Cent",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["315993297", "315867144"]
+      }
+    },
+    "1440819150": {
+      "id": "1440819150",
+      "type": "songs",
+      "attributes": {
+        "albumName": "good kid, m.A.A.d city (Deluxe Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "trackNumber": 12,
+        "releaseDate": "2012-01-01",
+        "durationInMillis": 248086,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71210779",
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3c3b41",
+          "textColor2": "132a36",
+          "textColor4": "3e515a",
+          "textColor1": "100e16",
+          "bgColor": "ececec",
+          "hasP3": false
+        },
+        "composerName": "Kendrick Lamar, J. Smith & Charles Richard Cason",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/compton-feat-dr-dre/1440818890?i=1440819150",
+        "playParams": {
+          "id": "1440819150",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Compton (feat. Dr. Dre)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8f/08/29/8f082970-9f49-0819-2911-b02d90b9680d/mzaf_11170686463906832940.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Kendrick Lamar"
+      },
+      "meta": {
+        "formerIds": ["622711132"]
+      }
+    },
+    "1440819191": {
+      "id": "1440819191",
+      "type": "songs",
+      "attributes": {
+        "albumName": "good kid, m.A.A.d city (Deluxe Version)",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": [
+          "Hip-Hop/Rap",
+          "Music",
+          "Gangsta Rap",
+          "Rap",
+          "Hardcore Rap",
+          "West Coast Rap"
+        ],
+        "trackNumber": 13,
+        "releaseDate": "2012-01-01",
+        "durationInMillis": 352507,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71203149",
+        "artwork": {
+          "width": 1426,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/5b/c0/ca5bc0b3-d81d-cc6c-0d19-54b9eedb6dbd/12UMGIM52990.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1426,
+          "textColor3": "3c3b41",
+          "textColor2": "132a36",
+          "textColor4": "3e515a",
+          "textColor1": "100e16",
+          "bgColor": "ececec",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kendrick Lamar, Elijah Molina, E. Cardona, G. D'Amico, U. Gupta, A. Hernández & B. Ujueta",
+        "playParams": {
+          "id": "1440819191",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/the-recipe-feat-dr-dre-bonus-track/1440818890?i=1440819191",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "The Recipe (feat. Dr. Dre) [Bonus Track]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b3/2d/52/b32d523b-388f-d89e-8cf4-b6a341567391/mzaf_4688624639728397213.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Kendrick Lamar",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["622711134"]
+      }
+    },
+    "1440841433": {
+      "id": "1440841433",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Friday (Original Motion Picture Soundtrack)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "1995-01-01",
+        "durationInMillis": 305573,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USPO10000797",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/09/0d/10090de8-4595-e444-375e-54055a527af5/00602547189608.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "aebbbe",
+          "textColor2": "ffc828",
+          "textColor4": "d2a526",
+          "textColor1": "d2e3e6",
+          "bgColor": "221e1f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dr. Dre, Sam Sneed & J-Flex",
+        "url": "https://music.apple.com/us/album/keep-their-heads-ringin/1440841186?i=1440841433",
+        "playParams": {
+          "id": "1440841433",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Keep Their Heads Ringin'",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/40/76/3340766f-1402-7aa1-e178-5240b5c88a72/mzaf_6775164679344765267.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Dr. Dre"
+      },
+      "meta": {
+        "formerIds": ["967377423", "966426096"]
+      }
+    },
+    "1440867041": {
+      "id": "1440867041",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "The Marshall Mathers LP",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Hip-Hop"],
+        "trackNumber": 15,
+        "releaseDate": "2000-01-01",
+        "durationInMillis": 288200,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR10000591",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "dfdede",
+          "textColor2": "e8d4cc",
+          "textColor4": "cdbdb6",
+          "textColor1": "ffffff",
+          "bgColor": "625e5e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Snoop Dogg, Marshall Mathers, Alvin Joiner, Andre R. Young, Melvin Charles Bradford & Mike Elizondo",
+        "playParams": {
+          "id": "1440867041",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/bitch-please-2-feat-dr-dre-snoop-dogg-alvin-joiner-nate-dogg/1440866782?i=1440867041",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Bitch Please 2 (feat. Dr. Dre, Snoop Dogg, Alvin Joiner & Nate Dogg)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b1/8a/31/b18a311b-a8c5-4ac7-ec7c-5d249e1f1ee3/mzaf_6462456892775135526.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Eminem",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["14539422", "362102"]
+      }
+    },
+    "1440908981": {
+      "id": "1440908981",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Another Level",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["R&B/Soul", "Music", "Hip-Hop/Rap", "Hip-Hop", "Rock"],
+        "trackNumber": 3,
+        "releaseDate": "1996-07-29",
+        "durationInMillis": 304600,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19600978",
+        "artwork": {
+          "width": 1441,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/b4/45/9fb4457e-7ab5-0484-a81f-4666ba8fae80/06UMGIM01977.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1430,
+          "textColor3": "cdcece",
+          "textColor2": "dadada",
+          "textColor4": "b1b2b2",
+          "textColor1": "fdfdfd",
+          "bgColor": "0c1011",
+          "hasP3": false
+        },
+        "composerName": "Chauncey Hannibal, Lynise Walters, William \"Skylz\" Stewart, Bill Withers, Richard Vick & Teddy Riley",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1440908981",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/no-diggity-feat-dr-dre-queen-pen/1440908643?i=1440908981",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "No Diggity (feat. Dr. Dre & Queen Pen)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/97/6c/73/976c73c2-f01c-8956-1a9c-861b4a0a1bb5/mzaf_3073720161517918504.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Blackstreet",
+        "contentRating": "clean"
+      },
+      "meta": {
+        "formerIds": ["360197", "13613604"]
+      }
+    },
+    "1445296983": {
+      "id": "1445296983",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "I Need a Doctor (feat. Eminem & Skylar Grey) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Hardcore Rap", "Rap"],
+        "trackNumber": 1,
+        "releaseDate": "2011-02-01",
+        "durationInMillis": 283733,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71029031",
+        "artwork": {
+          "width": 900,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5a/72/e8/5a72e8f5-3d97-ff2b-57f9-bd22d87e37c5/10UMGIM33332.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 900,
+          "textColor3": "b2cea0",
+          "textColor2": "afdb90",
+          "textColor4": "8fb674",
+          "textColor1": "dbfac6",
+          "bgColor": "112106",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Skylar Grey, Andre Romell Young, Marshall Mathers & A. Grant",
+        "playParams": {
+          "id": "1445296983",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/i-need-a-doctor-feat-eminem-skylar-grey/1445296975?i=1445296983",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "I Need a Doctor (feat. Eminem & Skylar Grey)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d5/00/0c/d5000c4c-0fc7-c4d1-120a-75e9c7597736/mzaf_10446479042868964387.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit"
+      },
+      "meta": {
+        "formerIds": ["417289494", "415573230"]
+      }
+    },
+    "1519112502": {
+      "id": "1519112502",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Uncle Snoop’s “A Black Music Story”",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 5,
+        "releaseDate": "1992-11-19",
+        "durationInMillis": 239746,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1508958",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features123/v4/a0/3b/e6/a03be695-170c-b775-a40b-eb0ac4272d83/mza_5496239034725229461.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "c2cbc5",
+          "textColor2": "cbdbca",
+          "textColor4": "b0c0b0",
+          "textColor1": "e2e8e5",
+          "bgColor": "415649",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1519112502",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/nuthin-but-a-g-thang-mixed/1519112496?i=1519112502",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Nuthin' But A \"G\" Thang (Mixed)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/d5/18/25d51885-117e-0063-fe7b-4851822b666c/mzaf_7185353805187901152.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Snoop Dogg & Dr. Dre",
+        "contentRating": "explicit"
+      }
+    },
+    "1668461348": {
+      "id": "1668461348",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Chronic",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "1992-12-15",
+        "durationInMillis": 291053,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19200846",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/55/6c/22556ce7-92fb-3a7a-af98-33b0e4bed0d8/23UMGIM07603.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a3b3b",
+          "textColor2": "363121",
+          "textColor4": "5e5a4e",
+          "textColor1": "090a0a",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dr. Dre, Colin Fitzroy Wolfe & Snoop Dogg",
+        "url": "https://music.apple.com/us/album/f-k-wit-dre-day-and-everybodys-celebratin/1668460963?i=1668461348",
+        "playParams": {
+          "id": "1668461348",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "F**k Wit Dre Day (And Everybody's Celebratin')",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/10/ba/6d/10ba6d96-5a89-5b23-34fe-3f3a1b663ac3/mzaf_657202358488687987.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Dr. Dre"
+      }
+    },
+    "1668461354": {
+      "id": "1668461354",
+      "type": "songs",
+      "attributes": {
+        "albumName": "The Chronic",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "1992-12-15",
+        "durationInMillis": 260333,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19200847",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/55/6c/22556ce7-92fb-3a7a-af98-33b0e4bed0d8/23UMGIM07603.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a3b3b",
+          "textColor2": "363121",
+          "textColor4": "5e5a4e",
+          "textColor1": "090a0a",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "RBX & Snoop Dogg",
+        "playParams": {
+          "id": "1668461354",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/let-me-ride-feat-jewell/1668460963?i=1668461354",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Let Me Ride (feat. Jewell)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/50/d3/c4/50d3c4ad-b0cc-283e-dfd3-4aea7780c105/mzaf_15362166332823188118.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dr. Dre",
+        "contentRating": "explicit"
+      }
+    },
+    "1668461604": {
+      "id": "1668461604",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "The Chronic",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "durationInMillis": 237573,
+        "releaseDate": "1992-11-19",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USIR19200849",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/55/6c/22556ce7-92fb-3a7a-af98-33b0e4bed0d8/23UMGIM07603.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a3b3b",
+          "textColor2": "363121",
+          "textColor4": "5e5a4e",
+          "textColor1": "090a0a",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Calvin Broadus, Frederick Knight & Leon Haywood",
+        "url": "https://music.apple.com/us/album/nuthin-but-a-g-thang/1668460963?i=1668461604",
+        "playParams": {
+          "id": "1668461604",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Nuthin' But A \"G\" Thang",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/22/ff/61/22ff6153-ea4e-8a27-a788-effaca0f5ce3/mzaf_7634902689295362241.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dr. Dre & Snoop Dogg",
+        "contentRating": "explicit"
+      }
+    }
+  }
+}

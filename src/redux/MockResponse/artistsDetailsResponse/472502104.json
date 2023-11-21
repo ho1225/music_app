@@ -1,0 +1,2080 @@
+{
+  "artists": {
+    "472502104": {
+      "id": "472502104",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Alternative"],
+        "name": "Yung Lean",
+        "artwork": {
+          "width": 4477,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/45/87/f9/4587f9b0-8bfd-91f2-f920-a665073f1607/pr_source.png/{w}x{h}bb.jpg",
+          "height": 4477,
+          "textColor3": "202817",
+          "textColor2": "161210",
+          "textColor4": "29311e",
+          "textColor1": "0b0806",
+          "bgColor": "74ac58",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/yung-lean/472502104"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1615433366",
+              "type": "albums"
+            },
+            {
+              "id": "1511905463",
+              "type": "albums"
+            },
+            {
+              "id": "1617839600",
+              "type": "albums"
+            },
+            {
+              "id": "1617034719",
+              "type": "albums"
+            },
+            {
+              "id": "1616552098",
+              "type": "albums"
+            },
+            {
+              "id": "1615762892",
+              "type": "albums"
+            },
+            {
+              "id": "1616529900",
+              "type": "albums"
+            },
+            {
+              "id": "1616549283",
+              "type": "albums"
+            },
+            {
+              "id": "1617043829",
+              "type": "albums"
+            },
+            {
+              "id": "1702705727",
+              "type": "albums"
+            },
+            {
+              "id": "1616551404",
+              "type": "albums"
+            },
+            {
+              "id": "1615432265",
+              "type": "albums"
+            },
+            {
+              "id": "1649910628",
+              "type": "albums"
+            },
+            {
+              "id": "1616540181",
+              "type": "albums"
+            },
+            {
+              "id": "1615599287",
+              "type": "albums"
+            },
+            {
+              "id": "1616551435",
+              "type": "albums"
+            },
+            {
+              "id": "1619490794",
+              "type": "albums"
+            },
+            {
+              "id": "1615780573",
+              "type": "albums"
+            },
+            {
+              "id": "1615761895",
+              "type": "albums"
+            },
+            {
+              "id": "1497579000",
+              "type": "albums"
+            },
+            {
+              "id": "1691425611",
+              "type": "albums"
+            },
+            {
+              "id": "1577818144",
+              "type": "albums"
+            },
+            {
+              "id": "1615762509",
+              "type": "albums"
+            },
+            {
+              "id": "1615764717",
+              "type": "albums"
+            },
+            {
+              "id": "1616548809",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1702705727",
+              "type": "albums"
+            }
+          ]
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1615433368",
+              "type": "songs"
+            },
+            {
+              "id": "1699712657",
+              "type": "songs"
+            },
+            {
+              "id": "1615432326",
+              "type": "songs"
+            },
+            {
+              "id": "1615763033",
+              "type": "songs"
+            },
+            {
+              "id": "1615762895",
+              "type": "songs"
+            },
+            {
+              "id": "1605881672",
+              "type": "songs"
+            },
+            {
+              "id": "1617043833",
+              "type": "songs"
+            },
+            {
+              "id": "1617044107",
+              "type": "songs"
+            },
+            {
+              "id": "1622129305",
+              "type": "songs"
+            },
+            {
+              "id": "1617034721",
+              "type": "songs"
+            },
+            {
+              "id": "1616530189",
+              "type": "songs"
+            },
+            {
+              "id": "1617034723",
+              "type": "songs"
+            },
+            {
+              "id": "1511905701",
+              "type": "songs"
+            },
+            {
+              "id": "1616530187",
+              "type": "songs"
+            },
+            {
+              "id": "1617839601",
+              "type": "songs"
+            },
+            {
+              "id": "1615762893",
+              "type": "songs"
+            },
+            {
+              "id": "1617034734",
+              "type": "songs"
+            },
+            {
+              "id": "1615763020",
+              "type": "songs"
+            },
+            {
+              "id": "1617034724",
+              "type": "songs"
+            },
+            {
+              "id": "1615763017",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "albums": {
+    "1497579000": {
+      "id": "1497579000",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2020-02-26",
+        "isMasteredForItunes": false,
+        "upc": "5056167121589",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/55/0e/09550e03-bb68-eafe-d3ea-faec25b86771/5056167121589_1.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "232122",
+          "textColor2": "070506",
+          "textColor4": "232223",
+          "textColor1": "070405",
+          "bgColor": "949599",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/boylife-in-eu-single/1497579000",
+        "playParams": {
+          "id": "1497579000",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Boylife in EU - Single",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1511905463": {
+      "id": "1511905463",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2020 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2020-05-15",
+        "isMasteredForItunes": false,
+        "upc": "5056167124146",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/77/e6/82/77e68290-e442-1b70-d7bd-9a23bd6e25ab/5056167124146_1.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "162f0c",
+          "textColor2": "211701",
+          "textColor4": "25330c",
+          "textColor1": "0e1200",
+          "bgColor": "35a639",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/starz/1511905463",
+        "playParams": {
+          "id": "1511905463",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 16,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Starz",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1577818144": {
+      "id": "1577818144",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 World Affairs",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2021-08-05",
+        "upc": "5056495209331",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3f/cd/67/3fcd67e9-bfdb-ffdc-026e-00cd6add4fc4/5056495209331_1.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c8c6d1",
+          "textColor2": "eca4fd",
+          "textColor4": "bd83d1",
+          "textColor1": "faf7fe",
+          "bgColor": "00001f",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1577818144",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/chandelier-single/1577818144",
+        "recordLabel": "World Affairs",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Chandelier - Single",
+        "artistName": "Yung Lean",
+        "isComplete": true
+      }
+    },
+    "1615432265": {
+      "id": "1615432265",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2013-12-10",
+        "isMasteredForItunes": false,
+        "upc": "7071245119058",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ef/0d/0d/ef0d0d25-98b5-29fb-a782-52c0e7473c01/7071245119058.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "2e2f3f",
+          "textColor2": "161615",
+          "textColor4": "2e2f3e",
+          "textColor1": "161616",
+          "bgColor": "8c92e0",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/kyoto-single/1615432265",
+        "playParams": {
+          "id": "1615432265",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Kyoto - Single",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1615433366": {
+      "id": "1615433366",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2013-08-16",
+        "upc": "7071245098315",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/cf/01/03cf01c3-1c92-8fa8-814a-bc9eaa0fce9a/7071245098315.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "d0d1c5",
+          "textColor2": "a7ca49",
+          "textColor4": "8aa93d",
+          "textColor1": "fffdf4",
+          "bgColor": "18240c",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1615433366",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/lavender-single/1615433366",
+        "recordLabel": "YEAR0001",
+        "trackCount": 3,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Lavender - Single",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1615599287": {
+      "id": "1615599287",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2019-11-07",
+        "upc": "5054526935648",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/60/5a/39605a19-f999-387a-19d0-efe93a9ee3a4/5054526935648.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfd2d2",
+          "textColor2": "d2d5d3",
+          "textColor4": "afb1b0",
+          "textColor1": "fbfffe",
+          "bgColor": "232323",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1615599287",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/blue-plastic-single/1615599287",
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Blue Plastic - Single",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1615761895": {
+      "id": "1615761895",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2017-10-20",
+        "isMasteredForItunes": false,
+        "upc": "5056167103059",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/39/cc/4b39cc24-b3f7-4516-c21e-4e683972733b/5056167103059.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "564b49",
+          "textColor2": "352827",
+          "textColor4": "584f4f",
+          "textColor1": "32241f",
+          "bgColor": "e4ebf1",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/skimask-single/1615761895",
+        "playParams": {
+          "id": "1615761895",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Skimask - Single",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1615762509": {
+      "id": "1615762509",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2017-09-22",
+        "isMasteredForItunes": false,
+        "upc": "5056167102175",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9a/d9/fe/9ad9fee6-0311-57f1-1c8a-8a06931d5177/5056167102175.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "464747",
+          "textColor2": "282420",
+          "textColor4": "4a4946",
+          "textColor1": "232121",
+          "bgColor": "d3dce1",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1615762509",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/hunting-my-own-skin-single/1615762509",
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Hunting My Own Skin - Single",
+        "contentRating": "explicit",
+        "artistName": "Yung Lean",
+        "isComplete": true
+      }
+    },
+    "1615762892": {
+      "id": "1615762892",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2017-11-10",
+        "isMasteredForItunes": false,
+        "upc": "5056167102878",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/1e/fa/3b1efa88-4f31-c278-e0f8-299d61ac4980/5056167102878.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d7c4c3",
+          "textColor2": "c3c0c2",
+          "textColor4": "ab9a9b",
+          "textColor1": "faf4f4",
+          "bgColor": "490100",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/stranger/1615762892",
+        "playParams": {
+          "id": "1615762892",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 14,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Stranger",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1615764717": {
+      "id": "1615764717",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Pop"],
+        "releaseDate": "2017-07-28",
+        "isMasteredForItunes": false,
+        "upc": "5054526888630",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e2/3a/c6/e23ac689-6182-ecab-beb0-0a6a5f577ec1/5054526888630.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "cbbfbf",
+          "textColor2": "fcd8d8",
+          "textColor4": "caadad",
+          "textColor1": "ffeff0",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/gotham-city-feat-yung-lean-single/1615764717",
+        "playParams": {
+          "id": "1615764717",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Gotham City (feat. Yung Lean) - Single",
+        "artistName": "Bladee",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1615780573": {
+      "id": "1615780573",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2016-02-03",
+        "isMasteredForItunes": false,
+        "upc": "5054526858923",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/db/98/c6/db98c6be-a4e2-18d6-0bad-85adb7ae122e/5054526858923.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "80393c",
+          "textColor2": "2b2f2e",
+          "textColor4": "555958",
+          "textColor1": "60070b",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1615780573",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/af1s-feat-ecco2k-single/1615780573",
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Af1s (feat. Ecco2k) - Single",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1616529900": {
+      "id": "1616529900",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2013-08-16",
+        "isMasteredForItunes": false,
+        "upc": "7071245098308",
+        "artwork": {
+          "width": 3543,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/91/00/0b/91000bd4-ab24-2011-25f8-03ef7e2f5442/7071245098308.png/{w}x{h}bb.jpg",
+          "height": 3543,
+          "textColor3": "d4d555",
+          "textColor2": "bfd2e1",
+          "textColor4": "a1b2c0",
+          "textColor1": "fffe5c",
+          "bgColor": "29323c",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1616529900",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/unknown-death-2002/1616529900",
+        "recordLabel": "YEAR0001",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Unknown Death 2002",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1616540181": {
+      "id": "1616540181",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2019-07-11",
+        "isMasteredForItunes": false,
+        "upc": "5054526663039",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3d/88/a9/3d88a9a9-572d-5016-a791-c2f64eef0b03/5054526663039.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d0d0da",
+          "textColor2": "7ea8fa",
+          "textColor4": "6a8bd6",
+          "textColor1": "fefefe",
+          "bgColor": "191849",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/famous-feat-bladee-yung-lean-kane-grocerys-single/1616540181",
+        "playParams": {
+          "id": "1616540181",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Famous (feat. Bladee, Yung Lean & Kane Grocerys) - Single",
+        "artistName": "Sickboyrari",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1616548809": {
+      "id": "1616548809",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Pop"],
+        "releaseDate": "2019-01-18",
+        "isMasteredForItunes": false,
+        "upc": "5054526226036",
+        "artwork": {
+          "width": 3658,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/f9/fd/06f9fdac-9987-d39a-0f38-a8df158b0c05/5054526226036.png/{w}x{h}bb.jpg",
+          "height": 3658,
+          "textColor3": "2d2d2f",
+          "textColor2": "2e2825",
+          "textColor4": "524e4d",
+          "textColor1": "000000",
+          "bgColor": "e4e4ec",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/red-velvet-single/1616548809",
+        "playParams": {
+          "id": "1616548809",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Red Velvet - Single",
+        "artistName": "Bladee & Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1616549283": {
+      "id": "1616549283",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2018-11-02",
+        "isMasteredForItunes": false,
+        "upc": "5056167110668",
+        "artwork": {
+          "width": 2000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fc/b4/4c/fcb44cd1-4869-2d4b-dda3-a70030eb9b7a/5056167110668.png/{w}x{h}bb.jpg",
+          "height": 2000,
+          "textColor3": "c7cb0b",
+          "textColor2": "e0eb03",
+          "textColor4": "b9c204",
+          "textColor1": "f1f60c",
+          "bgColor": "202008",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1616549283",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/poison-ivy/1616549283",
+        "recordLabel": "YEAR0001",
+        "trackCount": 8,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Poison Ivy",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1616551404": {
+      "id": "1616551404",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 YEAR0001",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2016-12-14",
+        "upc": "5054526136397",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ee/37/63/ee37634a-86bc-e10e-3318-56836ad7244d/5054526136397.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "2e313d",
+          "textColor2": "071b69",
+          "textColor4": "314180",
+          "textColor1": "030715",
+          "bgColor": "dcdadd",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1616551404",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/frost-god/1616551404",
+        "recordLabel": "YEAR0001",
+        "trackCount": 8,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Frost God",
+        "contentRating": "explicit",
+        "artistName": "Yung Lean",
+        "isComplete": true
+      }
+    },
+    "1616551435": {
+      "id": "1616551435",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2013 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2013-10-15",
+        "isMasteredForItunes": false,
+        "upc": "7071245098582",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/95/4a/c1954a09-6b76-a270-0df2-b2b14980c3bf/7071245098582.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "313031",
+          "textColor2": "1a1a1b",
+          "textColor4": "444446",
+          "textColor1": "010101",
+          "bgColor": "eeecf1",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/marble-phone-feat-kreayshawn-single/1616551435",
+        "playParams": {
+          "id": "1616551435",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Marble Phone (feat. KREAYSHAWN) - Single",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1616552098": {
+      "id": "1616552098",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2016-02-25",
+        "isMasteredForItunes": false,
+        "upc": "5054526859654",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b6/c8/31/b6c8312f-42eb-5323-09e0-1b510c799295/5054526859654.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "d4d4d4",
+          "textColor2": "e3e3e3",
+          "textColor4": "c2c2c2",
+          "textColor1": "f9f9f9",
+          "bgColor": "404040",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/warlord/1616552098",
+        "playParams": {
+          "id": "1616552098",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 13,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Warlord",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1617034719": {
+      "id": "1617034719",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2016-02-25",
+        "isMasteredForItunes": false,
+        "upc": "5054526809185",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/93/e0/ce/93e0cee4-ac20-ae79-4efb-78dfcfe5a37b/5054526809185.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "414141",
+          "textColor2": "222222",
+          "textColor4": "4e4e4e",
+          "textColor1": "121212",
+          "bgColor": "fdfdfd",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1617034719",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/warlord-deluxe/1617034719",
+        "recordLabel": "YEAR0001",
+        "trackCount": 19,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Warlord (Deluxe)",
+        "contentRating": "explicit",
+        "artistName": "Yung Lean",
+        "isComplete": true
+      }
+    },
+    "1617043829": {
+      "id": "1617043829",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 YEAR0001",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "releaseDate": "2014-09-23",
+        "upc": "5054526710573",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/bb/ce/edbbceba-6f0f-c979-be3e-d17cb00b83fe/5054526710573.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "c7b7c6",
+          "textColor2": "e2d3df",
+          "textColor4": "c8b2c0",
+          "textColor1": "e1dae8",
+          "bgColor": "632c41",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1617043829",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/unknown-memory/1617043829",
+        "recordLabel": "YEAR0001",
+        "trackCount": 13,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Unknown Memory",
+        "artistName": "Yung Lean",
+        "isComplete": true
+      }
+    },
+    "1617839600": {
+      "id": "1617839600",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 World Affairs",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2022-04-07",
+        "isMasteredForItunes": false,
+        "upc": "8720766194363",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/8d/6c/788d6c39-7327-c7dc-59b7-62fbd4909dfa/8720766194363.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "363636",
+          "textColor2": "313131",
+          "textColor4": "5a5a5a",
+          "textColor1": "040404",
+          "bgColor": "fefefe",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/stardust/1617839600",
+        "playParams": {
+          "id": "1617839600",
+          "kind": "album"
+        },
+        "recordLabel": "World Affairs",
+        "trackCount": 12,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Stardust",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Hailing from Sweden—and the crevices of the extremely online—the baby-faced Yung Lean is a modern type of OG. In the early 2010s, he used impressionistic songwriting and vibey, lo-fi instrumentals to pioneer the sound of cloud-rap, and <i>Stardust</i>—his first release since 2020's <i>Starz</i>—is a reminder of that legacy. With their ethereal instrumentals, slurred melodies, and vulnerable lyrics, tracks like \"All the Things\" and \"Waterfall\" scan as quintessential Lean, recalling the free-wheeling, emotional approach of the Sad Boys music collective he helped create in 2012. He’s still trying out new things, too: For “Summertime Blood,” he dives all the way into EDM for an epic Skrillex collab (one of two on the album). Meanwhile, on the FKA twigs-assisted \"Bliss,\" he blends his semi-free-associative bars and indifferent monotone with a fuzzy, New Wave-inflected guitar line to create an unpredictable post-punk anthem, showcasing the type of rewarding experimentation that first propelled him to fame.",
+          "short": "More vibey beats and impressionistic lyrics from a cloud-rap pioneer."
+        },
+        "isComplete": true
+      }
+    },
+    "1619490794": {
+      "id": "1619490794",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 YEAR0001",
+        "genreNames": ["Electronic", "Music"],
+        "releaseDate": "2016-05-05",
+        "upc": "5054526549494",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7f/73/de/7f73de42-138f-1134-ca01-2e0e1b022db9/5054526549494.png/{w}x{h}bb.jpg",
+          "height": 1600,
+          "textColor3": "282032",
+          "textColor2": "0c0208",
+          "textColor4": "272133",
+          "textColor1": "0d0006",
+          "bgColor": "949de0",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1619490794",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/ten-feat-yung-lean-single/1619490794",
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Ten (feat. Yung Lean) - Single",
+        "artistName": "Adamn Killa",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1649910628": {
+      "id": "1649910628",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 YEAR0001",
+        "genreNames": ["Alternative", "Music"],
+        "releaseDate": "2022-10-19",
+        "upc": "8720765115864",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5a/28/a6/5a28a646-612a-2e6b-a5ac-5491e414db7a/8720765115864.png/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "ddd9df",
+          "textColor2": "eadbe5",
+          "textColor4": "d0c4cd",
+          "textColor1": "faf5fb",
+          "bgColor": "69676c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/true-love-single/1649910628",
+        "playParams": {
+          "id": "1649910628",
+          "kind": "album"
+        },
+        "recordLabel": "YEAR0001",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "True Love - Single",
+        "artistName": "Thaiboy Digital & Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1691425611": {
+      "id": "1691425611",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 TWOWAYSTODIE",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2023-06-15",
+        "isMasteredForItunes": false,
+        "upc": "7316219130531",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/4f/cc/744fccef-cc1d-1a8e-9614-ebd28cde3edd/364f07e7-8d1e-4301-a1a0-f32bb52e42e1.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "291d0e",
+          "textColor2": "110e10",
+          "textColor4": "342519",
+          "textColor1": "030403",
+          "bgColor": "c4813d",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/first-season-the-beginning-of-the-journey-feat-yung-lean-ep/1691425611",
+        "playParams": {
+          "id": "1691425611",
+          "kind": "album"
+        },
+        "recordLabel": "TWOWAYSTODIE",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "FIRST SEASON (The Beginning of the Journey) [feat. Yung Lean] - EP",
+        "artistName": "TWOWAYSTODIE",
+        "isComplete": true
+      }
+    },
+    "1702705727": {
+      "id": "1702705727",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 World Affairs",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "releaseDate": "2023-08-25",
+        "upc": "197189721786",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/84/33/0e/84330ef3-927d-413a-ff67-c1e0dc7f1901/197189721786.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcc",
+          "textColor2": "cdcace",
+          "textColor4": "a4a2a6",
+          "textColor1": "fefefe",
+          "bgColor": "010103",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1702705727",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/victorious-bullets-feat-bladee-single/1702705727",
+        "recordLabel": "World Affairs",
+        "trackCount": 2,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Victorious//Bullets (feat. Bladee) - Single",
+        "artistName": "Yung Lean",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    }
+  },
+  "songs": {
+    "1511905701": {
+      "id": "1511905701",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Starz",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 13,
+        "releaseDate": "2020-05-07",
+        "durationInMillis": 127080,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ2000895",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/77/e6/82/77e68290-e442-1b70-d7bd-9a23bd6e25ab/5056167124146_1.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "162f0c",
+          "textColor2": "211701",
+          "textColor4": "25330c",
+          "textColor1": "0e1200",
+          "bgColor": "35a639",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Ludwig Rosenberg",
+        "playParams": {
+          "id": "1511905701",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/pikachu/1511905463?i=1511905701",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Pikachu",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/3a/3e/403a3e69-0881-8c57-b130-884f289af39d/mzaf_2614234574322499460.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Yung Lean"
+      }
+    },
+    "1605881672": {
+      "id": "1605881672",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "FACE",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "durationInMillis": 206506,
+        "releaseDate": "2022-01-28",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUYG1408860",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/54/07/bd54077a-9620-5b5a-3750-ca2cea8db782/194690736216_cover.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "d3d3d3",
+          "textColor2": "cacaca",
+          "textColor4": "ababab",
+          "textColor1": "fbfbfb",
+          "bgColor": "303030",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marcellus Register, Carlo Coxen, Carl-Mikael Göran Berlander & Jonatan Leandoer Håstad",
+        "playParams": {
+          "id": "1605881672",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/overtime-feat-yung-lean/1605881384?i=1605881672",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Overtime (feat. Yung Lean)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c0/6a/3e/c06a3e5a-fa9f-d358-2cb5-851ec23d88db/mzaf_2981777767537223937.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Babyface Ray",
+        "contentRating": "explicit"
+      }
+    },
+    "1615432326": {
+      "id": "1615432326",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Kyoto - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 1,
+        "durationInMillis": 270000,
+        "releaseDate": "2013-12-10",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SEY491300022",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ef/0d/0d/ef0d0d25-98b5-29fb-a782-52c0e7473c01/7071245119058.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "2e2f3f",
+          "textColor2": "161615",
+          "textColor4": "2e2f3e",
+          "textColor1": "161616",
+          "bgColor": "8c92e0",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "playParams": {
+          "id": "1615432326",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/kyoto/1615432265?i=1615432326",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Kyoto",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a2/6c/fd/a26cfd4a-2362-8919-24ec-1cd3aa298408/mzaf_15026258975511760008.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Yung Lean"
+      }
+    },
+    "1615433368": {
+      "id": "1615433368",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Lavender - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 2,
+        "releaseDate": "2013-08-16",
+        "durationInMillis": 154000,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SEY491300006",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/cf/01/03cf01c3-1c92-8fa8-814a-bc9eaa0fce9a/7071245098315.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "d0d1c5",
+          "textColor2": "a7ca49",
+          "textColor4": "8aa93d",
+          "textColor1": "fffdf4",
+          "bgColor": "18240c",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Yung Gud, Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "url": "https://music.apple.com/us/album/ginseng-strip-2002/1615433366?i=1615433368",
+        "playParams": {
+          "id": "1615433368",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ginseng Strip 2002",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/cb/4d/21/cb4d2118-3a00-112d-b27b-28b0a59f66f9/mzaf_4248305937227695019.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean",
+        "contentRating": "explicit"
+      }
+    },
+    "1615762893": {
+      "id": "1615762893",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Stranger",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 1,
+        "durationInMillis": 164147,
+        "releaseDate": "2017-11-10",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600371",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/1e/fa/3b1efa88-4f31-c278-e0f8-299d61ac4980/5056167102878.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d7c4c3",
+          "textColor2": "c3c0c2",
+          "textColor4": "ab9a9b",
+          "textColor1": "faf4f4",
+          "bgColor": "490100",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Axel Tufvesson",
+        "url": "https://music.apple.com/us/album/muddy-sea/1615762892?i=1615762893",
+        "playParams": {
+          "id": "1615762893",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Muddy Sea",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b8/6f/c6/b86fc6a0-8bf6-3a02-1705-24b47abf0961/mzaf_6562516459991291235.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean",
+        "contentRating": "explicit"
+      }
+    },
+    "1615762895": {
+      "id": "1615762895",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Stranger",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 2,
+        "releaseDate": "2017-09-01",
+        "durationInMillis": 303413,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600368",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/1e/fa/3b1efa88-4f31-c278-e0f8-299d61ac4980/5056167102878.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d7c4c3",
+          "textColor2": "c3c0c2",
+          "textColor4": "ab9a9b",
+          "textColor1": "faf4f4",
+          "bgColor": "490100",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "url": "https://music.apple.com/us/album/red-bottom-sky/1615762892?i=1615762895",
+        "playParams": {
+          "id": "1615762895",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Red Bottom Sky",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9c/b7/71/9cb771f5-2300-5450-2f4b-0bb6d88bacb0/mzaf_17089406839068420512.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean",
+        "contentRating": "explicit"
+      }
+    },
+    "1615763017": {
+      "id": "1615763017",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Stranger",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 3,
+        "releaseDate": "2017-10-20",
+        "durationInMillis": 196173,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600372",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/1e/fa/3b1efa88-4f31-c278-e0f8-299d61ac4980/5056167102878.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d7c4c3",
+          "textColor2": "c3c0c2",
+          "textColor4": "ab9a9b",
+          "textColor1": "faf4f4",
+          "bgColor": "490100",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "playParams": {
+          "id": "1615763017",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/skimask/1615762892?i=1615763017",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Skimask",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/eb/6e/a9/eb6ea991-7ec9-c17e-b812-76962dd73f95/mzaf_7249948680565900676.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Yung Lean"
+      }
+    },
+    "1615763020": {
+      "id": "1615763020",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Stranger",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 5,
+        "releaseDate": "2017-11-07",
+        "durationInMillis": 215320,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600374",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/1e/fa/3b1efa88-4f31-c278-e0f8-299d61ac4980/5056167102878.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d7c4c3",
+          "textColor2": "c3c0c2",
+          "textColor4": "ab9a9b",
+          "textColor1": "faf4f4",
+          "bgColor": "490100",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "url": "https://music.apple.com/us/album/metallic-intuition/1615762892?i=1615763020",
+        "playParams": {
+          "id": "1615763020",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Metallic Intuition",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7f/1e/8a/7f1e8ab2-e807-8c4e-29a1-dc8b4be641af/mzaf_2618982005281028246.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean",
+        "contentRating": "explicit"
+      }
+    },
+    "1615763033": {
+      "id": "1615763033",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Stranger",
+        "genreNames": ["Alternative", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 13,
+        "releaseDate": "2017-11-10",
+        "durationInMillis": 214173,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600381",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/1e/fa/3b1efa88-4f31-c278-e0f8-299d61ac4980/5056167102878.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d7c4c3",
+          "textColor2": "c3c0c2",
+          "textColor4": "ab9a9b",
+          "textColor1": "faf4f4",
+          "bgColor": "490100",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "playParams": {
+          "id": "1615763033",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/agony/1615762892?i=1615763033",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Agony",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4e/ae/62/4eae628f-5528-d616-d485-c6034139526d/mzaf_15576789915209858958.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean"
+      }
+    },
+    "1616530187": {
+      "id": "1616530187",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Unknown Death 2002",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 4,
+        "releaseDate": "2013-08-16",
+        "durationInMillis": 199000,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SEY491300011",
+        "artwork": {
+          "width": 3543,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/91/00/0b/91000bd4-ab24-2011-25f8-03ef7e2f5442/7071245098308.png/{w}x{h}bb.jpg",
+          "height": 3543,
+          "textColor3": "d4d555",
+          "textColor2": "bfd2e1",
+          "textColor4": "a1b2c0",
+          "textColor1": "fffe5c",
+          "bgColor": "29323c",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "url": "https://music.apple.com/us/album/gatorade/1616529900?i=1616530187",
+        "playParams": {
+          "id": "1616530187",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Gatorade",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f2/e1/69/f2e169bd-86ec-21cb-f15c-c30a4d5a250a/mzaf_6096261637609707831.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean",
+        "contentRating": "explicit"
+      }
+    },
+    "1616530189": {
+      "id": "1616530189",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Unknown Death 2002",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 5,
+        "durationInMillis": 247000,
+        "releaseDate": "2013-08-16",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SEY491300012",
+        "artwork": {
+          "width": 3543,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/91/00/0b/91000bd4-ab24-2011-25f8-03ef7e2f5442/7071245098308.png/{w}x{h}bb.jpg",
+          "height": 3543,
+          "textColor3": "d4d555",
+          "textColor2": "bfd2e1",
+          "textColor4": "a1b2c0",
+          "textColor1": "fffe5c",
+          "bgColor": "29323c",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & James Prudhomme",
+        "playParams": {
+          "id": "1616530189",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/hurt/1616529900?i=1616530189",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Hurt",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/19/5e/44/195e44e7-6d60-1421-bb40-fd060689ffb0/mzaf_6834252107810046904.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean",
+        "contentRating": "explicit"
+      }
+    },
+    "1617034721": {
+      "id": "1617034721",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Warlord (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 2,
+        "durationInMillis": 212583,
+        "releaseDate": "2016-02-25",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600105",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/93/e0/ce/93e0cee4-ac20-ae79-4efb-78dfcfe5a37b/5054526809185.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "414141",
+          "textColor2": "222222",
+          "textColor4": "4e4e4e",
+          "textColor1": "121212",
+          "bgColor": "fdfdfd",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad, Benjamin Reichwald, Axel Tufvesson, Carl-Mikael Berlander & MIKE DEAN",
+        "playParams": {
+          "id": "1617034721",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/highway-patrol-feat-bladee/1617034719?i=1617034721",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Highway Patrol (feat. Bladee)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ed/7a/76/ed7a762c-a193-1711-c520-d24184663140/mzaf_508784446770849152.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Yung Lean"
+      }
+    },
+    "1617034723": {
+      "id": "1617034723",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Warlord (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 4,
+        "releaseDate": "2016-02-25",
+        "durationInMillis": 167378,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600107",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/93/e0/ce/93e0cee4-ac20-ae79-4efb-78dfcfe5a37b/5054526809185.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "414141",
+          "textColor2": "222222",
+          "textColor4": "4e4e4e",
+          "textColor1": "121212",
+          "bgColor": "fdfdfd",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad, Carl-Mikael Berlander & Ludwig Rosenberg",
+        "playParams": {
+          "id": "1617034723",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/afghanistan/1617034719?i=1617034723",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Afghanistan",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cc/f3/f7/ccf3f7e6-99be-8751-f16e-fa5f82dd1902/mzaf_3843186094095400529.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Yung Lean"
+      }
+    },
+    "1617034724": {
+      "id": "1617034724",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Warlord (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 5,
+        "releaseDate": "2016-01-20",
+        "durationInMillis": 160879,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600101",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/93/e0/ce/93e0cee4-ac20-ae79-4efb-78dfcfe5a37b/5054526809185.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "414141",
+          "textColor2": "222222",
+          "textColor4": "4e4e4e",
+          "textColor1": "121212",
+          "bgColor": "fdfdfd",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "url": "https://music.apple.com/us/album/hoover/1617034719?i=1617034724",
+        "playParams": {
+          "id": "1617034724",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Hoover",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/64/26/81/642681d0-5f4b-1921-05a9-367e9e8f5464/mzaf_978797404264980403.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean",
+        "contentRating": "explicit"
+      }
+    },
+    "1617034734": {
+      "id": "1617034734",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Warlord (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 13,
+        "durationInMillis": 263720,
+        "releaseDate": "2016-02-25",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ1600114",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/93/e0/ce/93e0cee4-ac20-ae79-4efb-78dfcfe5a37b/5054526809185.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "414141",
+          "textColor2": "222222",
+          "textColor4": "4e4e4e",
+          "textColor1": "121212",
+          "bgColor": "fdfdfd",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad, Axel Tufvesson & Carl-Mikael Berlander",
+        "playParams": {
+          "id": "1617034734",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/miami-ultras/1617034719?i=1617034734",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Miami Ultras",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/69/8b/57/698b5749-e4f6-2b01-5cd8-15bbbf71d6e5/mzaf_11381046573126650868.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Yung Lean"
+      }
+    },
+    "1617043833": {
+      "id": "1617043833",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Unknown Memory",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 4,
+        "releaseDate": "2014-09-23",
+        "durationInMillis": 225080,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USA2B1401999",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/bb/ce/edbbceba-6f0f-c979-be3e-d17cb00b83fe/5054526710573.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "c7b7c6",
+          "textColor2": "e2d3df",
+          "textColor4": "c8b2c0",
+          "textColor1": "e1dae8",
+          "bgColor": "632c41",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad & Carl-Mikael Berlander",
+        "url": "https://music.apple.com/us/album/yoshi-city/1617043829?i=1617043833",
+        "playParams": {
+          "id": "1617043833",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Yoshi City",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9e/a8/a8/9ea8a8e9-221a-7a14-3ede-06c05b1734de/mzaf_13581613066388464876.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean"
+      }
+    },
+    "1617044107": {
+      "id": "1617044107",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Unknown Memory",
+        "genreNames": ["Hip-Hop/Rap", "Music", "Alternative"],
+        "trackNumber": 8,
+        "releaseDate": "2014-09-23",
+        "durationInMillis": 309880,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "USA2B1402003",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/bb/ce/edbbceba-6f0f-c979-be3e-d17cb00b83fe/5054526710573.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "c7b7c6",
+          "textColor2": "e2d3df",
+          "textColor4": "c8b2c0",
+          "textColor1": "e1dae8",
+          "bgColor": "632c41",
+          "hasP3": false
+        },
+        "audioLocale": "zxx",
+        "composerName": "Jonatan Leandoer Håstad, Jacques Webster & Carl-Mikael Berlander",
+        "playParams": {
+          "id": "1617044107",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/ghosttown-feat-travi%24-scott/1617043829?i=1617044107",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ghosttown (feat. Travi$ Scott)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/93/78/b1/9378b152-d32c-3d73-7543-8f2fd89d319c/mzaf_5709741591813085731.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean"
+      }
+    },
+    "1617839601": {
+      "id": "1617839601",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Stardust",
+        "genreNames": ["Alternative", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2022-04-07",
+        "durationInMillis": 171425,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "SE5AJ2201713",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/8d/6c/788d6c39-7327-c7dc-59b7-62fbd4909dfa/8720766194363.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "363636",
+          "textColor2": "313131",
+          "textColor4": "5a5a5a",
+          "textColor1": "040404",
+          "bgColor": "fefefe",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jonatan Leandoer Håstad, Fredrik Okazaki, Tahliah Debrett Barnett & Oleg Parastaev",
+        "playParams": {
+          "id": "1617839601",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/bliss/1617839600?i=1617839601",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Bliss",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/25/9d/3b/259d3b3f-c2f7-de83-27f4-8e2609b78730/mzaf_9635228985243574418.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Yung Lean & FKA twigs"
+      }
+    },
+    "1622129305": {
+      "id": "1622129305",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "FACE (Deluxe Edition)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 13,
+        "releaseDate": "2022-01-28",
+        "durationInMillis": 206506,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USUYG1408860",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/34/ba/3b34ba41-6612-e834-badd-3b99bbcd5c8b/194690841064_cover.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d3d3d3",
+          "textColor2": "dcdcdc",
+          "textColor4": "b9b9b9",
+          "textColor1": "fcfcfc",
+          "bgColor": "303030",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Marcellus Register, Carlo Coxen, Carl-Mikael Göran Berlander & Jonatan Leandoer Håstad",
+        "url": "https://music.apple.com/us/album/overtime-feat-yung-lean/1622129078?i=1622129305",
+        "playParams": {
+          "id": "1622129305",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "name": "Overtime (feat. Yung Lean)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/66/b9/3a/66b93a98-284e-6f8a-92c5-baeafa13daae/mzaf_16971332400730216994.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Babyface Ray",
+        "contentRating": "explicit"
+      }
+    },
+    "1699712657": {
+      "id": "1699712657",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "UTOPIA",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 13,
+        "releaseDate": "2023-07-25",
+        "durationInMillis": 154964,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12305015",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c0c4c1",
+          "textColor2": "ceb2a9",
+          "textColor4": "a69088",
+          "textColor1": "eef4ef",
+          "bgColor": "070508",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jacques Webster, Jahaan Sweet, Buddy Ross, Noah Goldstein, Joseph Thornalley, Jonatan Håsted, Anthony Ruiz & David Chappelle",
+        "url": "https://music.apple.com/us/album/parasail-feat-yung-lean-dave-chappelle/1699712635?i=1699712657",
+        "playParams": {
+          "id": "1699712657",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "PARASAIL (feat. Yung Lean & Dave Chappelle)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/69/60/4d/69604d68-59cf-82c6-37aa-79bb222e6cea/mzaf_3840907258168014341.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Travis Scott"
+      }
+    }
+  }
+}

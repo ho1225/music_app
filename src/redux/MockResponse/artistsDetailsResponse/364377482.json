@@ -1,0 +1,2099 @@
+{
+  "artists": {
+    "364377482": {
+      "id": "364377482",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Urbano latino"],
+        "name": "Farruko",
+        "artwork": {
+          "width": 5180,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/6a/a8/bd/6aa8bd7c-915f-0227-8846-50710b5caa2c/a98b9cec-a29f-4072-a77a-51c02cf73ecc_ami-identity-62397b8c53ee681b2a2eed5a05b2c583-2023-06-14T18-40-21.673Z_cropped.png/{w}x{h}bb.jpg",
+          "height": 5180,
+          "textColor3": "3c3937",
+          "textColor2": "28221e",
+          "textColor4": "514b47",
+          "textColor1": "0d0b09",
+          "bgColor": "f9f1ee",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/farruko/364377482"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1460403232",
+              "type": "albums"
+            },
+            {
+              "id": "1586869902",
+              "type": "albums"
+            },
+            {
+              "id": "1271532818",
+              "type": "albums"
+            },
+            {
+              "id": "1047922938",
+              "type": "albums"
+            },
+            {
+              "id": "1455259684",
+              "type": "albums"
+            },
+            {
+              "id": "1509581341",
+              "type": "albums"
+            },
+            {
+              "id": "1477120311",
+              "type": "albums"
+            },
+            {
+              "id": "1708309177",
+              "type": "albums"
+            },
+            {
+              "id": "1509580564",
+              "type": "albums"
+            },
+            {
+              "id": "1714543294",
+              "type": "albums"
+            },
+            {
+              "id": "1509580096",
+              "type": "albums"
+            },
+            {
+              "id": "1592255895",
+              "type": "albums"
+            },
+            {
+              "id": "1689655883",
+              "type": "albums"
+            },
+            {
+              "id": "1221849859",
+              "type": "albums"
+            },
+            {
+              "id": "1509586765",
+              "type": "albums"
+            },
+            {
+              "id": "1455252221",
+              "type": "albums"
+            },
+            {
+              "id": "1712946231",
+              "type": "albums"
+            },
+            {
+              "id": "1707581810",
+              "type": "albums"
+            },
+            {
+              "id": "1707057969",
+              "type": "albums"
+            },
+            {
+              "id": "1689850069",
+              "type": "albums"
+            },
+            {
+              "id": "1697990729",
+              "type": "albums"
+            },
+            {
+              "id": "1604280804",
+              "type": "albums"
+            },
+            {
+              "id": "1645911235",
+              "type": "albums"
+            },
+            {
+              "id": "1002661289",
+              "type": "albums"
+            },
+            {
+              "id": "1696372613",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1714543294",
+              "type": "albums"
+            }
+          ]
+        },
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1573304194",
+              "type": "songs"
+            },
+            {
+              "id": "1470490146",
+              "type": "songs"
+            },
+            {
+              "id": "1437920364",
+              "type": "songs"
+            },
+            {
+              "id": "1047923256",
+              "type": "songs"
+            },
+            {
+              "id": "1460707404",
+              "type": "songs"
+            },
+            {
+              "id": "1529959308",
+              "type": "songs"
+            },
+            {
+              "id": "1266094432",
+              "type": "songs"
+            },
+            {
+              "id": "1453621338",
+              "type": "songs"
+            },
+            {
+              "id": "1271533108",
+              "type": "songs"
+            },
+            {
+              "id": "1183215242",
+              "type": "songs"
+            },
+            {
+              "id": "1440862759",
+              "type": "songs"
+            },
+            {
+              "id": "1476338343",
+              "type": "songs"
+            },
+            {
+              "id": "1473887703",
+              "type": "songs"
+            },
+            {
+              "id": "1460403329",
+              "type": "songs"
+            },
+            {
+              "id": "1604277737",
+              "type": "songs"
+            },
+            {
+              "id": "1501250888",
+              "type": "songs"
+            },
+            {
+              "id": "1459588472",
+              "type": "songs"
+            },
+            {
+              "id": "1459588478",
+              "type": "songs"
+            },
+            {
+              "id": "1586870165",
+              "type": "songs"
+            },
+            {
+              "id": "1313403609",
+              "type": "songs"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "albums": {
+    "1002661289": {
+      "id": "1002661289",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Money Cash Music, Inc. ",
+        "genreNames": ["Latin", "Music", "Hip-Hop/Rap"],
+        "releaseDate": "2015-06-06",
+        "isMasteredForItunes": false,
+        "upc": "859714953566",
+        "artwork": {
+          "width": 1600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/4a/a6/60/4aa660c1-6719-a4de-5a09-98a86489c445/859714953566_cover.jpg/{w}x{h}bb.jpg",
+          "height": 1600,
+          "textColor3": "ac99a7",
+          "textColor2": "9ba3df",
+          "textColor4": "8387bb",
+          "textColor1": "cfb9c6",
+          "bgColor": "22192a",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1002661289",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/mu%C3%B1equita-de-la-mafia-feat-zion-farruko-single/1002661289",
+        "recordLabel": "Money Cash Music, Inc.",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Muñequita de la Mafia (feat. Zion & Farruko) - Single",
+        "artistName": "Wambo",
+        "isComplete": true
+      }
+    },
+    "1047922938": {
+      "id": "1047922938",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Sony Music Entertainment US Latin LLC",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2015-10-23",
+        "upc": "886445327366",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/31/b2/b631b2ee-70e7-a59a-cf28-bb939873d013/mzm.qofgvzhf.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "b9c5ce",
+          "textColor2": "ef72a1",
+          "textColor4": "c75f86",
+          "textColor1": "ddf1fa",
+          "bgColor": "29141b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/visionary/1047922938",
+        "playParams": {
+          "id": "1047922938",
+          "kind": "album"
+        },
+        "recordLabel": "Sony Music Latin",
+        "isCompilation": false,
+        "trackCount": 14,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Visionary",
+        "artistName": "Farruko",
+        "editorialNotes": {
+          "standard": "Right from the outset, this Puerto Rican-born reggaeton singer and go-to producer boldly proclaims “This is the next level, the future.” Farruko then sets out to prove just that, his booming baritone vocals punctuating party-propelling tunes that fold arpeggio-driven melodies and choruses over thumping beats. “Obsesionado” starts sparsely, with supple, bass-leaning keyboard melodies flowing beneath his suave vocals; “HMB” turns a bit psychedelic with swirling circular samples. Ultimately, though, Shaggy and Nicky Jam take us to the climax with the feel-good Tropicália-dancehall crossover tune “Sunset.”",
+          "short": "The Miami-based producer/singer trademarks his pop-positive reggaeton brand."
+        },
+        "isComplete": true
+      }
+    },
+    "1221849859": {
+      "id": "1221849859",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Nazza Records",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2013-05-26",
+        "upc": "859719916900",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/72/66/35/72663515-cc89-48a1-3bf6-b892e3963ee7/859719916900_cover.jpg/{w}x{h}bb.jpg",
+          "height": 1600,
+          "textColor3": "cbcbcb",
+          "textColor2": "fff1d7",
+          "textColor4": "cec0ae",
+          "textColor1": "fbfdfa",
+          "bgColor": "0b010f",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1221849859",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/imperio-nazza-farruko-edition/1221849859",
+        "recordLabel": "Nazza Records",
+        "isCompilation": false,
+        "trackCount": 8,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Imperio Nazza - Farruko Edition",
+        "artistName": "Farruko",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1271532818": {
+      "id": "1271532818",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Sony Music Entertainment US Latin LLC",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2017-09-15",
+        "upc": "886446349701",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/33/50/933350d5-0336-8c7e-7291-c329c1facb9e/886446349701.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "ccc8c4",
+          "textColor2": "e4ff00",
+          "textColor4": "b7cc00",
+          "textColor1": "fffaf6",
+          "bgColor": "010100",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1271532818",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/trapxficante/1271532818",
+        "recordLabel": "Sony Music Latin",
+        "isCompilation": false,
+        "trackCount": 22,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "TrapXficante",
+        "artistName": "Farruko",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "<i>TrapXficante</i> opens with a snarling and startling blast of trap bass. It's a grimy statement of intent from the Puerto Rican star, who mostly ditches his winning reggaeton bounce to experiment wildly. There are menacing trap bangers throughout (\"Krippy Kush\"), but also slow jams full of cooed R&B hooks and lush pop synths (\"Explícale\"), and even old-school Latin grooves infused with modern swag (\"Chá Chá Chá\"). The album is an epic, both in scope and length. But it's also an irresistible trip, with Farruko's hitmaker instincts still in full effect.",
+          "short": "Booming anthems that mix snarling trap with seductive pop."
+        },
+        "isComplete": true
+      }
+    },
+    "1455252221": {
+      "id": "1455252221",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Pina Records",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2015-11-20",
+        "upc": "886445575583",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ac/a4/d3/aca4d3a1-0944-8eaf-54f7-0dd67f1632b5/886445575583.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "332c29",
+          "textColor2": "1e2d25",
+          "textColor4": "3b4940",
+          "textColor1": "130809",
+          "bgColor": "b1bcac",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1455252221",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/los-favoritos-feat-alexio-farruko-genio-pusho-%C3%B1engo-flow/1455252221",
+        "recordLabel": "Pina Records",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Los Favoritos (feat. Alexio, Farruko, Genio, Pusho & Ñengo Flow)",
+        "artistName": "Arcángel & DJ Luian",
+        "contentRating": "clean",
+        "editorialNotes": {
+          "standard": "With <i>Los Favoritos</i>, Arcángel drafts a team of lyrical all-stars to his cause. He and Nicky Jam pine for old lovers over the sentimental synth-strings of \"Pensándote,\" while wingman De La Ghetto (among others) joins for \"Más Piquete Que Yo,\" which rumbles with the ominous bluster of a DJ Khaled posse cut. The versatile singer finds his musical match in executive producer DJ Luian: Where the smooth \"Chikiribón\" dusts off the genre's Jamaican roots, \"El Favorito de Tu Gata\" sounds like a disintegrating vision quest into its digital future.",
+          "short": "A suave star unites reggaeton's biggest names to animate the dance floor."
+        },
+        "isComplete": true
+      }
+    },
+    "1455259684": {
+      "id": "1455259684",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Pina Records",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2015-11-20",
+        "isMasteredForItunes": false,
+        "upc": "886445594904",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/48/10/48481097-a316-ac3b-70d1-522479078065/886445594904.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2e2725",
+          "textColor2": "132428",
+          "textColor4": "2e3d3d",
+          "textColor1": "130809",
+          "bgColor": "9aa595",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1455259684",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/los-favoritos-feat-alexio-farruko-genio-pusho-%C3%B1engo-flow/1455259684",
+        "recordLabel": "Pina Records",
+        "isCompilation": false,
+        "trackCount": 18,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Los Favoritos (feat. Alexio, Farruko, Genio, Pusho & Ñengo Flow)",
+        "artistName": "Arcángel & DJ Luian",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "With <i>Los Favoritos</i>, Arcángel drafts a team of lyrical all-stars to his cause. He and Nicky Jam pine for old lovers over the sentimental synth-strings of \"Pensándote,\" while wingman De La Ghetto (among others) joins for \"Más Piquete Que Yo,\" which rumbles with the ominous bluster of a DJ Khaled posse cut. The versatile singer finds his musical match in executive producer DJ Luian: Where the smooth \"Chikiribón\" dusts off the genre's Jamaican roots, \"El Favorito de Tu Gata\" sounds like a disintegrating vision quest into its digital future.",
+          "short": "A suave star unites reggaeton's biggest names to animate the dance floor."
+        },
+        "isComplete": true
+      }
+    },
+    "1460403232": {
+      "id": "1460403232",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2018, 2019 Sony Music Entertainment US Latin LLC",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2019-04-26",
+        "upc": "886447686447",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/72/d1/c772d175-a331-e0bd-8cf4-62b7cea7e6c3/886447686447.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "caaf00",
+          "textColor2": "f65b00",
+          "textColor4": "c54900",
+          "textColor1": "fddb00",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1460403232",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/gangalee/1460403232",
+        "recordLabel": "Sony Music Latin",
+        "isCompilation": false,
+        "trackCount": 22,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Gangalee",
+        "artistName": "Farruko",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "The first artist to land a Latin trap single on the Billboard Hot 100, Farruko seemed well-positioned to ascend into the American mainstream. Yet while “Krippy Kush” colleague Bad Bunny did just that, his Puerto Rican compatriot pivoted away from the urban sounds of 2017’s <i>TrapXficante</i>. Subsequent singles “Coolant” and “Inolvidable” circled back not merely to his come-up as a reggaetónero but to the Jamaican dancehall styles that helped birth música urbana. <i>Gangalee</i> collects these songs and adds several more to present a fully realized Spanish-language reggae vision that honors traditions and earns him the right to be considered part of that Caribbean canon. Soundtracking an endless summer, cuts like “Mucho Humo” with Jo Mersa Marley and “Ponle” with Kingston’s own Rvssian lend even more authenticity to his efforts. Though Farruko lures in other hardened traperos here to further solidify his cross-cultural cred, pop singers Pedro Capó and Alicia Keys bring out his softer and more easygoing charm on the smash hit “Calma.”",
+          "short": "A fully realized vision for Spanish-language reggae."
+        },
+        "isComplete": true
+      }
+    },
+    "1477120311": {
+      "id": "1477120311",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2019 Sony Music Entertainment US Latin LLC",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2019-08-23",
+        "upc": "886447880180",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8f/33/32/8f333218-fe1c-8692-b791-9d81e66a943a/886447880180.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "0d1f09",
+          "textColor4": "3d4b3a",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1477120311",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/en-letra-de-otro/1477120311",
+        "recordLabel": "Sony Music Latin",
+        "trackCount": 10,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "En Letra de Otro",
+        "artistName": "Farruko",
+        "isComplete": true
+      }
+    },
+    "1509580096": {
+      "id": "1509580096",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 Carbon Fiber Music",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2014-10-27",
+        "upc": "00792278022494",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/c7/d2/a7c7d29c-2a07-d42a-0071-c5faf0e250c6/00792278022494_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "c7c7c7",
+          "textColor2": "c8c8c8",
+          "textColor4": "a1a1a1",
+          "textColor1": "f8f8f8",
+          "bgColor": "030303",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1509580096",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/farruko-presents-los-menores/1509580096",
+        "recordLabel": "Carbon Fiber Music",
+        "isCompilation": false,
+        "trackCount": 15,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Farruko Presents Los Menores",
+        "artistName": "Farruko",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1509580564": {
+      "id": "1509580564",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2010 Carbon Fiber Music",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2010-05-04",
+        "upc": "00792278022470",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8f/ed/35/8fed35c3-2612-375a-8c67-588a809f0715/00792278022470_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "b5bdb9",
+          "textColor2": "afc5c6",
+          "textColor4": "8d9fa0",
+          "textColor1": "e1ebe5",
+          "bgColor": "060807",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1509580564",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/el-talento-del-bloque/1509580564",
+        "recordLabel": "Carbon Fiber Music",
+        "trackCount": 14,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "El Talento del Bloque",
+        "artistName": "Farruko",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1509581341": {
+      "id": "1509581341",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2012 Carbon Fiber Music",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2012-05-22",
+        "upc": "00792278022500",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/58/fc/6d58fc76-e968-7032-bccb-b6c26e03c3d7/00792278022500_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "b4b4b2",
+          "textColor2": "c6c6c6",
+          "textColor4": "a1a1a1",
+          "textColor1": "dededc",
+          "bgColor": "0e0e0e",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1509581341",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/tmpr-the-most-powerful-rookie/1509581341",
+        "recordLabel": "Carbon Fiber Music",
+        "isCompilation": false,
+        "trackCount": 12,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "TMPR The Most Powerful Rookie",
+        "artistName": "Farruko",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1509586765": {
+      "id": "1509586765",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2016 Carbon Fiber Music",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2013-05-26",
+        "isMasteredForItunes": false,
+        "upc": "00792278022487",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/c3/b2/67c3b2a5-b883-093b-281d-ea3375ac9c14/00792278022487_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "bbb579",
+          "textColor2": "d7db96",
+          "textColor4": "afb080",
+          "textColor1": "e5e08e",
+          "bgColor": "130828",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/imperio-nazza-farruko-edition/1509586765",
+        "playParams": {
+          "id": "1509586765",
+          "kind": "album"
+        },
+        "recordLabel": "Carbon Fiber Music",
+        "isCompilation": false,
+        "trackCount": 11,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Imperio Nazza (Farruko Edition)",
+        "contentRating": "explicit",
+        "artistName": "Farruko",
+        "isComplete": true
+      }
+    },
+    "1586869902": {
+      "id": "1586869902",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Sony Music Entertainment US Latin LLC",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2021-10-01",
+        "upc": "886449572236",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/59/6b/02596b89-0475-9b14-3b51-934d24770ec3/886449572236.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbccc9",
+          "textColor2": "e9860a",
+          "textColor4": "bc6c08",
+          "textColor1": "fdfffc",
+          "bgColor": "080401",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1586869902",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/la-167/1586869902",
+        "recordLabel": "Sony Music Latin",
+        "trackCount": 25,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "La 167",
+        "artistName": "Farruko",
+        "contentRating": "explicit",
+        "editorialNotes": {
+          "standard": "Throughout his career, Farruko has always found a way to stay ahead of the curve. That musical creativity and intuitive savvy continually kept the Puerto Rican artist in prominence and in good company as Latin music continued to grow beyond borders and towards global pop ubiquity. After making prescient chart history in the US with the breakthrough trap en español single “Krippy Kush” off his 2017 album <i>TrapXficante</i>, he pivoted towards a Latin reggae sound on the subsequent <i>Gangalee</i>. That 2019 full-length earned him further ubiquity as its breezy single “Calma (Remix)” became an even bigger hit. In 2021, however, he outdid himself once more, shifting successfully to new terrain with the guaracha-infused electronic dance smash “Pepas.”<br />\nWith that sensational and compellingly catchy track still booming out of speakers all over the world, Farruko unveils <i>La 167</i>. Its title a nod to his homeland, the supersized project explores and augments a variety of styles. Those happily caught in the clubby rapture of “Pepas” will find similar vibes in “Embalao,” “El Incomprendido,” and the Jay Wheeler team-up “GPS.” He’s as proficient a reggaetonero as ever on “F*LOVE” and the retro “Baya.” Indeed, songs like “La Tóxica” outwardly celebrate the hedonistic freedoms found in perreo, further adding to the empowering party atmosphere he’s cultivating. His hip-hop bona fides also remain intact, evident on the Luar La L-featuring “Guerrero” and the refurbished throwback “Lambo.” Leaning into the softer side of his ever-broadening pop appeal, he reunites with “Calma” cohort Pedro Capó on the tropically tinged ballad “Jíbaro” and makes mellow dancehall magic with Mavado on “W.F.M.”",
+          "short": "Farruko showcases his broad appeal on this supersized outing."
+        },
+        "isComplete": true
+      }
+    },
+    "1592255895": {
+      "id": "1592255895",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2021 Sony Music Entertainment US Latin LLC",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2021-10-29",
+        "upc": "886449672684",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/a3/07/b1a3077e-c4eb-7086-c67d-24e4c0c9d0f3/886449672684.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "453108",
+          "textColor2": "360027",
+          "textColor4": "5c291f",
+          "textColor1": "19090a",
+          "bgColor": "f5ce00",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1592255895",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/pepas-remix-ep/1592255895",
+        "recordLabel": "Sony Music Latin",
+        "isCompilation": false,
+        "trackCount": 5,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Pepas Remix - EP",
+        "artistName": "Farruko",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1604280804": {
+      "id": "1604280804",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Sony Music International, a division of Sony Music Entertainment",
+        "genreNames": ["Latin", "Music", "Pop"],
+        "releaseDate": "2022-01-14",
+        "upc": "886449817689",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/cf/aa/7ccfaa7c-67f3-0d76-01de-be75faa27dc6/886449817689.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bfc0bb",
+          "textColor2": "ff2d39",
+          "textColor4": "cb232e",
+          "textColor1": "eff1ea",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1604280804",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/me-pas%C3%A9-the-remixes-feat-farruko-ep/1604280804",
+        "recordLabel": "RCA Records/Sony Music International/Sony Music Latin",
+        "isCompilation": false,
+        "trackCount": 4,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "ME PASÉ (The Remixes) [feat. Farruko] - EP",
+        "artistName": "Enrique Iglesias",
+        "isComplete": true
+      }
+    },
+    "1645911235": {
+      "id": "1645911235",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2015 Carbon Fiber Music",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2015-08-14",
+        "upc": "859715383218",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cf/2c/5a/cf2c5ae7-ed4b-e4aa-24c0-b9640632066b/859715383218_cover.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "8eb7b9",
+          "textColor2": "97c5d2",
+          "textColor4": "7fa3ad",
+          "textColor1": "aadfe0",
+          "bgColor": "1d1b1e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/personalidades-feat-farruko-single/1645911235",
+        "playParams": {
+          "id": "1645911235",
+          "kind": "album"
+        },
+        "recordLabel": "Sway Music SAS",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Personalidades (feat. Farruko) - Single",
+        "artistName": "Almighty",
+        "isComplete": true
+      }
+    },
+    "1689655883": {
+      "id": "1689655883",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 CFMB Records",
+        "genreNames": ["Latin", "Music"],
+        "releaseDate": "2023-06-15",
+        "upc": "196922495700",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/9c/6b/d29c6bff-5006-06d0-8640-81036e2ff3bf/196922495700_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "333238",
+          "textColor2": "251c19",
+          "textColor4": "474243",
+          "textColor1": "0d090c",
+          "bgColor": "ccd7e9",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1689655883",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/pasa-je-ro-single/1689655883",
+        "recordLabel": "CFMB Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Pasa_je_ro - Single",
+        "artistName": "Farruko",
+        "isComplete": true
+      }
+    },
+    "1689850069": {
+      "id": "1689850069",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 CFMB Records",
+        "genreNames": ["Música tropical", "Music", "Latin"],
+        "releaseDate": "2023-06-01",
+        "isMasteredForItunes": false,
+        "upc": "196922496998",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/71/2a/18712afe-5043-9870-8953-dfed13890f99/196922496998_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "3c8fbe",
+          "textColor2": "fe2a29",
+          "textColor4": "d02625",
+          "textColor1": "45aee8",
+          "bgColor": "171717",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/esta-vida-salsa-version-single/1689850069",
+        "playParams": {
+          "id": "1689850069",
+          "kind": "album"
+        },
+        "recordLabel": "CFMB Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Esta Vida (Salsa Version) - Single",
+        "artistName": "Farruko & Marlon",
+        "isComplete": true
+      }
+    },
+    "1696372613": {
+      "id": "1696372613",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 CFMB Records",
+        "genreNames": ["Latin", "Music"],
+        "releaseDate": "2023-07-07",
+        "isMasteredForItunes": false,
+        "upc": "196922550744",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/70/22/fc7022eb-a636-c78c-4fe5-47198d1d38dc/196922550744_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "d0ccc5",
+          "textColor2": "85e498",
+          "textColor4": "71b77a",
+          "textColor1": "fcfff6",
+          "bgColor": "220405",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/qqqc-single/1696372613",
+        "playParams": {
+          "id": "1696372613",
+          "kind": "album"
+        },
+        "recordLabel": "CFMB Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "QQQC - Single",
+        "artistName": "Ghetto & Farruko",
+        "isComplete": true
+      }
+    },
+    "1697990729": {
+      "id": "1697990729",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 CFMB Records",
+        "genreNames": ["Latin", "Music"],
+        "releaseDate": "2023-08-17",
+        "isMasteredForItunes": false,
+        "upc": "196922561917",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/8e/34/458e3427-2989-7969-2aa2-8584e287d034/196922561917_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "96ac7c",
+          "textColor2": "cec587",
+          "textColor4": "a8a270",
+          "textColor1": "b7d096",
+          "bgColor": "101a12",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/calor-single/1697990729",
+        "playParams": {
+          "id": "1697990729",
+          "kind": "album"
+        },
+        "recordLabel": "CFMB Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Calor - Single",
+        "artistName": "Farruko & Manolo Ramos",
+        "isComplete": true
+      }
+    },
+    "1707057969": {
+      "id": "1707057969",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2017 Sinfonico G4, LLC - Bajo licencia exclusiva a ONErpm under exclusive license to ONErpm",
+        "genreNames": ["Latin Rap", "Music", "Hip-Hop/Rap", "Latin"],
+        "releaseDate": "2017-03-31",
+        "isMasteredForItunes": false,
+        "upc": "792278030857",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/8e/f1/928ef1cc-4d16-6c85-c6a4-09c117822075/0.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "eccfd1",
+          "textColor2": "f8a6a9",
+          "textColor4": "e78a8d",
+          "textColor1": "fffdff",
+          "bgColor": "a11a1c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/47-remix-feat-farruko-casper-magico-darell-bad-bunny-single/1707057969",
+        "playParams": {
+          "id": "1707057969",
+          "kind": "album"
+        },
+        "recordLabel": "Sinfonico G4, LLC",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "47 (Remix) [feat. Farruko, Casper Magico, Darell & Bad Bunny] - Single",
+        "contentRating": "explicit",
+        "artistName": "Anuel AA & Ñengo Flow",
+        "isComplete": true
+      }
+    },
+    "1707581810": {
+      "id": "1707581810",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Hear This Music LLC, under exclusive license to 5020 Records",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2023-09-21",
+        "upc": "196871442312",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/76/30/3b/76303bff-4fa5-3dbe-6b74-cc81c6841084/196871442312.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3e4867",
+          "textColor2": "4f1f25",
+          "textColor4": "6e484c",
+          "textColor1": "132046",
+          "bgColor": "ebebeb",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1707581810",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/santorini-remix-single/1707581810",
+        "recordLabel": "5020 Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Santorini (Remix) - Single",
+        "artistName": "Beéle, Farruko & Jason Derulo",
+        "isComplete": true
+      }
+    },
+    "1708309177": {
+      "id": "1708309177",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 PTY Music LLC / WK Records LLC",
+        "genreNames": ["Latin", "Music"],
+        "releaseDate": "2023-10-05",
+        "upc": "197189968877",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/dd/55/12dd557d-f94c-9030-9ffe-9f4948f8a77b/197189968877.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bec2c3",
+          "textColor2": "e9d297",
+          "textColor4": "bdaf80",
+          "textColor1": "ebebeb",
+          "bgColor": "0d2024",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1708309177",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/perd%C3%B3name-single/1708309177",
+        "recordLabel": "PTY Music LLC / WK Records LLC",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "Perdóname - Single",
+        "artistName": "Eddy Lover, Farruko & La Factoría",
+        "isComplete": true
+      }
+    },
+    "1712946231": {
+      "id": "1712946231",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Candy Music Family LLC. Distributed by Sony Music Entertainment US Latin LLC",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2023-11-09",
+        "isMasteredForItunes": false,
+        "upc": "196871557696",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/49/8d/df498d2c-498f-3df0-31f1-25e75d80c033/196871557696.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfcbca",
+          "textColor2": "c6e5db",
+          "textColor4": "a5beb5",
+          "textColor1": "faf6f5",
+          "bgColor": "20201e",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1712946231",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/bendecido-single/1712946231",
+        "recordLabel": "Candy Music Family",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Bendecido - Single",
+        "artistName": "Dylan & Farruko",
+        "isComplete": true
+      }
+    },
+    "1714543294": {
+      "id": "1714543294",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Sony Music Entertainment US Latin LLC",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "releaseDate": "2023-11-14",
+        "upc": "196871590303",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/10/cd/c010cd7a-e8c6-bbde-d7e5-f377fd16bb81/196871590303.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "ccb694",
+          "textColor2": "e9d3ae",
+          "textColor4": "c4ae8b",
+          "textColor1": "f3deb8",
+          "bgColor": "2f1902",
+          "hasP3": false
+        },
+        "playParams": {
+          "id": "1714543294",
+          "kind": "album"
+        },
+        "url": "https://music.apple.com/us/album/good-energy-remix-single/1714543294",
+        "recordLabel": "Sony Music Latin",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Good Energy (Remix) - Single",
+        "artistName": "Farruko, Yung Wylin' & Maffio",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    }
+  },
+  "songs": {
+    "1047923256": {
+      "id": "1047923256",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Visionary",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 8,
+        "releaseDate": "2015-10-23",
+        "durationInMillis": 197853,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USSD11500378",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/31/b2/b631b2ee-70e7-a59a-cf28-bb939873d013/mzm.qofgvzhf.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "b9c5ce",
+          "textColor2": "ef72a1",
+          "textColor4": "c75f86",
+          "textColor1": "ddf1fa",
+          "bgColor": "29141b",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Farruko, Carlos (Maffio) Peralta, Ky-Mani Marley, Robert Fernandez & Marcos G. Pérez",
+        "url": "https://music.apple.com/us/album/chillax-feat-ky-mani-marley/1047922938?i=1047923256",
+        "playParams": {
+          "id": "1047923256",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Chillax (feat. Ky-Mani Marley)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9e/3e/45/9e3e454c-926d-3def-70da-013b9c1cb091/mzaf_626144418672141237.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Farruko"
+      }
+    },
+    "1183215242": {
+      "id": "1183215242",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko & Zion & Lennox] - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin", "Hip-Hop/Rap", "Rap"],
+        "trackNumber": 1,
+        "durationInMillis": 307910,
+        "releaseDate": "2016-12-02",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "USDXS1600316",
+        "artwork": {
+          "width": 1600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/3b/58/9c3b5818-0739-75c5-0f71-bb2bfe60d120/555551947323_cover.jpg/{w}x{h}bb.jpg",
+          "height": 1600,
+          "textColor3": "b5a193",
+          "textColor2": "d3af99",
+          "textColor4": "ac8f7f",
+          "textColor1": "dfc6b2",
+          "bgColor": "0e0e18",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "playParams": {
+          "id": "1183215242",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/sola-remix-feat-daddy-yankee-wisin-farruko-zion-lennox/1183214926?i=1183215242",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko & Zion & Lennox]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/84/9a/9e849a85-0e3e-614a-a6a4-ef10d7f1a58a/mzaf_14775493840324881587.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Anuel AA"
+      }
+    },
+    "1266094432": {
+      "id": "1266094432",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Si Tu Lo Dejas (feat. Bad Bunny, Farruko, Nicky Jam & King Kosa) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "durationInMillis": 275478,
+        "releaseDate": "2017-08-02",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM6N21779825",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/ef/21/e9ef2169-c9c2-9e02-1557-9fdc57bb370d/191773573706.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cccccd",
+          "textColor2": "c0ce23",
+          "textColor4": "9ba61f",
+          "textColor1": "fdfdfd",
+          "bgColor": "07070f",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Rvssian, Benito A. Martinez Ocasio, Carlos \"Farruko\" Reyes, \"Nick \"Nicky Jam\" Rivera & Kevin “King Kosa” Thomas",
+        "url": "https://music.apple.com/us/album/si-tu-lo-dejas-feat-bad-bunny-farruko-nicky-jam-king-kosa/1266094189?i=1266094432",
+        "playParams": {
+          "id": "1266094432",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Si Tu Lo Dejas (feat. Bad Bunny, Farruko, Nicky Jam & King Kosa)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/53/64/1053640f-1ada-c388-f47a-0a05be31c486/mzaf_17584786088419673337.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Rvssian"
+      }
+    },
+    "1271533108": {
+      "id": "1271533108",
+      "type": "songs",
+      "attributes": {
+        "albumName": "TrapXficante",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 3,
+        "releaseDate": "2017-08-04",
+        "durationInMillis": 230520,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USSD11700349",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/33/50/933350d5-0336-8c7e-7291-c329c1facb9e/886446349701.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "ccc8c4",
+          "textColor2": "e4ff00",
+          "textColor4": "b7cc00",
+          "textColor1": "fffaf6",
+          "bgColor": "010100",
+          "hasP3": false
+        },
+        "audioLocale": "es-419",
+        "composerName": "Carlos Efren Reyes-Rosado, Benito Martínez Ocasio, Franklin Martinez, Thomas Kevin Richard & Tarik Johnston P.K.A. Rvssian",
+        "url": "https://music.apple.com/us/album/krippy-kush/1271532818?i=1271533108",
+        "playParams": {
+          "id": "1271533108",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Krippy Kush",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bc/d9/07/bcd907f8-a683-4099-a0ae-136d31960710/mzaf_1439268490203926652.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Farruko, Bad Bunny & Rvssian"
+      }
+    },
+    "1313403609": {
+      "id": "1313403609",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Krippy Kush (Remix) [feat. 21 Savage & Rvssian] - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "durationInMillis": 236966,
+        "releaseDate": "2017-08-03",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USSD11700460",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/2b/9d/992b9d6b-aa73-ac67-438c-990a3ca932e2/886446848471.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cac8bb",
+          "textColor2": "3bfc05",
+          "textColor4": "35ca0c",
+          "textColor1": "f5fae0",
+          "bgColor": "1d0129",
+          "hasP3": false
+        },
+        "audioLocale": "mul",
+        "composerName": "Carlos Efren Reyes-Rosado, Benito Martínez Ocasio, Franklin Martinez, Thomas Kevin Richard & Tarik Johnston P.K.A. Rvssian",
+        "playParams": {
+          "id": "1313403609",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/krippy-kush-remix-feat-21-savage-rvssian/1313403057?i=1313403609",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Krippy Kush (Remix) [feat. 21 Savage & Rvssian]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/4f/97/c54f979d-dfc5-f998-319a-c345aa0a0ea9/mzaf_6143960715874685057.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Farruko, Nicki Minaj & Bad Bunny (feat. 21 Savage & Rvssian)",
+        "contentRating": "explicit"
+      }
+    },
+    "1437920364": {
+      "id": "1437920364",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Calma (Remix) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Pop Latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "durationInMillis": 238200,
+        "releaseDate": "2018-10-05",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USSD11800343",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/47/11/9f4711a3-4e1d-22cd-b289-df12fb7d2f3e/886447355534.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "423a1a",
+          "textColor2": "3f1709",
+          "textColor4": "65461d",
+          "textColor1": "130905",
+          "bgColor": "fdff70",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Pedro Capó, George Noriega, Gabriel Edgar Gonzalez Perez, Farruko, Franklin Jovani Martínez & Marcos G. Pérez a/k/a Sharo Towers",
+        "playParams": {
+          "id": "1437920364",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/calma-remix/1437920278?i=1437920364",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "atmos",
+          "hi-res-lossless",
+          "lossless",
+          "lossy-stereo",
+          "spatial"
+        ],
+        "name": "Calma (Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d5/a3/af/d5a3af22-a8a2-4ac8-6427-e74d69164b20/mzaf_15049915832527572610.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Pedro Capó & Farruko"
+      }
+    },
+    "1440862759": {
+      "id": "1440862759",
+      "type": "songs",
+      "attributes": {
+        "albumName": "La Familia",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 5,
+        "durationInMillis": 243227,
+        "releaseDate": "2013-01-01",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "MXUM71300426",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/1e/01/b41e0185-01ad-57c3-9a59-b5779ebb5fd2/13UAEIM00023.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cecfcf",
+          "textColor2": "dadad8",
+          "textColor4": "b1b2b0",
+          "textColor1": "ffffff",
+          "bgColor": "0e1213",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "J Balvin & Farruko",
+        "playParams": {
+          "id": "1440862759",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/6-am-feat-farruko/1440862370?i=1440862759",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": [
+          "atmos",
+          "hi-res-lossless",
+          "lossless",
+          "lossy-stereo",
+          "spatial"
+        ],
+        "name": "6 AM (feat. Farruko)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/78/36/be/7836bee4-f7d4-c381-1deb-28fa1aa38ac2/mzaf_4948442338181764169.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "J Balvin"
+      },
+      "meta": {
+        "formerIds": ["720806851", "720836476"]
+      }
+    },
+    "1453621338": {
+      "id": "1453621338",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Si Se Da - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "releaseDate": "2019-02-26",
+        "durationInMillis": 237013,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM4TX1920224",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/50/04/3c/50043c10-62d2-1149-5ac2-3ade452a3262/193483534046.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfcecd",
+          "textColor2": "ec8a69",
+          "textColor4": "c47257",
+          "textColor1": "f9fdfc",
+          "bgColor": "261212",
+          "hasP3": false
+        },
+        "composerName": "Farruko & Myke Towers",
+        "audioLocale": "es-ES",
+        "playParams": {
+          "id": "1453621338",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/si-se-da/1453621334?i=1453621338",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Si Se Da",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d5/ba/d1/d5bad13b-d4e5-e12a-a816-3407fa132e57/mzaf_16891697633665231494.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Myke Towers & Farruko",
+        "contentRating": "explicit"
+      }
+    },
+    "1459588472": {
+      "id": "1459588472",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Sueños",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 7,
+        "releaseDate": "2019-02-28",
+        "durationInMillis": 219520,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM9WM1900102",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/85/85/ea8585e5-011e-b0d3-8ac3-ea35aa718a3a/192641298776_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "b4b3b4",
+          "textColor2": "a3cf5c",
+          "textColor4": "84a74c",
+          "textColor1": "dedede",
+          "bgColor": "0b090a",
+          "hasP3": false
+        },
+        "composerName": "Jorge Valdes, Manuel Enrique Cortés, Jhonattan Jacob Reyes, JONATHAN EMMANUEL TOBAR, Carlos Isaias Morales Williams, Farruko, Felix Ortiz & Gabriel Pizarro",
+        "audioLocale": "es-419",
+        "url": "https://music.apple.com/us/album/solita-feat-farruko-zion-lennox/1459588220?i=1459588472",
+        "playParams": {
+          "id": "1459588472",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Solita (feat. Farruko & Zion & Lennox)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2d/29/e0/2d29e054-6add-44e5-1b28-18b11f3b29a2/mzaf_4988530492558102603.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Sech"
+      }
+    },
+    "1459588478": {
+      "id": "1459588478",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Sueños",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 9,
+        "releaseDate": "2019-04-11",
+        "durationInMillis": 305962,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM9WM1900123",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/85/85/ea8585e5-011e-b0d3-8ac3-ea35aa718a3a/192641298776_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "b4b3b4",
+          "textColor2": "a3cf5c",
+          "textColor4": "84a74c",
+          "textColor1": "dedede",
+          "bgColor": "0b090a",
+          "hasP3": false
+        },
+        "composerName": "Jorge Valdes, Manuel Enrique Cortés, Jhonattan Jacob Reyes, Carlos Isaias Morales Williams, Justin Quiles, Juan Luis Londoño Arias, Nick Rivera Caminero, Farruko & Pedro David Daleccio",
+        "audioLocale": "es-419",
+        "playParams": {
+          "id": "1459588478",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/que-m%C3%A1s-pues-feat-nicky-jam-farruko-dalex-lenny-tav%C3%A1rez/1459588220?i=1459588478",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Que Más Pues (feat. Nicky Jam, Farruko, Dalex & Lenny Tavárez) [Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/60/a2/e3/60a2e387-06dc-5f06-f96d-6044b4023987/mzaf_1219312400264260726.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Sech, Justin Quiles & Maluma",
+        "contentRating": "explicit"
+      }
+    },
+    "1460403329": {
+      "id": "1460403329",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Gangalee",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "releaseDate": "2019-04-26",
+        "durationInMillis": 289907,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USSD11900126",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/72/d1/c772d175-a331-e0bd-8cf4-62b7cea7e6c3/886447686447.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "caaf00",
+          "textColor2": "f65b00",
+          "textColor4": "c54900",
+          "textColor1": "fddb00",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Farruko, Benito Antonio Martinez, Karloff Gaitan, Jorge Valdés, Marcos G. Pérez, Andy Bauza, Franklin Jovani Martínez & Peter Tosh",
+        "url": "https://music.apple.com/us/album/la-cartera/1460403232?i=1460403329",
+        "playParams": {
+          "id": "1460403329",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "La Cartera",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6e/b8/b7/6eb8b706-bb75-d40c-7a3e-aae9039def85/mzaf_15503934246276694030.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Farruko & Bad Bunny"
+      }
+    },
+    "1460707404": {
+      "id": "1460707404",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Baila Baila Baila (feat. Farruko, Anuel AA) [Remix] - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "releaseDate": "2019-04-25",
+        "durationInMillis": 235284,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM6MZ1955291",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/71/df/1671df3a-2260-253f-7207-9c3dbddf53c1/193483775180.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "30381c",
+          "textColor2": "051f28",
+          "textColor4": "344325",
+          "textColor1": "01111d",
+          "bgColor": "efd319",
+          "hasP3": false
+        },
+        "composerName": "Juan Carlos Ozuna Rosado",
+        "audioLocale": "es-ES",
+        "playParams": {
+          "id": "1460707404",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/baila-baila-baila-feat-daddy-yankee-j-balvin-farruko/1460707396?i=1460707404",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Baila Baila Baila (feat. Daddy Yankee, J Balvin, Farruko & Anuel AA) [Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/70/c5/46/70c5460c-44bf-8efb-63e6-d097c9bd89f1/mzaf_5845208472293743154.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Ozuna, Daddy Yankee & J Balvin"
+      }
+    },
+    "1470490146": {
+      "id": "1470490146",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Diles (feat. Arcángel, Ñengo Flow, DJ Luian & Mambo Kingz) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Latin", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2016-08-26",
+        "durationInMillis": 286041,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZS1Z1600275",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/6b/0b/e36b0bd8-3a60-8466-b034-4ac6652f4110/191079034949.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cead0e",
+          "textColor2": "c3c3c3",
+          "textColor4": "9f9c9f",
+          "textColor1": "fdd80d",
+          "bgColor": "120113",
+          "hasP3": false
+        },
+        "audioLocale": "es-419",
+        "composerName": "Benito A. Martinez",
+        "playParams": {
+          "id": "1470490146",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/diles-feat-arc%C3%A1ngel-%C3%B1engo-flow-dj-luian-mambo-kingz/1470490144?i=1470490146",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Diles (feat. Arcángel, Ñengo Flow, DJ Luian & Mambo Kingz)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/94/00/c694000f-7f9e-30bd-0fa1-62598a6f144d/mzaf_1167879964391206004.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Bad Bunny, Ozuna & Farruko",
+        "contentRating": "explicit"
+      }
+    },
+    "1473887703": {
+      "id": "1473887703",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Si Se da Remix (feat. Sech & Zion) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "durationInMillis": 332240,
+        "releaseDate": "2019-08-02",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "QM6P41962776",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/8f/09/0c8f09ad-1bae-477b-44bd-c96b28ae719a/194491127794.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "00b3c5",
+          "textColor2": "00b2db",
+          "textColor4": "0093b6",
+          "textColor1": "00dbee",
+          "bgColor": "001323",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Myke Towers, Farruko, Arcángel, Sech, Zion, Jose Reyes & Orlando Cepeda Matos",
+        "playParams": {
+          "id": "1473887703",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/si-se-da-feat-sech-zion-remix/1473887702?i=1473887703",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Si Se Da (feat. Sech & Zion) [Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9b/57/73/9b577389-937f-7f49-8464-912499b6fb10/mzaf_16206131487535849561.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Myke Towers, Farruko & Arcángel",
+        "contentRating": "explicit"
+      }
+    },
+    "1476338343": {
+      "id": "1476338343",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Fantasías - Single",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "releaseDate": "2019-08-29",
+        "durationInMillis": 199711,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM6P41989279",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/a0/65/c4a0650a-87b0-3514-4e0c-e32e5afbb3a6/194491183394.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c1c3cf",
+          "textColor2": "adbad3",
+          "textColor4": "8a98b4",
+          "textColor1": "f1f0f5",
+          "bgColor": "001037",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Raul A. Ocasio, Carlos E. Reyes, Eric Perez, Franklin J. Martinez, Windel Edwards & Ricardo Lloyd Johnson",
+        "playParams": {
+          "id": "1476338343",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/fantas%C3%ADas/1476338342?i=1476338343",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Fantasías",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3a/2c/6f/3a2c6fc7-b3db-1feb-8130-ca7d8b86b209/mzaf_11150471247457087345.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Rauw Alejandro & Farruko"
+      }
+    },
+    "1501250888": {
+      "id": "1501250888",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Fantasías (Remix) [feat. Farruko & Lunay] - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "releaseDate": "2020-03-05",
+        "durationInMillis": 267242,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QZHN22000001",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6e/a1/0c/6ea10ce7-6497-0cb2-f3df-bf23250e01af/195081093802.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d8bf5c",
+          "textColor2": "e2d07f",
+          "textColor4": "c6b876",
+          "textColor1": "f9da5e",
+          "bgColor": "555555",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Raul A. Ocasio, Carlos E. Reyes, Urbani Mota Cedeño, Luis J Romero, Franklin Martinez, Eric Perez, Ricardo Lloyd Johnson, Windel Edwards, Jefnier Osorio Moreno, Emmanuel Gazmey Santiago & Natalia A. Gutiérrez Batista",
+        "playParams": {
+          "id": "1501250888",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/fantas%C3%ADas-feat-farruko-lunay-remix/1501250703?i=1501250888",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Fantasías (feat. Farruko & Lunay) [Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/67/69/4c/67694ce2-a1c8-5b21-822f-d7ad9a3d67ca/mzaf_12596292153541965421.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Rauw Alejandro, Anuel AA & NATTI NATASHA"
+      }
+    },
+    "1529959308": {
+      "id": "1529959308",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Relación (Remix) [feat. ROSALÍA & Farruko] - Single",
+        "genreNames": ["Latin", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-09-04",
+        "durationInMillis": 247308,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM9WM2000051",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/df/92/36df9272-f818-5543-c56a-d4414466f6d9/192641555862_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "c4c1c6",
+          "textColor2": "a5c9a5",
+          "textColor4": "8baa8c",
+          "textColor1": "ede6ee",
+          "bgColor": "203024",
+          "hasP3": false
+        },
+        "audioLocale": "es-419",
+        "composerName": "Jorge Valdes Vasquez, Slowmike, ROSALÍA, Farruko, Carlos Isaias Morales Williams, Ramón L. Ayala, Jose Alvaro Balvin Osorio, Ramses Ivan Soto Herrera & Eduardo Fernandez",
+        "playParams": {
+          "id": "1529959308",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/relaci%C3%B3n-remix-feat-rosal%C3%ADa-farruko/1529959307?i=1529959308",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Relación (Remix) [feat. ROSALÍA & Farruko]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7a/6a/a7/7a6aa712-7044-cdce-269c-5d2c348ca064/mzaf_16595009085007901243.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Sech, Daddy Yankee & J Balvin"
+      }
+    },
+    "1573304194": {
+      "id": "1573304194",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Pepas - Single",
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 1,
+        "releaseDate": "2021-06-24",
+        "durationInMillis": 287120,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USSD12100307",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/66/bd/86/66bd86b2-3dc4-0cbd-d47e-00cc863dd7c4/886449370535.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333207",
+          "textColor2": "400000",
+          "textColor4": "662800",
+          "textColor1": "000c09",
+          "bgColor": "ffca00",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Farruko, Franklin Jovani Martínez, Víctor Alonso Cárdenas, Marcos G. Pérez, keriel quiroz, Andy Bauza, Axel Rafael Quezada Fulgencio, Juan Manuel Gomez & José Carlos García",
+        "playParams": {
+          "id": "1573304194",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/pepas/1573304187?i=1573304194",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "Pepas",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bc/0c/77/bc0c77ca-4e47-5539-33a3-5403910b3bf6/mzaf_9857177722009321967.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Farruko",
+        "contentRating": "explicit"
+      }
+    },
+    "1586870165": {
+      "id": "1586870165",
+      "type": "songs",
+      "attributes": {
+        "albumName": "La 167",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Urbano latino", "Music", "Latin"],
+        "trackNumber": 12,
+        "durationInMillis": 267547,
+        "releaseDate": "2021-09-30",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "USSD12100701",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/59/6b/02596b89-0475-9b14-3b51-934d24770ec3/886449572236.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbccc9",
+          "textColor2": "e9860a",
+          "textColor4": "bc6c08",
+          "textColor1": "fdfffc",
+          "bgColor": "080401",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "composerName": "Franklin Jovani Martínez, Víctor Alonso Cárdenas Ospina, Farruko, José Carlos García, Juan Alfredo Diaz, Carlos Humberto Dominguez, Johnny Gaitan JR, Andy Bauza, Juan Manuel Gomez, Marcos G. Pérez, John P. Ramos Rivera, Eelke A. Kalberg, Sebastiaan Molijn & Felix Manuel Rodriguez",
+        "playParams": {
+          "id": "1586870165",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/el-incomprendido/1586869902?i=1586870165",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["hi-res-lossless", "lossless", "lossy-stereo"],
+        "name": "El Incomprendido",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b3/d7/55/b3d75504-9db9-d503-b92a-fce47ba917e2/mzaf_6948338505221522680.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Farruko, Victor Cardenas & Dj Adoni",
+        "contentRating": "explicit"
+      }
+    },
+    "1604277737": {
+      "id": "1604277737",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2016-01-27",
+        "durationInMillis": 308133,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "TCACL1668494",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/7c/ea/697cea70-18a1-2ef6-0422-765f45abc435/859716485225.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "262627",
+          "textColor2": "141414",
+          "textColor4": "2b2b2c",
+          "textColor1": "0d0d0e",
+          "bgColor": "89898b",
+          "hasP3": false
+        },
+        "audioLocale": "es-ES",
+        "playParams": {
+          "id": "1604277737",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/ella-y-yo-feat-farruko-tempo-anuel-aa-almighty-bryant-myers/1604277732?i=1604277737",
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/26/a1/b8/26a1b8c5-5416-984b-41a7-3bb19c87b37b/mzaf_2586096563328196686.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Pepe Quintana",
+        "contentRating": "explicit"
+      }
+    }
+  }
+}

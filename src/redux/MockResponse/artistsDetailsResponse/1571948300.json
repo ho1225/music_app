@@ -1,0 +1,2046 @@
+{
+  "artists": {
+    "1571948300": {
+      "id": "1571948300",
+      "type": "artists",
+      "attributes": {
+        "genreNames": ["Afro-Beat"],
+        "name": "Goya Menor",
+        "artwork": {
+          "width": 4869,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/3b/3f/73/3b3f73ee-572f-1ebd-1139-9403d9eccec9/f691834f-31ce-4401-be64-d6796656a011_file_cropped.png/{w}x{h}bb.jpg",
+          "height": 4869,
+          "textColor3": "353433",
+          "textColor2": "311f17",
+          "textColor4": "52423d",
+          "textColor1": "0d0d0b",
+          "bgColor": "d7d1d5",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/artist/goya-menor/1571948300"
+      },
+      "relationships": {
+        "albums": {
+          "data": [
+            {
+              "id": "1709633877",
+              "type": "albums"
+            },
+            {
+              "id": "1692219039",
+              "type": "albums"
+            },
+            {
+              "id": "1616335899",
+              "type": "albums"
+            },
+            {
+              "id": "1655509785",
+              "type": "albums"
+            },
+            {
+              "id": "1679785713",
+              "type": "albums"
+            },
+            {
+              "id": "1705267808",
+              "type": "albums"
+            },
+            {
+              "id": "1644575135",
+              "type": "albums"
+            },
+            {
+              "id": "1631241598",
+              "type": "albums"
+            },
+            {
+              "id": "1629101384",
+              "type": "albums"
+            },
+            {
+              "id": "1631239981",
+              "type": "albums"
+            },
+            {
+              "id": "1707417453",
+              "type": "albums"
+            },
+            {
+              "id": "1629425607",
+              "type": "albums"
+            },
+            {
+              "id": "1688640451",
+              "type": "albums"
+            },
+            {
+              "id": "1650498607",
+              "type": "albums"
+            },
+            {
+              "id": "1615917971",
+              "type": "albums"
+            },
+            {
+              "id": "1623984221",
+              "type": "albums"
+            },
+            {
+              "id": "1657724477",
+              "type": "albums"
+            },
+            {
+              "id": "1679951774",
+              "type": "albums"
+            },
+            {
+              "id": "1640692769",
+              "type": "albums"
+            },
+            {
+              "id": "1619135605",
+              "type": "albums"
+            },
+            {
+              "id": "1636677491",
+              "type": "albums"
+            },
+            {
+              "id": "1707629679",
+              "type": "albums"
+            },
+            {
+              "id": "1710655990",
+              "type": "albums"
+            },
+            {
+              "id": "1677236993",
+              "type": "albums"
+            },
+            {
+              "id": "1680755650",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "views": {
+        "top-songs": {
+          "attributes": {
+            "title": "Top Songs"
+          },
+          "data": [
+            {
+              "id": "1603826298",
+              "type": "songs"
+            },
+            {
+              "id": "1606960409",
+              "type": "songs"
+            },
+            {
+              "id": "1636677768",
+              "type": "songs"
+            },
+            {
+              "id": "1619135606",
+              "type": "songs"
+            },
+            {
+              "id": "1611232645",
+              "type": "songs"
+            },
+            {
+              "id": "1607385405",
+              "type": "songs"
+            },
+            {
+              "id": "1615917972",
+              "type": "songs"
+            },
+            {
+              "id": "1650200593",
+              "type": "songs"
+            },
+            {
+              "id": "1613852138",
+              "type": "songs"
+            },
+            {
+              "id": "1655456593",
+              "type": "songs"
+            },
+            {
+              "id": "1692219040",
+              "type": "songs"
+            },
+            {
+              "id": "1709633878",
+              "type": "songs"
+            },
+            {
+              "id": "1617202324",
+              "type": "songs"
+            },
+            {
+              "id": "1624086294",
+              "type": "songs"
+            },
+            {
+              "id": "1679785725",
+              "type": "songs"
+            },
+            {
+              "id": "1624582050",
+              "type": "songs"
+            },
+            {
+              "id": "1679786066",
+              "type": "songs"
+            },
+            {
+              "id": "1619135609",
+              "type": "songs"
+            },
+            {
+              "id": "1680755957",
+              "type": "songs"
+            },
+            {
+              "id": "1608220582",
+              "type": "songs"
+            }
+          ]
+        },
+        "latest-release": {
+          "attributes": {
+            "title": "Latest Release"
+          },
+          "data": [
+            {
+              "id": "1709633877",
+              "type": "albums"
+            }
+          ]
+        }
+      },
+      "meta": {
+        "views": {
+          "order": ["latest-release", "top-songs"]
+        }
+      }
+    }
+  },
+  "songs": {
+    "1603826298": {
+      "id": "1603826298",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Ameno Amapiano Remix (You Wanna Bamba) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Afrobeats", "Music", "African"],
+        "trackNumber": 1,
+        "releaseDate": "2022-01-21",
+        "durationInMillis": 227101,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "DEE862200008",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/d6/d9/80d6d97e-6c37-15de-d80f-c61cdfa618c6/886449838677.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c7c7c7",
+          "textColor2": "cdcbc8",
+          "textColor4": "a4a3a1",
+          "textColor1": "f9f9f9",
+          "bgColor": "030303",
+          "hasP3": false
+        },
+        "composerName": "Eric Lévi & Guy Protheroe",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba/1603826293?i=1603826298",
+        "playParams": {
+          "id": "1603826298",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/65/77/34/657734a4-a02b-1318-4af6-0132b81292fe/mzaf_17018473143177010931.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor & Nektunez",
+        "contentRating": "explicit"
+      }
+    },
+    "1606960409": {
+      "id": "1606960409",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Party In The Jungle: DJ Kaywise, Jan 2022 (DJ Mix)",
+        "genreNames": ["Amapiano", "Music", "African", "African Dancehall"],
+        "trackNumber": 4,
+        "durationInMillis": 70033,
+        "releaseDate": "2022-01-26",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1922755",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/fe/ac/c0feac04-f3dd-aef9-457d-9eb6599cdb70/DJ_KAYWISE.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "b2aeac",
+          "textColor2": "e7972b",
+          "textColor4": "b97922",
+          "textColor1": "dfdad7",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-you-wanna-bamba-remix-mixed/1606960404?i=1606960409",
+        "playParams": {
+          "id": "1606960409",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano (You Wanna Bamba) [Remix] [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7b/1f/8b/7b1f8ba3-2673-67d1-6799-50a2cd929c78/mzaf_315737015137640240.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Goya Menor & Nektunez"
+      }
+    },
+    "1607385405": {
+      "id": "1607385405",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Party In The Jungle: DJ Teefrosh, Feb 2022 (DJ Mix)",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Amapiano", "Music", "African", "Afrobeats"],
+        "trackNumber": 23,
+        "releaseDate": "2022-02-04",
+        "durationInMillis": 84342,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1923282",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/64/e4/7264e43f-ff23-6636-d002-cefd7f444869/DJ_TEEFROSH.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "313234",
+          "textColor2": "161619",
+          "textColor4": "3a3b3d",
+          "textColor1": "0b0c0d",
+          "bgColor": "c9ccd1",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba-mixed/1607385227?i=1607385405",
+        "playParams": {
+          "id": "1607385405",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano Remix (You Wanna Bamba) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/2b/7d/01/2b7d01de-75ff-6636-f65c-1db0b1cb8ba6/mzaf_10335117014145873352.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Goya Menor & Nektunez"
+      }
+    },
+    "1608220582": {
+      "id": "1608220582",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Party In The Jungle: DJ VENUM, Feb 2022 (DJ Mix)",
+        "genreNames": ["Afrobeats", "Music", "African", "Amapiano"],
+        "trackNumber": 15,
+        "durationInMillis": 157899,
+        "releaseDate": "2022-01-11",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1929199",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/f2/0e/4bf20eac-1f2c-696a-ebdc-68b494f53db5/DJ_VENUM.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "353639",
+          "textColor2": "232428",
+          "textColor4": "424448",
+          "textColor1": "131416",
+          "bgColor": "bec1c8",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba-mixed/1608220286?i=1608220582",
+        "playParams": {
+          "id": "1608220582",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano Remix (You Wanna Bamba) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/de/d6/df/ded6dfd6-a7ec-0553-bbed-8172708a9aa0/mzaf_15319834774186569509.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Nektunez & Goya Menor",
+        "contentRating": "explicit"
+      }
+    },
+    "1611232645": {
+      "id": "1611232645",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Afrobeats Hits (DJ Mix)",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Afrobeats", "Music", "African", "Amapiano"],
+        "trackNumber": 20,
+        "durationInMillis": 69940,
+        "releaseDate": "2022-02-23",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1925167",
+        "artwork": {
+          "width": 5300,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/2f/94/652f94be-6644-1776-d69d-696b61d98ac4/dj.lsdygxcp.jpg/{w}x{h}bb.jpg",
+          "height": 5300,
+          "textColor3": "3a3732",
+          "textColor2": "35080c",
+          "textColor4": "583336",
+          "textColor1": "0e0d08",
+          "bgColor": "e7dfdd",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba-mixed/1611232175?i=1611232645",
+        "playParams": {
+          "id": "1611232645",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano Remix (You Wanna Bamba) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/aa/55/b7/aa55b7c9-14f1-8b8e-22f3-a9df5db3631f/mzaf_3416233341065812950.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Goya Menor & Nektunez"
+      }
+    },
+    "1613852138": {
+      "id": "1613852138",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Party In The Jungle: Cuppy, Mar 2022 (DJ Mix)",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Afrobeats", "Music", "African", "Afro House"],
+        "trackNumber": 20,
+        "releaseDate": "2022-03-18",
+        "durationInMillis": 32450,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1927894",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/15/55/61/15556110-39c5-cd92-a796-115e875ef5ea/7228dce1-8cda-4804-a684-f99a977860b1.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "391825",
+          "textColor2": "161716",
+          "textColor4": "43222e",
+          "textColor1": "0a0b0b",
+          "bgColor": "f84c8f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba-mixed/1613852026?i=1613852138",
+        "playParams": {
+          "id": "1613852138",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano Remix (You Wanna Bamba) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ac/bb/2a/acbb2a34-7a31-003a-355b-cd84f9741319/mzaf_2642813952993680235.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Nektunez & Goya Menor",
+        "contentRating": "explicit"
+      }
+    },
+    "1615917972": {
+      "id": "1615917972",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Bounce - Single",
+        "genreNames": ["Amapiano", "Music", "African"],
+        "trackNumber": 1,
+        "releaseDate": "2022-04-01",
+        "durationInMillis": 182143,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "ZAQ652204197",
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/b2/70/14b27039-efec-9692-ac37-10477d8ee3a3/192641987250_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "d9d5c1",
+          "textColor2": "fffbf7",
+          "textColor4": "d9d1c6",
+          "textColor1": "fffff1",
+          "bgColor": "452e04",
+          "hasP3": false
+        },
+        "audioLocale": "pcm",
+        "composerName": "Goya Bright Menor",
+        "url": "https://music.apple.com/us/album/bounce/1615917971?i=1615917972",
+        "playParams": {
+          "id": "1615917972",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Bounce",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/32/51/a5/3251a5b8-1da1-54e8-80e3-ba4a466a6265/mzaf_7227108170811651620.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor",
+        "contentRating": "explicit"
+      }
+    },
+    "1617202324": {
+      "id": "1617202324",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Party In The Jungle: DJ Xclusive, Apr 2022 (DJ Mix)",
+        "genreNames": ["Afrobeats", "Music", "African", "Amapiano"],
+        "trackNumber": 17,
+        "durationInMillis": 113697,
+        "releaseDate": "2022-04-08",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1932250",
+        "artwork": {
+          "width": 4200,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/0c/6d/da0c6dd0-3fa1-581b-0e26-82b55123fbfb/a591a785-a867-4b10-b5db-0907e4ce2dab.png/{w}x{h}bb.jpg",
+          "height": 4200,
+          "textColor3": "cdcece",
+          "textColor2": "e7972b",
+          "textColor4": "bb7b25",
+          "textColor1": "ffffff",
+          "bgColor": "0a0b0d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-you-wanna-bamba-remix-mixed/1617202305?i=1617202324",
+        "playParams": {
+          "id": "1617202324",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano (You Wanna Bamba) [Remix] [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/64/8e/93/648e9303-55b0-277b-61dc-c8fc86feb9a0/mzaf_9396223820612174040.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Nektunez & Goya Menor",
+        "contentRating": "explicit"
+      }
+    },
+    "1619135606": {
+      "id": "1619135606",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Ameno Amapiano (You Wanna Bamba) [David Guetta Remix] - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Afrobeats", "Music", "African", "Pop"],
+        "trackNumber": 1,
+        "releaseDate": "2022-04-22",
+        "durationInMillis": 164000,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "DEE862200407",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/a4/55/66a455cc-3a16-9468-a8b2-f39feb0c6f89/196589089083.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b6b4b7",
+          "textColor2": "46a8f6",
+          "textColor4": "3a89c6",
+          "textColor1": "e1dee2",
+          "bgColor": "0b0b0b",
+          "hasP3": false
+        },
+        "composerName": "Eric Lévi & Guy Protheroe",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-you-wanna-bamba-david-guetta-remix/1619135605?i=1619135606",
+        "playParams": {
+          "id": "1619135606",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano (You Wanna Bamba) [David Guetta Remix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/60/bf/b9/60bfb938-d976-f2ee-d411-dbb40d0f1a3c/mzaf_14077736891867174373.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor & Nektunez",
+        "contentRating": "explicit"
+      }
+    },
+    "1619135609": {
+      "id": "1619135609",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Ameno Amapiano (You Wanna Bamba) [David Guetta Remix] - Single",
+        "genreNames": ["Afrobeats", "Music", "African", "Pop"],
+        "trackNumber": 2,
+        "durationInMillis": 289939,
+        "releaseDate": "2022-04-29",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "DEE862200475",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/a4/55/66a455cc-3a16-9468-a8b2-f39feb0c6f89/196589089083.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b6b4b7",
+          "textColor2": "46a8f6",
+          "textColor4": "3a89c6",
+          "textColor1": "e1dee2",
+          "bgColor": "0b0b0b",
+          "hasP3": false
+        },
+        "audioLocale": "la",
+        "composerName": "Eric Lévi & Guy Protheroe",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-you-wanna-bamba-david-guetta-extended-mix/1619135605?i=1619135609",
+        "playParams": {
+          "id": "1619135609",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano (You Wanna Bamba) [David Guetta Extended Mix]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/50/09/da/5009da54-3067-7463-d610-590e827071df/mzaf_14230095506784265856.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor & Nektunez",
+        "contentRating": "explicit"
+      }
+    },
+    "1624086294": {
+      "id": "1624086294",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Party In The Jungle: DJ Lawy, May 2022 (DJ Mix)",
+        "genreNames": ["Afrobeats", "Music", "African", "Dance"],
+        "trackNumber": 10,
+        "releaseDate": "2022-05-20",
+        "durationInMillis": 67950,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1939006",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/b8/3f/3cb83fe6-e679-c7bf-c170-32999f8059e8/364874c9-0b00-4dbb-a0fc-ccf41e23639f.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a7abaf",
+          "textColor2": "e7972b",
+          "textColor4": "bd7d27",
+          "textColor1": "cbd1d5",
+          "bgColor": "141517",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-you-wanna-bamba-david-guetta-remix-mixed/1624086283?i=1624086294",
+        "playParams": {
+          "id": "1624086294",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano (You Wanna Bamba) [David Guetta Remix] [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bc/96/eb/bc96eb86-1bfd-234a-3357-74eae37b2e29/mzaf_5920488181271220945.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Nektunez & Goya Menor",
+        "contentRating": "explicit"
+      }
+    },
+    "1624582050": {
+      "id": "1624582050",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Party In The Jungle: DJ Nightwayve, May 2022 (DJ Mix)",
+        "genreNames": ["Afrobeats", "Music", "African", "Dance"],
+        "trackNumber": 36,
+        "durationInMillis": 75857,
+        "releaseDate": "2022-05-20",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1939563",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/64/7c/b5647cb7-d4f9-30fd-b583-6b62f066af8e/37b10fe8-4729-477e-b4a9-aef1fadb4dfe.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "222325",
+          "textColor2": "2d1d08",
+          "textColor4": "413626",
+          "textColor1": "050506",
+          "bgColor": "959aa0",
+          "hasP3": false
+        },
+        "audioLocale": "zxx",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba-mixed/1624581828?i=1624582050",
+        "playParams": {
+          "id": "1624582050",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano Remix (You Wanna Bamba) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/90/7c/5c/907c5cd2-4ae9-9d84-bcf6-e2f6f2bab3b7/mzaf_13299208247132608703.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Goya Menor & Nektunez"
+      }
+    },
+    "1636677768": {
+      "id": "1636677768",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Grace (feat. Ladé) - Single",
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "trackNumber": 1,
+        "durationInMillis": 199393,
+        "releaseDate": "2022-08-25",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM6P42203062",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/b6/3e/1db63e52-d238-ee7a-84f9-0c75e6028cdf/196925418034.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "393734",
+          "textColor2": "3b1804",
+          "textColor4": "5e412f",
+          "textColor1": "0d0b0b",
+          "bgColor": "eae8db",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Goya Bright & Oyetundun Omolade",
+        "url": "https://music.apple.com/us/album/grace-feat-lad%C3%A9/1636677491?i=1636677768",
+        "playParams": {
+          "id": "1636677768",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Grace (feat. Ladé)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d1/c7/ef/d1c7efd4-ffa4-30d5-8488-801bbd2a463f/mzaf_17484866806409432883.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor"
+      }
+    },
+    "1650200593": {
+      "id": "1650200593",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Naija Hits 2022 (DJ Mix)",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Afrobeats", "Music", "African"],
+        "trackNumber": 40,
+        "durationInMillis": 87086,
+        "releaseDate": "2022-10-26",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1971494",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bd/c6/2f/bdc62f59-88ec-4643-c7bc-b70e26c7a9ec/7f05985c-fd08-47af-92bc-b312857041ae.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cecece",
+          "textColor2": "a7c631",
+          "textColor4": "88a12a",
+          "textColor1": "ffffff",
+          "bgColor": "0e0e0e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba-mixed/1650200222?i=1650200593",
+        "playParams": {
+          "id": "1650200593",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano Remix (You Wanna Bamba) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/34/e4/aa/34e4aa78-57aa-b4d6-f56f-081cce4548aa/mzaf_5326484091414361867.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Nektunez & Goya Menor"
+      }
+    },
+    "1655456593": {
+      "id": "1655456593",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "NYE 2023 (DJ Mix)",
+        "genreNames": ["Dance", "Music", "Electronic"],
+        "trackNumber": 6,
+        "durationInMillis": 84776,
+        "releaseDate": "2022-12-23",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "US23A1979323",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/09/75/62/097562c8-de84-5743-e85f-80875cf5105a/dj.nqbynkzi.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "222222",
+          "textColor2": "3d1306",
+          "textColor4": "533227",
+          "textColor1": "000000",
+          "bgColor": "ababab",
+          "hasP3": true
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ameno-amapiano-remix-you-wanna-bamba-mixed/1655456587?i=1655456593",
+        "playParams": {
+          "id": "1655456593",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Ameno Amapiano Remix (You Wanna Bamba) [Mixed]",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5e/b2/bb/5eb2bb0e-fb22-008a-43a4-6639d42eda44/mzaf_4672932168594669360.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Nektunez & Goya Menor",
+        "contentRating": "explicit"
+      }
+    },
+    "1679785725": {
+      "id": "1679785725",
+      "type": "songs",
+      "attributes": {
+        "albumName": "BOMBOY - EP",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-07",
+        "durationInMillis": 156429,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "QM4TX2367142",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/f2/e6/11f2e694-6407-941d-2aec-558ed84132ce/197188417369.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cdc9c3",
+          "textColor2": "e5af6e",
+          "textColor4": "ba8c58",
+          "textColor1": "fefbf4",
+          "bgColor": "0c0201",
+          "hasP3": false
+        },
+        "composerName": "Goya Bright & Uzoma Victor",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/brotherman-feat-nas-tee/1679785713?i=1679785725",
+        "playParams": {
+          "id": "1679785725",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Brotherman (feat. Nas Tee)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/56/11/ae/5611ae30-0c25-7f2b-cf3a-1c1140e9c4e9/mzaf_2593345043669325424.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor"
+      }
+    },
+    "1679786066": {
+      "id": "1679786066",
+      "type": "songs",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "BOMBOY - EP",
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "trackNumber": 2,
+        "durationInMillis": 199322,
+        "releaseDate": "2022-08-25",
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "QM4TX2367143",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/f2/e6/11f2e694-6407-941d-2aec-558ed84132ce/197188417369.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cdc9c3",
+          "textColor2": "e5af6e",
+          "textColor4": "ba8c58",
+          "textColor1": "fefbf4",
+          "bgColor": "0c0201",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Goya Bright & Oyetundun Omolade Rachael",
+        "url": "https://music.apple.com/us/album/grace-feat-lad%C3%A9/1679785713?i=1679786066",
+        "playParams": {
+          "id": "1679786066",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Grace (feat. Ladé)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cb/92/1c/cb921cd7-7820-4a1f-7e28-394da05509e2/mzaf_5395611515677067049.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor"
+      }
+    },
+    "1680755957": {
+      "id": "1680755957",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Brotherman (feat. Nas Tee) - Single",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "trackNumber": 1,
+        "releaseDate": "2023-04-07",
+        "durationInMillis": 156429,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "QM4TX2367196",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5a/6a/e2/5a6ae268-a096-1b80-93b3-f6a6374c527e/197188442590.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cb654b",
+          "textColor2": "fd4541",
+          "textColor4": "d03a36",
+          "textColor1": "f87b5b",
+          "bgColor": "1a110c",
+          "hasP3": false
+        },
+        "composerName": "Goya Bright & Uzoma Victor",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/brotherman-feat-nas-tee/1680755650?i=1680755957",
+        "playParams": {
+          "id": "1680755957",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Brotherman (feat. Nas Tee)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b6/9c/e1/b69ce1f2-9ada-1f30-7a97-6c55f429ee8b/mzaf_9025126537779784900.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor"
+      }
+    },
+    "1692219040": {
+      "id": "1692219040",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Cut Soap (feat. Goya Menor) - Single",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Worldwide", "Music", "African", "Afrobeats"],
+        "trackNumber": 1,
+        "releaseDate": "2023-07-07",
+        "durationInMillis": 212920,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "QZNJW2371718",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/64/cb/3d64cbc2-798f-9bc9-30da-8eda8ca5c31f/0.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "29292a",
+          "textColor2": "2d2d2d",
+          "textColor4": "4d4d4d",
+          "textColor1": "000000",
+          "bgColor": "cdcdcf",
+          "hasP3": false
+        },
+        "composerName": "Bashir Annan",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/cut-soap-feat-goya-menor/1692219039?i=1692219040",
+        "playParams": {
+          "id": "1692219040",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Cut Soap (feat. Goya Menor)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a5/22/2a/a5222a8d-0cb4-1a24-9f13-dce06bd2b465/mzaf_7598149005706920257.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gambo",
+        "contentRating": "explicit"
+      }
+    },
+    "1709633878": {
+      "id": "1709633878",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Don Dada (Boss) - Single",
+        "hasTimeSyncedLyrics": false,
+        "genreNames": ["Worldwide", "Music"],
+        "trackNumber": 1,
+        "durationInMillis": 157022,
+        "releaseDate": "2023-10-27",
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": false,
+        "isrc": "QZTVM2327003",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/36/68/3e366853-2763-dfa9-a45a-432b23765d22/0.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4b4a5",
+          "textColor2": "f5b3a6",
+          "textColor4": "c9958a",
+          "textColor1": "eedac7",
+          "bgColor": "1c1c1c",
+          "hasP3": false
+        },
+        "composerName": "Goya Bright",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/don-dada-boss/1709633877?i=1709633878",
+        "playParams": {
+          "id": "1709633878",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "name": "Don Dada (Boss)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f6/2e/75/f62e7539-a338-3c5d-5b69-49f281f67ef5/mzaf_17020165660430762253.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Goya Menor"
+      }
+    }
+  },
+  "albums": {
+    "1615917971": {
+      "id": "1615917971",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Goya Menor",
+        "genreNames": ["Amapiano", "Music", "African"],
+        "releaseDate": "2022-04-01",
+        "upc": "192641987250",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/b2/70/14b27039-efec-9692-ac37-10477d8ee3a3/192641987250_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "d9d5c1",
+          "textColor2": "fffbf7",
+          "textColor4": "d9d1c6",
+          "textColor1": "fffff1",
+          "bgColor": "452e04",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/bounce-single/1615917971",
+        "playParams": {
+          "id": "1615917971",
+          "kind": "album"
+        },
+        "recordLabel": "Content Connect International",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Bounce - Single",
+        "contentRating": "explicit",
+        "artistName": "Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1616335899": {
+      "id": "1616335899",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Hitz In Motion Recordz Distributed By STARBUZZ MUSIC",
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "releaseDate": "2022-05-06",
+        "upc": "7316470483254",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c8/e4/9b/c8e49beb-ccaa-2853-c138-b620f31520b4/e8cede36-ac79-49d4-a468-31d88a154053.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "1e343e",
+          "textColor2": "122c31",
+          "textColor4": "225058",
+          "textColor1": "0d0911",
+          "bgColor": "61e0f1",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/wahala-no-dey-single/1616335899",
+        "playParams": {
+          "id": "1616335899",
+          "kind": "album"
+        },
+        "recordLabel": "STARBUZZ MUSIC",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Wahala No Dey - Single",
+        "artistName": "Ahkan & Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1619135605": {
+      "id": "1619135605",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 B1 Recordings, a Sony Music Entertainment company & Sony Music West Africa",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2022-04-29",
+        "upc": "196589089083",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/a4/55/66a455cc-3a16-9468-a8b2-f39feb0c6f89/196589089083.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b6b4b7",
+          "textColor2": "46a8f6",
+          "textColor4": "3a89c6",
+          "textColor1": "e1dee2",
+          "bgColor": "0b0b0b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/ameno-amapiano-you-wanna-bamba-david-guetta-remix-single/1619135605",
+        "playParams": {
+          "id": "1619135605",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia/B1 Recordings",
+        "isCompilation": false,
+        "trackCount": 2,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Ameno Amapiano (You Wanna Bamba) [David Guetta Remix] - Single",
+        "artistName": "Goya Menor & Nektunez",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1623984221": {
+      "id": "1623984221",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Kye Visceral",
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "releaseDate": "2022-05-11",
+        "upc": "196922047497",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8a/e0/33/8ae033a9-35db-e4fc-2100-4724c94bacd1/196922047497_Cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "463839",
+          "textColor2": "1e1214",
+          "textColor4": "4b4243",
+          "textColor1": "180608",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/passion-amapiano-kv-remix-feat-goya-menor-single/1623984221",
+        "playParams": {
+          "id": "1623984221",
+          "kind": "album"
+        },
+        "recordLabel": "Mahvrick",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Passion Amapiano (KV Remix) [feat. Goya Menor] - Single",
+        "artistName": "Kyera",
+        "isComplete": true
+      }
+    },
+    "1629101384": {
+      "id": "1629101384",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Royalty Records",
+        "genreNames": ["Afro-Beat", "Music", "African", "Afro-Pop"],
+        "releaseDate": "2022-06-13",
+        "upc": "196990108151",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/95/22/5e/95225e21-baa5-43f1-9f9b-57dbecb0e45f/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2a2724",
+          "textColor2": "361c03",
+          "textColor4": "543d26",
+          "textColor1": "000000",
+          "bgColor": "d0c3b3",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/para-feat-goya-menor-cprince-single/1629101384",
+        "playParams": {
+          "id": "1629101384",
+          "kind": "album"
+        },
+        "recordLabel": "Royalty Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Para (feat. Goya Menor & Cprince) - Single",
+        "artistName": "B-Tone",
+        "isComplete": true
+      }
+    },
+    "1629425607": {
+      "id": "1629425607",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 B1 Recordings, a Sony Music Entertainment company & Sony Music West Africa",
+        "genreNames": ["Pop", "Music"],
+        "releaseDate": "2022-07-01",
+        "upc": "196589226129",
+        "isMasteredForItunes": true,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/8c/15/a48c1573-f7d5-2076-a634-14d98dec930c/196589226129.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cccccc",
+          "textColor2": "e1dee2",
+          "textColor4": "b6b4b7",
+          "textColor1": "fcfcfc",
+          "bgColor": "0b0b0b",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/ameno-amapiano-you-wanna-bamba-todd-terry-remix-single/1629425607",
+        "playParams": {
+          "id": "1629425607",
+          "kind": "album"
+        },
+        "recordLabel": "Columbia/B1 Recordings",
+        "isCompilation": false,
+        "trackCount": 2,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "Ameno Amapiano (You Wanna Bamba) [Todd Terry Remix] - Single",
+        "artistName": "Goya Menor & Nektunez",
+        "isComplete": true
+      }
+    },
+    "1631239981": {
+      "id": "1631239981",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 VRMG",
+        "genreNames": ["Afro-Beat", "Music", "African", "Worldwide"],
+        "releaseDate": "2022-06-01",
+        "upc": "197045891523",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/ec/2c/85ec2c82-991b-8069-8c6f-2488025d52e1/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "edcccb",
+          "textColor2": "f89b9a",
+          "textColor4": "e97c7b",
+          "textColor1": "fdfffe",
+          "bgColor": "ae0102",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/odo-feat-goya-menor-sefa-single/1631239981",
+        "playParams": {
+          "id": "1631239981",
+          "kind": "album"
+        },
+        "recordLabel": "VRMG",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Odo (feat. Goya Menor & Sefa) - Single",
+        "artistName": "Edem",
+        "isComplete": true
+      }
+    },
+    "1631241598": {
+      "id": "1631241598",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Hyp3 Music",
+        "genreNames": ["Afrobeats", "Music", "African"],
+        "releaseDate": "2022-07-22",
+        "upc": "5059449081915",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/bd/2a/74bd2a3c-5063-2999-e566-85f500f29ee9/5059449081915.png/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "484848",
+          "textColor2": "313131",
+          "textColor4": "595959",
+          "textColor1": "1b1b1b",
+          "bgColor": "fcfcfc",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/gimme-dat-single/1631241598",
+        "playParams": {
+          "id": "1631241598",
+          "kind": "album"
+        },
+        "recordLabel": "Hyp3 Music",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["atmos", "lossless", "lossy-stereo", "spatial"],
+        "isSingle": true,
+        "name": "GIMME DAT - Single",
+        "artistName": "SLIZZY E & Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1636677491": {
+      "id": "1636677491",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Goya Management",
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "releaseDate": "2022-08-25",
+        "isMasteredForItunes": false,
+        "upc": "196925418034",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/b6/3e/1db63e52-d238-ee7a-84f9-0c75e6028cdf/196925418034.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "393734",
+          "textColor2": "3b1804",
+          "textColor4": "5e412f",
+          "textColor1": "0d0b0b",
+          "bgColor": "eae8db",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/grace-feat-lad%C3%A9-single/1636677491",
+        "playParams": {
+          "id": "1636677491",
+          "kind": "album"
+        },
+        "recordLabel": "Goya Management",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Grace (feat. Ladé) - Single",
+        "artistName": "Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1640692769": {
+      "id": "1640692769",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 +234 Za Entertainment",
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "releaseDate": "2022-09-09",
+        "upc": "197144122832",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3a/25/bb/3a25bba6-ca31-f44d-8450-563d9c4acfde/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcb",
+          "textColor2": "fcce00",
+          "textColor4": "caa400",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/guantanamera-feat-goya-menor-remix-single/1640692769",
+        "playParams": {
+          "id": "1640692769",
+          "kind": "album"
+        },
+        "recordLabel": "+234 Za Entertainment",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Guantanamera (feat. Goya Menor) [Remix] - Single",
+        "artistName": "TboneVibes",
+        "isComplete": true
+      }
+    },
+    "1644575135": {
+      "id": "1644575135",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 SAL PRODUCTIONZ",
+        "genreNames": ["Pop", "Music", "Worldwide"],
+        "releaseDate": "2022-09-06",
+        "upc": "859765665722",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1600,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/81/0a/72/810a7244-d575-7cf4-11bf-4640f2f635aa/859765665722_cover.jpg/{w}x{h}bb.jpg",
+          "height": 1600,
+          "textColor3": "a6b3c4",
+          "textColor2": "89c7ed",
+          "textColor4": "6ea0be",
+          "textColor1": "cfe0f5",
+          "bgColor": "030303",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/ya-salam-single/1644575135",
+        "playParams": {
+          "id": "1644575135",
+          "kind": "album"
+        },
+        "recordLabel": "SAL PRODUCTIONZ",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Ya Salam - Single",
+        "artistName": "Sal, DJ TEDDY JAM, MOUNA DENDENNI, EMAN EL SHAREEF & Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1650498607": {
+      "id": "1650498607",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Spinnin' Records",
+        "genreNames": ["Dance", "Music"],
+        "releaseDate": "2022-11-11",
+        "isMasteredForItunes": false,
+        "upc": "5054197424656",
+        "artwork": {
+          "width": 2000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/20/9e/4f209e76-5580-70de-496e-183b4598725a/5054197424656.jpg/{w}x{h}bb.jpg",
+          "height": 2000,
+          "textColor3": "c8c7cd",
+          "textColor2": "daa8f7",
+          "textColor4": "b38dcd",
+          "textColor1": "f3f1f6",
+          "bgColor": "1b2026",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/cleopatra-feat-alex-price-single/1650498607",
+        "playParams": {
+          "id": "1650498607",
+          "kind": "album"
+        },
+        "recordLabel": "Spinnin' Records",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Cleopatra (feat. Alex Price) - Single",
+        "artistName": "DJ Yo & Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1655509785": {
+      "id": "1655509785",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Jamokay, exclusively distributed by 5prout Inc",
+        "genreNames": ["Afro-Beat", "Music", "African", "Afro-Pop"],
+        "releaseDate": "2022-12-02",
+        "isMasteredForItunes": false,
+        "upc": "197386024970",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e0/ed/5e/e0ed5e49-f254-e903-801c-43a69136c2a8/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "322f2f",
+          "textColor2": "212323",
+          "textColor4": "4c4b4b",
+          "textColor1": "000000",
+          "bgColor": "faeceb",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/shower-your-blessings-single/1655509785",
+        "playParams": {
+          "id": "1655509785",
+          "kind": "album"
+        },
+        "recordLabel": "Jamokay, exclusively distributed by 5prout Inc",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Shower Your Blessings - Single",
+        "artistName": "Son of Ika & Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1657724477": {
+      "id": "1657724477",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Himself Music distributed by Crux Global / MOVES Recordings",
+        "genreNames": ["Worldwide", "Music"],
+        "releaseDate": "2022-06-03",
+        "isMasteredForItunes": false,
+        "upc": "3616847839030",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/83/74/62837499-a39a-1d54-b6c7-4ce4cf02c587/3616847839030.png/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c6d6d9",
+          "textColor2": "feefd9",
+          "textColor4": "cbcfc0",
+          "textColor1": "f8f8f8",
+          "bgColor": "02525d",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/i-like-it-feat-goya-menor-single/1657724477",
+        "playParams": {
+          "id": "1657724477",
+          "kind": "album"
+        },
+        "recordLabel": "Crux Global / MOVES Recordings",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "I Like It (feat. Goya Menor) - Single",
+        "artistName": "Frank Naro",
+        "isComplete": true
+      }
+    },
+    "1677236993": {
+      "id": "1677236993",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Muks Entertainment",
+        "genreNames": ["Afro-Pop", "Music", "African", "Afro-Beat"],
+        "releaseDate": "2023-03-31",
+        "upc": "197686035652",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/3e/99/a03e9978-47a1-cd5a-3a61-f0cb585cad19/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a360d",
+          "textColor2": "2e2b08",
+          "textColor4": "575113",
+          "textColor1": "0a0901",
+          "bgColor": "fcea3e",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/turn-up-single/1677236993",
+        "playParams": {
+          "id": "1677236993",
+          "kind": "album"
+        },
+        "recordLabel": "Muks Entertainment",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Turn Up - Single",
+        "artistName": "DJ FREDY MUKS & Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1679785713": {
+      "id": "1679785713",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Goya Menor",
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "releaseDate": "2023-04-28",
+        "isMasteredForItunes": false,
+        "upc": "197188417369",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/f2/e6/11f2e694-6407-941d-2aec-558ed84132ce/197188417369.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cdc9c3",
+          "textColor2": "e5af6e",
+          "textColor4": "ba8c58",
+          "textColor1": "fefbf4",
+          "bgColor": "0c0201",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/bomboy-ep/1679785713",
+        "playParams": {
+          "id": "1679785713",
+          "kind": "album"
+        },
+        "recordLabel": "Goya Menor",
+        "isCompilation": false,
+        "trackCount": 6,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": false,
+        "name": "BOMBOY - EP",
+        "artistName": "Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1679951774": {
+      "id": "1679951774",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Synergy Soundz",
+        "genreNames": ["Worldwide", "Music", "Pop"],
+        "releaseDate": "2023-04-14",
+        "upc": "5057998110162",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 1400,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/29/46/2f2946af-3ec1-6315-91ac-6791cca1d459/cover.jpg/{w}x{h}bb.jpg",
+          "height": 1400,
+          "textColor3": "cde2e6",
+          "textColor2": "e6dee8",
+          "textColor4": "bac8d4",
+          "textColor1": "ffffff",
+          "bgColor": "076f86",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/pokoe-feat-goya-menor-single/1679951774",
+        "playParams": {
+          "id": "1679951774",
+          "kind": "album"
+        },
+        "recordLabel": "Synergy Soundz ltd",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Pokoe (feat. Goya Menor) - Single",
+        "artistName": "Memmuchi",
+        "isComplete": true
+      }
+    },
+    "1680755650": {
+      "id": "1680755650",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Goya Menor",
+        "genreNames": ["Afro-Beat", "Music", "African"],
+        "releaseDate": "2023-04-07",
+        "isMasteredForItunes": false,
+        "upc": "197188442590",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5a/6a/e2/5a6ae268-a096-1b80-93b3-f6a6374c527e/197188442590.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cb654b",
+          "textColor2": "fd4541",
+          "textColor4": "d03a36",
+          "textColor1": "f87b5b",
+          "bgColor": "1a110c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/brotherman-feat-nas-tee-single/1680755650",
+        "playParams": {
+          "id": "1680755650",
+          "kind": "album"
+        },
+        "recordLabel": "Goya Menor",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Brotherman (feat. Nas Tee) - Single",
+        "artistName": "Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1688640451": {
+      "id": "1688640451",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Peter Pann Production, distributed by Universal Music",
+        "genreNames": ["Afrobeats", "Music", "African"],
+        "releaseDate": "2023-06-02",
+        "isMasteredForItunes": false,
+        "upc": "00602455832290",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/98/4e/44984e56-cbae-f398-d3e5-bef8fa2e3408/23UMGIM53012.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c3c0bc",
+          "textColor2": "ceb49c",
+          "textColor4": "ae9986",
+          "textColor1": "e8e5df",
+          "bgColor": "2f2f2f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/m%C3%A1m-chu%C5%A5-single/1688640451",
+        "playParams": {
+          "id": "1688640451",
+          "kind": "album"
+        },
+        "recordLabel": "Universal Music s.r.o.",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Mám chuť - Single",
+        "artistName": "Peter Pann, Kali & Goya Menor",
+        "isComplete": false
+      }
+    },
+    "1692219039": {
+      "id": "1692219039",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 GAMBO",
+        "genreNames": ["Worldwide", "Music", "African", "Afrobeats"],
+        "releaseDate": "2023-07-07",
+        "isMasteredForItunes": false,
+        "upc": "744553738538",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/64/cb/3d64cbc2-798f-9bc9-30da-8eda8ca5c31f/0.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "29292a",
+          "textColor2": "2d2d2d",
+          "textColor4": "4d4d4d",
+          "textColor1": "000000",
+          "bgColor": "cdcdcf",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/cut-soap-feat-goya-menor-single/1692219039",
+        "playParams": {
+          "id": "1692219039",
+          "kind": "album"
+        },
+        "recordLabel": "Blackmob",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Cut Soap (feat. Goya Menor) - Single",
+        "artistName": "Gambo",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1705267808": {
+      "id": "1705267808",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Steven Adeoye",
+        "genreNames": ["Worldwide", "Music", "African", "Afro-Pop"],
+        "releaseDate": "2023-09-08",
+        "isMasteredForItunes": false,
+        "upc": "617513765038",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/ba/33/00ba3386-5537-3369-c2b4-ffe1f0e50fc7/617513765038_cover.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "261c1d",
+          "textColor2": "371400",
+          "textColor4": "532c11",
+          "textColor1": "000010",
+          "bgColor": "c28e55",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/ngl-feat-goya-menor-eltee-skhillz-single/1705267808",
+        "playParams": {
+          "id": "1705267808",
+          "kind": "album"
+        },
+        "recordLabel": "Bridge Music",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Ngl (feat. Goya Menor & Eltee Skhillz) - Single",
+        "contentRating": "explicit",
+        "artistName": "Steven Adeoye",
+        "isComplete": true
+      }
+    },
+    "1707417453": {
+      "id": "1707417453",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Reedamae Records",
+        "genreNames": ["Afro-Beat", "Music", "African", "Dance"],
+        "releaseDate": "2023-09-13",
+        "isMasteredForItunes": false,
+        "upc": "197931102702",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/09/c0/c709c03c-0674-d651-8917-1c614d190820/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "dbcece",
+          "textColor2": "f78135",
+          "textColor4": "d56d31",
+          "textColor1": "fffbfa",
+          "bgColor": "4e1c1f",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/advance-slavery-feat-goya-menor-hitsound-hit-sound/1707417453",
+        "playParams": {
+          "id": "1707417453",
+          "kind": "album"
+        },
+        "recordLabel": "Reedamae Records",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Advance Slavery (feat. Goya Menor & Hitsound) [Hit Sound Remix] - Single",
+        "artistName": "ARB",
+        "isComplete": true
+      }
+    },
+    "1707629679": {
+      "id": "1707629679",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Akosa & Blizz",
+        "genreNames": ["Worldwide", "Music", "African", "Afro-Beat"],
+        "releaseDate": "2023-11-02",
+        "upc": "198087776083",
+        "isMasteredForItunes": false,
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/f4/ac/cef4ac07-cf39-c21f-d90f-c308b2cc853d/artwork.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "353434",
+          "textColor2": "223044",
+          "textColor4": "485363",
+          "textColor1": "090909",
+          "bgColor": "e2e1df",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/che-che-che-feat-goya-menor-single/1707629679",
+        "playParams": {
+          "id": "1707629679",
+          "kind": "album"
+        },
+        "recordLabel": "5849662 Records DK2",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Che Che Che (feat. Goya Menor) - Single",
+        "artistName": "Akosa & Blizz",
+        "contentRating": "explicit",
+        "isComplete": true
+      }
+    },
+    "1709633877": {
+      "id": "1709633877",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2023 Goya Menor / ONErpm",
+        "genreNames": ["Worldwide", "Music"],
+        "releaseDate": "2023-10-27",
+        "isMasteredForItunes": false,
+        "upc": "761861419256",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/36/68/3e366853-2763-dfa9-a45a-432b23765d22/0.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c4b4a5",
+          "textColor2": "f5b3a6",
+          "textColor4": "c9958a",
+          "textColor1": "eedac7",
+          "bgColor": "1c1c1c",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/don-dada-boss-single/1709633877",
+        "playParams": {
+          "id": "1709633877",
+          "kind": "album"
+        },
+        "recordLabel": "Goya Menor",
+        "isCompilation": false,
+        "trackCount": 1,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Don Dada (Boss) - Single",
+        "artistName": "Goya Menor",
+        "isComplete": true
+      }
+    },
+    "1710655990": {
+      "id": "1710655990",
+      "type": "albums",
+      "attributes": {
+        "copyright": "℗ 2022 Hitz In Motion",
+        "genreNames": ["Worldwide", "Music"],
+        "releaseDate": "2022-05-06",
+        "isMasteredForItunes": false,
+        "upc": "761861862274",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/ce/81/b7ce8165-92ce-4209-c122-1158968f78b8/0.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "213740",
+          "textColor2": "173941",
+          "textColor4": "285c65",
+          "textColor1": "0f0b12",
+          "bgColor": "6ae9f7",
+          "hasP3": false
+        },
+        "url": "https://music.apple.com/us/album/wahala-no-dey-single/1710655990",
+        "playParams": {
+          "id": "1710655990",
+          "kind": "album"
+        },
+        "recordLabel": "Hitz In Motion",
+        "trackCount": 1,
+        "isCompilation": false,
+        "isPrerelease": false,
+        "audioTraits": ["lossless", "lossy-stereo"],
+        "isSingle": true,
+        "name": "Wahala No Dey - Single",
+        "artistName": "Kwaysi & Goya Menor",
+        "isComplete": true
+      }
+    }
+  }
+}
