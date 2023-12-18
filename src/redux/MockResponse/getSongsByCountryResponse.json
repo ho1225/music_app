@@ -1,0 +1,1609 @@
+[
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "544842905",
+    "title": "Пыяла",
+    "subtitle": "АИГЕЛ",
+    "share": {
+      "subject": "Пыяла - АИГЕЛ",
+      "text": "АИГЕЛ的Пыяла",
+      "href": "https://www.shazam.com/track/544842905/%D0%BF%D1%8B%D1%8F%D0%BB%D0%B0",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c8/67/3e/c8673ef0-fb83-2ba3-1d5f-dd782f672f92/cover.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 АИГЕЛ 的 Пыяла。",
+      "html": "https://www.shazam.com/snippets/email-share/544842905?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/95/1a/38/951a381e-f740-b978-8858-16413b6f2b65/mzl.erbtullm.jpg/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/544842905"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/95/1a/38/951a381e-f740-b978-8858-16413b6f2b65/mzl.erbtullm.jpg/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c8/67/3e/c8673ef0-fb83-2ba3-1d5f-dd782f672f92/cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c8/67/3e/c8673ef0-fb83-2ba3-1d5f-dd782f672f92/cover.jpg/400x400cc.jpg",
+      "joecolor": "b:000b15p:f4ffffs:d2d5fft:c3ced0q:a7acd0"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1539712121"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c0/01/18/c0011847-e7d5-e44a-c9d2-ed20e4897311/mzaf_13815513855997291591.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/%D0%BF%D1%8B%D1%8F%D0%BB%D0%B0/1539712120?i=1539712121&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/%D0%BF%D1%8B%D1%8F%D0%BB%D0%B0/1539712120?i=1539712121&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "%D0%B0%D0%B8%D0%B3%D0%B5%D0%BB",
+        "id": "42",
+        "adamid": "1222911062"
+      }
+    ],
+    "url": "https://www.shazam.com/track/544842905/%D0%BF%D1%8B%D1%8F%D0%BB%D0%B0",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1222911062/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=1607854462",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/1607854462?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "599925144",
+    "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+    "subtitle": "JID",
+    "share": {
+      "subject": "Surround Sound (feat. 21 Savage & Baby Tate) - JID",
+      "text": "JID的Surround Sound (feat. 21 Savage & Baby Tate)",
+      "href": "https://www.shazam.com/track/599925144/surround-sound-feat-21-savage-baby-tate",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cf/73/dc/cf73dc77-d33e-0b52-9a70-75f91c1eae09/22UMGIM84207.rgb.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 JID 的 Surround Sound (feat. 21 Savage & Baby Tate)。",
+      "html": "https://www.shazam.com/snippets/email-share/599925144?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/ae/39/a6/ae39a64d-45bb-2287-d416-1ba9a3bb7958/971bb523-c86e-4f8f-a563-a68a2400005d_ami-identity-159f05b8d6e2f281d4e9429d4a8b13aa-2023-12-05T22-56-45.865Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/599925144"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/ae/39/a6/ae39a64d-45bb-2287-d416-1ba9a3bb7958/971bb523-c86e-4f8f-a563-a68a2400005d_ami-identity-159f05b8d6e2f281d4e9429d4a8b13aa-2023-12-05T22-56-45.865Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cf/73/dc/cf73dc77-d33e-0b52-9a70-75f91c1eae09/22UMGIM84207.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cf/73/dc/cf73dc77-d33e-0b52-9a70-75f91c1eae09/22UMGIM84207.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:181818p:bdc4dcs:bbc1d1t:9ca1b5q:9b9fac"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1637738698"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/de/e9/7e/dee97e4d-ca95-fe00-cfa4-51f71fc5bef3/mzaf_16387331817857477766.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/surround-sound-feat-21-savage-baby-tate/1637738689?i=1637738698&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/surround-sound-feat-21-savage-baby-tate/1637738689?i=1637738698&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "jid",
+        "id": "42",
+        "adamid": "282841404"
+      }
+    ],
+    "url": "https://www.shazam.com/track/599925144/surround-sound-feat-21-savage-baby-tate",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/282841404/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=1604978819",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/1604978819?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "582491818",
+    "title": "Abrar’S Entry Jamal Kudu (From \"Animal\")",
+    "subtitle": "Harshavardhan Rameshwar",
+    "share": {
+      "subject": "Abrar’S Entry Jamal Kudu (From \"Animal\") - Harshavardhan Rameshwar",
+      "text": "Harshavardhan Rameshwar的Abrar’S Entry Jamal Kudu (From \"Animal\")",
+      "href": "https://www.shazam.com/track/582491818/abrars-entry-jamal-kudu-from-animal",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4a/1f/ad/4a1fad83-d6ec-cc9d-ac0a-6fcce88a09ac/8903431974624_cover.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Harshavardhan Rameshwar 的 Abrar’S Entry Jamal Kudu (From \"Animal\")。",
+      "html": "https://www.shazam.com/snippets/email-share/582491818?lang=zh-HK&country=HK",
+      "snapchat": "https://www.shazam.com/partner/sc/track/582491818"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4a/1f/ad/4a1fad83-d6ec-cc9d-ac0a-6fcce88a09ac/8903431974624_cover.jpg/400x400cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4a/1f/ad/4a1fad83-d6ec-cc9d-ac0a-6fcce88a09ac/8903431974624_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4a/1f/ad/4a1fad83-d6ec-cc9d-ac0a-6fcce88a09ac/8903431974624_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:0d0c0ap:f4e5e5s:e6d6d2t:c5b9b9q:baadaa"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1719940610"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/75/e9/c4/75e9c4e3-61f1-2fdd-a64b-f37ec6baed1c/mzaf_6233981429978633865.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/abrars-entry-jamal-kudu-from-animal/1719940609?i=1719940610&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/abrars-entry-jamal-kudu-from-animal/1719940609?i=1719940610&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "harshavardhan-rameshwar",
+        "id": "42",
+        "adamid": "1379797836"
+      }
+    ],
+    "url": "https://www.shazam.com/track/582491818/abrars-entry-jamal-kudu-from-animal",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1379797836/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "5215989",
+    "title": "Love Is a Long Road",
+    "subtitle": "Tom Petty",
+    "share": {
+      "subject": "Love Is a Long Road - Tom Petty",
+      "text": "Tom Petty的Love Is a Long Road",
+      "href": "https://www.shazam.com/track/5215989/love-is-a-long-road",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f3/71/47/f37147d5-d029-880b-bdc1-5929c907909a/06UMGIM04214.rgb.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Tom Petty 的 Love Is a Long Road。",
+      "html": "https://www.shazam.com/snippets/email-share/5215989?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b1/6c/92/b16c92ce-fdf4-c1f1-2801-3a96e99f073a/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/5215989"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b1/6c/92/b16c92ce-fdf4-c1f1-2801-3a96e99f073a/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f3/71/47/f37147d5-d029-880b-bdc1-5929c907909a/06UMGIM04214.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f3/71/47/f37147d5-d029-880b-bdc1-5929c907909a/06UMGIM04214.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:f7f7f7p:000000s:4f1f2ft:313131q:704a57"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1440825626"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6c/99/94/6c999432-4562-d31f-a652-c0ca3f4287ad/mzaf_842248635854931805.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/love-is-a-long-road/1440825367?i=1440825626&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/love-is-a-long-road/1440825367?i=1440825626&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "tom-petty",
+        "id": "42",
+        "adamid": "5072272"
+      }
+    ],
+    "url": "https://www.shazam.com/track/5215989/love-is-a-long-road",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/5072272/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "675031499",
+    "title": "greedy",
+    "subtitle": "Tate McRae",
+    "share": {
+      "subject": "greedy - Tate McRae",
+      "text": "Tate McRae的greedy",
+      "href": "https://www.shazam.com/track/675031499/greedy",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9a/d3/1b9ad377-0346-7c99-bbdd-6dbbaf0d1107/196871542654.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Tate McRae 的 greedy。",
+      "html": "https://www.shazam.com/snippets/email-share/675031499?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/74/a1/57/74a15767-5217-7879-4653-77228e1a7875/420699b5-ed1e-4d6d-ade7-7cf50ff93f99_ami-identity-11b6c33ddb521791b7ba1dd8c4dcf764-2023-12-08T04-31-43.953Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/675031499"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/74/a1/57/74a15767-5217-7879-4653-77228e1a7875/420699b5-ed1e-4d6d-ade7-7cf50ff93f99_ami-identity-11b6c33ddb521791b7ba1dd8c4dcf764-2023-12-08T04-31-43.953Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9a/d3/1b9ad377-0346-7c99-bbdd-6dbbaf0d1107/196871542654.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9a/d3/1b9ad377-0346-7c99-bbdd-6dbbaf0d1107/196871542654.jpg/400x400cc.jpg",
+      "joecolor": "b:222423p:f1f0f6s:e49783t:c7c7ccq:bd8070"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1716103127"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e5/57/42/e5574282-62ba-222f-d7e6-632d6563a57e/mzaf_5618521591563245693.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/greedy/1716102849?i=1716103127&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/greedy/1716102849?i=1716103127&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "tate-mcrae",
+        "id": "42",
+        "adamid": "1446365464"
+      }
+    ],
+    "url": "https://www.shazam.com/track/675031499/greedy",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1446365464/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=1707092755",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/1707092755?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "682603992",
+    "title": "Lovin On Me",
+    "subtitle": "Jack Harlow",
+    "share": {
+      "subject": "Lovin On Me - Jack Harlow",
+      "text": "Jack Harlow的Lovin On Me",
+      "href": "https://www.shazam.com/track/682603992/lovin-on-me",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/95/0e/c1950e0a-3fc8-83c2-8913-a14dd33bfe62/075679664990.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Jack Harlow 的 Lovin On Me。",
+      "html": "https://www.shazam.com/snippets/email-share/682603992?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/53/75/cc/5375ccad-4b82-14d9-5ec2-fbb115a2a54b/58260d2f-76b6-42e0-a341-ab18d43395de_ami-identity-3ff3598bfa72166b015e2de21b1793d1-2023-11-10T01-46-30.297Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/682603992"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/53/75/cc/5375ccad-4b82-14d9-5ec2-fbb115a2a54b/58260d2f-76b6-42e0-a341-ab18d43395de_ami-identity-3ff3598bfa72166b015e2de21b1793d1-2023-11-10T01-46-30.297Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/95/0e/c1950e0a-3fc8-83c2-8913-a14dd33bfe62/075679664990.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/95/0e/c1950e0a-3fc8-83c2-8913-a14dd33bfe62/075679664990.jpg/400x400cc.jpg",
+      "joecolor": "b:100f2fp:c3c7dcs:b0a5dbt:9fa2b9q:9087b8"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1715277428"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ef/09/34/ef09346f-91c8-bc8d-7a40-b94d871bcf98/mzaf_11177645511189211683.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/lovin-on-me/1715277427?i=1715277428&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/lovin-on-me/1715277427?i=1715277428&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "jack-harlow",
+        "id": "42",
+        "adamid": "1047679432"
+      }
+    ],
+    "url": "https://www.shazam.com/track/682603992/lovin-on-me",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1047679432/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=1715709386",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/1715709386?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "675132421",
+    "title": "Strangers",
+    "subtitle": "Kenya Grace",
+    "share": {
+      "subject": "Strangers - Kenya Grace",
+      "text": "Kenya Grace的Strangers",
+      "href": "https://www.shazam.com/track/675132421/strangers",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/da/f7/82daf7a1-4d0e-9a94-9314-0916e4ab5635/054391385239.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Kenya Grace 的 Strangers。",
+      "html": "https://www.shazam.com/snippets/email-share/675132421?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/12/88/5a/12885a75-f1bc-e71d-bbd6-b357d5f2e6b4/31f61f5b-94ac-48ab-8ea9-4c2c7fc75369_ami-identity-9071226a01f789ae6bfa56e1c87e1a22-2023-04-26T13-25-58.614Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/675132421"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/12/88/5a/12885a75-f1bc-e71d-bbd6-b357d5f2e6b4/31f61f5b-94ac-48ab-8ea9-4c2c7fc75369_ami-identity-9071226a01f789ae6bfa56e1c87e1a22-2023-04-26T13-25-58.614Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/da/f7/82daf7a1-4d0e-9a94-9314-0916e4ab5635/054391385239.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/da/f7/82daf7a1-4d0e-9a94-9314-0916e4ab5635/054391385239.jpg/400x400cc.jpg",
+      "joecolor": "b:000a19p:aacf3bs:d1a9b0t:88a834q:a78992"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1704393613"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/db/2a/73/db2a7351-5c27-4ae9-c436-e8be3ff1e31c/mzaf_5761935811721239534.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/strangers/1704393598?i=1704393613&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/strangers/1704393598?i=1704393613&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "kenya-grace",
+        "id": "42",
+        "adamid": "1476584041"
+      }
+    ],
+    "url": "https://www.shazam.com/track/675132421/strangers",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1476584041/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "673104339",
+    "title": "Water",
+    "subtitle": "Tyla",
+    "share": {
+      "subject": "Water - Tyla",
+      "text": "Tyla的Water",
+      "href": "https://www.shazam.com/track/673104339/water",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/b4/85/41b48519-2084-2b45-d280-d24437051491/196871668248.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Tyla 的 Water。",
+      "html": "https://www.shazam.com/snippets/email-share/673104339?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/d9/c7/de/d9c7de70-b4e0-0fbf-1a0a-f084b8190c69/e5013c73-0f79-4fca-99d3-56270bd90bb7_ami-identity-a66d9229f871152b4ff92342246646ef-2023-12-01T03-51-55.168Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/673104339"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/d9/c7/de/d9c7de70-b4e0-0fbf-1a0a-f084b8190c69/e5013c73-0f79-4fca-99d3-56270bd90bb7_ami-identity-a66d9229f871152b4ff92342246646ef-2023-12-01T03-51-55.168Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/b4/85/41b48519-2084-2b45-d280-d24437051491/196871668248.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/b4/85/41b48519-2084-2b45-d280-d24437051491/196871668248.jpg/400x400cc.jpg",
+      "joecolor": "b:361002p:ed9b7bs:df8166t:c87f63q:bd6a52"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1717680248"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/dc/b8/fd/dcb8fdbb-443b-6a81-1c2f-7aac554729db/mzaf_5989997406929877133.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/water/1717680174?i=1717680248&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/water/1717680174?i=1717680248&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "tyla",
+        "id": "42",
+        "adamid": "1552925732"
+      }
+    ],
+    "url": "https://www.shazam.com/track/673104339/water",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1552925732/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=1710629437",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/1710629437?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "45389104",
+    "title": "Мой мармеладный (Я не права)",
+    "subtitle": "Катя Лель",
+    "share": {
+      "subject": "Мой мармеладный (Я не права) - Катя Лель",
+      "text": "Катя Лель的Мой мармеладный (Я не права)",
+      "href": "https://www.shazam.com/track/45389104/%D0%BC%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BC%D0%B5%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9-%D1%8F-%D0%BD%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/e2/73/c4/e273c424-3305-6aeb-9032-378b7a1c384f/cover.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Катя Лель 的 Мой мармеладный (Я не права)。",
+      "html": "https://www.shazam.com/snippets/email-share/45389104?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/91/03/9a/91039a62-28f5-af22-2145-39c1743b4def/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/45389104"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/91/03/9a/91039a62-28f5-af22-2145-39c1743b4def/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/e2/73/c4/e273c424-3305-6aeb-9032-378b7a1c384f/cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/e2/73/c4/e273c424-3305-6aeb-9032-378b7a1c384f/cover.jpg/400x400cc.jpg",
+      "joecolor": "b:fff5f9p:010000s:3c1f0dt:343131q:634a3c"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "977147650"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d0/34/89/d034899a-863d-f827-fea8-73f9d72fedf1/mzaf_10619160784264946198.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/%D0%BC%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BC%D0%B5%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9-%D1%8F-%D0%BD%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/977147649?i=977147650&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/%D0%BC%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BC%D0%B5%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9-%D1%8F-%D0%BD%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0/977147649?i=977147650&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "%D0%BA%D0%B0%D1%82%D1%8F-%D0%BB%D0%B5%D0%BB%D1%8C",
+        "id": "42",
+        "adamid": "362124802"
+      }
+    ],
+    "url": "https://www.shazam.com/track/45389104/%D0%BC%D0%BE%D0%B9-%D0%BC%D0%B0%D1%80%D0%BC%D0%B5%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9-%D1%8F-%D0%BD%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/362124802/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "684806304",
+    "title": "Disco",
+    "subtitle": "Dan Korshunov",
+    "share": {
+      "subject": "Disco - Dan Korshunov",
+      "text": "Dan Korshunov的Disco",
+      "href": "https://www.shazam.com/track/684806304/disco",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/0a/a8/920aa833-c89b-b62b-ae1b-8051fa5b6692/cover.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Dan Korshunov 的 Disco。",
+      "html": "https://www.shazam.com/snippets/email-share/684806304?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/48/b6/af48b6b4-2b43-baf5-d35a-6345d39ac9e7/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/684806304"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/48/b6/af48b6b4-2b43-baf5-d35a-6345d39ac9e7/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/0a/a8/920aa833-c89b-b62b-ae1b-8051fa5b6692/cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/0a/a8/920aa833-c89b-b62b-ae1b-8051fa5b6692/cover.jpg/400x400cc.jpg",
+      "joecolor": "b:2b0040p:f646d7s:a173edt:cd38b9q:895ccb"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1718982160"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d4/7f/3b/d47f3b59-ea44-7d18-c1f3-a8bd2e724d89/mzaf_265345542319321071.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/disco/1718982159?i=1718982160&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/disco/1718982159?i=1718982160&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "dan-korshunov",
+        "id": "42",
+        "adamid": "1005410584"
+      }
+    ],
+    "url": "https://www.shazam.com/track/684806304/disco",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1005410584/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "676547729",
+    "title": "Agora Hills",
+    "subtitle": "Doja Cat",
+    "share": {
+      "subject": "Agora Hills - Doja Cat",
+      "text": "Doja Cat的Agora Hills",
+      "href": "https://www.shazam.com/track/676547729/agora-hills",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Doja Cat 的 Agora Hills。",
+      "html": "https://www.shazam.com/snippets/email-share/676547729?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/54/ba/99/54ba9945-5aae-bec7-a80c-188de630b37b/d62857dc-e8bd-41f6-b4d5-e368875c6044_ami-identity-7d4c30a95a90f129a834aecd444aa07a-2023-06-16T14-02-41.627Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/676547729"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/54/ba/99/54ba9945-5aae-bec7-a80c-188de630b37b/d62857dc-e8bd-41f6-b4d5-e368875c6044_ami-identity-7d4c30a95a90f129a834aecd444aa07a-2023-06-16T14-02-41.627Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/400x400cc.jpg",
+      "joecolor": "b:ffffffp:050607s:1b1515t:373838q:494443"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1704922308"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/34/a3/5a/34a35add-3478-6192-a8d3-598bb513edb4/mzaf_17974692843650066947.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/agora-hills/1704921687?i=1704922308&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/agora-hills/1704921687?i=1704922308&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "doja-cat",
+        "id": "42",
+        "adamid": "830588310"
+      }
+    ],
+    "url": "https://www.shazam.com/track/676547729/agora-hills",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/830588310/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=1708315527",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/1708315527?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "633367735",
+    "title": "Si No Estás",
+    "subtitle": "Iñigo Quintero",
+    "share": {
+      "subject": "Si No Estás - Iñigo Quintero",
+      "text": "Iñigo Quintero的Si No Estás",
+      "href": "https://www.shazam.com/track/633367735/si-no-est%C3%A1s",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b2/f2/c4b2f2ae-5122-d699-2191-d6b438ed199f/cover.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Iñigo Quintero 的 Si No Estás。",
+      "html": "https://www.shazam.com/snippets/email-share/633367735?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/c7/6e/49/c76e49ea-cafd-13e5-7fbd-1ee2e9fe8a63/48a115d8-5378-4dc9-b5a3-7e4eb08169cc_file_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/633367735"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/c7/6e/49/c76e49ea-cafd-13e5-7fbd-1ee2e9fe8a63/48a115d8-5378-4dc9-b5a3-7e4eb08169cc_file_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b2/f2/c4b2f2ae-5122-d699-2191-d6b438ed199f/cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b2/f2/c4b2f2ae-5122-d699-2191-d6b438ed199f/cover.jpg/400x400cc.jpg",
+      "joecolor": "b:e7e7e7p:000000s:1b1b1bt:2e2e2eq:434343"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1678217896"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/58/31/ed/5831ede0-611c-479c-ea3b-4e646066e4b8/mzaf_7161969819350161171.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/si-no-est%C3%A1s/1678217704?i=1678217896&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/si-no-est%C3%A1s/1678217704?i=1678217896&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "i%C3%B1igo-quintero",
+        "id": "42",
+        "adamid": "1498499723"
+      }
+    ],
+    "url": "https://www.shazam.com/track/633367735/si-no-est%C3%A1s",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1498499723/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "673557639",
+    "title": "Paint The Town Red",
+    "subtitle": "Doja Cat",
+    "share": {
+      "subject": "Paint The Town Red - Doja Cat",
+      "text": "Doja Cat的Paint The Town Red",
+      "href": "https://www.shazam.com/track/673557639/paint-the-town-red",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Doja Cat 的 Paint The Town Red。",
+      "html": "https://www.shazam.com/snippets/email-share/673557639?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/54/ba/99/54ba9945-5aae-bec7-a80c-188de630b37b/d62857dc-e8bd-41f6-b4d5-e368875c6044_ami-identity-7d4c30a95a90f129a834aecd444aa07a-2023-06-16T14-02-41.627Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/673557639"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/54/ba/99/54ba9945-5aae-bec7-a80c-188de630b37b/d62857dc-e8bd-41f6-b4d5-e368875c6044_ami-identity-7d4c30a95a90f129a834aecd444aa07a-2023-06-16T14-02-41.627Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/c7/f2/97c7f256-6db0-a45b-a786-f58dc928c970/196871404495.jpg/400x400cc.jpg",
+      "joecolor": "b:ffffffp:050607s:1b1515t:373838q:494443"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1704921697"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cd/87/0b/cd870b5f-c356-f761-e176-c45aba37eab1/mzaf_17565732451070337798.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/paint-the-town-red/1704921687?i=1704921697&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/paint-the-town-red/1704921687?i=1704921697&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "doja-cat",
+        "id": "42",
+        "adamid": "830588310"
+      }
+    ],
+    "url": "https://www.shazam.com/track/673557639/paint-the-town-red",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/830588310/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=1701008023",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/1701008023?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "20116104",
+    "title": "Sabry 'Aalil",
+    "subtitle": "شيرين",
+    "share": {
+      "subject": "Sabry 'Aalil - شيرين",
+      "text": "شيرين的Sabry 'Aalil",
+      "href": "https://www.shazam.com/track/20116104/sabry-aalil",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/11/72/cc/1172cc83-9b5b-27b7-af29-a57d15238633/2003_Shirene_-_Gar7_Tany.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 شيرين 的 Sabry 'Aalil。",
+      "html": "https://www.shazam.com/snippets/email-share/20116104?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/2c/d4/602cd43e-34e3-f0dd-cbfd-7e549102d134/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/20116104"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/2c/d4/602cd43e-34e3-f0dd-cbfd-7e549102d134/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/11/72/cc/1172cc83-9b5b-27b7-af29-a57d15238633/2003_Shirene_-_Gar7_Tany.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/11/72/cc/1172cc83-9b5b-27b7-af29-a57d15238633/2003_Shirene_-_Gar7_Tany.jpg/400x400cc.jpg",
+      "joecolor": "b:d8d3d7p:120906s:1f2535t:393130q:444855"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "538287781"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/fe/0c/b1fe0c00-ca3d-2e8b-a450-735c1e49a9a3/mzaf_13879431659145136215.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/sabry-aalil/538287586?i=538287781&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/sabry-aalil/538287586?i=538287781&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "sherine",
+        "id": "42",
+        "adamid": "287410418"
+      }
+    ],
+    "url": "https://www.shazam.com/track/20116104/sabry-aalil",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/287410418/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "668834911",
+    "title": "Lose Control",
+    "subtitle": "Teddy Swims",
+    "share": {
+      "subject": "Lose Control - Teddy Swims",
+      "text": "Teddy Swims的Lose Control",
+      "href": "https://www.shazam.com/track/668834911/lose-control",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Teddy Swims 的 Lose Control。",
+      "html": "https://www.shazam.com/snippets/email-share/668834911?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/71/db/e4/71dbe424-71f4-95b5-34e6-768b2ebf8e10/5b1f9c52-c047-4424-b60a-a8fb4347c3db_ami-identity-6acfba2c102ce0d21662c3346bcf6aa8-2023-09-13T22-38-15.508Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/668834911"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/71/db/e4/71dbe424-71f4-95b5-34e6-768b2ebf8e10/5b1f9c52-c047-4424-b60a-a8fb4347c3db_ami-identity-6acfba2c102ce0d21662c3346bcf6aa8-2023-09-13T22-38-15.508Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/400x400cc.jpg",
+      "joecolor": "b:902400p:f8e8c6s:ed965ct:e3c19eq:db7f49"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1691699836"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/73/df/40/73df40b0-997e-bff6-2738-bd22fcea788f/mzaf_14027507605037085841.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/lose-control/1691699589?i=1691699836&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/lose-control/1691699589?i=1691699836&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "teddy-swims",
+        "id": "42",
+        "adamid": "1462541757"
+      }
+    ],
+    "url": "https://www.shazam.com/track/668834911/lose-control",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1462541757/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=1694403743",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/1694403743?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "667016587",
+    "title": "Bécane - A Colors Show",
+    "subtitle": "Yamê",
+    "share": {
+      "subject": "Bécane - A Colors Show - Yamê",
+      "text": "Yamê的Bécane - A Colors Show",
+      "href": "https://www.shazam.com/track/667016587/b%C3%A9cane-a-colors-show",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/67/b1/1e67b18c-2240-f0de-343d-557a763090ff/840054903564.png/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Yamê 的 Bécane - A Colors Show。",
+      "html": "https://www.shazam.com/snippets/email-share/667016587?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/91/6a/45/916a4533-f46b-3d21-f545-d67040d1895c/a4d4b7d0-3886-4753-bebe-eb38c3925216_ami-identity-a665e67468d24966db4f68501cd8eff5-2023-10-04T16-02-42.034Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/667016587"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/91/6a/45/916a4533-f46b-3d21-f545-d67040d1895c/a4d4b7d0-3886-4753-bebe-eb38c3925216_ami-identity-a665e67468d24966db4f68501cd8eff5-2023-10-04T16-02-42.034Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/67/b1/1e67b18c-2240-f0de-343d-557a763090ff/840054903564.png/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/67/b1/1e67b18c-2240-f0de-343d-557a763090ff/840054903564.png/400x400cc.jpg",
+      "joecolor": "b:762509p:faedefs:d7c8b3t:dfc5c1q:c4a791"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1688583928"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/68/f5/a1/68f5a18f-bea7-a848-d26c-ea6a9e98d814/mzaf_7904956689348336173.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/b%C3%A9cane-a-colors-show/1688583927?i=1688583928&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/b%C3%A9cane-a-colors-show/1688583927?i=1688583928&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "yam%C3%AA",
+        "id": "42",
+        "adamid": "1540808137"
+      }
+    ],
+    "url": "https://www.shazam.com/track/667016587/b%C3%A9cane-a-colors-show",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1540808137/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "68006578",
+    "title": "Last Christmas",
+    "subtitle": "Wham!",
+    "share": {
+      "subject": "Last Christmas - Wham!",
+      "text": "Wham!的Last Christmas",
+      "href": "https://www.shazam.com/track/68006578/last-christmas",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/8e/a1/968ea1bc-3024-2cba-8eee-6432d7326236/886448113539.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Wham! 的 Last Christmas。",
+      "html": "https://www.shazam.com/snippets/email-share/68006578?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f6/20/5f/f6205fdd-a9e9-f2f6-9580-a5aa2cc89570/mzl.nmezbbic.jpg/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/68006578"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f6/20/5f/f6205fdd-a9e9-f2f6-9580-a5aa2cc89570/mzl.nmezbbic.jpg/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/8e/a1/968ea1bc-3024-2cba-8eee-6432d7326236/886448113539.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/8e/a1/968ea1bc-3024-2cba-8eee-6432d7326236/886448113539.jpg/400x400cc.jpg",
+      "joecolor": "b:0f2233p:b1d3e7s:95c5e2t:91afc3q:7aa4bf"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1485908120"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e6/99/e6/e699e6ea-8138-7efe-f9c9-95b4be9a0dd4/mzaf_17049752339747169425.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/last-christmas/1485908119?i=1485908120&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/last-christmas/1485908119?i=1485908120&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "wham",
+        "id": "42",
+        "adamid": "548421"
+      }
+    ],
+    "url": "https://www.shazam.com/track/68006578/last-christmas",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/548421/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web&videoIdToFilter=281282782",
+      "trackhighlighturl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/highlights/281282782?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "673554337",
+    "title": "Vois sur ton chemin (Techno Mix)",
+    "subtitle": "BENNETT",
+    "share": {
+      "subject": "Vois sur ton chemin (Techno Mix) - BENNETT",
+      "text": "BENNETT的Vois sur ton chemin (Techno Mix)",
+      "href": "https://www.shazam.com/track/673554337/vois-sur-ton-chemin-techno-mix",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/68/cc/9268cc08-e44e-16f5-5682-e769e3d97f9f/5054197770722.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 BENNETT 的 Vois sur ton chemin (Techno Mix)。",
+      "html": "https://www.shazam.com/snippets/email-share/673554337?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/2d/1b/12/2d1b1210-f13c-c0f5-331f-ca5f35266732/fd2ed10b-d888-4016-b299-260a2c4a8d57_ami-identity-9cd7c21b5f5986f5d445fba22a518e9c-2023-11-22T12-16-59.083Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/673554337"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/2d/1b/12/2d1b1210-f13c-c0f5-331f-ca5f35266732/fd2ed10b-d888-4016-b299-260a2c4a8d57_ami-identity-9cd7c21b5f5986f5d445fba22a518e9c-2023-11-22T12-16-59.083Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/68/cc/9268cc08-e44e-16f5-5682-e769e3d97f9f/5054197770722.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/68/cc/9268cc08-e44e-16f5-5682-e769e3d97f9f/5054197770722.jpg/400x400cc.jpg",
+      "joecolor": "b:1e1e1ep:ffe401s:d2ba79t:d1bc07q:ae9a67"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1699825323"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/19/1e/0e/191e0ee8-ea63-dced-5ed7-c21f41809935/mzaf_13527608105407478447.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/vois-sur-ton-chemin-techno-mix/1699825309?i=1699825323&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/vois-sur-ton-chemin-techno-mix/1699825309?i=1699825323&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "bennett",
+        "id": "42",
+        "adamid": "1714007668"
+      }
+    ],
+    "url": "https://www.shazam.com/track/673554337/vois-sur-ton-chemin-techno-mix",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1714007668/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "679163173",
+    "title": "Zhurek",
+    "subtitle": "ADAM",
+    "share": {
+      "subject": "Zhurek - ADAM",
+      "text": "ADAM的Zhurek",
+      "href": "https://www.shazam.com/track/679163173/zhurek",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/a8/a6/73a8a69e-49a9-e938-e555-9c97252942e7/cover.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 ADAM 的 Zhurek。",
+      "html": "https://www.shazam.com/snippets/email-share/679163173?lang=zh-HK&country=HK",
+      "snapchat": "https://www.shazam.com/partner/sc/track/679163173"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/a8/a6/73a8a69e-49a9-e938-e555-9c97252942e7/cover.jpg/400x400cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/a8/a6/73a8a69e-49a9-e938-e555-9c97252942e7/cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/a8/a6/73a8a69e-49a9-e938-e555-9c97252942e7/cover.jpg/400x400cc.jpg",
+      "joecolor": "b:c3c3c3p:070707s:1b1c1bt:2d2d2dq:3c3d3c"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1709419844"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f8/1a/02/f81a02c9-d036-c516-b403-a3f5fd226f39/mzaf_17928224129820626308.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/zhurek/1709419833?i=1709419844&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/zhurek/1709419833?i=1709419844&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "adam",
+        "id": "42",
+        "adamid": "1441475773"
+      }
+    ],
+    "url": "https://www.shazam.com/track/679163173/zhurek",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/1441475773/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "678994736",
+    "title": "Overdrive (feat. Norma Jean Martine)",
+    "subtitle": "Ofenbach",
+    "share": {
+      "subject": "Overdrive (feat. Norma Jean Martine) - Ofenbach",
+      "text": "Ofenbach的Overdrive (feat. Norma Jean Martine)",
+      "href": "https://www.shazam.com/track/678994736/overdrive-feat-norma-jean-martine",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/dc/bc/e8dcbc49-c05c-0868-4437-00be6220fa39/5054197832710.jpg/400x400cc.jpg",
+      "twitter": "我使用 @Shazam 來搜尋 Ofenbach 的 Overdrive (feat. Norma Jean Martine)。",
+      "html": "https://www.shazam.com/snippets/email-share/678994736?lang=zh-HK&country=HK",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/98/8a/b4/988ab4f1-b4de-0227-108a-1ee3b68189af/a39f886c-7d8d-4c81-8847-91d9f2317ec5_ami-identity-baddcdcb06e7c40b58d02f85289ef55f-2023-10-09T14-24-16.135Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/678994736"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/98/8a/b4/988ab4f1-b4de-0227-108a-1ee3b68189af/a39f886c-7d8d-4c81-8847-91d9f2317ec5_ami-identity-baddcdcb06e7c40b58d02f85289ef55f-2023-10-09T14-24-16.135Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/dc/bc/e8dcbc49-c05c-0868-4437-00be6220fa39/5054197832710.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/dc/bc/e8dcbc49-c05c-0868-4437-00be6220fa39/5054197832710.jpg/400x400cc.jpg",
+      "joecolor": "b:030303p:f6f6f6s:cacacat:c5c5c5q:a2a2a2"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1709137966"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e3/4d/1a/e34d1a03-456d-b8ed-92c5-3592a029f30d/mzaf_17172110476435360097.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "開啟",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/hk/album/overdrive-feat-norma-jean-martine/1709137633?i=1709137966&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/hk/album/overdrive-feat-norma-jean-martine/1709137633?i=1709137966&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "在 Apple Music 中開啟",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "ofenbach",
+        "id": "42",
+        "adamid": "451785386"
+      }
+    ],
+    "url": "https://www.shazam.com/track/678994736/overdrive-feat-norma-jean-martine",
+    "highlightsurls": {
+      "artisthighlightsurl": "https://cdn.shazam.com/video/v3/zh-HK/HK/web/451785386/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_web%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_web"
+    },
+    "properties": {}
+  }
+]
